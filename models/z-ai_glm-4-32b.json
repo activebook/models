@@ -1,0 +1,43 @@
+{
+  "id": "z-ai/glm-4-32b",
+  "canonical_slug": "z-ai/glm-4-32b-0414",
+  "hugging_face_id": "",
+  "name": "Z.ai: GLM 4 32B ",
+  "created": 1753376617,
+  "description": "GLM 4 32B is a cost-effective foundation language model.\n\nIt can efficiently perform complex tasks and has significantly enhanced capabilities in tool use, online search, and code-related intelligent tasks.\n\nIt is made by the same lab behind the thudm models.",
+  "context_length": 128000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000001",
+    "completion": "0.0000001"
+  },
+  "top_provider": {
+    "context_length": 128000,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.75,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

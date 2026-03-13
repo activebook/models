@@ -1,0 +1,47 @@
+{
+  "id": "mistralai/codestral-2508",
+  "canonical_slug": "mistralai/codestral-2508",
+  "hugging_face_id": "",
+  "name": "Mistral: Codestral 2508",
+  "created": 1754079630,
+  "description": "Mistral's cutting-edge language model for coding released end of July 2025. Codestral specializes in low-latency, high-frequency tasks such as fill-in-the-middle (FIM), code correction and test generation.\n\n[Blog Post](https://mistral.ai/news/codestral-25-08)",
+  "context_length": 256000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Mistral",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000003",
+    "completion": "0.0000009"
+  },
+  "top_provider": {
+    "context_length": 256000,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.3
+  },
+  "expiration_date": null
+}

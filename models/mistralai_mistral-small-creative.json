@@ -1,0 +1,40 @@
+{
+  "id": "mistralai/mistral-small-creative",
+  "canonical_slug": "mistralai/mistral-small-creative-20251216",
+  "hugging_face_id": null,
+  "name": "Mistral: Mistral Small Creative",
+  "created": 1765908653,
+  "description": "Mistral Small Creative is an experimental small model designed for creative writing, narrative generation, roleplay and character-driven dialogue, general-purpose instruction following, and conversational agents.",
+  "context_length": 32768,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Mistral",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000001",
+    "completion": "0.0000003"
+  },
+  "top_provider": {
+    "context_length": 32768,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "tool_choice",
+    "tools"
+  ],
+  "default_parameters": {
+    "temperature": 0.3,
+    "top_p": 0.95,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

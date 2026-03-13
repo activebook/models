@@ -1,0 +1,47 @@
+{
+  "id": "qwen/qwen-plus-2025-07-28",
+  "canonical_slug": "qwen/qwen-plus-2025-07-28",
+  "hugging_face_id": "",
+  "name": "Qwen: Qwen Plus 0728",
+  "created": 1757347599,
+  "description": "Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model with a balanced performance, speed, and cost combination.",
+  "context_length": 1000000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Qwen3",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000026",
+    "completion": "0.00000078"
+  },
+  "top_provider": {
+    "context_length": 1000000,
+    "max_completion_tokens": 32768,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "z-ai/glm-4.6v",
+  "canonical_slug": "z-ai/glm-4.6-20251208",
+  "hugging_face_id": "zai-org/GLM-4.6V",
+  "name": "Z.ai: GLM 4.6V",
+  "created": 1765207462,
+  "description": "GLM-4.6V is a large multimodal model designed for high-fidelity visual understanding and long-context reasoning across images, documents, and mixed media. It supports up to 128K tokens, processes complex page layouts and charts directly as visual inputs, and integrates native multimodal function calling to connect perception with downstream tool execution. The model also enables interleaved image-text generation and UI reconstruction workflows, including screenshot-to-HTML synthesis and iterative visual editing.",
+  "context_length": 131072,
+  "architecture": {
+    "modality": "text+image+video->text",
+    "input_modalities": [
+      "image",
+      "text",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000003",
+    "completion": "0.0000009"
+  },
+  "top_provider": {
+    "context_length": 131072,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.8,
+    "top_p": 0.6,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

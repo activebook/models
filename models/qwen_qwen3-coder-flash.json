@@ -1,0 +1,47 @@
+{
+  "id": "qwen/qwen3-coder-flash",
+  "canonical_slug": "qwen/qwen3-coder-flash",
+  "hugging_face_id": "",
+  "name": "Qwen: Qwen3 Coder Flash",
+  "created": 1758115536,
+  "description": "Qwen3 Coder Flash is Alibaba's fast and cost efficient version of their proprietary Qwen3 Coder Plus. It is a powerful coding agent model specializing in autonomous programming via tool calling and environment interaction, combining coding proficiency with versatile general-purpose abilities.",
+  "context_length": 1000000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Qwen3",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000000195",
+    "completion": "0.000000975",
+    "input_cache_read": "0.000000039"
+  },
+  "top_provider": {
+    "context_length": 1000000,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

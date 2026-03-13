@@ -1,0 +1,45 @@
+{
+  "id": "mistralai/mistral-small-3.1-24b-instruct",
+  "canonical_slug": "mistralai/mistral-small-3.1-24b-instruct-2503",
+  "hugging_face_id": "mistralai/Mistral-Small-3.1-24B-Instruct-2503",
+  "name": "Mistral: Mistral Small 3.1 24B",
+  "created": 1742238937,
+  "description": "Mistral Small 3.1 24B Instruct is an upgraded variant of Mistral Small 3 (2501), featuring 24 billion parameters with advanced multimodal capabilities. It provides state-of-the-art performance in text-based reasoning and vision tasks, including image analysis, programming, mathematical reasoning, and multilingual support across dozens of languages. Equipped with an extensive 128k token context window and optimized for efficient local inference, it supports use cases such as conversational agents, function calling, long-document comprehension, and privacy-sensitive deployments. The updated version is [Mistral Small 3.2](mistralai/mistral-small-3.2-24b-instruct)",
+  "context_length": 128000,
+  "architecture": {
+    "modality": "text+image->text",
+    "input_modalities": [
+      "text",
+      "image"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Mistral",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000035",
+    "completion": "0.00000056"
+  },
+  "top_provider": {
+    "context_length": 128000,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "max_tokens",
+    "presence_penalty",
+    "repetition_penalty",
+    "seed",
+    "temperature",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.3
+  },
+  "expiration_date": null
+}

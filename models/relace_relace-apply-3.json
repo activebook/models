@@ -1,0 +1,41 @@
+{
+  "id": "relace/relace-apply-3",
+  "canonical_slug": "relace/relace-apply-3",
+  "hugging_face_id": "",
+  "name": "Relace: Relace Apply 3",
+  "created": 1758891572,
+  "description": "Relace Apply 3 is a specialized code-patching LLM that merges AI-suggested edits straight into your source files. It can apply updates from GPT-4o, Claude, and others into your files at 10,000 tokens/sec on average.\n\nThe model requires the prompt to be in the following format: \n<instruction>{instruction}</instruction>\n<code>{initial_code}</code>\n<update>{edit_snippet}</update>\n\nZero Data Retention is enabled for Relace. Learn more about this model in their [documentation](https://docs.relace.ai/api-reference/instant-apply/apply)",
+  "context_length": 256000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000085",
+    "completion": "0.00000125"
+  },
+  "top_provider": {
+    "context_length": 256000,
+    "max_completion_tokens": 128000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "seed",
+    "stop"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

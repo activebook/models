@@ -1,0 +1,54 @@
+{
+  "id": "z-ai/glm-4.5-air",
+  "canonical_slug": "z-ai/glm-4.5-air",
+  "hugging_face_id": "zai-org/GLM-4.5-Air",
+  "name": "Z.ai: GLM 4.5 Air",
+  "created": 1753471258,
+  "description": "GLM-4.5-Air is the lightweight variant of our latest flagship model family, also purpose-built for agent-centric applications. Like GLM-4.5, it adopts the Mixture-of-Experts (MoE) architecture but with a more compact parameter size. GLM-4.5-Air also supports hybrid inference modes, offering a \"thinking mode\" for advanced reasoning and tool use, and a \"non-thinking mode\" for real-time interaction. Users can control the reasoning behaviour with the `reasoning` `enabled` boolean. [Learn more in our docs](https://openrouter.ai/docs/use-cases/reasoning-tokens#enable-reasoning-with-default-config)",
+  "context_length": 131072,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000013",
+    "completion": "0.00000085",
+    "input_cache_read": "0.000000025"
+  },
+  "top_provider": {
+    "context_length": 131072,
+    "max_completion_tokens": 98304,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.75,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

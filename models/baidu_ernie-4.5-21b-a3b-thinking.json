@@ -1,0 +1,49 @@
+{
+  "id": "baidu/ernie-4.5-21b-a3b-thinking",
+  "canonical_slug": "baidu/ernie-4.5-21b-a3b-thinking",
+  "hugging_face_id": "baidu/ERNIE-4.5-21B-A3B-Thinking",
+  "name": "Baidu: ERNIE 4.5 21B A3B Thinking",
+  "created": 1760048887,
+  "description": "ERNIE-4.5-21B-A3B-Thinking is Baidu's upgraded lightweight MoE model, refined to boost reasoning depth and quality for top-tier performance in logical puzzles, math, science, coding, text generation, and expert-level academic benchmarks.",
+  "context_length": 131072,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000007",
+    "completion": "0.00000028"
+  },
+  "top_provider": {
+    "context_length": 131072,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "seed",
+    "stop",
+    "temperature",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.6,
+    "top_p": 0.95,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

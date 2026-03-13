@@ -1,0 +1,43 @@
+{
+  "id": "microsoft/wizardlm-2-8x22b",
+  "canonical_slug": "microsoft/wizardlm-2-8x22b",
+  "hugging_face_id": "microsoft/WizardLM-2-8x22B",
+  "name": "WizardLM-2 8x22B",
+  "created": 1713225600,
+  "description": "WizardLM-2 8x22B is Microsoft AI's most advanced Wizard model. It demonstrates highly competitive performance compared to leading proprietary models, and it consistently outperforms all existing state-of-the-art opensource models.\n\nIt is an instruct finetune of [Mixtral 8x22B](/models/mistralai/mixtral-8x22b).\n\nTo read more about the model release, [click here](https://wizardlm.github.io/WizardLM2/).\n\n#moe",
+  "context_length": 65535,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Mistral",
+    "instruct_type": "vicuna"
+  },
+  "pricing": {
+    "prompt": "0.00000062",
+    "completion": "0.00000062"
+  },
+  "top_provider": {
+    "context_length": 65535,
+    "max_completion_tokens": 8000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "max_tokens",
+    "presence_penalty",
+    "repetition_penalty",
+    "seed",
+    "stop",
+    "temperature",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "expiration_date": null
+}

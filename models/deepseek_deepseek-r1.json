@@ -1,0 +1,47 @@
+{
+  "id": "deepseek/deepseek-r1",
+  "canonical_slug": "deepseek/deepseek-r1",
+  "hugging_face_id": "deepseek-ai/DeepSeek-R1",
+  "name": "DeepSeek: R1",
+  "created": 1737381095,
+  "description": "DeepSeek R1 is here: Performance on par with [OpenAI o1](/openai/o1), but open-sourced and with fully open reasoning tokens. It's 671B parameters in size, with 37B active in an inference pass.\n\nFully open-source model & [technical report](https://api-docs.deepseek.com/news/news250120).\n\nMIT licensed: Distill & commercialize freely!",
+  "context_length": 64000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "DeepSeek",
+    "instruct_type": "deepseek-r1"
+  },
+  "pricing": {
+    "prompt": "0.0000007",
+    "completion": "0.0000025"
+  },
+  "top_provider": {
+    "context_length": 64000,
+    "max_completion_tokens": 16000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "seed",
+    "stop",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "expiration_date": null
+}

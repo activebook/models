@@ -1,0 +1,42 @@
+{
+  "id": "minimax/minimax-m2-her",
+  "canonical_slug": "minimax/minimax-m2-her-20260123",
+  "hugging_face_id": "",
+  "name": "MiniMax: MiniMax M2-her",
+  "created": 1769177239,
+  "description": "MiniMax M2-her is a dialogue-first large language model built for immersive roleplay, character-driven chat, and expressive multi-turn conversations. Designed to stay consistent in tone and personality, it supports rich message roles (user_system, group, sample_message_user, sample_message_ai) and can learn from example dialogue to better match the style and pacing of your scenario, making it a strong choice for storytelling, companions, and conversational experiences where natural flow and vivid interaction matter most.",
+  "context_length": 65536,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000003",
+    "completion": "0.0000012",
+    "input_cache_read": "0.00000003"
+  },
+  "top_provider": {
+    "context_length": 65536,
+    "max_completion_tokens": 2048,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "temperature",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 1,
+    "top_p": 0.95,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "openai/gpt-4-turbo-preview",
+  "canonical_slug": "openai/gpt-4-turbo-preview",
+  "hugging_face_id": null,
+  "name": "OpenAI: GPT-4 Turbo Preview",
+  "created": 1706140800,
+  "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023.\n\n**Note:** heavily rate limited by OpenAI while in preview.",
+  "context_length": 128000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "GPT",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00001",
+    "completion": "0.00003"
+  },
+  "top_provider": {
+    "context_length": 128000,
+    "max_completion_tokens": 4096,
+    "is_moderated": true
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "logit_bias",
+    "logprobs",
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "expiration_date": null
+}

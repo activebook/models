@@ -1,0 +1,48 @@
+{
+  "id": "openai/gpt-3.5-turbo-16k",
+  "canonical_slug": "openai/gpt-3.5-turbo-16k",
+  "hugging_face_id": null,
+  "name": "OpenAI: GPT-3.5 Turbo 16k",
+  "created": 1693180800,
+  "description": "This model offers four times the context length of gpt-3.5-turbo, allowing it to support approximately 20 pages of text in a single request at a higher cost. Training data: up to Sep 2021.",
+  "context_length": 16385,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "GPT",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000003",
+    "completion": "0.000004"
+  },
+  "top_provider": {
+    "context_length": 16385,
+    "max_completion_tokens": 4096,
+    "is_moderated": true
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "logit_bias",
+    "logprobs",
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "expiration_date": null
+}

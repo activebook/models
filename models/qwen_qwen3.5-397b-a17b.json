@@ -1,0 +1,57 @@
+{
+  "id": "qwen/qwen3.5-397b-a17b",
+  "canonical_slug": "qwen/qwen3.5-397b-a17b-20260216",
+  "hugging_face_id": "Qwen/Qwen3.5-397B-A17B",
+  "name": "Qwen: Qwen3.5 397B A17B",
+  "created": 1771223018,
+  "description": "The Qwen3.5 series 397B-A17B native vision-language model is built on a hybrid architecture that integrates a linear attention mechanism with a sparse mixture-of-experts model, achieving higher inference efficiency. It delivers state-of-the-art performance comparable to leading-edge models across a wide range of tasks, including language understanding, logical reasoning, code generation, agent-based tasks, image understanding, video understanding, and graphical user interface (GUI) interactions. With its robust code-generation and agent capabilities, the model exhibits strong generalization across diverse agent.",
+  "context_length": 262144,
+  "architecture": {
+    "modality": "text+image+video->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Qwen3",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000039",
+    "completion": "0.00000234"
+  },
+  "top_provider": {
+    "context_length": 262144,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logit_bias",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.6,
+    "top_p": 0.95,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

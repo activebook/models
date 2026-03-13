@@ -1,0 +1,48 @@
+{
+  "id": "x-ai/grok-3-beta",
+  "canonical_slug": "x-ai/grok-3-beta",
+  "hugging_face_id": "",
+  "name": "xAI: Grok 3 Beta",
+  "created": 1744240068,
+  "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in finance, healthcare, law, and science.\n\nExcels in structured tasks and benchmarks like GPQA, LCB, and MMLU-Pro where it outperforms Grok 3 Mini even on high thinking. \n\nNote: That there are two xAI endpoints for this model. By default when using this model we will always route you to the base endpoint. If you want the fast endpoint you can add `provider: { sort: throughput}`, to sort by throughput instead. \n",
+  "context_length": 131072,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Grok",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000003",
+    "completion": "0.000015",
+    "web_search": "0.005",
+    "input_cache_read": "0.00000075"
+  },
+  "top_provider": {
+    "context_length": 131072,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "logprobs",
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "expiration_date": null
+}

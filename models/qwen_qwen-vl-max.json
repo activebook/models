@@ -1,0 +1,47 @@
+{
+  "id": "qwen/qwen-vl-max",
+  "canonical_slug": "qwen/qwen-vl-max-2025-01-25",
+  "hugging_face_id": "",
+  "name": "Qwen: Qwen VL Max",
+  "created": 1738434304,
+  "description": "Qwen VL Max is a visual understanding model with 7500 tokens context length. It excels in delivering optimal performance for a broader spectrum of complex tasks.\n",
+  "context_length": 131072,
+  "architecture": {
+    "modality": "text+image->text",
+    "input_modalities": [
+      "text",
+      "image"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Qwen",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000008",
+    "completion": "0.0000032"
+  },
+  "top_provider": {
+    "context_length": 131072,
+    "max_completion_tokens": 32768,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

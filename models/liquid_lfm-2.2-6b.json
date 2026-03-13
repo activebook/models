@@ -1,0 +1,48 @@
+{
+  "id": "liquid/lfm-2.2-6b",
+  "canonical_slug": "liquid/lfm-2.2-6b",
+  "hugging_face_id": "LiquidAI/LFM2-2.6B",
+  "name": "LiquidAI: LFM2-2.6B",
+  "created": 1760970889,
+  "description": "LFM2 is a new generation of hybrid models developed by Liquid AI, specifically designed for edge AI and on-device deployment. It sets a new standard in terms of quality, speed, and memory efficiency.",
+  "context_length": 32768,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000001",
+    "completion": "0.00000002"
+  },
+  "top_provider": {
+    "context_length": 32768,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "repetition_penalty",
+    "seed",
+    "stop",
+    "temperature",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "arcee-ai/coder-large",
+  "canonical_slug": "arcee-ai/coder-large",
+  "hugging_face_id": "",
+  "name": "Arcee AI: Coder Large",
+  "created": 1746478663,
+  "description": "Coder\u2011Large is a 32\u202fB\u2011parameter offspring of Qwen\u202f2.5\u2011Instruct that has been further trained on permissively\u2011licensed GitHub, CodeSearchNet and synthetic bug\u2011fix corpora. It supports a 32k context window, enabling multi\u2011file refactoring or long diff review in a single call, and understands 30\u2011plus programming languages with special attention to TypeScript, Go and Terraform. Internal benchmarks show 5\u20138\u202fpt gains over CodeLlama\u201134\u202fB\u2011Python on HumanEval and competitive BugFix scores thanks to a reinforcement pass that rewards compilable output. The model emits structured explanations alongside code blocks by default, making it suitable for educational tooling as well as production copilot scenarios. Cost\u2011wise, Together AI prices it well below proprietary incumbents, so teams can scale interactive coding without runaway spend. ",
+  "context_length": 32768,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000005",
+    "completion": "0.0000008"
+  },
+  "top_provider": {
+    "context_length": 32768,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "logit_bias",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "repetition_penalty",
+    "stop",
+    "temperature",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "expiration_date": null
+}

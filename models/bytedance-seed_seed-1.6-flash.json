@@ -1,0 +1,51 @@
+{
+  "id": "bytedance-seed/seed-1.6-flash",
+  "canonical_slug": "bytedance-seed/seed-1.6-flash-20250625",
+  "hugging_face_id": "",
+  "name": "ByteDance Seed: Seed 1.6 Flash",
+  "created": 1766505011,
+  "description": "Seed 1.6 Flash is an ultra-fast multimodal deep thinking model by ByteDance Seed, supporting both text and visual understanding. It features a 256k context window and can generate outputs of up to 16k tokens.",
+  "context_length": 262144,
+  "architecture": {
+    "modality": "text+image+video->text",
+    "input_modalities": [
+      "image",
+      "text",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000000075",
+    "completion": "0.0000003"
+  },
+  "top_provider": {
+    "context_length": 262144,
+    "max_completion_tokens": 32768,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "response_format",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

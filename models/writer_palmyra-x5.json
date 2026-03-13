@@ -1,0 +1,43 @@
+{
+  "id": "writer/palmyra-x5",
+  "canonical_slug": "writer/palmyra-x5-20250428",
+  "hugging_face_id": "",
+  "name": "Writer: Palmyra X5",
+  "created": 1769003823,
+  "description": "Palmyra X5 is Writer's most advanced model, purpose-built for building and scaling AI agents across the enterprise. It delivers industry-leading speed and efficiency on context windows up to 1 million tokens, powered by a novel transformer architecture and hybrid attention mechanisms. This enables faster inference and expanded memory for processing large volumes of enterprise data, critical for scaling AI agents.",
+  "context_length": 1040000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000006",
+    "completion": "0.000006"
+  },
+  "top_provider": {
+    "context_length": 1040000,
+    "max_completion_tokens": 8192,
+    "is_moderated": true
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "stop",
+    "temperature",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "expiration_date": null
+}

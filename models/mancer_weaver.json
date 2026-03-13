@@ -1,0 +1,49 @@
+{
+  "id": "mancer/weaver",
+  "canonical_slug": "mancer/weaver",
+  "hugging_face_id": null,
+  "name": "Mancer: Weaver (alpha)",
+  "created": 1690934400,
+  "description": "An attempt to recreate Claude-style verbosity, but don't expect the same level of coherence or memory. Meant for use in roleplay/narrative situations.",
+  "context_length": 8000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Llama2",
+    "instruct_type": "alpaca"
+  },
+  "pricing": {
+    "prompt": "0.00000075",
+    "completion": "0.000001"
+  },
+  "top_provider": {
+    "context_length": 8000,
+    "max_completion_tokens": 2000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "logit_bias",
+    "logprobs",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "repetition_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "temperature",
+    "top_a",
+    "top_k",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "expiration_date": null
+}
