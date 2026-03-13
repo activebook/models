@@ -1,0 +1,9 @@
+{
+  "id": "meituan/LongCat-Flash-Thinking",
+  "name": "Meituan: LongCat-Flash-Thinking",
+  "context_length": 256000,
+  "top_provider": {
+    "context_length": 256000,
+    "max_completion_tokens": 256000
+  }
+}

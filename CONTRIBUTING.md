@@ -56,7 +56,17 @@ Upon successful execution, the script will:
 1. Generate a standardized JSON asset in the `models/` directory.
 2. Update the `list.json` index to include the new entry.
 
-Please verify these files locally before submitting your Pull Request to ensure the telemetry is accurate.
+Please verify these files locally.
+
+### Synchronizing with GitHub
+
+Once you have verified the local changes, execute the following script to commit and push the updates to the remote repository:
+
+```bash
+./sync.sh
+```
+
+This ensures that the static API is updated and the new telemetry is available via the GitHub infrastructure.
 
 ## Reporting Issues
 

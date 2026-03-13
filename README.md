@@ -44,9 +44,14 @@ For models not present on OpenRouter, use the following utility to register them
 python3 add_custom_model.py <provider> <model_name> <context_length> <max_completion_tokens>
 ```
 
-**Example:**
 ```bash
 python3 add_custom_model.py activebook quantum-llama 128000 8192
+```
+
+### Synchronizing Changes
+After performing manual updates, synchronize the local registry with the remote repository:
+```bash
+./sync.sh
 ```
 
 ---
