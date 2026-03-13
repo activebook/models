@@ -1,0 +1,9 @@
+{
+  "id": "qiniu/claude-4.6-sonnet",
+  "name": "Qiniu: claude-4.6-sonnet",
+  "context_length": 1000000,
+  "top_provider": {
+    "context_length": 1000000,
+    "max_completion_tokens": 128000
+  }
+}
