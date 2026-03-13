@@ -2,7 +2,7 @@
 
 This repository functions as a **Free Static API Server**, leveraging GitHub's infrastructure to serve model telemetry with zero-latency overhead.
 
-## 🚀 Architectural Overview
+## Architectural Overview
 
 This system orchestrates continuous data synchronization and delivery through several key components:
 
@@ -10,7 +10,7 @@ This system orchestrates continuous data synchronization and delivery through se
 - **Static API Paradigm**: By serving structured JSON files directly from the repository, clients can retrieve model properties without the need for a dynamic backend, maximizing reliability and speed.
 - **Extensible Registry**: Beyond automated fetching, the system supports high-fidelity manual registration of customized or proprietary models.
 
-## 📡 API Documentation
+## API Documentation
 
 ### 1. Model Index
 Retrieve a comprehensive, alphabetically sorted list of all registered models and their corresponding file paths.
@@ -29,7 +29,7 @@ Access detailed properties for a specific model using the path provided in the i
 
 ---
 
-## 🛠 Management & Operations
+## Management & Operations
 
 ### Synchronizing Remote Data
 To manually trigger a synchronization of remote OpenRouter data:
@@ -51,9 +51,14 @@ python3 add_custom_model.py activebook quantum-llama 128000 8192
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 - `models/`: Catalog of individual model JSON assets.
 - `list.json`: The primary index for programmatic discovery.
 - `sync_models.py`: The synchronization and indexing engine.
 - `add_custom_model.py`: Utility for manual registry entries.
 - `.github/workflows/`: Automation orchestration logic.
+
+---
+
+## Contributing
+Contributions are essential for maintaining a comprehensive and accurate registry. Please refer to our [Contributing Guide](CONTRIBUTING.md) for detailed instructions on how to add custom models and participate in the development of this project.
