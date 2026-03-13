@@ -1,0 +1,1378 @@
+[
+  {
+    "name": "aion-1.0",
+    "file": "models/aion-labs_aion-1.0.json"
+  },
+  {
+    "name": "aion-1.0-mini",
+    "file": "models/aion-labs_aion-1.0-mini.json"
+  },
+  {
+    "name": "aion-2.0",
+    "file": "models/aion-labs_aion-2.0.json"
+  },
+  {
+    "name": "aion-rp-llama-3.1-8b",
+    "file": "models/aion-labs_aion-rp-llama-3.1-8b.json"
+  },
+  {
+    "name": "auto",
+    "file": "models/openrouter_auto.json"
+  },
+  {
+    "name": "bodybuilder",
+    "file": "models/openrouter_bodybuilder.json"
+  },
+  {
+    "name": "claude-3-haiku",
+    "file": "models/anthropic_claude-3-haiku.json"
+  },
+  {
+    "name": "claude-3.5-haiku",
+    "file": "models/anthropic_claude-3.5-haiku.json"
+  },
+  {
+    "name": "claude-3.5-sonnet",
+    "file": "models/anthropic_claude-3.5-sonnet.json"
+  },
+  {
+    "name": "claude-3.7-sonnet",
+    "file": "models/anthropic_claude-3.7-sonnet.json"
+  },
+  {
+    "name": "claude-3.7-sonnet:thinking",
+    "file": "models/anthropic_claude-3.7-sonnet:thinking.json"
+  },
+  {
+    "name": "claude-haiku-4.5",
+    "file": "models/anthropic_claude-haiku-4.5.json"
+  },
+  {
+    "name": "claude-opus-4",
+    "file": "models/anthropic_claude-opus-4.json"
+  },
+  {
+    "name": "claude-opus-4.1",
+    "file": "models/anthropic_claude-opus-4.1.json"
+  },
+  {
+    "name": "claude-opus-4.5",
+    "file": "models/anthropic_claude-opus-4.5.json"
+  },
+  {
+    "name": "claude-opus-4.6",
+    "file": "models/anthropic_claude-opus-4.6.json"
+  },
+  {
+    "name": "claude-sonnet-4",
+    "file": "models/anthropic_claude-sonnet-4.json"
+  },
+  {
+    "name": "claude-sonnet-4.5",
+    "file": "models/anthropic_claude-sonnet-4.5.json"
+  },
+  {
+    "name": "claude-sonnet-4.6",
+    "file": "models/anthropic_claude-sonnet-4.6.json"
+  },
+  {
+    "name": "codellama-7b-instruct-solidity",
+    "file": "models/alfredpros_codellama-7b-instruct-solidity.json"
+  },
+  {
+    "name": "coder-large",
+    "file": "models/arcee-ai_coder-large.json"
+  },
+  {
+    "name": "codestral-2508",
+    "file": "models/mistralai_codestral-2508.json"
+  },
+  {
+    "name": "cogito-v2.1-671b",
+    "file": "models/deepcogito_cogito-v2.1-671b.json"
+  },
+  {
+    "name": "command-a",
+    "file": "models/cohere_command-a.json"
+  },
+  {
+    "name": "command-r-08-2024",
+    "file": "models/cohere_command-r-08-2024.json"
+  },
+  {
+    "name": "command-r-plus-08-2024",
+    "file": "models/cohere_command-r-plus-08-2024.json"
+  },
+  {
+    "name": "command-r7b-12-2024",
+    "file": "models/cohere_command-r7b-12-2024.json"
+  },
+  {
+    "name": "cydonia-24b-v4.1",
+    "file": "models/thedrummer_cydonia-24b-v4.1.json"
+  },
+  {
+    "name": "deepseek-chat",
+    "file": "models/deepseek_deepseek-chat.json"
+  },
+  {
+    "name": "deepseek-chat-v3-0324",
+    "file": "models/deepseek_deepseek-chat-v3-0324.json"
+  },
+  {
+    "name": "deepseek-chat-v3.1",
+    "file": "models/deepseek_deepseek-chat-v3.1.json"
+  },
+  {
+    "name": "deepseek-r1",
+    "file": "models/deepseek_deepseek-r1.json"
+  },
+  {
+    "name": "deepseek-r1-0528",
+    "file": "models/deepseek_deepseek-r1-0528.json"
+  },
+  {
+    "name": "deepseek-r1-distill-llama-70b",
+    "file": "models/deepseek_deepseek-r1-distill-llama-70b.json"
+  },
+  {
+    "name": "deepseek-r1-distill-qwen-32b",
+    "file": "models/deepseek_deepseek-r1-distill-qwen-32b.json"
+  },
+  {
+    "name": "deepseek-r1t2-chimera",
+    "file": "models/tngtech_deepseek-r1t2-chimera.json"
+  },
+  {
+    "name": "deepseek-v3.1-nex-n1",
+    "file": "models/nex-agi_deepseek-v3.1-nex-n1.json"
+  },
+  {
+    "name": "deepseek-v3.1-terminus",
+    "file": "models/deepseek_deepseek-v3.1-terminus.json"
+  },
+  {
+    "name": "deepseek-v3.2",
+    "file": "models/deepseek_deepseek-v3.2.json"
+  },
+  {
+    "name": "deepseek-v3.2-exp",
+    "file": "models/deepseek_deepseek-v3.2-exp.json"
+  },
+  {
+    "name": "deepseek-v3.2-speciale",
+    "file": "models/deepseek_deepseek-v3.2-speciale.json"
+  },
+  {
+    "name": "devstral-2512",
+    "file": "models/mistralai_devstral-2512.json"
+  },
+  {
+    "name": "devstral-medium",
+    "file": "models/mistralai_devstral-medium.json"
+  },
+  {
+    "name": "devstral-small",
+    "file": "models/mistralai_devstral-small.json"
+  },
+  {
+    "name": "dolphin-mistral-24b-venice-edition:free",
+    "file": "models/cognitivecomputations_dolphin-mistral-24b-venice-edition:free.json"
+  },
+  {
+    "name": "ernie-4.5-21b-a3b",
+    "file": "models/baidu_ernie-4.5-21b-a3b.json"
+  },
+  {
+    "name": "ernie-4.5-21b-a3b-thinking",
+    "file": "models/baidu_ernie-4.5-21b-a3b-thinking.json"
+  },
+  {
+    "name": "ernie-4.5-300b-a47b",
+    "file": "models/baidu_ernie-4.5-300b-a47b.json"
+  },
+  {
+    "name": "ernie-4.5-vl-28b-a3b",
+    "file": "models/baidu_ernie-4.5-vl-28b-a3b.json"
+  },
+  {
+    "name": "ernie-4.5-vl-424b-a47b",
+    "file": "models/baidu_ernie-4.5-vl-424b-a47b.json"
+  },
+  {
+    "name": "free",
+    "file": "models/openrouter_free.json"
+  },
+  {
+    "name": "gemini-2.0-flash-001",
+    "file": "models/google_gemini-2.0-flash-001.json"
+  },
+  {
+    "name": "gemini-2.0-flash-lite-001",
+    "file": "models/google_gemini-2.0-flash-lite-001.json"
+  },
+  {
+    "name": "gemini-2.5-flash",
+    "file": "models/google_gemini-2.5-flash.json"
+  },
+  {
+    "name": "gemini-2.5-flash-image",
+    "file": "models/google_gemini-2.5-flash-image.json"
+  },
+  {
+    "name": "gemini-2.5-flash-lite",
+    "file": "models/google_gemini-2.5-flash-lite.json"
+  },
+  {
+    "name": "gemini-2.5-flash-lite-preview-09-2025",
+    "file": "models/google_gemini-2.5-flash-lite-preview-09-2025.json"
+  },
+  {
+    "name": "gemini-2.5-pro",
+    "file": "models/google_gemini-2.5-pro.json"
+  },
+  {
+    "name": "gemini-2.5-pro-preview",
+    "file": "models/google_gemini-2.5-pro-preview.json"
+  },
+  {
+    "name": "gemini-2.5-pro-preview-05-06",
+    "file": "models/google_gemini-2.5-pro-preview-05-06.json"
+  },
+  {
+    "name": "gemini-3-flash-preview",
+    "file": "models/google_gemini-3-flash-preview.json"
+  },
+  {
+    "name": "gemini-3-pro-image-preview",
+    "file": "models/google_gemini-3-pro-image-preview.json"
+  },
+  {
+    "name": "gemini-3-pro-preview",
+    "file": "models/google_gemini-3-pro-preview.json"
+  },
+  {
+    "name": "gemini-3.1-flash-image-preview",
+    "file": "models/google_gemini-3.1-flash-image-preview.json"
+  },
+  {
+    "name": "gemini-3.1-flash-lite-preview",
+    "file": "models/google_gemini-3.1-flash-lite-preview.json"
+  },
+  {
+    "name": "gemini-3.1-pro-preview",
+    "file": "models/google_gemini-3.1-pro-preview.json"
+  },
+  {
+    "name": "gemini-3.1-pro-preview-customtools",
+    "file": "models/google_gemini-3.1-pro-preview-customtools.json"
+  },
+  {
+    "name": "gemma-2-27b-it",
+    "file": "models/google_gemma-2-27b-it.json"
+  },
+  {
+    "name": "gemma-2-9b-it",
+    "file": "models/google_gemma-2-9b-it.json"
+  },
+  {
+    "name": "gemma-3-12b-it",
+    "file": "models/google_gemma-3-12b-it.json"
+  },
+  {
+    "name": "gemma-3-12b-it:free",
+    "file": "models/google_gemma-3-12b-it:free.json"
+  },
+  {
+    "name": "gemma-3-27b-it",
+    "file": "models/google_gemma-3-27b-it.json"
+  },
+  {
+    "name": "gemma-3-27b-it:free",
+    "file": "models/google_gemma-3-27b-it:free.json"
+  },
+  {
+    "name": "gemma-3-4b-it",
+    "file": "models/google_gemma-3-4b-it.json"
+  },
+  {
+    "name": "gemma-3-4b-it:free",
+    "file": "models/google_gemma-3-4b-it:free.json"
+  },
+  {
+    "name": "gemma-3n-e2b-it:free",
+    "file": "models/google_gemma-3n-e2b-it:free.json"
+  },
+  {
+    "name": "gemma-3n-e4b-it",
+    "file": "models/google_gemma-3n-e4b-it.json"
+  },
+  {
+    "name": "gemma-3n-e4b-it:free",
+    "file": "models/google_gemma-3n-e4b-it:free.json"
+  },
+  {
+    "name": "glm-4-32b",
+    "file": "models/z-ai_glm-4-32b.json"
+  },
+  {
+    "name": "glm-4.5",
+    "file": "models/z-ai_glm-4.5.json"
+  },
+  {
+    "name": "glm-4.5-air",
+    "file": "models/z-ai_glm-4.5-air.json"
+  },
+  {
+    "name": "glm-4.5-air:free",
+    "file": "models/z-ai_glm-4.5-air:free.json"
+  },
+  {
+    "name": "glm-4.5v",
+    "file": "models/z-ai_glm-4.5v.json"
+  },
+  {
+    "name": "glm-4.6",
+    "file": "models/z-ai_glm-4.6.json"
+  },
+  {
+    "name": "glm-4.6v",
+    "file": "models/z-ai_glm-4.6v.json"
+  },
+  {
+    "name": "glm-4.7",
+    "file": "models/z-ai_glm-4.7.json"
+  },
+  {
+    "name": "glm-4.7-flash",
+    "file": "models/z-ai_glm-4.7-flash.json"
+  },
+  {
+    "name": "glm-5",
+    "file": "models/z-ai_glm-5.json"
+  },
+  {
+    "name": "goliath-120b",
+    "file": "models/alpindale_goliath-120b.json"
+  },
+  {
+    "name": "gpt-3.5-turbo",
+    "file": "models/openai_gpt-3.5-turbo.json"
+  },
+  {
+    "name": "gpt-3.5-turbo-0613",
+    "file": "models/openai_gpt-3.5-turbo-0613.json"
+  },
+  {
+    "name": "gpt-3.5-turbo-16k",
+    "file": "models/openai_gpt-3.5-turbo-16k.json"
+  },
+  {
+    "name": "gpt-3.5-turbo-instruct",
+    "file": "models/openai_gpt-3.5-turbo-instruct.json"
+  },
+  {
+    "name": "gpt-4",
+    "file": "models/openai_gpt-4.json"
+  },
+  {
+    "name": "gpt-4-0314",
+    "file": "models/openai_gpt-4-0314.json"
+  },
+  {
+    "name": "gpt-4-1106-preview",
+    "file": "models/openai_gpt-4-1106-preview.json"
+  },
+  {
+    "name": "gpt-4-turbo",
+    "file": "models/openai_gpt-4-turbo.json"
+  },
+  {
+    "name": "gpt-4-turbo-preview",
+    "file": "models/openai_gpt-4-turbo-preview.json"
+  },
+  {
+    "name": "gpt-4.1",
+    "file": "models/openai_gpt-4.1.json"
+  },
+  {
+    "name": "gpt-4.1-mini",
+    "file": "models/openai_gpt-4.1-mini.json"
+  },
+  {
+    "name": "gpt-4.1-nano",
+    "file": "models/openai_gpt-4.1-nano.json"
+  },
+  {
+    "name": "gpt-4o",
+    "file": "models/openai_gpt-4o.json"
+  },
+  {
+    "name": "gpt-4o-2024-05-13",
+    "file": "models/openai_gpt-4o-2024-05-13.json"
+  },
+  {
+    "name": "gpt-4o-2024-08-06",
+    "file": "models/openai_gpt-4o-2024-08-06.json"
+  },
+  {
+    "name": "gpt-4o-2024-11-20",
+    "file": "models/openai_gpt-4o-2024-11-20.json"
+  },
+  {
+    "name": "gpt-4o-audio-preview",
+    "file": "models/openai_gpt-4o-audio-preview.json"
+  },
+  {
+    "name": "gpt-4o-mini",
+    "file": "models/openai_gpt-4o-mini.json"
+  },
+  {
+    "name": "gpt-4o-mini-2024-07-18",
+    "file": "models/openai_gpt-4o-mini-2024-07-18.json"
+  },
+  {
+    "name": "gpt-4o-mini-search-preview",
+    "file": "models/openai_gpt-4o-mini-search-preview.json"
+  },
+  {
+    "name": "gpt-4o-search-preview",
+    "file": "models/openai_gpt-4o-search-preview.json"
+  },
+  {
+    "name": "gpt-4o:extended",
+    "file": "models/openai_gpt-4o:extended.json"
+  },
+  {
+    "name": "gpt-5",
+    "file": "models/openai_gpt-5.json"
+  },
+  {
+    "name": "gpt-5-chat",
+    "file": "models/openai_gpt-5-chat.json"
+  },
+  {
+    "name": "gpt-5-codex",
+    "file": "models/openai_gpt-5-codex.json"
+  },
+  {
+    "name": "gpt-5-image",
+    "file": "models/openai_gpt-5-image.json"
+  },
+  {
+    "name": "gpt-5-image-mini",
+    "file": "models/openai_gpt-5-image-mini.json"
+  },
+  {
+    "name": "gpt-5-mini",
+    "file": "models/openai_gpt-5-mini.json"
+  },
+  {
+    "name": "gpt-5-nano",
+    "file": "models/openai_gpt-5-nano.json"
+  },
+  {
+    "name": "gpt-5-pro",
+    "file": "models/openai_gpt-5-pro.json"
+  },
+  {
+    "name": "gpt-5.1",
+    "file": "models/openai_gpt-5.1.json"
+  },
+  {
+    "name": "gpt-5.1-chat",
+    "file": "models/openai_gpt-5.1-chat.json"
+  },
+  {
+    "name": "gpt-5.1-codex",
+    "file": "models/openai_gpt-5.1-codex.json"
+  },
+  {
+    "name": "gpt-5.1-codex-max",
+    "file": "models/openai_gpt-5.1-codex-max.json"
+  },
+  {
+    "name": "gpt-5.1-codex-mini",
+    "file": "models/openai_gpt-5.1-codex-mini.json"
+  },
+  {
+    "name": "gpt-5.2",
+    "file": "models/openai_gpt-5.2.json"
+  },
+  {
+    "name": "gpt-5.2-chat",
+    "file": "models/openai_gpt-5.2-chat.json"
+  },
+  {
+    "name": "gpt-5.2-codex",
+    "file": "models/openai_gpt-5.2-codex.json"
+  },
+  {
+    "name": "gpt-5.2-pro",
+    "file": "models/openai_gpt-5.2-pro.json"
+  },
+  {
+    "name": "gpt-5.3-chat",
+    "file": "models/openai_gpt-5.3-chat.json"
+  },
+  {
+    "name": "gpt-5.3-codex",
+    "file": "models/openai_gpt-5.3-codex.json"
+  },
+  {
+    "name": "gpt-5.4",
+    "file": "models/openai_gpt-5.4.json"
+  },
+  {
+    "name": "gpt-5.4-pro",
+    "file": "models/openai_gpt-5.4-pro.json"
+  },
+  {
+    "name": "gpt-audio",
+    "file": "models/openai_gpt-audio.json"
+  },
+  {
+    "name": "gpt-audio-mini",
+    "file": "models/openai_gpt-audio-mini.json"
+  },
+  {
+    "name": "gpt-oss-120b",
+    "file": "models/openai_gpt-oss-120b.json"
+  },
+  {
+    "name": "gpt-oss-120b:free",
+    "file": "models/openai_gpt-oss-120b:free.json"
+  },
+  {
+    "name": "gpt-oss-20b",
+    "file": "models/openai_gpt-oss-20b.json"
+  },
+  {
+    "name": "gpt-oss-20b:free",
+    "file": "models/openai_gpt-oss-20b:free.json"
+  },
+  {
+    "name": "gpt-oss-safeguard-20b",
+    "file": "models/openai_gpt-oss-safeguard-20b.json"
+  },
+  {
+    "name": "granite-4.0-h-micro",
+    "file": "models/ibm-granite_granite-4.0-h-micro.json"
+  },
+  {
+    "name": "grok-3",
+    "file": "models/x-ai_grok-3.json"
+  },
+  {
+    "name": "grok-3-beta",
+    "file": "models/x-ai_grok-3-beta.json"
+  },
+  {
+    "name": "grok-3-mini",
+    "file": "models/x-ai_grok-3-mini.json"
+  },
+  {
+    "name": "grok-3-mini-beta",
+    "file": "models/x-ai_grok-3-mini-beta.json"
+  },
+  {
+    "name": "grok-4",
+    "file": "models/x-ai_grok-4.json"
+  },
+  {
+    "name": "grok-4-fast",
+    "file": "models/x-ai_grok-4-fast.json"
+  },
+  {
+    "name": "grok-4.1-fast",
+    "file": "models/x-ai_grok-4.1-fast.json"
+  },
+  {
+    "name": "grok-4.20-beta",
+    "file": "models/x-ai_grok-4.20-beta.json"
+  },
+  {
+    "name": "grok-4.20-multi-agent-beta",
+    "file": "models/x-ai_grok-4.20-multi-agent-beta.json"
+  },
+  {
+    "name": "grok-code-fast-1",
+    "file": "models/x-ai_grok-code-fast-1.json"
+  },
+  {
+    "name": "healer-alpha",
+    "file": "models/openrouter_healer-alpha.json"
+  },
+  {
+    "name": "hermes-2-pro-llama-3-8b",
+    "file": "models/nousresearch_hermes-2-pro-llama-3-8b.json"
+  },
+  {
+    "name": "hermes-3-llama-3.1-405b",
+    "file": "models/nousresearch_hermes-3-llama-3.1-405b.json"
+  },
+  {
+    "name": "hermes-3-llama-3.1-405b:free",
+    "file": "models/nousresearch_hermes-3-llama-3.1-405b:free.json"
+  },
+  {
+    "name": "hermes-3-llama-3.1-70b",
+    "file": "models/nousresearch_hermes-3-llama-3.1-70b.json"
+  },
+  {
+    "name": "hermes-4-405b",
+    "file": "models/nousresearch_hermes-4-405b.json"
+  },
+  {
+    "name": "hermes-4-70b",
+    "file": "models/nousresearch_hermes-4-70b.json"
+  },
+  {
+    "name": "hunter-alpha",
+    "file": "models/openrouter_hunter-alpha.json"
+  },
+  {
+    "name": "hunyuan-a13b-instruct",
+    "file": "models/tencent_hunyuan-a13b-instruct.json"
+  },
+  {
+    "name": "inflection-3-pi",
+    "file": "models/inflection_inflection-3-pi.json"
+  },
+  {
+    "name": "inflection-3-productivity",
+    "file": "models/inflection_inflection-3-productivity.json"
+  },
+  {
+    "name": "intellect-3",
+    "file": "models/prime-intellect_intellect-3.json"
+  },
+  {
+    "name": "jamba-large-1.7",
+    "file": "models/ai21_jamba-large-1.7.json"
+  },
+  {
+    "name": "kat-coder-pro",
+    "file": "models/kwaipilot_kat-coder-pro.json"
+  },
+  {
+    "name": "kimi-k2",
+    "file": "models/moonshotai_kimi-k2.json"
+  },
+  {
+    "name": "kimi-k2-0905",
+    "file": "models/moonshotai_kimi-k2-0905.json"
+  },
+  {
+    "name": "kimi-k2-thinking",
+    "file": "models/moonshotai_kimi-k2-thinking.json"
+  },
+  {
+    "name": "kimi-k2.5",
+    "file": "models/moonshotai_kimi-k2.5.json"
+  },
+  {
+    "name": "l3-euryale-70b",
+    "file": "models/sao10k_l3-euryale-70b.json"
+  },
+  {
+    "name": "l3-lunaris-8b",
+    "file": "models/sao10k_l3-lunaris-8b.json"
+  },
+  {
+    "name": "l3.1-70b-hanami-x1",
+    "file": "models/sao10k_l3.1-70b-hanami-x1.json"
+  },
+  {
+    "name": "l3.1-euryale-70b",
+    "file": "models/sao10k_l3.1-euryale-70b.json"
+  },
+  {
+    "name": "l3.3-euryale-70b",
+    "file": "models/sao10k_l3.3-euryale-70b.json"
+  },
+  {
+    "name": "lfm-2-24b-a2b",
+    "file": "models/liquid_lfm-2-24b-a2b.json"
+  },
+  {
+    "name": "lfm-2.2-6b",
+    "file": "models/liquid_lfm-2.2-6b.json"
+  },
+  {
+    "name": "lfm-2.5-1.2b-instruct:free",
+    "file": "models/liquid_lfm-2.5-1.2b-instruct:free.json"
+  },
+  {
+    "name": "lfm-2.5-1.2b-thinking:free",
+    "file": "models/liquid_lfm-2.5-1.2b-thinking:free.json"
+  },
+  {
+    "name": "lfm2-8b-a1b",
+    "file": "models/liquid_lfm2-8b-a1b.json"
+  },
+  {
+    "name": "llama-3-70b-instruct",
+    "file": "models/meta-llama_llama-3-70b-instruct.json"
+  },
+  {
+    "name": "llama-3-8b-instruct",
+    "file": "models/meta-llama_llama-3-8b-instruct.json"
+  },
+  {
+    "name": "llama-3.1-405b",
+    "file": "models/meta-llama_llama-3.1-405b.json"
+  },
+  {
+    "name": "llama-3.1-405b-instruct",
+    "file": "models/meta-llama_llama-3.1-405b-instruct.json"
+  },
+  {
+    "name": "llama-3.1-70b-instruct",
+    "file": "models/meta-llama_llama-3.1-70b-instruct.json"
+  },
+  {
+    "name": "llama-3.1-8b-instruct",
+    "file": "models/meta-llama_llama-3.1-8b-instruct.json"
+  },
+  {
+    "name": "llama-3.1-nemotron-70b-instruct",
+    "file": "models/nvidia_llama-3.1-nemotron-70b-instruct.json"
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct",
+    "file": "models/meta-llama_llama-3.2-11b-vision-instruct.json"
+  },
+  {
+    "name": "llama-3.2-1b-instruct",
+    "file": "models/meta-llama_llama-3.2-1b-instruct.json"
+  },
+  {
+    "name": "llama-3.2-3b-instruct",
+    "file": "models/meta-llama_llama-3.2-3b-instruct.json"
+  },
+  {
+    "name": "llama-3.2-3b-instruct:free",
+    "file": "models/meta-llama_llama-3.2-3b-instruct:free.json"
+  },
+  {
+    "name": "llama-3.3-70b-instruct",
+    "file": "models/meta-llama_llama-3.3-70b-instruct.json"
+  },
+  {
+    "name": "llama-3.3-70b-instruct:free",
+    "file": "models/meta-llama_llama-3.3-70b-instruct:free.json"
+  },
+  {
+    "name": "llama-3.3-nemotron-super-49b-v1.5",
+    "file": "models/nvidia_llama-3.3-nemotron-super-49b-v1.5.json"
+  },
+  {
+    "name": "llama-4-maverick",
+    "file": "models/meta-llama_llama-4-maverick.json"
+  },
+  {
+    "name": "llama-4-scout",
+    "file": "models/meta-llama_llama-4-scout.json"
+  },
+  {
+    "name": "llama-guard-3-8b",
+    "file": "models/meta-llama_llama-guard-3-8b.json"
+  },
+  {
+    "name": "llama-guard-4-12b",
+    "file": "models/meta-llama_llama-guard-4-12b.json"
+  },
+  {
+    "name": "llemma_7b",
+    "file": "models/eleutherai_llemma_7b.json"
+  },
+  {
+    "name": "longcat-flash-chat",
+    "file": "models/meituan_longcat-flash-chat.json"
+  },
+  {
+    "name": "maestro-reasoning",
+    "file": "models/arcee-ai_maestro-reasoning.json"
+  },
+  {
+    "name": "magnum-v4-72b",
+    "file": "models/anthracite-org_magnum-v4-72b.json"
+  },
+  {
+    "name": "mercury",
+    "file": "models/inception_mercury.json"
+  },
+  {
+    "name": "mercury-2",
+    "file": "models/inception_mercury-2.json"
+  },
+  {
+    "name": "mercury-coder",
+    "file": "models/inception_mercury-coder.json"
+  },
+  {
+    "name": "mimo-v2-flash",
+    "file": "models/xiaomi_mimo-v2-flash.json"
+  },
+  {
+    "name": "minimax-01",
+    "file": "models/minimax_minimax-01.json"
+  },
+  {
+    "name": "minimax-m1",
+    "file": "models/minimax_minimax-m1.json"
+  },
+  {
+    "name": "minimax-m2",
+    "file": "models/minimax_minimax-m2.json"
+  },
+  {
+    "name": "minimax-m2-her",
+    "file": "models/minimax_minimax-m2-her.json"
+  },
+  {
+    "name": "minimax-m2.1",
+    "file": "models/minimax_minimax-m2.1.json"
+  },
+  {
+    "name": "minimax-m2.5",
+    "file": "models/minimax_minimax-m2.5.json"
+  },
+  {
+    "name": "ministral-14b-2512",
+    "file": "models/mistralai_ministral-14b-2512.json"
+  },
+  {
+    "name": "ministral-3b-2512",
+    "file": "models/mistralai_ministral-3b-2512.json"
+  },
+  {
+    "name": "ministral-8b-2512",
+    "file": "models/mistralai_ministral-8b-2512.json"
+  },
+  {
+    "name": "mistral-7b-instruct-v0.1",
+    "file": "models/mistralai_mistral-7b-instruct-v0.1.json"
+  },
+  {
+    "name": "mistral-large",
+    "file": "models/mistralai_mistral-large.json"
+  },
+  {
+    "name": "mistral-large-2407",
+    "file": "models/mistralai_mistral-large-2407.json"
+  },
+  {
+    "name": "mistral-large-2411",
+    "file": "models/mistralai_mistral-large-2411.json"
+  },
+  {
+    "name": "mistral-large-2512",
+    "file": "models/mistralai_mistral-large-2512.json"
+  },
+  {
+    "name": "mistral-medium-3",
+    "file": "models/mistralai_mistral-medium-3.json"
+  },
+  {
+    "name": "mistral-medium-3.1",
+    "file": "models/mistralai_mistral-medium-3.1.json"
+  },
+  {
+    "name": "mistral-nemo",
+    "file": "models/mistralai_mistral-nemo.json"
+  },
+  {
+    "name": "mistral-saba",
+    "file": "models/mistralai_mistral-saba.json"
+  },
+  {
+    "name": "mistral-small-24b-instruct-2501",
+    "file": "models/mistralai_mistral-small-24b-instruct-2501.json"
+  },
+  {
+    "name": "mistral-small-3.1-24b-instruct",
+    "file": "models/mistralai_mistral-small-3.1-24b-instruct.json"
+  },
+  {
+    "name": "mistral-small-3.1-24b-instruct:free",
+    "file": "models/mistralai_mistral-small-3.1-24b-instruct:free.json"
+  },
+  {
+    "name": "mistral-small-3.2-24b-instruct",
+    "file": "models/mistralai_mistral-small-3.2-24b-instruct.json"
+  },
+  {
+    "name": "mistral-small-creative",
+    "file": "models/mistralai_mistral-small-creative.json"
+  },
+  {
+    "name": "mixtral-8x22b-instruct",
+    "file": "models/mistralai_mixtral-8x22b-instruct.json"
+  },
+  {
+    "name": "mixtral-8x7b-instruct",
+    "file": "models/mistralai_mixtral-8x7b-instruct.json"
+  },
+  {
+    "name": "molmo-2-8b",
+    "file": "models/allenai_molmo-2-8b.json"
+  },
+  {
+    "name": "morph-v3-fast",
+    "file": "models/morph_morph-v3-fast.json"
+  },
+  {
+    "name": "morph-v3-large",
+    "file": "models/morph_morph-v3-large.json"
+  },
+  {
+    "name": "mythomax-l2-13b",
+    "file": "models/gryphe_mythomax-l2-13b.json"
+  },
+  {
+    "name": "nemotron-3-nano-30b-a3b",
+    "file": "models/nvidia_nemotron-3-nano-30b-a3b.json"
+  },
+  {
+    "name": "nemotron-3-nano-30b-a3b:free",
+    "file": "models/nvidia_nemotron-3-nano-30b-a3b:free.json"
+  },
+  {
+    "name": "nemotron-3-super-120b-a12b:free",
+    "file": "models/nvidia_nemotron-3-super-120b-a12b:free.json"
+  },
+  {
+    "name": "nemotron-nano-12b-v2-vl",
+    "file": "models/nvidia_nemotron-nano-12b-v2-vl.json"
+  },
+  {
+    "name": "nemotron-nano-12b-v2-vl:free",
+    "file": "models/nvidia_nemotron-nano-12b-v2-vl:free.json"
+  },
+  {
+    "name": "nemotron-nano-9b-v2",
+    "file": "models/nvidia_nemotron-nano-9b-v2.json"
+  },
+  {
+    "name": "nemotron-nano-9b-v2:free",
+    "file": "models/nvidia_nemotron-nano-9b-v2:free.json"
+  },
+  {
+    "name": "nova-2-lite-v1",
+    "file": "models/amazon_nova-2-lite-v1.json"
+  },
+  {
+    "name": "nova-lite-v1",
+    "file": "models/amazon_nova-lite-v1.json"
+  },
+  {
+    "name": "nova-micro-v1",
+    "file": "models/amazon_nova-micro-v1.json"
+  },
+  {
+    "name": "nova-premier-v1",
+    "file": "models/amazon_nova-premier-v1.json"
+  },
+  {
+    "name": "nova-pro-v1",
+    "file": "models/amazon_nova-pro-v1.json"
+  },
+  {
+    "name": "o1",
+    "file": "models/openai_o1.json"
+  },
+  {
+    "name": "o1-pro",
+    "file": "models/openai_o1-pro.json"
+  },
+  {
+    "name": "o3",
+    "file": "models/openai_o3.json"
+  },
+  {
+    "name": "o3-deep-research",
+    "file": "models/openai_o3-deep-research.json"
+  },
+  {
+    "name": "o3-mini",
+    "file": "models/openai_o3-mini.json"
+  },
+  {
+    "name": "o3-mini-high",
+    "file": "models/openai_o3-mini-high.json"
+  },
+  {
+    "name": "o3-pro",
+    "file": "models/openai_o3-pro.json"
+  },
+  {
+    "name": "o4-mini",
+    "file": "models/openai_o4-mini.json"
+  },
+  {
+    "name": "o4-mini-deep-research",
+    "file": "models/openai_o4-mini-deep-research.json"
+  },
+  {
+    "name": "o4-mini-high",
+    "file": "models/openai_o4-mini-high.json"
+  },
+  {
+    "name": "olmo-2-0325-32b-instruct",
+    "file": "models/allenai_olmo-2-0325-32b-instruct.json"
+  },
+  {
+    "name": "olmo-3-32b-think",
+    "file": "models/allenai_olmo-3-32b-think.json"
+  },
+  {
+    "name": "olmo-3-7b-instruct",
+    "file": "models/allenai_olmo-3-7b-instruct.json"
+  },
+  {
+    "name": "olmo-3-7b-think",
+    "file": "models/allenai_olmo-3-7b-think.json"
+  },
+  {
+    "name": "olmo-3.1-32b-instruct",
+    "file": "models/allenai_olmo-3.1-32b-instruct.json"
+  },
+  {
+    "name": "olmo-3.1-32b-think",
+    "file": "models/allenai_olmo-3.1-32b-think.json"
+  },
+  {
+    "name": "palmyra-x5",
+    "file": "models/writer_palmyra-x5.json"
+  },
+  {
+    "name": "phi-4",
+    "file": "models/microsoft_phi-4.json"
+  },
+  {
+    "name": "pixtral-large-2411",
+    "file": "models/mistralai_pixtral-large-2411.json"
+  },
+  {
+    "name": "qwen-2.5-72b-instruct",
+    "file": "models/qwen_qwen-2.5-72b-instruct.json"
+  },
+  {
+    "name": "qwen-2.5-7b-instruct",
+    "file": "models/qwen_qwen-2.5-7b-instruct.json"
+  },
+  {
+    "name": "qwen-2.5-coder-32b-instruct",
+    "file": "models/qwen_qwen-2.5-coder-32b-instruct.json"
+  },
+  {
+    "name": "qwen-2.5-vl-7b-instruct",
+    "file": "models/qwen_qwen-2.5-vl-7b-instruct.json"
+  },
+  {
+    "name": "qwen-max",
+    "file": "models/qwen_qwen-max.json"
+  },
+  {
+    "name": "qwen-plus",
+    "file": "models/qwen_qwen-plus.json"
+  },
+  {
+    "name": "qwen-plus-2025-07-28",
+    "file": "models/qwen_qwen-plus-2025-07-28.json"
+  },
+  {
+    "name": "qwen-plus-2025-07-28:thinking",
+    "file": "models/qwen_qwen-plus-2025-07-28:thinking.json"
+  },
+  {
+    "name": "qwen-turbo",
+    "file": "models/qwen_qwen-turbo.json"
+  },
+  {
+    "name": "qwen-vl-max",
+    "file": "models/qwen_qwen-vl-max.json"
+  },
+  {
+    "name": "qwen-vl-plus",
+    "file": "models/qwen_qwen-vl-plus.json"
+  },
+  {
+    "name": "qwen2.5-coder-7b-instruct",
+    "file": "models/qwen_qwen2.5-coder-7b-instruct.json"
+  },
+  {
+    "name": "qwen2.5-vl-32b-instruct",
+    "file": "models/qwen_qwen2.5-vl-32b-instruct.json"
+  },
+  {
+    "name": "qwen2.5-vl-72b-instruct",
+    "file": "models/qwen_qwen2.5-vl-72b-instruct.json"
+  },
+  {
+    "name": "qwen3-14b",
+    "file": "models/qwen_qwen3-14b.json"
+  },
+  {
+    "name": "qwen3-235b-a22b",
+    "file": "models/qwen_qwen3-235b-a22b.json"
+  },
+  {
+    "name": "qwen3-235b-a22b-2507",
+    "file": "models/qwen_qwen3-235b-a22b-2507.json"
+  },
+  {
+    "name": "qwen3-235b-a22b-thinking-2507",
+    "file": "models/qwen_qwen3-235b-a22b-thinking-2507.json"
+  },
+  {
+    "name": "qwen3-30b-a3b",
+    "file": "models/qwen_qwen3-30b-a3b.json"
+  },
+  {
+    "name": "qwen3-30b-a3b-instruct-2507",
+    "file": "models/qwen_qwen3-30b-a3b-instruct-2507.json"
+  },
+  {
+    "name": "qwen3-30b-a3b-thinking-2507",
+    "file": "models/qwen_qwen3-30b-a3b-thinking-2507.json"
+  },
+  {
+    "name": "qwen3-32b",
+    "file": "models/qwen_qwen3-32b.json"
+  },
+  {
+    "name": "qwen3-4b:free",
+    "file": "models/qwen_qwen3-4b:free.json"
+  },
+  {
+    "name": "qwen3-8b",
+    "file": "models/qwen_qwen3-8b.json"
+  },
+  {
+    "name": "qwen3-coder",
+    "file": "models/qwen_qwen3-coder.json"
+  },
+  {
+    "name": "qwen3-coder-30b-a3b-instruct",
+    "file": "models/qwen_qwen3-coder-30b-a3b-instruct.json"
+  },
+  {
+    "name": "qwen3-coder-flash",
+    "file": "models/qwen_qwen3-coder-flash.json"
+  },
+  {
+    "name": "qwen3-coder-next",
+    "file": "models/qwen_qwen3-coder-next.json"
+  },
+  {
+    "name": "qwen3-coder-plus",
+    "file": "models/qwen_qwen3-coder-plus.json"
+  },
+  {
+    "name": "qwen3-coder:free",
+    "file": "models/qwen_qwen3-coder:free.json"
+  },
+  {
+    "name": "qwen3-max",
+    "file": "models/qwen_qwen3-max.json"
+  },
+  {
+    "name": "qwen3-max-thinking",
+    "file": "models/qwen_qwen3-max-thinking.json"
+  },
+  {
+    "name": "qwen3-next-80b-a3b-instruct",
+    "file": "models/qwen_qwen3-next-80b-a3b-instruct.json"
+  },
+  {
+    "name": "qwen3-next-80b-a3b-instruct:free",
+    "file": "models/qwen_qwen3-next-80b-a3b-instruct:free.json"
+  },
+  {
+    "name": "qwen3-next-80b-a3b-thinking",
+    "file": "models/qwen_qwen3-next-80b-a3b-thinking.json"
+  },
+  {
+    "name": "qwen3-vl-235b-a22b-instruct",
+    "file": "models/qwen_qwen3-vl-235b-a22b-instruct.json"
+  },
+  {
+    "name": "qwen3-vl-235b-a22b-thinking",
+    "file": "models/qwen_qwen3-vl-235b-a22b-thinking.json"
+  },
+  {
+    "name": "qwen3-vl-30b-a3b-instruct",
+    "file": "models/qwen_qwen3-vl-30b-a3b-instruct.json"
+  },
+  {
+    "name": "qwen3-vl-30b-a3b-thinking",
+    "file": "models/qwen_qwen3-vl-30b-a3b-thinking.json"
+  },
+  {
+    "name": "qwen3-vl-32b-instruct",
+    "file": "models/qwen_qwen3-vl-32b-instruct.json"
+  },
+  {
+    "name": "qwen3-vl-8b-instruct",
+    "file": "models/qwen_qwen3-vl-8b-instruct.json"
+  },
+  {
+    "name": "qwen3-vl-8b-thinking",
+    "file": "models/qwen_qwen3-vl-8b-thinking.json"
+  },
+  {
+    "name": "qwen3.5-122b-a10b",
+    "file": "models/qwen_qwen3.5-122b-a10b.json"
+  },
+  {
+    "name": "qwen3.5-27b",
+    "file": "models/qwen_qwen3.5-27b.json"
+  },
+  {
+    "name": "qwen3.5-35b-a3b",
+    "file": "models/qwen_qwen3.5-35b-a3b.json"
+  },
+  {
+    "name": "qwen3.5-397b-a17b",
+    "file": "models/qwen_qwen3.5-397b-a17b.json"
+  },
+  {
+    "name": "qwen3.5-9b",
+    "file": "models/qwen_qwen3.5-9b.json"
+  },
+  {
+    "name": "qwen3.5-flash-02-23",
+    "file": "models/qwen_qwen3.5-flash-02-23.json"
+  },
+  {
+    "name": "qwen3.5-plus-02-15",
+    "file": "models/qwen_qwen3.5-plus-02-15.json"
+  },
+  {
+    "name": "qwq-32b",
+    "file": "models/qwen_qwq-32b.json"
+  },
+  {
+    "name": "relace-apply-3",
+    "file": "models/relace_relace-apply-3.json"
+  },
+  {
+    "name": "relace-search",
+    "file": "models/relace_relace-search.json"
+  },
+  {
+    "name": "remm-slerp-l2-13b",
+    "file": "models/undi95_remm-slerp-l2-13b.json"
+  },
+  {
+    "name": "rnj-1-instruct",
+    "file": "models/essentialai_rnj-1-instruct.json"
+  },
+  {
+    "name": "rocinante-12b",
+    "file": "models/thedrummer_rocinante-12b.json"
+  },
+  {
+    "name": "router",
+    "file": "models/switchpoint_router.json"
+  },
+  {
+    "name": "seed-1.6",
+    "file": "models/bytedance-seed_seed-1.6.json"
+  },
+  {
+    "name": "seed-1.6-flash",
+    "file": "models/bytedance-seed_seed-1.6-flash.json"
+  },
+  {
+    "name": "seed-2.0-lite",
+    "file": "models/bytedance-seed_seed-2.0-lite.json"
+  },
+  {
+    "name": "seed-2.0-mini",
+    "file": "models/bytedance-seed_seed-2.0-mini.json"
+  },
+  {
+    "name": "skyfall-36b-v2",
+    "file": "models/thedrummer_skyfall-36b-v2.json"
+  },
+  {
+    "name": "solar-pro-3",
+    "file": "models/upstage_solar-pro-3.json"
+  },
+  {
+    "name": "sonar",
+    "file": "models/perplexity_sonar.json"
+  },
+  {
+    "name": "sonar-deep-research",
+    "file": "models/perplexity_sonar-deep-research.json"
+  },
+  {
+    "name": "sonar-pro",
+    "file": "models/perplexity_sonar-pro.json"
+  },
+  {
+    "name": "sonar-pro-search",
+    "file": "models/perplexity_sonar-pro-search.json"
+  },
+  {
+    "name": "sonar-reasoning-pro",
+    "file": "models/perplexity_sonar-reasoning-pro.json"
+  },
+  {
+    "name": "spotlight",
+    "file": "models/arcee-ai_spotlight.json"
+  },
+  {
+    "name": "step-3.5-flash",
+    "file": "models/stepfun_step-3.5-flash.json"
+  },
+  {
+    "name": "step-3.5-flash:free",
+    "file": "models/stepfun_step-3.5-flash:free.json"
+  },
+  {
+    "name": "tongyi-deepresearch-30b-a3b",
+    "file": "models/alibaba_tongyi-deepresearch-30b-a3b.json"
+  },
+  {
+    "name": "trinity-large-preview:free",
+    "file": "models/arcee-ai_trinity-large-preview:free.json"
+  },
+  {
+    "name": "trinity-mini",
+    "file": "models/arcee-ai_trinity-mini.json"
+  },
+  {
+    "name": "trinity-mini:free",
+    "file": "models/arcee-ai_trinity-mini:free.json"
+  },
+  {
+    "name": "ui-tars-1.5-7b",
+    "file": "models/bytedance_ui-tars-1.5-7b.json"
+  },
+  {
+    "name": "unslopnemo-12b",
+    "file": "models/thedrummer_unslopnemo-12b.json"
+  },
+  {
+    "name": "virtuoso-large",
+    "file": "models/arcee-ai_virtuoso-large.json"
+  },
+  {
+    "name": "voxtral-small-24b-2507",
+    "file": "models/mistralai_voxtral-small-24b-2507.json"
+  },
+  {
+    "name": "weaver",
+    "file": "models/mancer_weaver.json"
+  },
+  {
+    "name": "wizardlm-2-8x22b",
+    "file": "models/microsoft_wizardlm-2-8x22b.json"
+  }
+]

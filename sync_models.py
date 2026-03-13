@@ -19,11 +19,11 @@ def fetch_models():
         print(f"Error fetching models: {e}")
         return None
 
-def split_models():
-    """Fetch model data and split into individual JSON files in the models folder."""
+def sync_models():
+    """Fetch model data, split into individual JSON files, and generate list.json index."""
     data = fetch_models()
     if not data or 'data' not in data:
-        print("No model data to split.")
+        print("No model data to process.")
         return
     
     output_dir = 'models'
@@ -31,19 +31,34 @@ def split_models():
         os.makedirs(output_dir)
     
     models_list = data.get('data', [])
+    index_list = []
+    
     for model in models_list:
         model_id = model.get('id')
         if not model_id:
             continue
         
-        # Replace / with _ for filename safety
+        # Determine name (last part of id) and filename
+        name = model_id.split('/')[-1]
         filename = f"{model_id.replace('/', '_')}.json"
         filepath = os.path.join(output_dir, filename)
         
         with open(filepath, 'w') as f_out:
             json.dump(model, f_out, indent=2)
             
-    print(f"Successfully processed {len(models_list)} models into '{output_dir}/' folder.")
+        index_list.append({
+            "name": name,
+            "file": f"{output_dir}/{filename}"
+        })
+            
+    # Sort entries by name alphabetically
+    index_list.sort(key=lambda x: x['name'])
+            
+    # Write list.json
+    with open('list.json', 'w') as f_list:
+        json.dump(index_list, f_list, indent=2)
+        
+    print(f"Successfully processed {len(models_list)} models into '{output_dir}/' and generated 'list.json'.")
 
 if __name__ == "__main__":
-    split_models()
+    sync_models()
