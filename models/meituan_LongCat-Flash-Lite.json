@@ -1,0 +1,9 @@
+{
+  "id": "meituan/LongCat-Flash-Lite",
+  "name": "Meituan: LongCat-Flash-Lite",
+  "context_length": 320000,
+  "top_provider": {
+    "context_length": 320000,
+    "max_completion_tokens": 320000
+  }
+}

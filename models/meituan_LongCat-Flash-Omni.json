@@ -1,0 +1,9 @@
+{
+  "id": "meituan/LongCat-Flash-Omni",
+  "name": "Meituan: LongCat-Flash-Omni",
+  "context_length": 8000,
+  "top_provider": {
+    "context_length": 8000,
+    "max_completion_tokens": 8000
+  }
+}

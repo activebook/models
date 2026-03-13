@@ -1,5 +1,13 @@
 [
   {
+    "name": "LongCat-Flash-Lite",
+    "file": "models/meituan_LongCat-Flash-Lite.json"
+  },
+  {
+    "name": "LongCat-Flash-Omni",
+    "file": "models/meituan_LongCat-Flash-Omni.json"
+  },
+  {
     "name": "LongCat-Flash-Thinking",
     "file": "models/meituan_LongCat-Flash-Thinking.json"
   },
