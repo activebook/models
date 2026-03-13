@@ -44,6 +44,10 @@
     "file": "models/anthropic_claude-3.7-sonnet:thinking.json"
   },
   {
+    "name": "claude-4.6-sonnet",
+    "file": "models/qiniu_claude-4.6-sonnet.json"
+  },
+  {
     "name": "claude-haiku-4.5",
     "file": "models/anthropic_claude-haiku-4.5.json"
   },
