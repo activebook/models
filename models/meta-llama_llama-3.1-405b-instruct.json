@@ -34,13 +34,9 @@
     "min_p",
     "presence_penalty",
     "repetition_penalty",
-    "response_format",
     "seed",
     "stop",
-    "structured_outputs",
     "temperature",
-    "tool_choice",
-    "tools",
     "top_k",
     "top_p"
   ],
