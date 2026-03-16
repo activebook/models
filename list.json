@@ -368,6 +368,10 @@
     "file": "models/z-ai_glm-5.json"
   },
   {
+    "name": "glm-5-turbo",
+    "file": "models/z-ai_glm-5-turbo.json"
+  },
+  {
     "name": "goliath-120b",
     "file": "models/alpindale_goliath-120b.json"
   },
@@ -854,6 +858,10 @@
   {
     "name": "minimax-m2.5",
     "file": "models/minimax_minimax-m2.5.json"
+  },
+  {
+    "name": "minimax-m2.5:free",
+    "file": "models/minimax_minimax-m2.5:free.json"
   },
   {
     "name": "ministral-14b-2512",
