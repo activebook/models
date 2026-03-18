@@ -544,6 +544,14 @@
     "file": "models/openai_gpt-5.4.json"
   },
   {
+    "name": "gpt-5.4-mini",
+    "file": "models/openai_gpt-5.4-mini.json"
+  },
+  {
+    "name": "gpt-5.4-nano",
+    "file": "models/openai_gpt-5.4-nano.json"
+  },
+  {
     "name": "gpt-5.4-pro",
     "file": "models/openai_gpt-5.4-pro.json"
   },
@@ -914,6 +922,10 @@
   {
     "name": "mistral-small-24b-instruct-2501",
     "file": "models/mistralai_mistral-small-24b-instruct-2501.json"
+  },
+  {
+    "name": "mistral-small-2603",
+    "file": "models/mistralai_mistral-small-2603.json"
   },
   {
     "name": "mistral-small-3.1-24b-instruct",
