@@ -844,6 +844,14 @@
     "file": "models/xiaomi_mimo-v2-flash.json"
   },
   {
+    "name": "mimo-v2-omni",
+    "file": "models/xiaomi_mimo-v2-omni.json"
+  },
+  {
+    "name": "mimo-v2-pro",
+    "file": "models/xiaomi_mimo-v2-pro.json"
+  },
+  {
     "name": "minimax-01",
     "file": "models/minimax_minimax-01.json"
   },
@@ -870,6 +878,10 @@
   {
     "name": "minimax-m2.5:free",
     "file": "models/minimax_minimax-m2.5:free.json"
+  },
+  {
+    "name": "minimax-m2.7",
+    "file": "models/minimax_minimax-m2.7.json"
   },
   {
     "name": "ministral-14b-2512",
@@ -974,6 +986,10 @@
   {
     "name": "nemotron-3-nano-30b-a3b:free",
     "file": "models/nvidia_nemotron-3-nano-30b-a3b:free.json"
+  },
+  {
+    "name": "nemotron-3-super-120b-a12b",
+    "file": "models/nvidia_nemotron-3-super-120b-a12b.json"
   },
   {
     "name": "nemotron-3-super-120b-a12b:free",

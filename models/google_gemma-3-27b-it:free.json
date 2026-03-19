@@ -34,8 +34,6 @@
     "seed",
     "stop",
     "temperature",
-    "tool_choice",
-    "tools",
     "top_p"
   ],
   "default_parameters": {

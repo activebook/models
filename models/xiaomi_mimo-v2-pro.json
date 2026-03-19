@@ -1,0 +1,53 @@
+{
+  "id": "xiaomi/mimo-v2-pro",
+  "canonical_slug": "xiaomi/mimo-v2-pro-20260318",
+  "hugging_face_id": "XiaomiMiMo/MiMo-V2-Pro",
+  "name": "Xiaomi: MiMo-V2-Pro",
+  "created": 1773863643,
+  "description": "MiMo-V2-Pro is Xiaomi's flagship foundation model, featuring over 1T total parameters and a 1M context length, deeply optimized for agentic scenarios. It is highly adaptable to general agent frameworks like OpenClaw. It ranks among the global top tier in the standard PinchBench and ClawBench benchmarks, with perceived performance approaching that of Opus 4.6. MiMo-V2-Pro is designed to serve as the brain of agent systems, orchestrating complex workflows, driving production engineering tasks, and delivering results reliably.",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000001",
+    "completion": "0.000003",
+    "input_cache_read": "0.0000002"
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "response_format",
+    "stop",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 1,
+    "top_p": 0.95,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
+  "expiration_date": null
+}
