@@ -47,7 +47,10 @@
   "default_parameters": {
     "temperature": 0.7,
     "top_p": 0.8,
-    "frequency_penalty": null
+    "top_k": 20,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": 1
   },
   "expiration_date": null
 }

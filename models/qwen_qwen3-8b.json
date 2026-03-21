@@ -48,9 +48,12 @@
     "top_p"
   ],
   "default_parameters": {
-    "temperature": null,
-    "top_p": null,
-    "frequency_penalty": null
+    "temperature": 0.6,
+    "top_p": 0.95,
+    "top_k": 20,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
   },
   "expiration_date": null
 }
