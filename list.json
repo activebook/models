@@ -768,6 +768,10 @@
     "file": "models/nvidia_llama-3.1-nemotron-70b-instruct.json"
   },
   {
+    "name": "llama-3.1-nemotron-ultra-253b-v1",
+    "file": "models/nvidia_llama-3.1-nemotron-ultra-253b-v1.json"
+  },
+  {
     "name": "llama-3.2-11b-vision-instruct",
     "file": "models/meta-llama_llama-3.2-11b-vision-instruct.json"
   },
@@ -1102,6 +1106,10 @@
   {
     "name": "phi-4",
     "file": "models/microsoft_phi-4.json"
+  },
+  {
+    "name": "pixtral-12b",
+    "file": "models/mistralai_pixtral-12b.json"
   },
   {
     "name": "pixtral-large-2411",

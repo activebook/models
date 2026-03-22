@@ -30,7 +30,9 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "max_tokens",
+    "min_p",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
@@ -42,6 +44,13 @@
     "top_k",
     "top_p"
   ],
-  "default_parameters": {},
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
   "expiration_date": null
 }
