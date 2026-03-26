@@ -1316,6 +1316,10 @@
     "file": "models/qwen_qwq-32b.json"
   },
   {
+    "name": "reka-edge",
+    "file": "models/reka_reka-edge.json"
+  },
+  {
     "name": "relace-apply-3",
     "file": "models/relace_relace-apply-3.json"
   },
