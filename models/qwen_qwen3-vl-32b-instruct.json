@@ -46,5 +46,6 @@
     "presence_penalty": null,
     "repetition_penalty": 1
   },
+  "knowledge_cutoff": null,
   "expiration_date": null
 }

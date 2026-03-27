@@ -20,8 +20,8 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000002",
-    "completion": "0.0000002"
+    "prompt": "0.0000001",
+    "completion": "0.0000001"
   },
   "top_provider": {
     "context_length": 16384,
@@ -50,5 +50,6 @@
     "presence_penalty": null,
     "repetition_penalty": null
   },
+  "knowledge_cutoff": null,
   "expiration_date": null
 }

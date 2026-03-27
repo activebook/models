@@ -52,5 +52,6 @@
     "top_p": 0.6,
     "frequency_penalty": null
   },
+  "knowledge_cutoff": null,
   "expiration_date": null
 }

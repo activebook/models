@@ -5,7 +5,7 @@
   "name": "StepFun: Step 3.5 Flash",
   "created": 1769728337,
   "description": "Step 3.5 Flash is StepFun's most capable open-source foundation model. Built on a sparse Mixture of Experts (MoE) architecture, it selectively activates only 11B of its 196B parameters per token. It is a reasoning model that is incredibly speed efficient even at long contexts.",
-  "context_length": 256000,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -23,8 +23,8 @@
     "input_cache_read": "0.00000002"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 256000,
+    "context_length": 262144,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -32,10 +32,16 @@
     "frequency_penalty",
     "include_reasoning",
     "max_tokens",
+    "min_p",
+    "presence_penalty",
     "reasoning",
+    "repetition_penalty",
+    "response_format",
+    "seed",
     "stop",
     "temperature",
     "tools",
+    "top_k",
     "top_p"
   ],
   "default_parameters": {
@@ -43,5 +49,6 @@
     "top_p": null,
     "frequency_penalty": null
   },
+  "knowledge_cutoff": null,
   "expiration_date": null
 }

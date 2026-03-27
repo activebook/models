@@ -44,5 +44,6 @@
     "top_p": null,
     "frequency_penalty": null
   },
+  "knowledge_cutoff": "2023-10-31",
   "expiration_date": null
 }

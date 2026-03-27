@@ -46,5 +46,6 @@
   "default_parameters": {
     "temperature": 0.3
   },
+  "knowledge_cutoff": "2023-12-31",
   "expiration_date": null
 }

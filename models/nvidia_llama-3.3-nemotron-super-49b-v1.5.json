@@ -45,5 +45,6 @@
     "top_p"
   ],
   "default_parameters": null,
+  "knowledge_cutoff": "2024-03-31",
   "expiration_date": null
 }

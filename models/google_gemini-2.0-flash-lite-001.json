@@ -50,5 +50,6 @@
     "top_p": null,
     "frequency_penalty": null
   },
+  "knowledge_cutoff": "2024-08-31",
   "expiration_date": "2026-06-01"
 }

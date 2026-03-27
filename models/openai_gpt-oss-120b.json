@@ -31,7 +31,6 @@
     "frequency_penalty",
     "include_reasoning",
     "logit_bias",
-    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -46,7 +45,6 @@
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -54,5 +52,6 @@
     "top_p": null,
     "frequency_penalty": null
   },
+  "knowledge_cutoff": "2024-06-30",
   "expiration_date": null
 }
