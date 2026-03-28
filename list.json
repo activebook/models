@@ -684,6 +684,10 @@
     "file": "models/kwaipilot_kat-coder-pro.json"
   },
   {
+    "name": "kat-coder-pro-v2",
+    "file": "models/kwaipilot_kat-coder-pro-v2.json"
+  },
+  {
     "name": "kimi-k2",
     "file": "models/moonshotai_kimi-k2.json"
   },
