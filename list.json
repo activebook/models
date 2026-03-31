@@ -828,6 +828,14 @@
     "file": "models/meituan_longcat-flash-chat.json"
   },
   {
+    "name": "lyria-3-clip-preview",
+    "file": "models/google_lyria-3-clip-preview.json"
+  },
+  {
+    "name": "lyria-3-pro-preview",
+    "file": "models/google_lyria-3-pro-preview.json"
+  },
+  {
     "name": "maestro-reasoning",
     "file": "models/arcee-ai_maestro-reasoning.json"
   },
@@ -1316,12 +1324,20 @@
     "file": "models/qwen_qwen3.5-plus-02-15.json"
   },
   {
+    "name": "qwen3.6-plus-preview:free",
+    "file": "models/qwen_qwen3.6-plus-preview:free.json"
+  },
+  {
     "name": "qwq-32b",
     "file": "models/qwen_qwq-32b.json"
   },
   {
     "name": "reka-edge",
     "file": "models/reka_reka-edge.json"
+  },
+  {
+    "name": "reka-flash-3",
+    "file": "models/rekaai_reka-flash-3.json"
   },
   {
     "name": "relace-apply-3",
