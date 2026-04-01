@@ -616,8 +616,16 @@
     "file": "models/x-ai_grok-4.1-fast.json"
   },
   {
+    "name": "grok-4.20",
+    "file": "models/x-ai_grok-4.20.json"
+  },
+  {
     "name": "grok-4.20-beta",
     "file": "models/x-ai_grok-4.20-beta.json"
+  },
+  {
+    "name": "grok-4.20-multi-agent",
+    "file": "models/x-ai_grok-4.20-multi-agent.json"
   },
   {
     "name": "grok-4.20-multi-agent-beta",
