@@ -372,6 +372,10 @@
     "file": "models/z-ai_glm-5-turbo.json"
   },
   {
+    "name": "glm-5v-turbo",
+    "file": "models/z-ai_glm-5v-turbo.json"
+  },
+  {
     "name": "goliath-120b",
     "file": "models/alpindale_goliath-120b.json"
   },
@@ -1344,6 +1348,10 @@
     "file": "models/reka_reka-edge.json"
   },
   {
+    "name": "reka-edge",
+    "file": "models/rekaai_reka-edge.json"
+  },
+  {
     "name": "reka-flash-3",
     "file": "models/rekaai_reka-flash-3.json"
   },
@@ -1434,6 +1442,10 @@
   {
     "name": "trinity-large-preview:free",
     "file": "models/arcee-ai_trinity-large-preview:free.json"
+  },
+  {
+    "name": "trinity-large-thinking",
+    "file": "models/arcee-ai_trinity-large-thinking.json"
   },
   {
     "name": "trinity-mini",
