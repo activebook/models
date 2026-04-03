@@ -328,6 +328,10 @@
     "file": "models/google_gemma-3n-e4b-it:free.json"
   },
   {
+    "name": "gemma-4-31b-it",
+    "file": "models/google_gemma-4-31b-it.json"
+  },
+  {
     "name": "glm-4-32b",
     "file": "models/z-ai_glm-4-32b.json"
   },
@@ -1338,6 +1342,10 @@
   {
     "name": "qwen3.6-plus-preview:free",
     "file": "models/qwen_qwen3.6-plus-preview:free.json"
+  },
+  {
+    "name": "qwen3.6-plus:free",
+    "file": "models/qwen_qwen3.6-plus:free.json"
   },
   {
     "name": "qwq-32b",
