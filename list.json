@@ -328,6 +328,10 @@
     "file": "models/google_gemma-3n-e4b-it:free.json"
   },
   {
+    "name": "gemma-4-26b-a4b-it",
+    "file": "models/google_gemma-4-26b-a4b-it.json"
+  },
+  {
     "name": "gemma-4-31b-it",
     "file": "models/google_gemma-4-31b-it.json"
   },
