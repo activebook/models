@@ -4,7 +4,7 @@
   "hugging_face_id": "NousResearch/Hermes-4-70B",
   "name": "Nous: Hermes 4 70B",
   "created": 1756236182,
-  "description": "Hermes 4 70B is a hybrid reasoning model from Nous Research, built on Meta-Llama-3.1-70B. It introduces the same hybrid mode as the larger 405B release, allowing the model to either respond directly or generate explicit <think>...</think> reasoning traces before answering. Users can control the reasoning behaviour with the `reasoning` `enabled` boolean. [Learn more in our docs](https://openrouter.ai/docs/use-cases/reasoning-tokens#enable-reasoning-with-default-config)\n\nThis 70B variant is trained with the expanded post-training corpus (~60B tokens) emphasizing verified reasoning data, leading to improvements in mathematics, coding, STEM, logic, and structured outputs while maintaining general assistant performance. It supports JSON mode, schema adherence, function calling, and tool use, and is designed for greater steerability with reduced refusal rates.",
+  "description": "Hermes 4 70B is a hybrid reasoning model from Nous Research, built on Meta-Llama-3.1-70B. It introduces the same hybrid mode as the larger 405B release, allowing the model to either...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -41,5 +41,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-08-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/nousresearch/hermes-4-70b/endpoints"
+  }
 }

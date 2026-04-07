@@ -4,7 +4,7 @@
   "hugging_face_id": "ByteDance-Seed/UI-TARS-1.5-7B",
   "name": "ByteDance: UI-TARS 7B ",
   "created": 1753205056,
-  "description": "UI-TARS-1.5 is a multimodal vision-language agent optimized for GUI-based environments, including desktop interfaces, web browsers, mobile systems, and games. Built by ByteDance, it builds upon the UI-TARS framework with reinforcement learning-based reasoning, enabling robust action planning and execution across virtual interfaces.\n\nThis model achieves state-of-the-art results on a range of interactive and grounding benchmarks, including OSworld, WebVoyager, AndroidWorld, and ScreenSpot. It also demonstrates perfect task completion across diverse Poki games and outperforms prior models in Minecraft agent tasks. UI-TARS-1.5 supports thought decomposition during inference and shows strong scaling across variants, with the 1.5 version notably exceeding the performance of earlier 72B and 7B checkpoints.",
+  "description": "UI-TARS-1.5 is a multimodal vision-language agent optimized for GUI-based environments, including desktop interfaces, web browsers, mobile systems, and games. Built by ByteDance, it builds upon the UI-TARS framework with reinforcement...",
   "context_length": 128000,
   "architecture": {
     "modality": "text+image->text",
@@ -42,5 +42,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2025-01-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/bytedance/ui-tars-1.5-7b/endpoints"
+  }
 }

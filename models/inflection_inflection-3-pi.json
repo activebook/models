@@ -4,7 +4,7 @@
   "hugging_face_id": null,
   "name": "Inflection: Inflection 3 Pi",
   "created": 1728604800,
-  "description": "Inflection 3 Pi powers Inflection's [Pi](https://pi.ai) chatbot, including backstory, emotional intelligence, productivity, and safety. It has access to recent news, and excels in scenarios like customer support and roleplay.\n\nPi has been trained to mirror your tone and style, if you use more emojis, so will Pi! Try experimenting with various prompts and conversation styles.",
+  "description": "Inflection 3 Pi powers Inflection's [Pi](https://pi.ai) chatbot, including backstory, emotional intelligence, productivity, and safety. It has access to recent news, and excels in scenarios like customer support and roleplay. Pi...",
   "context_length": 8000,
   "architecture": {
     "modality": "text->text",
@@ -35,5 +35,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-10-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/inflection/inflection-3-pi/endpoints"
+  }
 }

@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Google: Gemini 2.0 Flash Lite",
   "created": 1740506212,
-  "description": "Gemini 2.0 Flash Lite offers a significantly faster time to first token (TTFT) compared to [Gemini Flash 1.5](/google/gemini-flash-1.5), while maintaining quality on par with larger models like [Gemini Pro 1.5](/google/gemini-pro-1.5), all at extremely economical token prices.",
+  "description": "Gemini 2.0 Flash Lite offers a significantly faster time to first token (TTFT) compared to [Gemini Flash 1.5](/google/gemini-flash-1.5), while maintaining quality on par with larger models like [Gemini Pro 1.5](/google/gemini-pro-1.5),...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",
@@ -51,5 +51,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2024-08-31",
-  "expiration_date": "2026-06-01"
+  "expiration_date": "2026-06-01",
+  "links": {
+    "details": "/api/v1/models/google/gemini-2.0-flash-lite-001/endpoints"
+  }
 }

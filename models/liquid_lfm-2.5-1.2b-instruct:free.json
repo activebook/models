@@ -45,5 +45,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/liquid/lfm-2.5-1.2b-instruct-20260120/endpoints"
+  }
 }

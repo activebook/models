@@ -4,7 +4,7 @@
   "hugging_face_id": "zai-org/GLM-4.7",
   "name": "Z.ai: GLM 4.7",
   "created": 1766378014,
-  "description": "GLM-4.7 is Z.ai\u2019s latest flagship model, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution. It demonstrates significant improvements in executing complex agent tasks while delivering more natural conversational experiences and superior front-end aesthetics.",
+  "description": "GLM-4.7 is Z.ai\u2019s latest flagship model, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution. It demonstrates significant improvements in executing complex agent tasks while...",
   "context_length": 202752,
   "architecture": {
     "modality": "text->text",
@@ -55,5 +55,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/z-ai/glm-4.7-20251222/endpoints"
+  }
 }

@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "xAI: Grok 4.20 Multi-Agent",
   "created": 1774979158,
-  "description": "Grok 4.20 Multi-Agent is a variant of xAI\u2019s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information across complex tasks.\n\nReasoning effort behavior:\n- low / medium: 4 agents\n- high / xhigh: 16 agents",
+  "description": "Grok 4.20 Multi-Agent is a variant of xAI\u2019s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information...",
   "context_length": 2000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -52,5 +52,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": "2025-09-01",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/x-ai/grok-4.20-multi-agent-20260309/endpoints"
+  }
 }

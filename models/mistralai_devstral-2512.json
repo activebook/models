@@ -4,7 +4,7 @@
   "hugging_face_id": "mistralai/Devstral-2-123B-Instruct-2512",
   "name": "Mistral: Devstral 2 2512",
   "created": 1765285419,
-  "description": "Devstral 2 is a state-of-the-art open-source model by Mistral AI specializing in agentic coding. It is a 123B-parameter dense transformer model supporting a 256K context window.\n\nDevstral 2 supports exploring codebases and orchestrating changes across multiple files while maintaining architecture-level context. It tracks framework dependencies, detects failures, and retries with corrections\u2014solving challenges like bug fixing and modernizing legacy systems. The model can be fine-tuned to prioritize specific languages or optimize for large enterprise codebases. It is available under a modified MIT license.",
+  "description": "Devstral 2 is a state-of-the-art open-source model by Mistral AI specializing in agentic coding. It is a 123B-parameter dense transformer model supporting a 256K context window. Devstral 2 supports exploring...",
   "context_length": 262144,
   "architecture": {
     "modality": "text->text",
@@ -47,5 +47,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/devstral-2512/endpoints"
+  }
 }

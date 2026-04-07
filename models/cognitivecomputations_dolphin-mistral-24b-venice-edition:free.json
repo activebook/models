@@ -4,7 +4,7 @@
   "hugging_face_id": "cognitivecomputations/Dolphin-Mistral-24B-Venice-Edition",
   "name": "Venice: Uncensored (free)",
   "created": 1752094966,
-  "description": "Venice Uncensored Dolphin Mistral 24B Venice Edition is a fine-tuned variant of Mistral-Small-24B-Instruct-2501, developed by dphn.ai in collaboration with Venice.ai. This model is designed as an \u201cuncensored\u201d instruct-tuned LLM, preserving user control over alignment, system prompts, and behavior. Intended for advanced and unrestricted use cases, Venice Uncensored emphasizes steerability and transparent behavior, removing default safety and alignment layers typically found in mainstream assistant models.",
+  "description": "Venice Uncensored Dolphin Mistral 24B Venice Edition is a fine-tuned variant of Mistral-Small-24B-Instruct-2501, developed by dphn.ai in collaboration with Venice.ai. This model is designed as an \u201cuncensored\u201d instruct-tuned LLM, preserving...",
   "context_length": 32768,
   "architecture": {
     "modality": "text->text",
@@ -40,5 +40,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-04-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/venice/uncensored/endpoints"
+  }
 }

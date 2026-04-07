@@ -44,5 +44,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/qwen/qwen-vl-max-2025-01-25/endpoints"
+  }
 }

@@ -4,7 +4,7 @@
   "hugging_face_id": "zai-org/GLM-4.5V",
   "name": "Z.ai: GLM 4.5V",
   "created": 1754922288,
-  "description": "GLM-4.5V is a vision-language foundation model for multimodal agent applications. Built on a Mixture-of-Experts (MoE) architecture with 106B parameters and 12B activated parameters, it achieves state-of-the-art results in video understanding, image Q&A, OCR, and document parsing, with strong gains in front-end web coding, grounding, and spatial reasoning. It offers a hybrid inference mode: a \"thinking mode\" for deep reasoning and a \"non-thinking mode\" for fast responses. Reasoning behavior can be toggled via the `reasoning` `enabled` boolean. [Learn more in our docs](https://openrouter.ai/docs/use-cases/reasoning-tokens#enable-reasoning-with-default-config)",
+  "description": "GLM-4.5V is a vision-language foundation model for multimodal agent applications. Built on a Mixture-of-Experts (MoE) architecture with 106B parameters and 12B activated parameters, it achieves state-of-the-art results in video understanding,...",
   "context_length": 65536,
   "architecture": {
     "modality": "text+image->text",
@@ -50,5 +50,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2024-12-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/z-ai/glm-4.5v/endpoints"
+  }
 }

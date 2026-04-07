@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Body Builder (beta)",
   "created": 1764903653,
-  "description": "Transform your natural language requests into structured OpenRouter API request objects. Describe what you want to accomplish with AI models, and Body Builder will construct the appropriate API calls. Example: \"count to 10 using gemini and opus.\"\n\nThis is useful for creating multi-model requests, custom model routers, or programmatic generation of API calls from human descriptions.\n\n**BETA NOTICE**: Body Builder is in beta, and currently free. Pricing and functionality may change in the future.",
+  "description": "Transform your natural language requests into structured OpenRouter API request objects. Describe what you want to accomplish with AI models, and Body Builder will construct the appropriate API calls. Example:...",
   "context_length": 128000,
   "architecture": {
     "modality": "text->text",
@@ -34,5 +34,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/openrouter/bodybuilder/endpoints"
+  }
 }

@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Perplexity: Sonar",
   "created": 1738013808,
-  "description": "Sonar is lightweight, affordable, fast, and simple to use \u2014 now featuring citations and the ability to customize sources. It is designed for companies seeking to integrate lightweight question-and-answer features optimized for speed.",
+  "description": "Sonar is lightweight, affordable, fast, and simple to use \u2014 now featuring citations and the ability to customize sources. It is designed for companies seeking to integrate lightweight question-and-answer features...",
   "context_length": 127072,
   "architecture": {
     "modality": "text+image->text",
@@ -40,5 +40,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/perplexity/sonar/endpoints"
+  }
 }

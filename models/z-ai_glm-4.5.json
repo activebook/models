@@ -4,7 +4,7 @@
   "hugging_face_id": "zai-org/GLM-4.5",
   "name": "Z.ai: GLM 4.5",
   "created": 1753471347,
-  "description": "GLM-4.5 is our latest flagship foundation model, purpose-built for agent-based applications. It leverages a Mixture-of-Experts (MoE) architecture and supports a context length of up to 128k tokens. GLM-4.5 delivers significantly enhanced capabilities in reasoning, code generation, and agent alignment. It supports a hybrid inference mode with two options, a \"thinking mode\" designed for complex reasoning and tool use, and a \"non-thinking mode\" optimized for instant responses. Users can control the reasoning behaviour with the `reasoning` `enabled` boolean. [Learn more in our docs](https://openrouter.ai/docs/use-cases/reasoning-tokens#enable-reasoning-with-default-config)",
+  "description": "GLM-4.5 is our latest flagship foundation model, purpose-built for agent-based applications. It leverages a Mixture-of-Experts (MoE) architecture and supports a context length of up to 128k tokens. GLM-4.5 delivers significantly...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -51,5 +51,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2024-12-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/z-ai/glm-4.5/endpoints"
+  }
 }

@@ -48,5 +48,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/mistral-large-2512/endpoints"
+  }
 }

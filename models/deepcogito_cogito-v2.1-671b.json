@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Deep Cogito: Cogito v2.1 671B",
   "created": 1763071233,
-  "description": "Cogito v2.1 671B MoE represents one of the strongest open models globally, matching performance of frontier closed and open models. This model is trained using self play with reinforcement learning to reach state-of-the-art performance on multiple categories (instruction following, coding, longer queries and creative writing). This advanced system demonstrates significant progress toward scalable superintelligence through policy improvement.",
+  "description": "Cogito v2.1 671B MoE represents one of the strongest open models globally, matching performance of frontier closed and open models. This model is trained using self play with reinforcement learning...",
   "context_length": 128000,
   "architecture": {
     "modality": "text->text",
@@ -49,5 +49,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/deepcogito/cogito-v2.1-671b-20251118/endpoints"
+  }
 }

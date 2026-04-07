@@ -4,7 +4,7 @@
   "hugging_face_id": "openai/gpt-oss-safeguard-20b",
   "name": "OpenAI: gpt-oss-safeguard-20b",
   "created": 1761752836,
-  "description": "gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b. This open-weight, 21B-parameter Mixture-of-Experts (MoE) model offers lower latency for safety tasks like content classification, LLM filtering, and trust & safety labeling.\n\nLearn more about this model in OpenAI's gpt-oss-safeguard [user guide](https://cookbook.openai.com/articles/gpt-oss-safeguard-guide).",
+  "description": "gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b. This open-weight, 21B-parameter Mixture-of-Experts (MoE) model offers lower latency for safety tasks like content classification, LLM filtering, and trust...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -46,5 +46,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/openai/gpt-oss-safeguard-20b/endpoints"
+  }
 }

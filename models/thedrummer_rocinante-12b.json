@@ -4,7 +4,7 @@
   "hugging_face_id": "TheDrummer/Rocinante-12B-v1.1",
   "name": "TheDrummer: Rocinante 12B",
   "created": 1727654400,
-  "description": "Rocinante 12B is designed for engaging storytelling and rich prose.\n\nEarly testers have reported:\n- Expanded vocabulary with unique and expressive word choices\n- Enhanced creativity for vivid narratives\n- Adventure-filled and captivating stories",
+  "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narratives -...",
   "context_length": 32768,
   "architecture": {
     "modality": "text->text",
@@ -48,5 +48,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-04-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/thedrummer/rocinante-12b/endpoints"
+  }
 }

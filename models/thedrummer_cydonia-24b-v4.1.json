@@ -45,5 +45,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2024-04-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/thedrummer/cydonia-24b-v4.1/endpoints"
+  }
 }

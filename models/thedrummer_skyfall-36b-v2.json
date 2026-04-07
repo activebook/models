@@ -41,5 +41,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-06-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/thedrummer/skyfall-36b-v2/endpoints"
+  }
 }

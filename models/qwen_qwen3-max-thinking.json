@@ -4,7 +4,7 @@
   "hugging_face_id": null,
   "name": "Qwen: Qwen3 Max Thinking",
   "created": 1770671901,
-  "description": "Qwen3-Max-Thinking is the flagship reasoning model in the Qwen3 series, designed for high-stakes cognitive tasks that require deep, multi-step reasoning. By significantly scaling model capacity and reinforcement learning compute, it delivers major gains in factual accuracy, complex reasoning, instruction following, alignment with human preferences, and agentic behavior.",
+  "description": "Qwen3-Max-Thinking is the flagship reasoning model in the Qwen3 series, designed for high-stakes cognitive tasks that require deep, multi-step reasoning. By significantly scaling model capacity and reinforcement learning compute, it...",
   "context_length": 262144,
   "architecture": {
     "modality": "text->text",
@@ -46,5 +46,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/qwen/qwen3-max-thinking-20260123/endpoints"
+  }
 }

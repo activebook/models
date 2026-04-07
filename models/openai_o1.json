@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "OpenAI: o1",
   "created": 1734459999,
-  "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding. The o1 model series is trained with large-scale reinforcement learning to reason using chain of thought. \n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n",
+  "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding. The o1 model series is trained with large-scale reinforcement learning to reason...",
   "context_length": 200000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -49,5 +49,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": "2023-10-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/openai/o1-2024-12-17/endpoints"
+  }
 }

@@ -51,5 +51,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/ministral-8b-2512/endpoints"
+  }
 }

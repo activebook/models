@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Perplexity: Sonar Pro Search",
   "created": 1761854366,
-  "description": "Exclusively available on the OpenRouter API, Sonar Pro's new Pro Search mode is Perplexity's most advanced agentic search system. It is designed for deeper reasoning and analysis. Pricing is based on tokens plus $18 per thousand requests. This model powers the Pro Search mode on the Perplexity platform.\n\nSonar Pro Search adds autonomous, multi-step reasoning to Sonar Pro. So, instead of just one query + synthesis, it plans and executes entire research workflows using tools.",
+  "description": "Exclusively available on the OpenRouter API, Sonar Pro's new Pro Search mode is Perplexity's most advanced agentic search system. It is designed for deeper reasoning and analysis. Pricing is based...",
   "context_length": 200000,
   "architecture": {
     "modality": "text+image->text",
@@ -47,5 +47,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/perplexity/sonar-pro-search/endpoints"
+  }
 }

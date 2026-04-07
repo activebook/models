@@ -46,5 +46,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/baidu/ernie-4.5-21b-a3b-thinking/endpoints"
+  }
 }

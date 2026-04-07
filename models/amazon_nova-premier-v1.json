@@ -43,5 +43,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/amazon/nova-premier-v1/endpoints"
+  }
 }

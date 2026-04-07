@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Google: Gemini 2.0 Flash",
   "created": 1738769413,
-  "description": "Gemini Flash 2.0 offers a significantly faster time to first token (TTFT) compared to [Gemini Flash 1.5](/google/gemini-flash-1.5), while maintaining quality on par with larger models like [Gemini Pro 1.5](/google/gemini-pro-1.5). It introduces notable enhancements in multimodal understanding, coding capabilities, complex instruction following, and function calling. These advancements come together to deliver more seamless and robust agentic experiences.",
+  "description": "Gemini Flash 2.0 offers a significantly faster time to first token (TTFT) compared to [Gemini Flash 1.5](/google/gemini-flash-1.5), while maintaining quality on par with larger models like [Gemini Pro 1.5](/google/gemini-pro-1.5). It...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",
@@ -53,5 +53,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2024-08-31",
-  "expiration_date": "2026-06-01"
+  "expiration_date": "2026-06-01",
+  "links": {
+    "details": "/api/v1/models/google/gemini-2.0-flash-001/endpoints"
+  }
 }

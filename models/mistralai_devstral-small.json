@@ -4,7 +4,7 @@
   "hugging_face_id": "mistralai/Devstral-Small-2507",
   "name": "Mistral: Devstral Small 1.1",
   "created": 1752160751,
-  "description": "Devstral Small 1.1 is a 24B parameter open-weight language model for software engineering agents, developed by Mistral AI in collaboration with All Hands AI. Finetuned from Mistral Small 3.1 and released under the Apache 2.0 license, it features a 128k token context window and supports both Mistral-style function calling and XML output formats.\n\nDesigned for agentic coding workflows, Devstral Small 1.1 is optimized for tasks such as codebase exploration, multi-file edits, and integration into autonomous development agents like OpenHands and Cline. It achieves 53.6% on SWE-Bench Verified, surpassing all other open models on this benchmark, while remaining lightweight enough to run on a single 4090 GPU or Apple silicon machine. The model uses a Tekken tokenizer with a 131k vocabulary and is deployable via vLLM, Transformers, Ollama, LM Studio, and other OpenAI-compatible runtimes.\n",
+  "description": "Devstral Small 1.1 is a 24B parameter open-weight language model for software engineering agents, developed by Mistral AI in collaboration with All Hands AI. Finetuned from Mistral Small 3.1 and...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -45,5 +45,8 @@
     "temperature": 0.3
   },
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/devstral-small-2507/endpoints"
+  }
 }

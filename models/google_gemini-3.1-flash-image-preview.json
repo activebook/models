@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
   "created": 1772119558,
-  "description": "Gemini 3.1 Flash Image Preview, a.k.a. \"Nano Banana 2,\" is Google\u2019s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines advanced contextual understanding with fast, cost-efficient inference, making complex image generation and iterative edits significantly more accessible. Aspect ratios can be controlled with the [image_config API Parameter](https://openrouter.ai/docs/features/multimodal/image-generation#image-aspect-ratio-configuration)",
+  "description": "Gemini 3.1 Flash Image Preview, a.k.a. \"Nano Banana 2,\" is Google\u2019s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines...",
   "context_length": 65536,
   "architecture": {
     "modality": "text+image->text+image",
@@ -49,5 +49,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-3.1-flash-image-preview-20260226/endpoints"
+  }
 }

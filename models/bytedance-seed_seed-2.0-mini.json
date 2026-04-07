@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "ByteDance Seed: Seed-2.0-Mini",
   "created": 1772131107,
-  "description": "Seed-2.0-mini targets latency-sensitive, high-concurrency, and cost-sensitive scenarios, emphasizing fast response and flexible inference deployment. It delivers performance comparable to ByteDance-Seed-1.6, supports 256k context, four reasoning effort modes (minimal/low/medium/high), multimodal understanding, and is optimized for lightweight tasks where cost and speed take priority.",
+  "description": "Seed-2.0-mini targets latency-sensitive, high-concurrency, and cost-sensitive scenarios, emphasizing fast response and flexible inference deployment. It delivers performance comparable to ByteDance-Seed-1.6, supports 256k context, four reasoning effort modes (minimal/low/medium/high), multimodal understanding,...",
   "context_length": 262144,
   "architecture": {
     "modality": "text+image+video->text",
@@ -48,5 +48,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/bytedance-seed/seed-2.0-mini-20260224/endpoints"
+  }
 }

@@ -50,5 +50,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2025-02-28",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/x-ai/grok-3-mini/endpoints"
+  }
 }

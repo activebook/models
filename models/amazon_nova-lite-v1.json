@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Amazon: Nova Lite 1.0",
   "created": 1733437363,
-  "description": "Amazon Nova Lite 1.0 is a very low-cost multimodal model from Amazon that focused on fast processing of image, video, and text inputs to generate text output. Amazon Nova Lite can handle real-time customer interactions, document analysis, and visual question-answering tasks with high accuracy.\n\nWith an input context of 300K tokens, it can analyze multiple images or up to 30 minutes of video in a single input.",
+  "description": "Amazon Nova Lite 1.0 is a very low-cost multimodal model from Amazon that focused on fast processing of image, video, and text inputs to generate text output. Amazon Nova Lite...",
   "context_length": 300000,
   "architecture": {
     "modality": "text+image->text",
@@ -38,5 +38,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-10-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/amazon/nova-lite-v1/endpoints"
+  }
 }

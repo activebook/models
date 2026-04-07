@@ -4,7 +4,7 @@
   "hugging_face_id": "tngtech/DeepSeek-TNG-R1T2-Chimera",
   "name": "TNG: DeepSeek R1T2 Chimera",
   "created": 1751986985,
-  "description": "DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. It is a 671 B-parameter mixture-of-experts text-generation model assembled from DeepSeek-AI\u2019s R1-0528, R1, and V3-0324 checkpoints with an Assembly-of-Experts merge. The tri-parent design yields strong reasoning performance while running roughly 20 % faster than the original R1 and more than 2\u00d7 faster than R1-0528 under vLLM, giving a favorable cost-to-intelligence trade-off. The checkpoint supports contexts up to 60 k tokens in standard use (tested to ~130 k) and maintains consistent <think> token behaviour, making it suitable for long-context analysis, dialogue and other open-ended generation tasks.",
+  "description": "DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. It is a 671 B-parameter mixture-of-experts text-generation model assembled from DeepSeek-AI\u2019s R1-0528, R1, and V3-0324 checkpoints with an Assembly-of-Experts merge. The...",
   "context_length": 163840,
   "architecture": {
     "modality": "text->text",
@@ -47,5 +47,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-07-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/tngtech/deepseek-r1t2-chimera/endpoints"
+  }
 }

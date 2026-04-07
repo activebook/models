@@ -46,5 +46,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2023-12-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/openai/gpt-4-turbo/endpoints"
+  }
 }

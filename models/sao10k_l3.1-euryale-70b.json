@@ -44,5 +44,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2023-12-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/sao10k/l3.1-euryale-70b/endpoints"
+  }
 }

@@ -40,5 +40,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/qwen/qwen-turbo-2024-11-01/endpoints"
+  }
 }

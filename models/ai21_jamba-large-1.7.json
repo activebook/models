@@ -4,7 +4,7 @@
   "hugging_face_id": "ai21labs/AI21-Jamba-Large-1.7",
   "name": "AI21: Jamba Large 1.7",
   "created": 1754669020,
-  "description": "Jamba Large 1.7 is the latest model in the Jamba open family, offering improvements in grounding, instruction-following, and overall efficiency. Built on a hybrid SSM-Transformer architecture with a 256K context window, it delivers more accurate, contextually grounded responses and better steerability than previous versions.",
+  "description": "Jamba Large 1.7 is the latest model in the Jamba open family, offering improvements in grounding, instruction-following, and overall efficiency. Built on a hybrid SSM-Transformer architecture with a 256K context...",
   "context_length": 256000,
   "architecture": {
     "modality": "text->text",
@@ -38,5 +38,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-08-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/ai21/jamba-large-1.7/endpoints"
+  }
 }

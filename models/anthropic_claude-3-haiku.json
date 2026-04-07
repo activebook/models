@@ -41,5 +41,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2023-08-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/anthropic/claude-3-haiku/endpoints"
+  }
 }

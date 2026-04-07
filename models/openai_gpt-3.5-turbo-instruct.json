@@ -43,5 +43,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2021-09-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/openai/gpt-3.5-turbo-instruct/endpoints"
+  }
 }

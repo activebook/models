@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "OpenAI: o3",
   "created": 1744823457,
-  "description": "o3 is a well-rounded and powerful model across domains. It sets a new standard for math, science, coding, and visual reasoning tasks. It also excels at technical writing and instruction-following. Use it to think through multi-step problems that involve analysis across text, code, and images. ",
+  "description": "o3 is a well-rounded and powerful model across domains. It sets a new standard for math, science, coding, and visual reasoning tasks. It also excels at technical writing and instruction-following....",
   "context_length": 200000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -43,5 +43,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-06-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/openai/o3-2025-04-16/endpoints"
+  }
 }

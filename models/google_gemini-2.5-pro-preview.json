@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Google: Gemini 2.5 Pro Preview 06-05",
   "created": 1749137257,
-  "description": "Gemini 2.5 Pro is Google\u2019s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs \u201cthinking\u201d capabilities, enabling it to reason through responses with enhanced accuracy and nuanced context handling. Gemini 2.5 Pro achieves top-tier performance on multiple benchmarks, including first-place positioning on the LMArena leaderboard, reflecting superior human-preference alignment and complex problem-solving abilities.\n",
+  "description": "Gemini 2.5 Pro is Google\u2019s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs \u201cthinking\u201d capabilities, enabling it to reason through responses with enhanced accuracy...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio->text",
@@ -50,5 +50,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2025-01-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-2.5-pro-preview-06-05/endpoints"
+  }
 }

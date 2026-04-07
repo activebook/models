@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Switchpoint Router",
   "created": 1752272899,
-  "description": "Switchpoint AI's router instantly analyzes your request and directs it to the optimal AI from an ever-evolving library. \n\nAs the world of LLMs advances, our router gets smarter, ensuring you always benefit from the industry's newest models without changing your workflow.\n\nThis model is configured for a simple, flat rate per response here on OpenRouter. It's powered by the full routing engine from [Switchpoint AI](https://www.switchpoint.dev).",
+  "description": "Switchpoint AI's router instantly analyzes your request and directs it to the optimal AI from an ever-evolving library. As the world of LLMs advances, our router gets smarter, ensuring you...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -39,5 +39,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/switchpoint/router/endpoints"
+  }
 }

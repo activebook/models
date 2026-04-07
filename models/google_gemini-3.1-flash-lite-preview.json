@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Google: Gemini 3.1 Flash Lite Preview",
   "created": 1772512673,
-  "description": "Gemini 3.1 Flash Lite Preview is Google's high-efficiency model optimized for high-volume use cases. It outperforms Gemini 2.5 Flash Lite on overall quality and approaches Gemini 2.5 Flash performance across key capabilities. Improvements span audio input/ASR, RAG snippet ranking, translation, data extraction, and code completion. Supports full thinking levels (minimal, low, medium, high) for fine-grained cost/performance trade-offs. Priced at half the cost of Gemini 3 Flash.",
+  "description": "Gemini 3.1 Flash Lite Preview is Google's high-efficiency model optimized for high-volume use cases. It outperforms Gemini 2.5 Flash Lite on overall quality and approaches Gemini 2.5 Flash performance across...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",
@@ -58,5 +58,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-3.1-flash-lite-preview-20260303/endpoints"
+  }
 }

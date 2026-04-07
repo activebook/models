@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Upstage: Solar Pro 3",
   "created": 1769481200,
-  "description": "Solar Pro 3 is Upstage's powerful Mixture-of-Experts (MoE) language model. With 102B total parameters and 12B active parameters per forward pass, it delivers exceptional performance while maintaining computational efficiency. Optimized for Korean with English and Japanese support.",
+  "description": "Solar Pro 3 is Upstage's powerful Mixture-of-Experts (MoE) language model. With 102B total parameters and 12B active parameters per forward pass, it delivers exceptional performance while maintaining computational efficiency. Optimized...",
   "context_length": 128000,
   "architecture": {
     "modality": "text->text",
@@ -47,5 +47,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/upstage/solar-pro-3/endpoints"
+  }
 }

@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Qwen: Qwen VL Plus",
   "created": 1738731255,
-  "description": "Qwen's Enhanced Large Visual Language Model. Significantly upgraded for detailed recognition capabilities and text recognition abilities, supporting ultra-high pixel resolutions up to millions of pixels and extreme aspect ratios for image input. It delivers significant performance across a broad range of visual tasks.\n",
+  "description": "Qwen's Enhanced Large Visual Language Model. Significantly upgraded for detailed recognition capabilities and text recognition abilities, supporting ultra-high pixel resolutions up to millions of pixels and extreme aspect ratios for...",
   "context_length": 131072,
   "architecture": {
     "modality": "text+image->text",
@@ -39,5 +39,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/qwen/qwen-vl-plus/endpoints"
+  }
 }

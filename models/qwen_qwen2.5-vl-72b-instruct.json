@@ -44,5 +44,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-06-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/qwen/qwen2.5-vl-72b-instruct/endpoints"
+  }
 }

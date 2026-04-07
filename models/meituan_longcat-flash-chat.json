@@ -4,7 +4,7 @@
   "hugging_face_id": "meituan-longcat/LongCat-Flash-Chat",
   "name": "Meituan: LongCat Flash Chat",
   "created": 1757427658,
-  "description": "LongCat-Flash-Chat is a large-scale Mixture-of-Experts (MoE) model with 560B total parameters, of which 18.6B\u201331.3B (\u224827B on average) are dynamically activated per input. It introduces a shortcut-connected MoE design to reduce communication overhead and achieve high throughput while maintaining training stability through advanced scaling strategies such as hyperparameter transfer, deterministic computation, and multi-stage optimization.\n\nThis release, LongCat-Flash-Chat, is a non-thinking foundation model optimized for conversational and agentic tasks. It supports long context windows up to 128K tokens and shows competitive performance across reasoning, coding, instruction following, and domain benchmarks, with particular strengths in tool use and complex multi-step interactions.",
+  "description": "LongCat-Flash-Chat is a large-scale Mixture-of-Experts (MoE) model with 560B total parameters, of which 18.6B\u201331.3B (\u224827B on average) are dynamically activated per input. It introduces a shortcut-connected MoE design to reduce...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -47,5 +47,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/meituan/longcat-flash-chat/endpoints"
+  }
 }

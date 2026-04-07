@@ -4,7 +4,7 @@
   "hugging_face_id": "baidu/ERNIE-4.5-VL-424B-A47B-PT",
   "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
   "created": 1751300903,
-  "description": "ERNIE-4.5-VL-424B-A47B is a multimodal Mixture-of-Experts (MoE) model from Baidu\u2019s ERNIE 4.5 series, featuring 424B total parameters with 47B active per token. It is trained jointly on text and image data using a heterogeneous MoE architecture and modality-isolated routing to enable high-fidelity cross-modal reasoning, image understanding, and long-context generation (up to 131k tokens). Fine-tuned with techniques like SFT, DPO, UPO, and RLVR, this model supports both \u201cthinking\u201d and non-thinking inference modes. Designed for vision-language tasks in English and Chinese, it is optimized for efficient scaling and can operate under 4-bit/8-bit quantization.",
+  "description": "ERNIE-4.5-VL-424B-A47B is a multimodal Mixture-of-Experts (MoE) model from Baidu\u2019s ERNIE 4.5 series, featuring 424B total parameters with 47B active per token. It is trained jointly on text and image data...",
   "context_length": 123000,
   "architecture": {
     "modality": "text+image->text",
@@ -43,5 +43,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/baidu/ernie-4.5-vl-424b-a47b/endpoints"
+  }
 }

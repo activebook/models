@@ -4,7 +4,7 @@
   "hugging_face_id": null,
   "name": "Google: Gemini 3.1 Pro Preview Custom Tools",
   "created": 1772045923,
-  "description": "Gemini 3.1 Pro Preview Custom Tools is a variant of Gemini 3.1 Pro that improves tool selection behavior by preventing overuse of a general bash tool when more efficient third-party or user-defined functions are available. This specialized preview endpoint significantly increases function calling reliability and ensures the model selects the most appropriate tool in coding agents and complex, multi-tool workflows.\n\nIt retains the core strengths of Gemini 3.1 Pro, including multimodal reasoning across text, image, video, audio, and code, a 1M-token context window, and strong software engineering performance.",
+  "description": "Gemini 3.1 Pro Preview Custom Tools is a variant of Gemini 3.1 Pro that improves tool selection behavior by preventing overuse of a general bash tool when more efficient third-party...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",
@@ -55,5 +55,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-3.1-pro-preview-customtools-20260219/endpoints"
+  }
 }

@@ -4,7 +4,7 @@
   "hugging_face_id": "alpindale/goliath-120b",
   "name": "Goliath 120B",
   "created": 1699574400,
-  "description": "A large LLM created by combining two fine-tuned Llama 70B models into one 120B model. Combines Xwin and Euryale.\n\nCredits to\n- [@chargoddard](https://huggingface.co/chargoddard) for developing the framework used to merge the model - [mergekit](https://github.com/cg123/mergekit).\n- [@Undi95](https://huggingface.co/Undi95) for helping with the merge ratios.\n\n#merge",
+  "description": "A large LLM created by combining two fine-tuned Llama 70B models into one 120B model. Combines Xwin and Euryale. Credits to - [@chargoddard](https://huggingface.co/chargoddard) for developing the framework used to merge...",
   "context_length": 6144,
   "architecture": {
     "modality": "text->text",
@@ -46,5 +46,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2023-12-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/alpindale/goliath-120b/endpoints"
+  }
 }

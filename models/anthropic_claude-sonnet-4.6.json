@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Anthropic: Claude Sonnet 4.6",
   "created": 1771342990,
-  "description": "Sonnet 4.6 is Anthropic's most capable Sonnet-class model yet, with frontier performance across coding, agents, and professional work. It excels at iterative development, complex codebase navigation, end-to-end project management with memory, polished document creation, and confident computer use for web QA and workflow automation.",
+  "description": "Sonnet 4.6 is Anthropic's most capable Sonnet-class model yet, with frontier performance across coding, agents, and professional work. It excels at iterative development, complex codebase navigation, end-to-end project management with...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image->text",
@@ -54,5 +54,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/anthropic/claude-4.6-sonnet-20260217/endpoints"
+  }
 }

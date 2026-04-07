@@ -4,7 +4,7 @@
   "hugging_face_id": "meta-llama/Llama-Guard-3-8B",
   "name": "Llama Guard 3 8B",
   "created": 1739401318,
-  "description": "Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety classification. Similar to previous versions, it can be used to classify content in both LLM inputs (prompt classification) and in LLM responses (response classification). It acts as an LLM \u2013 it generates text in its output that indicates whether a given prompt or response is safe or unsafe, and if unsafe, it also lists the content categories violated.\n\nLlama Guard 3 was aligned to safeguard against the MLCommons standardized hazards taxonomy and designed to support Llama 3.1 capabilities. Specifically, it provides content moderation in 8 languages, and was optimized to support safety and security for search and code interpreter tool calls.\n",
+  "description": "Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety classification. Similar to previous versions, it can be used to classify content in both LLM inputs (prompt classification)...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -39,5 +39,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2023-12-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/meta-llama/llama-guard-3-8b/endpoints"
+  }
 }

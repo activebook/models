@@ -4,7 +4,7 @@
   "hugging_face_id": "mistralai/Mistral-Nemo-Instruct-2407",
   "name": "Mistral: Mistral Nemo",
   "created": 1721347200,
-  "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA.\n\nThe model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese, Korean, Arabic, and Hindi.\n\nIt supports function calling and is released under the Apache 2.0 license.",
+  "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -47,5 +47,8 @@
     "temperature": 0.3
   },
   "knowledge_cutoff": "2024-04-30",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/mistral-nemo/endpoints"
+  }
 }

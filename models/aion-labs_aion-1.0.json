@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "AionLabs: Aion-1.0",
   "created": 1738697557,
-  "description": "Aion-1.0 is a multi-model system designed for high performance across various tasks, including reasoning and coding. It is built on DeepSeek-R1, augmented with additional models and techniques such as Tree of Thoughts (ToT) and Mixture of Experts (MoE). It is Aion Lab's most powerful reasoning model.",
+  "description": "Aion-1.0 is a multi-model system designed for high performance across various tasks, including reasoning and coding. It is built on DeepSeek-R1, augmented with additional models and techniques such as Tree...",
   "context_length": 131072,
   "architecture": {
     "modality": "text->text",
@@ -36,5 +36,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/aion-labs/aion-1.0/endpoints"
+  }
 }

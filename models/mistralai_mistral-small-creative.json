@@ -38,5 +38,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": "2026-04-30"
+  "expiration_date": "2026-04-30",
+  "links": {
+    "details": "/api/v1/models/mistralai/mistral-small-creative-20251216/endpoints"
+  }
 }

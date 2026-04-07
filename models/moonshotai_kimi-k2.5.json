@@ -4,7 +4,7 @@
   "hugging_face_id": "moonshotai/Kimi-K2.5",
   "name": "MoonshotAI: Kimi K2.5",
   "created": 1769487076,
-  "description": "Kimi K2.5 is Moonshot AI's native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi K2 with continued pretraining over approximately 15T mixed visual and text tokens, it delivers strong performance in general reasoning, visual coding, and agentic tool-calling.",
+  "description": "Kimi K2.5 is Moonshot AI's native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi K2 with continued pretraining over approximately 15T mixed...",
   "context_length": 262144,
   "architecture": {
     "modality": "text+image->text",
@@ -57,5 +57,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/moonshotai/kimi-k2.5-0127/endpoints"
+  }
 }

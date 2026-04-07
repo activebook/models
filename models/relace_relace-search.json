@@ -4,7 +4,7 @@
   "hugging_face_id": null,
   "name": "Relace: Relace Search",
   "created": 1765213560,
-  "description": "The relace-search model uses 4-12 `view_file` and `grep` tools in parallel to explore a codebase and return relevant files to the user request. \n\nIn contrast to RAG, relace-search performs agentic multi-step reasoning to produce highly precise results 4x faster than any frontier model. It's designed to serve as a subagent that passes its findings to an \"oracle\" coding agent, who orchestrates/performs the rest of the coding task.\n\nTo use relace-search you need to build an appropriate agent harness, and parse the response for relevant information to hand off to the oracle. Read more about it in the [Relace documentation](https://docs.relace.ai/docs/fast-agentic-search/agent).",
+  "description": "The relace-search model uses 4-12 `view_file` and `grep` tools in parallel to explore a codebase and return relevant files to the user request. In contrast to RAG, relace-search performs agentic...",
   "context_length": 256000,
   "architecture": {
     "modality": "text->text",
@@ -42,5 +42,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/relace/relace-search-20251208/endpoints"
+  }
 }

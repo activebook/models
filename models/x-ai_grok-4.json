@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "xAI: Grok 4",
   "created": 1752087689,
-  "description": "Grok 4 is xAI's latest reasoning model with a 256k context window. It supports parallel tool calling, structured outputs, and both image and text inputs. Note that reasoning is not exposed, reasoning cannot be disabled, and the reasoning effort cannot be specified. Pricing increases once the total tokens in a given request is greater than 128k tokens. See more details on the [xAI docs](https://docs.x.ai/docs/models/grok-4-0709)",
+  "description": "Grok 4 is xAI's latest reasoning model with a 256k context window. It supports parallel tool calling, structured outputs, and both image and text inputs. Note that reasoning is not...",
   "context_length": 256000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -54,5 +54,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": "2025-07-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/x-ai/grok-4-07-09/endpoints"
+  }
 }

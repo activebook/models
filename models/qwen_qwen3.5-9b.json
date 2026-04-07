@@ -4,7 +4,7 @@
   "hugging_face_id": "Qwen/Qwen3.5-9B",
   "name": "Qwen: Qwen3.5-9B",
   "created": 1773152396,
-  "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture. It uses a unified vision-language design with early fusion of multimodal tokens, allowing the model to process and reason across text and images within the same context.",
+  "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture. It uses a unified vision-language design...",
   "context_length": 256000,
   "architecture": {
     "modality": "text+image+video->text",
@@ -58,5 +58,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/qwen/qwen3.5-9b-20260310/endpoints"
+  }
 }

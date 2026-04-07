@@ -45,5 +45,8 @@
     "temperature": 0.3
   },
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/codestral-2508/endpoints"
+  }
 }

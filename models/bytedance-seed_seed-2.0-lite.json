@@ -4,7 +4,7 @@
   "hugging_face_id": null,
   "name": "ByteDance Seed: Seed-2.0-Lite",
   "created": 1773157231,
-  "description": "Seed-2.0-Lite is a versatile, cost\u2011efficient enterprise workhorse that delivers strong multimodal and agent capabilities while offering noticeably lower latency, making it a practical default choice for most production workloads across text, vision, and tools. Engineered for high-frequency visual understanding and agentic workflows, it's an ideal choice for deployment at scale with minimal latency.",
+  "description": "Seed-2.0-Lite is a versatile, cost\u2011efficient enterprise workhorse that delivers strong multimodal and agent capabilities while offering noticeably lower latency, making it a practical default choice for most production workloads across...",
   "context_length": 262144,
   "architecture": {
     "modality": "text+image+video->text",
@@ -51,5 +51,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/bytedance-seed/seed-2.0-lite-20260309/endpoints"
+  }
 }

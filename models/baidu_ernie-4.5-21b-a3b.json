@@ -4,7 +4,7 @@
   "hugging_face_id": "baidu/ERNIE-4.5-21B-A3B-PT",
   "name": "Baidu: ERNIE 4.5 21B A3B",
   "created": 1755034167,
-  "description": "A sophisticated text-based Mixture-of-Experts (MoE) model featuring 21B total parameters with 3B activated per token, delivering exceptional multimodal understanding and generation through heterogeneous MoE structures and modality-isolated routing. Supporting an extensive 131K token context length, the model achieves efficient inference via multi-expert parallel collaboration and quantization, while advanced post-training techniques including SFT, DPO, and UPO ensure optimized performance across diverse applications with specialized routing and balancing losses for superior task handling.",
+  "description": "A sophisticated text-based Mixture-of-Experts (MoE) model featuring 21B total parameters with 3B activated per token, delivering exceptional multimodal understanding and generation through heterogeneous MoE structures and modality-isolated routing. Supporting an...",
   "context_length": 120000,
   "architecture": {
     "modality": "text->text",
@@ -46,5 +46,8 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/baidu/ernie-4.5-21b-a3b/endpoints"
+  }
 }

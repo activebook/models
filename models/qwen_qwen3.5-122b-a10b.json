@@ -4,7 +4,7 @@
   "hugging_face_id": "Qwen/Qwen3.5-122B-A10B",
   "name": "Qwen: Qwen3.5-122B-A10B",
   "created": 1772053789,
-  "description": "The Qwen3.5 122B-A10B native vision-language model is built on a hybrid architecture that integrates a linear attention mechanism with a sparse mixture-of-experts model, achieving higher inference efficiency. In terms of overall performance, this model is second only to Qwen3.5-397B-A17B. Its text capabilities significantly outperform those of Qwen3-235B-2507, and its visual capabilities surpass those of Qwen3-VL-235B.",
+  "description": "The Qwen3.5 122B-A10B native vision-language model is built on a hybrid architecture that integrates a linear attention mechanism with a sparse mixture-of-experts model, achieving higher inference efficiency. In terms of...",
   "context_length": 262144,
   "architecture": {
     "modality": "text+image+video->text",
@@ -59,5 +59,8 @@
     "repetition_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/qwen/qwen3.5-122b-a10b-20260224/endpoints"
+  }
 }

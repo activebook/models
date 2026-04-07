@@ -4,7 +4,7 @@
   "hugging_face_id": "",
   "name": "Arcee AI: Spotlight",
   "created": 1746481552,
-  "description": "Spotlight is a 7\u2011billion\u2011parameter vision\u2011language model derived from Qwen\u202f2.5\u2011VL and fine\u2011tuned by Arcee AI for tight image\u2011text grounding tasks. It offers a 32\u202fk\u2011token context window, enabling rich multimodal conversations that combine lengthy documents with one or more images. Training emphasized fast inference on consumer GPUs while retaining strong captioning, visual\u2010question\u2011answering, and diagram\u2011analysis accuracy. As a result, Spotlight slots neatly into agent workflows where screenshots, charts or UI mock\u2011ups need to be interpreted on the fly. Early benchmarks show it matching or out\u2011scoring larger VLMs such as LLaVA\u20111.6 13\u202fB on popular VQA and POPE alignment tests. ",
+  "description": "Spotlight is a 7\u2011billion\u2011parameter vision\u2011language model derived from Qwen 2.5\u2011VL and fine\u2011tuned by Arcee AI for tight image\u2011text grounding tasks. It offers a 32 k\u2011token context window, enabling rich multimodal...",
   "context_length": 131072,
   "architecture": {
     "modality": "text+image->text",
@@ -42,5 +42,8 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/arcee-ai/spotlight/endpoints"
+  }
 }
