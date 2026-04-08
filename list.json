@@ -80,6 +80,10 @@
     "file": "models/anthropic_claude-opus-4.6.json"
   },
   {
+    "name": "claude-opus-4.6-fast",
+    "file": "models/anthropic_claude-opus-4.6-fast.json"
+  },
+  {
     "name": "claude-sonnet-4",
     "file": "models/anthropic_claude-sonnet-4.json"
   },
@@ -332,8 +336,16 @@
     "file": "models/google_gemma-4-26b-a4b-it.json"
   },
   {
+    "name": "gemma-4-26b-a4b-it:free",
+    "file": "models/google_gemma-4-26b-a4b-it:free.json"
+  },
+  {
     "name": "gemma-4-31b-it",
     "file": "models/google_gemma-4-31b-it.json"
+  },
+  {
+    "name": "gemma-4-31b-it:free",
+    "file": "models/google_gemma-4-31b-it:free.json"
   },
   {
     "name": "glm-4-32b",
@@ -378,6 +390,10 @@
   {
     "name": "glm-5-turbo",
     "file": "models/z-ai_glm-5-turbo.json"
+  },
+  {
+    "name": "glm-5.1",
+    "file": "models/z-ai_glm-5.1.json"
   },
   {
     "name": "glm-5v-turbo",
@@ -1344,6 +1360,10 @@
     "file": "models/qwen_qwen3.5-plus-02-15.json"
   },
   {
+    "name": "qwen3.6-plus",
+    "file": "models/qwen_qwen3.6-plus.json"
+  },
+  {
     "name": "qwen3.6-plus-preview:free",
     "file": "models/qwen_qwen3.6-plus-preview:free.json"
   },
@@ -1357,11 +1377,11 @@
   },
   {
     "name": "reka-edge",
-    "file": "models/reka_reka-edge.json"
+    "file": "models/rekaai_reka-edge.json"
   },
   {
     "name": "reka-edge",
-    "file": "models/rekaai_reka-edge.json"
+    "file": "models/reka_reka-edge.json"
   },
   {
     "name": "reka-flash-3",
