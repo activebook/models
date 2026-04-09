@@ -30,6 +30,7 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "max_completion_tokens",
     "max_tokens",
     "presence_penalty",
     "reasoning",

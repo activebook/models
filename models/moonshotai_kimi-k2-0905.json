@@ -5,7 +5,7 @@
   "name": "MoonshotAI: Kimi K2 0905",
   "created": 1757021147,
   "description": "Kimi K2 0905 is the September update of [Kimi K2 0711](moonshotai/kimi-k2). It is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, featuring 1 trillion total parameters with 32...",
-  "context_length": 131072,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -19,12 +19,11 @@
   },
   "pricing": {
     "prompt": "0.0000004",
-    "completion": "0.000002",
-    "input_cache_read": "0.00000015"
+    "completion": "0.000002"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": null,
+    "context_length": 262144,
+    "max_completion_tokens": 262144,
     "is_moderated": false
   },
   "per_request_limits": null,

@@ -32,6 +32,7 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "max_completion_tokens",
     "max_tokens",
     "response_format",
     "seed",
