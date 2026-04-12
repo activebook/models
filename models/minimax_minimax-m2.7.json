@@ -29,13 +29,21 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
     "max_tokens",
+    "min_p",
+    "presence_penalty",
     "reasoning",
+    "repetition_penalty",
     "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_p"
   ],
   "default_parameters": {

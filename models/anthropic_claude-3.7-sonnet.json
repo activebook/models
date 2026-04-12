@@ -28,8 +28,8 @@
   },
   "top_provider": {
     "context_length": 200000,
-    "max_completion_tokens": 64000,
-    "is_moderated": false
+    "max_completion_tokens": 128000,
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -46,7 +46,10 @@
   "default_parameters": {
     "temperature": null,
     "top_p": null,
-    "frequency_penalty": null
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
   },
   "knowledge_cutoff": "2024-10-31",
   "expiration_date": "2026-05-05",
