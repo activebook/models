@@ -200,6 +200,10 @@
     "file": "models/cognitivecomputations_dolphin-mistral-24b-venice-edition:free.json"
   },
   {
+    "name": "elephant-alpha",
+    "file": "models/openrouter_elephant-alpha.json"
+  },
+  {
     "name": "ernie-4.5-21b-a3b",
     "file": "models/baidu_ernie-4.5-21b-a3b.json"
   },

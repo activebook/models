@@ -20,12 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000014",
-    "completion": "0.0000004"
+    "prompt": "0.00000013",
+    "completion": "0.00000038",
+    "input_cache_read": "0.0000000199999995"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 131072,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -34,6 +35,7 @@
     "include_reasoning",
     "logit_bias",
     "max_tokens",
+    "min_p",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
