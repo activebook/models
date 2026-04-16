@@ -860,6 +860,10 @@
     "file": "models/meta-llama_llama-guard-4-12b.json"
   },
   {
+    "name": "llama-guard-4-12b:free",
+    "file": "models/meta-llama_llama-guard-4-12b:free.json"
+  },
+  {
     "name": "llemma_7b",
     "file": "models/eleutherai_llemma_7b.json"
   },
