@@ -23,21 +23,25 @@
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 131072,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
+    "logprobs",
     "max_tokens",
     "presence_penalty",
     "repetition_penalty",
+    "response_format",
     "seed",
     "stop",
+    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {},

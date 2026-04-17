@@ -84,6 +84,10 @@
     "file": "models/anthropic_claude-opus-4.6-fast.json"
   },
   {
+    "name": "claude-opus-4.7",
+    "file": "models/anthropic_claude-opus-4.7.json"
+  },
+  {
     "name": "claude-sonnet-4",
     "file": "models/anthropic_claude-sonnet-4.json"
   },
