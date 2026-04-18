@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3.5-9B",
   "created": 1773152396,
   "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture. It uses a unified vision-language design...",
-  "context_length": 256000,
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -20,12 +20,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000005",
+    "prompt": "0.0000001",
     "completion": "0.00000015"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 32768,
+    "context_length": 262144,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
