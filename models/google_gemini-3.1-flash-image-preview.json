@@ -21,7 +21,8 @@
   },
   "pricing": {
     "prompt": "0.0000005",
-    "completion": "0.000003"
+    "completion": "0.000003",
+    "web_search": "0.014"
   },
   "top_provider": {
     "context_length": 65536,

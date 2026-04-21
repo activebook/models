@@ -748,6 +748,10 @@
     "file": "models/moonshotai_kimi-k2.5.json"
   },
   {
+    "name": "kimi-k2.6",
+    "file": "models/moonshotai_kimi-k2.6.json"
+  },
+  {
     "name": "l3-euryale-70b",
     "file": "models/sao10k_l3-euryale-70b.json"
   },
