@@ -5,7 +5,7 @@
   "name": "Z.ai: GLM 5",
   "created": 1770829182,
   "description": "GLM-5 is Z.ai\u2019s flagship open-source foundation model engineered for complex systems design and long-horizon agent workflows. Built for expert developers, it delivers production-grade performance on large-scale programming tasks, rivaling leading...",
-  "context_length": 80000,
+  "context_length": 202752,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,12 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000072",
-    "completion": "0.0000023"
+    "prompt": "0.00000065",
+    "completion": "0.00000208",
+    "input_cache_read": "0.00000013"
   },
   "top_provider": {
-    "context_length": 80000,
-    "max_completion_tokens": 131072,
+    "context_length": 202752,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -34,6 +35,7 @@
     "logprobs",
     "max_tokens",
     "min_p",
+    "parallel_tool_calls",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",

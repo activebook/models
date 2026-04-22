@@ -88,6 +88,10 @@
     "file": "models/anthropic_claude-opus-4.7.json"
   },
   {
+    "name": "claude-opus-latest",
+    "file": "models/~anthropic_claude-opus-latest.json"
+  },
+  {
     "name": "claude-sonnet-4",
     "file": "models/anthropic_claude-sonnet-4.json"
   },
@@ -580,6 +584,10 @@
     "file": "models/openai_gpt-5.4.json"
   },
   {
+    "name": "gpt-5.4-image-2",
+    "file": "models/openai_gpt-5.4-image-2.json"
+  },
+  {
     "name": "gpt-5.4-mini",
     "file": "models/openai_gpt-5.4-mini.json"
   },
@@ -790,6 +798,10 @@
   {
     "name": "lfm2-8b-a1b",
     "file": "models/liquid_lfm2-8b-a1b.json"
+  },
+  {
+    "name": "ling-2.6-flash:free",
+    "file": "models/inclusionai_ling-2.6-flash:free.json"
   },
   {
     "name": "llama-3-70b-instruct",
@@ -1166,6 +1178,10 @@
   {
     "name": "palmyra-x5",
     "file": "models/writer_palmyra-x5.json"
+  },
+  {
+    "name": "pareto-code",
+    "file": "models/openrouter_pareto-code.json"
   },
   {
     "name": "phi-4",
