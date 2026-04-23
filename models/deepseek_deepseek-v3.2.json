@@ -24,7 +24,7 @@
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 32768,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -35,7 +35,6 @@
     "logprobs",
     "max_tokens",
     "min_p",
-    "parallel_tool_calls",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",

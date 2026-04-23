@@ -1,0 +1,52 @@
+{
+  "id": "arcee-ai/trinity-large-preview",
+  "canonical_slug": "arcee-ai/trinity-large-preview",
+  "hugging_face_id": "arcee-ai/Trinity-Large-Preview",
+  "name": "Arcee AI: Trinity Large Preview",
+  "created": 1769552670,
+  "description": "Trinity-Large-Preview is a frontier-scale open-weight language model from Arcee, built as a 400B-parameter sparse Mixture-of-Experts with 13B active parameters per token using 4-of-256 expert routing. It excels in creative writing,...",
+  "context_length": 131000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000015",
+    "completion": "0.00000045"
+  },
+  "top_provider": {
+    "context_length": 131000,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens",
+    "response_format",
+    "structured_outputs",
+    "temperature",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.8,
+    "top_p": 0.8,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/arcee-ai/trinity-large-preview/endpoints"
+  }
+}

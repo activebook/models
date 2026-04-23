@@ -1,0 +1,60 @@
+{
+  "id": "xiaomi/mimo-v2.5",
+  "canonical_slug": "xiaomi/mimo-v2.5-20260422",
+  "hugging_face_id": null,
+  "name": "Xiaomi: MiMo-V2.5",
+  "created": 1776874269,
+  "description": "MiMo-V2.5 is a native omnimodal model by Xiaomi. It delivers Pro-level agentic performance at roughly half the inference cost, while surpassing MiMo-V2-Omni in multimodal perception across image and video understanding...",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text+image+audio+video->text",
+    "input_modalities": [
+      "text",
+      "audio",
+      "image",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000004",
+    "completion": "0.000002",
+    "input_cache_read": "0.00000008"
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "response_format",
+    "stop",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 1,
+    "top_p": 0.95,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/xiaomi/mimo-v2.5-20260422/endpoints"
+  }
+}

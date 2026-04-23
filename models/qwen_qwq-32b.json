@@ -39,7 +39,7 @@
   ],
   "default_parameters": {},
   "knowledge_cutoff": "2024-06-30",
-  "expiration_date": null,
+  "expiration_date": "2026-04-29",
   "links": {
     "details": "/api/v1/models/qwen/qwq-32b/endpoints"
   }

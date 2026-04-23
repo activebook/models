@@ -932,6 +932,14 @@
     "file": "models/xiaomi_mimo-v2-pro.json"
   },
   {
+    "name": "mimo-v2.5",
+    "file": "models/xiaomi_mimo-v2.5.json"
+  },
+  {
+    "name": "mimo-v2.5-pro",
+    "file": "models/xiaomi_mimo-v2.5-pro.json"
+  },
+  {
     "name": "minimax-01",
     "file": "models/minimax_minimax-01.json"
   },
@@ -1194,6 +1202,10 @@
   {
     "name": "pixtral-large-2411",
     "file": "models/mistralai_pixtral-large-2411.json"
+  },
+  {
+    "name": "qianfan-ocr-fast:free",
+    "file": "models/baidu_qianfan-ocr-fast:free.json"
   },
   {
     "name": "qwen-2.5-72b-instruct",
@@ -1502,6 +1514,10 @@
   {
     "name": "tongyi-deepresearch-30b-a3b",
     "file": "models/alibaba_tongyi-deepresearch-30b-a3b.json"
+  },
+  {
+    "name": "trinity-large-preview",
+    "file": "models/arcee-ai_trinity-large-preview.json"
   },
   {
     "name": "trinity-large-preview:free",
