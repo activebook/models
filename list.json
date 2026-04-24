@@ -716,6 +716,10 @@
     "file": "models/tencent_hunyuan-a13b-instruct.json"
   },
   {
+    "name": "hy3-preview:free",
+    "file": "models/tencent_hy3-preview:free.json"
+  },
+  {
     "name": "inflection-3-pi",
     "file": "models/inflection_inflection-3-pi.json"
   },
@@ -798,6 +802,10 @@
   {
     "name": "lfm2-8b-a1b",
     "file": "models/liquid_lfm2-8b-a1b.json"
+  },
+  {
+    "name": "ling-2.6-1t:free",
+    "file": "models/inclusionai_ling-2.6-1t:free.json"
   },
   {
     "name": "ling-2.6-flash:free",
