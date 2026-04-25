@@ -23,13 +23,14 @@
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": null,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -44,7 +45,14 @@
     "top_k",
     "top_p"
   ],
-  "default_parameters": null,
+  "default_parameters": {
+    "temperature": 0.6,
+    "top_p": 0.95,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
   "knowledge_cutoff": "2024-03-31",
   "expiration_date": null,
   "links": {

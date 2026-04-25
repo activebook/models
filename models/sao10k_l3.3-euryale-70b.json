@@ -29,6 +29,7 @@
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
+    "logit_bias",
     "logprobs",
     "max_tokens",
     "min_p",

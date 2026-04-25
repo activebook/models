@@ -24,7 +24,7 @@
   },
   "top_provider": {
     "context_length": 163840,
-    "max_completion_tokens": null,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,

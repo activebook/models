@@ -192,6 +192,14 @@
     "file": "models/deepseek_deepseek-v3.2-speciale.json"
   },
   {
+    "name": "deepseek-v4-flash",
+    "file": "models/deepseek_deepseek-v4-flash.json"
+  },
+  {
+    "name": "deepseek-v4-pro",
+    "file": "models/deepseek_deepseek-v4-pro.json"
+  },
+  {
     "name": "devstral-2512",
     "file": "models/mistralai_devstral-2512.json"
   },
@@ -598,6 +606,14 @@
   {
     "name": "gpt-5.4-pro",
     "file": "models/openai_gpt-5.4-pro.json"
+  },
+  {
+    "name": "gpt-5.5",
+    "file": "models/openai_gpt-5.5.json"
+  },
+  {
+    "name": "gpt-5.5-pro",
+    "file": "models/openai_gpt-5.5-pro.json"
   },
   {
     "name": "gpt-audio",

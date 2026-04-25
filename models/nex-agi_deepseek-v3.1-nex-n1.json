@@ -29,6 +29,7 @@
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
+    "max_tokens",
     "response_format",
     "structured_outputs",
     "temperature",

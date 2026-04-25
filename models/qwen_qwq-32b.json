@@ -30,6 +30,7 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "max_tokens",
     "reasoning",
     "temperature",
     "tool_choice",
