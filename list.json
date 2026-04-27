@@ -1428,6 +1428,10 @@
     "file": "models/qwen_qwen3.5-plus-02-15.json"
   },
   {
+    "name": "qwen3.6-27b",
+    "file": "models/qwen_qwen3.6-27b.json"
+  },
+  {
     "name": "qwen3.6-plus",
     "file": "models/qwen_qwen3.6-plus.json"
   },
