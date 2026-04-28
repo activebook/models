@@ -1,31 +1,30 @@
 {
-  "id": "qwen/qwen3.6-27b",
-  "canonical_slug": "qwen/qwen3.6-27b-20260422",
-  "hugging_face_id": "Qwen/Qwen3.6-27B",
-  "name": "Qwen: Qwen3.6 27B",
-  "created": 1777255064,
-  "description": "Qwen3.6 27B is a dense 27-billion-parameter language model from the Qwen Team at Alibaba, released in April 2026. It features hybrid multimodal capabilities \u2014 accepting text, image, and video inputs...",
-  "context_length": 262144,
+  "id": "~moonshotai/kimi-latest",
+  "canonical_slug": "~moonshotai/kimi-latest",
+  "hugging_face_id": null,
+  "name": "MoonshotAI Kimi Latest",
+  "created": 1777318428,
+  "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
+  "context_length": 256000,
   "architecture": {
-    "modality": "text+image+video->text",
+    "modality": "text+image->text",
     "input_modalities": [
       "text",
-      "image",
-      "video"
+      "image"
     ],
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Qwen3",
+    "tokenizer": "Router",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000005",
-    "completion": "0.000002",
-    "input_cache_read": "0.00000025"
+    "prompt": "0.0000007448",
+    "completion": "0.000004655",
+    "input_cache_read": "0.0000001463"
   },
   "top_provider": {
-    "context_length": 262144,
+    "context_length": 256000,
     "max_completion_tokens": 65536,
     "is_moderated": false
   },
@@ -37,8 +36,10 @@
     "logprobs",
     "max_tokens",
     "min_p",
+    "parallel_tool_calls",
     "presence_penalty",
     "reasoning",
+    "reasoning_effort",
     "repetition_penalty",
     "response_format",
     "seed",
@@ -62,6 +63,6 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/qwen/qwen3.6-27b-20260422/endpoints"
+    "details": "/api/v1/models/~moonshotai/kimi-latest/endpoints"
   }
 }

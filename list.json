@@ -64,6 +64,10 @@
     "file": "models/anthropic_claude-haiku-4.5.json"
   },
   {
+    "name": "claude-haiku-latest",
+    "file": "models/~anthropic_claude-haiku-latest.json"
+  },
+  {
     "name": "claude-opus-4",
     "file": "models/anthropic_claude-opus-4.json"
   },
@@ -102,6 +106,10 @@
   {
     "name": "claude-sonnet-4.6",
     "file": "models/anthropic_claude-sonnet-4.6.json"
+  },
+  {
+    "name": "claude-sonnet-latest",
+    "file": "models/~anthropic_claude-sonnet-latest.json"
   },
   {
     "name": "codellama-7b-instruct-solidity",
@@ -306,6 +314,14 @@
   {
     "name": "gemini-3.1-pro-preview-customtools",
     "file": "models/google_gemini-3.1-pro-preview-customtools.json"
+  },
+  {
+    "name": "gemini-flash-latest",
+    "file": "models/~google_gemini-flash-latest.json"
+  },
+  {
+    "name": "gemini-pro-latest",
+    "file": "models/~google_gemini-pro-latest.json"
   },
   {
     "name": "gemma-2-27b-it",
@@ -624,6 +640,14 @@
     "file": "models/openai_gpt-audio-mini.json"
   },
   {
+    "name": "gpt-latest",
+    "file": "models/~openai_gpt-latest.json"
+  },
+  {
+    "name": "gpt-mini-latest",
+    "file": "models/~openai_gpt-mini-latest.json"
+  },
+  {
     "name": "gpt-oss-120b",
     "file": "models/openai_gpt-oss-120b.json"
   },
@@ -778,6 +802,10 @@
   {
     "name": "kimi-k2.6",
     "file": "models/moonshotai_kimi-k2.6.json"
+  },
+  {
+    "name": "kimi-latest",
+    "file": "models/~moonshotai_kimi-latest.json"
   },
   {
     "name": "l3-euryale-70b",
@@ -1428,8 +1456,24 @@
     "file": "models/qwen_qwen3.5-plus-02-15.json"
   },
   {
+    "name": "qwen3.5-plus-20260420",
+    "file": "models/qwen_qwen3.5-plus-20260420.json"
+  },
+  {
     "name": "qwen3.6-27b",
     "file": "models/qwen_qwen3.6-27b.json"
+  },
+  {
+    "name": "qwen3.6-35b-a3b",
+    "file": "models/qwen_qwen3.6-35b-a3b.json"
+  },
+  {
+    "name": "qwen3.6-flash",
+    "file": "models/qwen_qwen3.6-flash.json"
+  },
+  {
+    "name": "qwen3.6-max-preview",
+    "file": "models/qwen_qwen3.6-max-preview.json"
   },
   {
     "name": "qwen3.6-plus",
