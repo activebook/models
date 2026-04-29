@@ -828,6 +828,14 @@
     "file": "models/sao10k_l3.3-euryale-70b.json"
   },
   {
+    "name": "laguna-m.1:free",
+    "file": "models/poolside_laguna-m.1:free.json"
+  },
+  {
+    "name": "laguna-xs.2:free",
+    "file": "models/poolside_laguna-xs.2:free.json"
+  },
+  {
     "name": "lfm-2-24b-a2b",
     "file": "models/liquid_lfm-2-24b-a2b.json"
   },
@@ -850,6 +858,10 @@
   {
     "name": "ling-2.6-1t:free",
     "file": "models/inclusionai_ling-2.6-1t:free.json"
+  },
+  {
+    "name": "ling-2.6-flash",
+    "file": "models/inclusionai_ling-2.6-flash.json"
   },
   {
     "name": "ling-2.6-flash:free",
@@ -1126,6 +1138,10 @@
   {
     "name": "nemotron-3-nano-30b-a3b:free",
     "file": "models/nvidia_nemotron-3-nano-30b-a3b:free.json"
+  },
+  {
+    "name": "nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "file": "models/nvidia_nemotron-3-nano-omni-30b-a3b-reasoning:free.json"
   },
   {
     "name": "nemotron-3-super-120b-a12b",
