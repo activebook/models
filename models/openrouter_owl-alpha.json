@@ -1,55 +1,45 @@
 {
-  "id": "~moonshotai/kimi-latest",
-  "canonical_slug": "~moonshotai/kimi-latest",
+  "id": "openrouter/owl-alpha",
+  "canonical_slug": "openrouter/owl-alpha",
   "hugging_face_id": null,
-  "name": "MoonshotAI Kimi Latest",
-  "created": 1777318428,
-  "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
-  "context_length": 262142,
+  "name": "Owl Alpha",
+  "created": 1777398589,
+  "description": "Owl Alpha is a high-performance foundation model designed for agentic workloads. Natively supports tool use, and long-context tasks, with strong performance in code generation, automated workflows, and complex instruction execution....",
+  "context_length": 1048756,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text->text",
     "input_modalities": [
-      "text",
-      "image"
+      "text"
     ],
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Other",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000074",
-    "completion": "0.00000349",
-    "input_cache_read": "0.00000014"
+    "prompt": "0",
+    "completion": "0"
   },
   "top_provider": {
-    "context_length": 262142,
-    "max_completion_tokens": 262142,
+    "context_length": 1048756,
+    "max_completion_tokens": 262144,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
-    "include_reasoning",
     "logit_bias",
-    "logprobs",
     "max_tokens",
-    "min_p",
-    "parallel_tool_calls",
     "presence_penalty",
-    "reasoning",
-    "reasoning_effort",
     "repetition_penalty",
     "response_format",
     "seed",
     "stop",
     "structured_outputs",
     "temperature",
-    "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -63,6 +53,6 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~moonshotai/kimi-latest/endpoints"
+    "details": "/api/v1/models/openrouter/owl-alpha/endpoints"
   }
 }

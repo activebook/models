@@ -51,7 +51,7 @@
     "frequency_penalty": null
   },
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-05-07",
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-nano-12b-v2-vl/endpoints"
   }

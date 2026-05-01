@@ -19,11 +19,11 @@
   },
   "pricing": {
     "prompt": "0.000000039",
-    "completion": "0.00000019"
+    "completion": "0.00000018"
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 131072,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,

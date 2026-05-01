@@ -1,7 +1,7 @@
 {
   "id": "xiaomi/mimo-v2.5",
   "canonical_slug": "xiaomi/mimo-v2.5-20260422",
-  "hugging_face_id": null,
+  "hugging_face_id": "XiaomiMiMo/MiMo-V2.5",
   "name": "Xiaomi: MiMo-V2.5",
   "created": 1776874269,
   "description": "MiMo-V2.5 is a native omnimodal model by Xiaomi. It delivers Pro-level agentic performance at roughly half the inference cost, while surpassing MiMo-V2-Omni in multimodal perception across image and video understanding...",

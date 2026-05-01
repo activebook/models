@@ -672,6 +672,10 @@
     "file": "models/ibm-granite_granite-4.0-h-micro.json"
   },
   {
+    "name": "granite-4.1-8b",
+    "file": "models/ibm-granite_granite-4.1-8b.json"
+  },
+  {
     "name": "grok-3",
     "file": "models/x-ai_grok-3.json"
   },
@@ -714,6 +718,10 @@
   {
     "name": "grok-4.20-multi-agent-beta",
     "file": "models/x-ai_grok-4.20-multi-agent-beta.json"
+  },
+  {
+    "name": "grok-4.3",
+    "file": "models/x-ai_grok-4.3.json"
   },
   {
     "name": "grok-code-fast-1",
@@ -1250,6 +1258,10 @@
   {
     "name": "olmo-3.1-32b-think",
     "file": "models/allenai_olmo-3.1-32b-think.json"
+  },
+  {
+    "name": "owl-alpha",
+    "file": "models/openrouter_owl-alpha.json"
   },
   {
     "name": "palmyra-x5",
