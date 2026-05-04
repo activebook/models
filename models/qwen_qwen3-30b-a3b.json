@@ -18,12 +18,12 @@
     "instruct_type": "qwen3"
   },
   "pricing": {
-    "prompt": "0.00000008",
-    "completion": "0.00000028"
+    "prompt": "0.00000009",
+    "completion": "0.00000045"
   },
   "top_provider": {
     "context_length": 40960,
-    "max_completion_tokens": 16384,
+    "max_completion_tokens": 20000,
     "is_moderated": false
   },
   "per_request_limits": null,
