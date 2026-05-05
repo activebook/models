@@ -53,6 +53,7 @@
     "presence_penalty": null,
     "repetition_penalty": 1
   },
+  "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
   "expiration_date": null,
   "links": {

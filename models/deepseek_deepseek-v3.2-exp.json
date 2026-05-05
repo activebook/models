@@ -51,6 +51,7 @@
     "top_p": 0.95,
     "frequency_penalty": null
   },
+  "supported_voices": null,
   "knowledge_cutoff": "2025-07-31",
   "expiration_date": null,
   "links": {

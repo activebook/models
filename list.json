@@ -1080,6 +1080,10 @@
     "file": "models/mistralai_mistral-medium-3.json"
   },
   {
+    "name": "mistral-medium-3-5",
+    "file": "models/mistralai_mistral-medium-3-5.json"
+  },
+  {
     "name": "mistral-medium-3.1",
     "file": "models/mistralai_mistral-medium-3.1.json"
   },

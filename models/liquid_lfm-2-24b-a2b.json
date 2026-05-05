@@ -47,6 +47,7 @@
     "presence_penalty": null,
     "repetition_penalty": 1.05
   },
+  "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {

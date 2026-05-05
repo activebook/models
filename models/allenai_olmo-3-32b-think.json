@@ -48,6 +48,7 @@
     "top_p": 0.95,
     "frequency_penalty": null
   },
+  "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {

@@ -50,8 +50,9 @@
     "presence_penalty": null,
     "repetition_penalty": null
   },
+  "supported_voices": null,
   "knowledge_cutoff": "2024-10-31",
-  "expiration_date": "2026-05-05",
+  "expiration_date": "2026-05-11",
   "links": {
     "details": "/api/v1/models/anthropic/claude-3-7-sonnet-20250219/endpoints"
   }

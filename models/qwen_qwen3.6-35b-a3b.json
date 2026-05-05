@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000001612",
-    "completion": "0.00000096525",
-    "input_cache_read": "0.0000001612"
+    "prompt": "0.00000015",
+    "completion": "0.000001",
+    "input_cache_read": "0.00000005"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 65536,
+    "max_completion_tokens": 262144,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -44,6 +44,8 @@
     "stop",
     "structured_outputs",
     "temperature",
+    "tool_choice",
+    "tools",
     "top_k",
     "top_p"
   ],
@@ -52,6 +54,7 @@
     "top_p": 0.95,
     "top_k": 20
   },
+  "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {

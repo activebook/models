@@ -53,8 +53,9 @@
     "presence_penalty": null,
     "repetition_penalty": null
   },
+  "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-06-01",
   "links": {
     "details": "/api/v1/models/x-ai/grok-4.1-fast/endpoints"
   }

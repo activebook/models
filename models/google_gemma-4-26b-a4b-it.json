@@ -55,6 +55,7 @@
     "top_p": 0.95,
     "top_k": 64
   },
+  "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {

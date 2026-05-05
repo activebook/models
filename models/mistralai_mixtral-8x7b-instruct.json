@@ -47,6 +47,7 @@
   "default_parameters": {
     "temperature": 0.3
   },
+  "supported_voices": null,
   "knowledge_cutoff": "2023-12-31",
   "expiration_date": "2026-05-08",
   "links": {

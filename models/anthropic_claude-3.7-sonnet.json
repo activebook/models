@@ -28,8 +28,8 @@
   },
   "top_provider": {
     "context_length": 200000,
-    "max_completion_tokens": 128000,
-    "is_moderated": true
+    "max_completion_tokens": 64000,
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -40,7 +40,6 @@
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
     "top_p"
   ],
   "default_parameters": {
@@ -51,8 +50,9 @@
     "presence_penalty": null,
     "repetition_penalty": null
   },
+  "supported_voices": null,
   "knowledge_cutoff": "2024-10-31",
-  "expiration_date": "2026-05-05",
+  "expiration_date": "2026-05-11",
   "links": {
     "details": "/api/v1/models/anthropic/claude-3-7-sonnet-20250219/endpoints"
   }

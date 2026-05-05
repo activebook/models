@@ -20,12 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000001625",
-    "completion": "0.0000013"
+    "prompt": "0.00000015",
+    "completion": "0.000001",
+    "input_cache_read": "0.00000005"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 65536,
+    "max_completion_tokens": 262144,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -58,6 +59,7 @@
     "presence_penalty": null,
     "repetition_penalty": null
   },
+  "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {

@@ -42,6 +42,7 @@
     "top_p"
   ],
   "default_parameters": {},
+  "supported_voices": null,
   "knowledge_cutoff": "2021-09-30",
   "expiration_date": null,
   "links": {

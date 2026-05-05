@@ -40,6 +40,7 @@
     "top_p"
   ],
   "default_parameters": {},
+  "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
   "expiration_date": null,
   "links": {
