@@ -112,6 +112,10 @@
     "file": "models/~anthropic_claude-sonnet-latest.json"
   },
   {
+    "name": "cobuddy:free",
+    "file": "models/baidu_cobuddy:free.json"
+  },
+  {
     "name": "codellama-7b-instruct-solidity",
     "file": "models/alfredpros_codellama-7b-instruct-solidity.json"
   },
@@ -638,6 +642,10 @@
   {
     "name": "gpt-audio-mini",
     "file": "models/openai_gpt-audio-mini.json"
+  },
+  {
+    "name": "gpt-chat-latest",
+    "file": "models/openai_gpt-chat-latest.json"
   },
   {
     "name": "gpt-latest",
@@ -1278,6 +1286,10 @@
   {
     "name": "phi-4",
     "file": "models/microsoft_phi-4.json"
+  },
+  {
+    "name": "phi-4-mini-instruct",
+    "file": "models/microsoft_phi-4-mini-instruct.json"
   },
   {
     "name": "pixtral-12b",
