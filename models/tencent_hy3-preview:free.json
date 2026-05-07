@@ -50,7 +50,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-05-08",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/tencent/hy3-preview-20260421/endpoints"
   }
