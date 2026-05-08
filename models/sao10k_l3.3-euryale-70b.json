@@ -29,10 +29,8 @@
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
-    "logit_bias",
     "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "repetition_penalty",
     "response_format",
@@ -40,7 +38,6 @@
     "stop",
     "structured_outputs",
     "temperature",
-    "top_k",
     "top_logprobs",
     "top_p"
   ],

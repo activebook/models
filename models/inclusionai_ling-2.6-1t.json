@@ -1,16 +1,15 @@
 {
-  "id": "moonshotai/kimi-k2.5",
-  "canonical_slug": "moonshotai/kimi-k2.5-0127",
-  "hugging_face_id": "moonshotai/Kimi-K2.5",
-  "name": "MoonshotAI: Kimi K2.5",
-  "created": 1769487076,
-  "description": "Kimi K2.5 is Moonshot AI's native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi K2 with continued pretraining over approximately 15T mixed...",
+  "id": "inclusionai/ling-2.6-1t",
+  "canonical_slug": "inclusionai/ling-2.6-1t-20260423",
+  "hugging_face_id": null,
+  "name": "inclusionAI: Ling-2.6-1T",
+  "created": 1776948238,
+  "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company\u2019s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a \u201cfast...",
   "context_length": 262144,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text->text",
     "input_modalities": [
-      "text",
-      "image"
+      "text"
     ],
     "output_modalities": [
       "text"
@@ -19,25 +18,20 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000044",
-    "completion": "0.000002",
-    "input_cache_read": "0.00000022"
+    "prompt": "0.0000003",
+    "completion": "0.0000025",
+    "input_cache_read": "0.00000006"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 65535,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
-    "include_reasoning",
-    "logit_bias",
-    "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
-    "reasoning",
     "repetition_penalty",
     "response_format",
     "seed",
@@ -47,7 +41,6 @@
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -62,6 +55,6 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/moonshotai/kimi-k2.5-0127/endpoints"
+    "details": "/api/v1/models/inclusionai/ling-2.6-1t-20260423/endpoints"
   }
 }

@@ -308,6 +308,10 @@
     "file": "models/google_gemini-3.1-flash-image-preview.json"
   },
   {
+    "name": "gemini-3.1-flash-lite",
+    "file": "models/google_gemini-3.1-flash-lite.json"
+  },
+  {
     "name": "gemini-3.1-flash-lite-preview",
     "file": "models/google_gemini-3.1-flash-lite-preview.json"
   },
@@ -870,6 +874,10 @@
   {
     "name": "lfm2-8b-a1b",
     "file": "models/liquid_lfm2-8b-a1b.json"
+  },
+  {
+    "name": "ling-2.6-1t",
+    "file": "models/inclusionai_ling-2.6-1t.json"
   },
   {
     "name": "ling-2.6-1t:free",
