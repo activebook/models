@@ -776,6 +776,10 @@
     "file": "models/tencent_hunyuan-a13b-instruct.json"
   },
   {
+    "name": "hy3-preview",
+    "file": "models/tencent_hy3-preview.json"
+  },
+  {
     "name": "hy3-preview:free",
     "file": "models/tencent_hy3-preview:free.json"
   },
@@ -1566,6 +1570,10 @@
   {
     "name": "remm-slerp-l2-13b",
     "file": "models/undi95_remm-slerp-l2-13b.json"
+  },
+  {
+    "name": "ring-2.6-1t:free",
+    "file": "models/inclusionai_ring-2.6-1t:free.json"
   },
   {
     "name": "rnj-1-instruct",
