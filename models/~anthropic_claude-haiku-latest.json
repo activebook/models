@@ -7,10 +7,11 @@
   "description": "This model always redirects to the latest model in the Anthropic Claude Haiku family.",
   "context_length": 200000,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
+      "text",
       "image",
-      "text"
+      "file"
     ],
     "output_modalities": [
       "text"

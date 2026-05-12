@@ -1660,6 +1660,10 @@
     "file": "models/arcee-ai_trinity-large-thinking.json"
   },
   {
+    "name": "trinity-large-thinking:free",
+    "file": "models/arcee-ai_trinity-large-thinking:free.json"
+  },
+  {
     "name": "trinity-mini",
     "file": "models/arcee-ai_trinity-mini.json"
   },

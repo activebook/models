@@ -7,10 +7,11 @@
   "description": "This model always redirects to the latest model in the Claude Opus family.",
   "context_length": 1000000,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"

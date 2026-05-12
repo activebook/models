@@ -41,7 +41,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null,
+  "expiration_date": "2026-05-13",
   "links": {
     "details": "/api/v1/models/qwen/qwen-turbo-2024-11-01/endpoints"
   }
