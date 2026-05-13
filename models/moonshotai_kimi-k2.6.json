@@ -5,7 +5,7 @@
   "name": "MoonshotAI: Kimi K2.6",
   "created": 1776699402,
   "description": "Kimi K2.6 is Moonshot AI's next-generation multimodal model, designed for long-horizon coding, coding-driven UI/UX generation, and multi-agent orchestration. It handles complex end-to-end coding tasks across Python, Rust, and Go, and...",
-  "context_length": 32768,
+  "context_length": 262142,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [
@@ -24,8 +24,8 @@
     "input_cache_read": "0.00000025"
   },
   "top_provider": {
-    "context_length": 32768,
-    "max_completion_tokens": 32768,
+    "context_length": 262142,
+    "max_completion_tokens": 262142,
     "is_moderated": false
   },
   "per_request_limits": null,
