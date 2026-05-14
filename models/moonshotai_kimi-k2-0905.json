@@ -18,8 +18,8 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000004",
-    "completion": "0.000002"
+    "prompt": "0.0000006",
+    "completion": "0.0000025"
   },
   "top_provider": {
     "context_length": 262144,
@@ -47,7 +47,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": "2024-12-31",
-  "expiration_date": "2026-05-14",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2-0905/endpoints"
   }

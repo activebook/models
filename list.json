@@ -212,6 +212,10 @@
     "file": "models/deepseek_deepseek-v4-flash.json"
   },
   {
+    "name": "deepseek-v4-flash:free",
+    "file": "models/deepseek_deepseek-v4-flash:free.json"
+  },
+  {
     "name": "deepseek-v4-pro",
     "file": "models/deepseek_deepseek-v4-pro.json"
   },
