@@ -7,9 +7,10 @@
   "description": "Mistral's cutting-edge language model for coding released end of July 2025. Codestral specializes in low-latency, high-frequency tasks such as fill-in-the-middle (FIM), code correction and test generation.\n\n[Blog Post](https://mistral.ai/news/codestral-25-08)",
   "context_length": 256000,
   "architecture": {
-    "modality": "text->text",
+    "modality": "text+file->text",
     "input_modalities": [
-      "text"
+      "text",
+      "file"
     ],
     "output_modalities": [
       "text"

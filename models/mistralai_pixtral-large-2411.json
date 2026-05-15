@@ -7,10 +7,11 @@
   "description": "Pixtral Large is a 124B parameter, open-weight, multimodal model built on top of [Mistral Large 2](/mistralai/mistral-large-2411). The model is able to understand documents, charts and natural images. The model is...",
   "context_length": 131072,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"

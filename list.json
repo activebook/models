@@ -1324,6 +1324,10 @@
     "file": "models/mistralai_pixtral-large-2411.json"
   },
   {
+    "name": "qianfan-ocr-fast",
+    "file": "models/baidu_qianfan-ocr-fast.json"
+  },
+  {
     "name": "qianfan-ocr-fast:free",
     "file": "models/baidu_qianfan-ocr-fast:free.json"
   },

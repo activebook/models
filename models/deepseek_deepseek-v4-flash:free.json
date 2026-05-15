@@ -5,7 +5,7 @@
   "name": "DeepSeek: DeepSeek V4 Flash (free)",
   "created": 1777000666,
   "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
-  "context_length": 256000,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -22,8 +22,8 @@
     "completion": "0"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 256000,
+    "context_length": 1048576,
+    "max_completion_tokens": 384000,
     "is_moderated": false
   },
   "per_request_limits": null,

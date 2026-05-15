@@ -7,9 +7,10 @@
   "description": "Devstral Small 1.1 is a 24B parameter open-weight language model for software engineering agents, developed by Mistral AI in collaboration with All Hands AI. Finetuned from Mistral Small 3.1 and...",
   "context_length": 131072,
   "architecture": {
-    "modality": "text->text",
+    "modality": "text+file->text",
     "input_modalities": [
-      "text"
+      "text",
+      "file"
     ],
     "output_modalities": [
       "text"

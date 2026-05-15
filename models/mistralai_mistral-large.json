@@ -7,9 +7,10 @@
   "description": "This is Mistral AI's flagship model, Mistral Large 2 (version `mistral-large-2407`). It's a proprietary weights-available model and excels at reasoning, code, JSON, chat, and more. Read the launch announcement [here](https://mistral.ai/news/mistral-large-2407/)....",
   "context_length": 128000,
   "architecture": {
-    "modality": "text->text",
+    "modality": "text+file->text",
     "input_modalities": [
-      "text"
+      "text",
+      "file"
     ],
     "output_modalities": [
       "text"

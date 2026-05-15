@@ -7,10 +7,11 @@
   "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances...",
   "context_length": 131072,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"

@@ -7,10 +7,11 @@
   "description": "Voxtral Small is an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance. It excels at speech transcription, translation and audio understanding. Input audio...",
   "context_length": 32000,
   "architecture": {
-    "modality": "text+audio->text",
+    "modality": "text+file+audio->text",
     "input_modalities": [
       "text",
-      "audio"
+      "audio",
+      "file"
     ],
     "output_modalities": [
       "text"

@@ -7,10 +7,11 @@
   "description": "Mistral Medium 3.5 is a dense 128B instruction-following model from Mistral AI. It supports text and image inputs with text output, and is designed for agentic workflows, coding, and complex...",
   "context_length": 262144,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"

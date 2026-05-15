@@ -7,9 +7,10 @@
   "description": "Devstral Medium is a high-performance code generation and agentic reasoning model developed jointly by Mistral AI and All Hands AI. Positioned as a step up from Devstral Small, it achieves...",
   "context_length": 131072,
   "architecture": {
-    "modality": "text->text",
+    "modality": "text+file->text",
     "input_modalities": [
-      "text"
+      "text",
+      "file"
     ],
     "output_modalities": [
       "text"

@@ -7,10 +7,11 @@
   "description": "Mistral Large 3 2512 is Mistral\u2019s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license.",
   "context_length": 262144,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"

@@ -7,10 +7,11 @@
   "description": "Mistral Medium 3 is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances state-of-the-art reasoning and multimodal performance with 8\u00d7 lower cost...",
   "context_length": 131072,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"

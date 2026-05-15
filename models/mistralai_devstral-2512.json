@@ -7,9 +7,10 @@
   "description": "Devstral 2 is a state-of-the-art open-source model by Mistral AI specializing in agentic coding. It is a 123B-parameter dense transformer model supporting a 256K context window. Devstral 2 supports exploring...",
   "context_length": 262144,
   "architecture": {
-    "modality": "text->text",
+    "modality": "text+file->text",
     "input_modalities": [
-      "text"
+      "text",
+      "file"
     ],
     "output_modalities": [
       "text"
