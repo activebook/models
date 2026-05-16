@@ -5,7 +5,7 @@
   "name": "Magnum v4 72B",
   "created": 1729555200,
   "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthropic/claude-3-opus).\n\nThe model is fine-tuned on top of [Qwen2.5 72B](https://openrouter.ai/qwen/qwen-2.5-72b-instruct).",
-  "context_length": 16384,
+  "context_length": 32768,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

@@ -5,7 +5,7 @@
   "name": "Baidu: ERNIE 4.5 21B A3B",
   "created": 1755034167,
   "description": "A sophisticated text-based Mixture-of-Experts (MoE) model featuring 21B total parameters with 3B activated per token, delivering exceptional multimodal understanding and generation through heterogeneous MoE structures and modality-isolated routing. Supporting an...",
-  "context_length": 120000,
+  "context_length": 131072,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

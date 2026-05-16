@@ -1588,6 +1588,10 @@
     "file": "models/undi95_remm-slerp-l2-13b.json"
   },
   {
+    "name": "ring-2.6-1t",
+    "file": "models/inclusionai_ring-2.6-1t.json"
+  },
+  {
     "name": "ring-2.6-1t:free",
     "file": "models/inclusionai_ring-2.6-1t:free.json"
   },

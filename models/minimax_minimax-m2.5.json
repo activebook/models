@@ -5,7 +5,7 @@
   "name": "MiniMax: MiniMax M2.5",
   "created": 1770908502,
   "description": "MiniMax-M2.5 is a SOTA large language model designed for real-world productivity. Trained in a diverse range of complex real-world digital working environments, M2.5 builds upon the coding expertise of M2.1...",
-  "context_length": 196608,
+  "context_length": 204800,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

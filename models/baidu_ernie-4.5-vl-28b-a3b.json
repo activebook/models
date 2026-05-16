@@ -5,7 +5,7 @@
   "name": "Baidu: ERNIE 4.5 VL 28B A3B",
   "created": 1755032836,
   "description": "A powerful multimodal Mixture-of-Experts chat model featuring 28B total parameters with 3B activated per token, delivering exceptional text and vision understanding through its innovative heterogeneous MoE structure with modality-isolated routing....",
-  "context_length": 30000,
+  "context_length": 131072,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [

@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 VL 30B A3B Instruct",
   "created": 1759794476,
   "description": "Qwen3-VL-30B-A3B-Instruct is a multimodal model that unifies strong text generation with visual understanding for images and videos. Its Instruct variant optimizes instruction-following for general multimodal tasks. It excels in perception...",
-  "context_length": 131072,
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [

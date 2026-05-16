@@ -5,7 +5,7 @@
   "name": "Meta: Llama 3.1 8B Instruct",
   "created": 1721692800,
   "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
-  "context_length": 16384,
+  "context_length": 131072,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

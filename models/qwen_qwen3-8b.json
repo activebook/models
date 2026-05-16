@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 8B",
   "created": 1745876632,
   "description": "Qwen3-8B is a dense 8.2B parameter causal language model from the Qwen3 series, designed for both reasoning-heavy tasks and efficient dialogue. It supports seamless switching between \"thinking\" mode for math,...",
-  "context_length": 40960,
+  "context_length": 131072,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

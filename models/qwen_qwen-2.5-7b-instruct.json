@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen2.5 7B Instruct",
   "created": 1729036800,
   "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
-  "context_length": 32768,
+  "context_length": 131072,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

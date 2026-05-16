@@ -5,7 +5,7 @@
   "name": "DeepSeek: R1",
   "created": 1737381095,
   "description": "DeepSeek R1 is here: Performance on par with [OpenAI o1](/openai/o1), but open-sourced and with fully open reasoning tokens. It's 671B parameters in size, with 37B active in an inference pass....",
-  "context_length": 64000,
+  "context_length": 163840,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -35,8 +35,10 @@
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
+    "response_format",
     "seed",
     "stop",
+    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",

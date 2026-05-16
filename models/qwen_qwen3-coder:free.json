@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 Coder 480B A35B (free)",
   "created": 1753230546,
   "description": "Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation model developed by the Qwen team. It is optimized for agentic coding tasks such as function calling, tool use, and long-context reasoning over...",
-  "context_length": 262000,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

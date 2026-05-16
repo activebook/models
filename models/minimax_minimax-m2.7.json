@@ -5,7 +5,7 @@
   "name": "MiniMax: MiniMax M2.7",
   "created": 1773836697,
   "description": "MiniMax-M2.7 is a next-generation large language model designed for autonomous, real-world productivity and continuous improvement. Built to actively participate in its own evolution, M2.7 integrates advanced agentic capabilities through multi-agent...",
-  "context_length": 196608,
+  "context_length": 204800,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

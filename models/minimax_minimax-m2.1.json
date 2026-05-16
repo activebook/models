@@ -5,7 +5,7 @@
   "name": "MiniMax: MiniMax M2.1",
   "created": 1766454997,
   "description": "MiniMax-M2.1 is a lightweight, state-of-the-art large language model optimized for coding, agentic workflows, and modern application development. With only 10 billion activated parameters, it delivers a major jump in real-world...",
-  "context_length": 196608,
+  "context_length": 204800,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

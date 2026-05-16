@@ -1,11 +1,11 @@
 {
-  "id": "nvidia/nemotron-3-super-120b-a12b",
-  "canonical_slug": "nvidia/nemotron-3-super-120b-a12b-20230311",
-  "hugging_face_id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
-  "name": "NVIDIA: Nemotron 3 Super",
-  "created": 1773245239,
-  "description": "NVIDIA Nemotron 3 Super is a 120B-parameter open hybrid MoE model, activating just 12B parameters for maximum compute efficiency and accuracy in complex multi-agent applications. Built on a hybrid Mamba-Transformer...",
-  "context_length": 1000000,
+  "id": "inclusionai/ring-2.6-1t",
+  "canonical_slug": "inclusionai/ring-2.6-1t-20260508",
+  "hugging_face_id": null,
+  "name": "inclusionAI: Ring-2.6-1T",
+  "created": 1778247440,
+  "description": "Ring-2.6-1T is a 1T-parameter-scale thinking model with 63B active parameters, built for real-world agent workflows that require both strong capability and operational efficiency. It is optimized for coding agents, tool...",
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,22 +18,20 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000009",
-    "completion": "0.00000045"
+    "prompt": "0.000000075",
+    "completion": "0.000000625",
+    "input_cache_read": "0.000000015"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": null,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
-    "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
@@ -44,12 +42,11 @@
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
-    "temperature": 1,
-    "top_p": 0.95,
+    "temperature": null,
+    "top_p": null,
     "top_k": null,
     "frequency_penalty": null,
     "presence_penalty": null,
@@ -59,6 +56,6 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/nvidia/nemotron-3-super-120b-a12b-20230311/endpoints"
+    "details": "/api/v1/models/inclusionai/ring-2.6-1t-20260508/endpoints"
   }
 }

@@ -5,7 +5,7 @@
   "name": "WizardLM-2 8x22B",
   "created": 1713225600,
   "description": "WizardLM-2 8x22B is Microsoft AI's most advanced Wizard model. It demonstrates highly competitive performance compared to leading proprietary models, and it consistently outperforms all existing state-of-the-art opensource models. It is...",
-  "context_length": 65535,
+  "context_length": 65536,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -32,6 +32,7 @@
     "max_tokens",
     "presence_penalty",
     "repetition_penalty",
+    "response_format",
     "seed",
     "stop",
     "temperature",

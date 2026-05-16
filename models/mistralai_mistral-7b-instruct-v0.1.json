@@ -5,7 +5,7 @@
   "name": "Mistral: Mistral 7B Instruct v0.1",
   "created": 1695859200,
   "description": "A 7.3B parameter model that outperforms Llama 2 13B on all benchmarks, with optimizations for speed and context length.",
-  "context_length": 2824,
+  "context_length": 4096,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

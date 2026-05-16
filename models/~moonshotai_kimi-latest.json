@@ -5,7 +5,7 @@
   "name": "MoonshotAI Kimi Latest",
   "created": 1777318428,
   "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
-  "context_length": 262142,
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [

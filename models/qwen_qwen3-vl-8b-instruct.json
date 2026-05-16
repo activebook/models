@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 VL 8B Instruct",
   "created": 1760463308,
   "description": "Qwen3-VL-8B-Instruct is a multimodal vision-language model from the Qwen3-VL series, built for high-fidelity understanding and reasoning across text, images, and video. It features improved multimodal fusion with Interleaved-MRoPE for long-horizon...",
-  "context_length": 131072,
+  "context_length": 256000,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [

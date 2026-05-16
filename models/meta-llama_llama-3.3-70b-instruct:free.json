@@ -5,7 +5,7 @@
   "name": "Meta: Llama 3.3 70B Instruct (free)",
   "created": 1733506137,
   "description": "The Meta Llama 3.3 multilingual large language model (LLM) is a pretrained and instruction tuned generative model in 70B (text in/text out). The Llama 3.3 instruction tuned text only model...",
-  "context_length": 65536,
+  "context_length": 131072,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
