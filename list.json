@@ -332,6 +332,10 @@
     "file": "models/google_gemini-3.1-pro-preview-customtools.json"
   },
   {
+    "name": "gemini-3.5-flash",
+    "file": "models/google_gemini-3.5-flash.json"
+  },
+  {
     "name": "gemini-flash-latest",
     "file": "models/~google_gemini-flash-latest.json"
   },
