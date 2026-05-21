@@ -22,6 +22,7 @@
   "pricing": {
     "prompt": "0.000015",
     "completion": "0.00006",
+    "web_search": "0.01",
     "input_cache_read": "0.0000075"
   },
   "top_provider": {

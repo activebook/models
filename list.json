@@ -748,6 +748,10 @@
     "file": "models/x-ai_grok-4.3.json"
   },
   {
+    "name": "grok-build-0.1",
+    "file": "models/x-ai_grok-build-0.1.json"
+  },
+  {
     "name": "grok-code-fast-1",
     "file": "models/x-ai_grok-code-fast-1.json"
   },
