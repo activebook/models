@@ -50,7 +50,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-05-28",
   "links": {
     "details": "/api/v1/models/baidu/qianfan-ocr-fast-20260420/endpoints"
   }
