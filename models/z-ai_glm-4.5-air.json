@@ -35,6 +35,7 @@
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
+    "response_format",
     "seed",
     "stop",
     "temperature",
