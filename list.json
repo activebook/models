@@ -844,6 +844,10 @@
     "file": "models/moonshotai_kimi-k2.6.json"
   },
   {
+    "name": "kimi-k2.6:free",
+    "file": "models/moonshotai_kimi-k2.6:free.json"
+  },
+  {
     "name": "kimi-latest",
     "file": "models/~moonshotai_kimi-latest.json"
   },
