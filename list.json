@@ -96,6 +96,14 @@
     "file": "models/anthropic_claude-opus-4.7-fast.json"
   },
   {
+    "name": "claude-opus-4.8",
+    "file": "models/anthropic_claude-opus-4.8.json"
+  },
+  {
+    "name": "claude-opus-4.8-fast",
+    "file": "models/anthropic_claude-opus-4.8-fast.json"
+  },
+  {
     "name": "claude-opus-latest",
     "file": "models/~anthropic_claude-opus-latest.json"
   },
@@ -1678,6 +1686,10 @@
   {
     "name": "step-3.5-flash:free",
     "file": "models/stepfun_step-3.5-flash:free.json"
+  },
+  {
+    "name": "step-3.7-flash",
+    "file": "models/stepfun_step-3.7-flash.json"
   },
   {
     "name": "tongyi-deepresearch-30b-a3b",

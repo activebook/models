@@ -51,7 +51,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-05-31",
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2-pro-20260318/endpoints"
   }
