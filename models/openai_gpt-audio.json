@@ -49,7 +49,10 @@
   "default_parameters": {
     "temperature": null,
     "top_p": null,
-    "frequency_penalty": null
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
