@@ -40,7 +40,6 @@
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
     "top_p"
   ],
   "default_parameters": {

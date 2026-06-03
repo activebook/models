@@ -31,6 +31,7 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
     "max_tokens",
     "reasoning",
@@ -38,6 +39,7 @@
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_p"
   ],
   "default_parameters": {

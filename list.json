@@ -272,6 +272,10 @@
     "file": "models/openrouter_free.json"
   },
   {
+    "name": "fusion",
+    "file": "models/openrouter_fusion.json"
+  },
+  {
     "name": "gemini-2.0-flash-001",
     "file": "models/google_gemini-2.0-flash-001.json"
   },
