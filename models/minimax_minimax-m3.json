@@ -1,7 +1,7 @@
 {
   "id": "minimax/minimax-m3",
   "canonical_slug": "minimax/minimax-m3-20260531",
-  "hugging_face_id": "MiniMaxAI/MiniMax-M3",
+  "hugging_face_id": "",
   "name": "MiniMax: MiniMax M3",
   "created": 1780245374,
   "description": "MiniMax-M3 is a multimodal foundation model from MiniMax. It supports text, image, and video inputs with text output, a 1M-token context window, and is suited for long-horizon agentic work, coding,...",
@@ -31,7 +31,6 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
     "max_tokens",
     "reasoning",
@@ -39,7 +38,6 @@
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
     "top_p"
   ],
   "default_parameters": {

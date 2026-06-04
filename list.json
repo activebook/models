@@ -1592,6 +1592,10 @@
     "file": "models/qwen_qwen3.7-max.json"
   },
   {
+    "name": "qwen3.7-plus",
+    "file": "models/qwen_qwen3.7-plus.json"
+  },
+  {
     "name": "qwq-32b",
     "file": "models/qwen_qwq-32b.json"
   },
