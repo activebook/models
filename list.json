@@ -1220,6 +1220,18 @@
     "file": "models/nvidia_nemotron-3-super-120b-a12b:free.json"
   },
   {
+    "name": "nemotron-3-ultra-550b-a55b",
+    "file": "models/nvidia_nemotron-3-ultra-550b-a55b.json"
+  },
+  {
+    "name": "nemotron-3-ultra-550b-a55b:free",
+    "file": "models/nvidia_nemotron-3-ultra-550b-a55b:free.json"
+  },
+  {
+    "name": "nemotron-3.5-content-safety:free",
+    "file": "models/nvidia_nemotron-3.5-content-safety:free.json"
+  },
+  {
     "name": "nemotron-nano-12b-v2-vl",
     "file": "models/nvidia_nemotron-nano-12b-v2-vl.json"
   },
