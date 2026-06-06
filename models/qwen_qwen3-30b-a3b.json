@@ -23,7 +23,7 @@
   },
   "top_provider": {
     "context_length": 40960,
-    "max_completion_tokens": 20000,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -55,7 +55,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": "2026-06-05",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-30b-a3b-04-28/endpoints"
   }
