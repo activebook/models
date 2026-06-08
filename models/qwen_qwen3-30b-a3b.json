@@ -18,8 +18,8 @@
     "instruct_type": "qwen3"
   },
   "pricing": {
-    "prompt": "0.00000009",
-    "completion": "0.00000045"
+    "prompt": "0.00000012",
+    "completion": "0.0000005"
   },
   "top_provider": {
     "context_length": 40960,
