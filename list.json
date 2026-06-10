@@ -60,6 +60,14 @@
     "file": "models/qiniu_claude-4.6-sonnet.json"
   },
   {
+    "name": "claude-fable-5",
+    "file": "models/anthropic_claude-fable-5.json"
+  },
+  {
+    "name": "claude-fable-latest",
+    "file": "models/~anthropic_claude-fable-latest.json"
+  },
+  {
     "name": "claude-haiku-4.5",
     "file": "models/anthropic_claude-haiku-4.5.json"
   },
