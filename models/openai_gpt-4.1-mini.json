@@ -48,5 +48,56 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-4.1-mini-2025-04-14/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 919,
+        "win_rate": 30.5,
+        "rank": 91
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1046,
+        "win_rate": 47.5,
+        "rank": 88
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1076,
+        "win_rate": 49.2,
+        "rank": 75
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1143,
+        "win_rate": 58.5,
+        "rank": 62
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1018,
+        "win_rate": 45.4,
+        "rank": 82
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1043,
+        "win_rate": 47.8,
+        "rank": 89
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 22.9,
+      "coding_index": 18.5,
+      "agentic_index": 25.2
+    }
   }
 }

@@ -54,5 +54,30 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-3.1-flash-image-preview-20260226/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "graphicdesign",
+        "elo": 1285,
+        "win_rate": 66.7,
+        "rank": 1
+      },
+      {
+        "arena": "models",
+        "category": "image",
+        "elo": 1305,
+        "win_rate": 65.5,
+        "rank": 1
+      },
+      {
+        "arena": "models",
+        "category": "logo",
+        "elo": 1279,
+        "win_rate": 63.5,
+        "rank": 1
+      }
+    ]
   }
 }

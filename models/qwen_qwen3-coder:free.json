@@ -44,5 +44,49 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-coder-480b-a35b-07-25/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1196,
+        "win_rate": 61.2,
+        "rank": 51
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1125,
+        "win_rate": 54.9,
+        "rank": 71
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1174,
+        "win_rate": 59,
+        "rank": 50
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1171,
+        "win_rate": 61.5,
+        "rank": 52
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1204,
+        "win_rate": 61.7,
+        "rank": 52
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 24.8,
+      "coding_index": 24.6,
+      "agentic_index": 18.3
+    }
   }
 }

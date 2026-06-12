@@ -60,5 +60,56 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-pro/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1165,
+        "win_rate": 52.2,
+        "rank": 52
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1206,
+        "win_rate": 58.3,
+        "rank": 48
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1289,
+        "win_rate": 71.8,
+        "rank": 11
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1185,
+        "win_rate": 55.1,
+        "rank": 48
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1200,
+        "win_rate": 60.5,
+        "rank": 46
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1212,
+        "win_rate": 58.8,
+        "rank": 46
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 34.6,
+      "coding_index": 32,
+      "agentic_index": 32.7
+    }
   }
 }

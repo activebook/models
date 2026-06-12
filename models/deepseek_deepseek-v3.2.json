@@ -59,5 +59,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v3.2-20251201/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1217,
+        "win_rate": 51.8,
+        "rank": 37
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1111,
+        "win_rate": 39.6,
+        "rank": 38
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1219,
+        "win_rate": 51.2,
+        "rank": 42
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1204,
+        "win_rate": 49.8,
+        "rank": 44
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1206,
+        "win_rate": 48.7,
+        "rank": 43
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1088,
+        "win_rate": 41.2,
+        "rank": 50
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1211,
+        "win_rate": 49.5,
+        "rank": 41
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1222,
+        "win_rate": 51.9,
+        "rank": 43
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 41.7,
+      "coding_index": 36.7,
+      "agentic_index": 52.9
+    }
   }
 }

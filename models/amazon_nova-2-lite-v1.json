@@ -51,5 +51,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/amazon/nova-2-lite-v1/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 29.7,
+      "coding_index": 23.9,
+      "agentic_index": 32.9
+    }
   }
 }

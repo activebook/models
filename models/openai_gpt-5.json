@@ -55,5 +55,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5-2025-08-07/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1138,
+        "win_rate": 41.4,
+        "rank": 64
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1185,
+        "win_rate": 49,
+        "rank": 24
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1221,
+        "win_rate": 54.7,
+        "rank": 40
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1282,
+        "win_rate": 63.3,
+        "rank": 14
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1259,
+        "win_rate": 59.5,
+        "rank": 26
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1246,
+        "win_rate": 64.1,
+        "rank": 12
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1239,
+        "win_rate": 58.3,
+        "rank": 30
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1230,
+        "win_rate": 53.7,
+        "rank": 39
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 44.6,
+      "coding_index": 36,
+      "agentic_index": 54.7
+    }
   }
 }

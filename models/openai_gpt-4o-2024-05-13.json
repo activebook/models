@@ -53,5 +53,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-4o-2024-05-13/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 24.2,
+      "agentic_index": null
+    }
   }
 }

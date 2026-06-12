@@ -46,5 +46,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/anthropic/claude-3-haiku/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 12.3,
+      "coding_index": 6.7,
+      "agentic_index": 7
+    }
   }
 }

@@ -50,5 +50,56 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-235b-a22b-07-25/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1076,
+        "win_rate": 41.1,
+        "rank": 76
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1091,
+        "win_rate": 42.7,
+        "rank": 77
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1101,
+        "win_rate": 47.7,
+        "rank": 73
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1025,
+        "win_rate": 35.2,
+        "rank": 85
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1023,
+        "win_rate": 38.8,
+        "rank": 81
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1103,
+        "win_rate": 43.7,
+        "rank": 79
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 25,
+      "coding_index": 22.1,
+      "agentic_index": 22.8
+    }
   }
 }

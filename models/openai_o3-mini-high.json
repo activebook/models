@@ -50,5 +50,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/o3-mini-high-2025-01-31/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 25.2,
+      "coding_index": 17.3,
+      "agentic_index": 20.9
+    }
   }
 }

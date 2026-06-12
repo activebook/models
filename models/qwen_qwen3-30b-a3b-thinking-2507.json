@@ -53,5 +53,28 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-30b-a3b-thinking-2507/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 968,
+        "win_rate": 33.3,
+        "rank": 89
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 976,
+        "win_rate": 35.5,
+        "rank": 97
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 22.4,
+      "coding_index": 14.6,
+      "agentic_index": 17.7
+    }
   }
 }

@@ -45,5 +45,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemma-3n-e4b-it/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 6.4,
+      "coding_index": 4.2,
+      "agentic_index": 1.7
+    }
   }
 }

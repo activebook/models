@@ -58,5 +58,30 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5-image-mini/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "graphicdesign",
+        "elo": 1194,
+        "win_rate": 50.5,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "image",
+        "elo": 1211,
+        "win_rate": 51.1,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "logo",
+        "elo": 1225,
+        "win_rate": 53.7,
+        "rank": 3
+      }
+    ]
   }
 }

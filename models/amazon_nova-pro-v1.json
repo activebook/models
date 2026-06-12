@@ -42,5 +42,21 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/amazon/nova-pro-v1/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 841,
+        "win_rate": 21.4,
+        "rank": 106
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 13.5,
+      "coding_index": 11,
+      "agentic_index": 4.7
+    }
   }
 }

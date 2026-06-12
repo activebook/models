@@ -52,5 +52,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/prime-intellect/intellect-3-20251126/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1168,
+        "win_rate": 45.2,
+        "rank": 51
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1003,
+        "win_rate": 27,
+        "rank": 42
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1159,
+        "win_rate": 42.8,
+        "rank": 64
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1127,
+        "win_rate": 39,
+        "rank": 70
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1150,
+        "win_rate": 41.4,
+        "rank": 59
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1049,
+        "win_rate": 34.4,
+        "rank": 58
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1133,
+        "win_rate": 39.1,
+        "rank": 63
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1162,
+        "win_rate": 43.1,
+        "rank": 64
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 22.2,
+      "coding_index": 19.1,
+      "agentic_index": 19.8
+    }
   }
 }

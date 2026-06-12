@@ -56,5 +56,21 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2-thinking-20251106/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1158,
+        "win_rate": 48.8,
+        "rank": 67
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 40.9,
+      "coding_index": 34.8,
+      "agentic_index": 47.9
+    }
   }
 }

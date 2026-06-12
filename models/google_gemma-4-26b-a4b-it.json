@@ -60,5 +60,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemma-4-26b-a4b-it-20260403/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 31.2,
+      "coding_index": 22.4,
+      "agentic_index": 32.1
+    }
   }
 }

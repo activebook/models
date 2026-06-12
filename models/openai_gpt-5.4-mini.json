@@ -55,5 +55,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5.4-mini-20260317/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 48.9,
+      "coding_index": 51.5,
+      "agentic_index": 58.9
+    }
   }
 }

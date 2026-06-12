@@ -51,5 +51,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/mistralai/mistral-medium-3.1/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1165,
+        "win_rate": 44.8,
+        "rank": 54
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1042,
+        "win_rate": 30.8,
+        "rank": 41
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1173,
+        "win_rate": 45.1,
+        "rank": 57
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1192,
+        "win_rate": 47.6,
+        "rank": 49
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1146,
+        "win_rate": 40.7,
+        "rank": 61
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1049,
+        "win_rate": 38.2,
+        "rank": 60
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1155,
+        "win_rate": 43.4,
+        "rank": 57
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1178,
+        "win_rate": 46,
+        "rank": 58
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 21.3,
+      "coding_index": 18.3,
+      "agentic_index": 25.3
+    }
   }
 }

@@ -59,5 +59,98 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.7-20251222/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "androidnative",
+        "elo": 1136,
+        "win_rate": 56,
+        "rank": 14
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1135,
+        "win_rate": 44.9,
+        "rank": 17
+      },
+      {
+        "arena": "agents",
+        "category": "godotgamedev",
+        "elo": 1131,
+        "win_rate": 39.1,
+        "rank": 18
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1197,
+        "win_rate": 49.8,
+        "rank": 14
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1275,
+        "win_rate": 55,
+        "rank": 23
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1213,
+        "win_rate": 49,
+        "rank": 15
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1270,
+        "win_rate": 55.6,
+        "rank": 23
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1241,
+        "win_rate": 52,
+        "rank": 29
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1263,
+        "win_rate": 57,
+        "rank": 24
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1201,
+        "win_rate": 54.7,
+        "rank": 26
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1253,
+        "win_rate": 51.1,
+        "rank": 28
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1272,
+        "win_rate": 56,
+        "rank": 21
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 42.1,
+      "coding_index": 36.3,
+      "agentic_index": 55
+    }
   }
 }

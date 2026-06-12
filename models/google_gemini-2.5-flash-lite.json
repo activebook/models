@@ -60,5 +60,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-flash-lite/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 17.6,
+      "coding_index": 9.5,
+      "agentic_index": 6.1
+    }
   }
 }

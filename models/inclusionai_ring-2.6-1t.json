@@ -57,5 +57,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/inclusionai/ring-2.6-1t-20260508/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 38.5,
+      "coding_index": 33.3,
+      "agentic_index": 51.5
+    }
   }
 }

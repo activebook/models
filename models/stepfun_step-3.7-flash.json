@@ -57,5 +57,56 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/stepfun/step-3.7-flash-20260528/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1198,
+        "win_rate": 43.2,
+        "rank": 43
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1219,
+        "win_rate": 47,
+        "rank": 43
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1223,
+        "win_rate": 49.4,
+        "rank": 34
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1118,
+        "win_rate": 40.7,
+        "rank": 45
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1208,
+        "win_rate": 45.5,
+        "rank": 44
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1227,
+        "win_rate": 48.1,
+        "rank": 40
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 42.6,
+      "coding_index": 37.1,
+      "agentic_index": 59.5
+    }
   }
 }

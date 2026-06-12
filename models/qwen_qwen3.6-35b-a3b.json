@@ -20,12 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000014",
-    "completion": "0.000001"
+    "prompt": "0.00000015",
+    "completion": "0.000001",
+    "input_cache_read": "0.00000005"
   },
   "top_provider": {
-    "context_length": 262140,
-    "max_completion_tokens": 262140,
+    "context_length": 262144,
+    "max_completion_tokens": 262144,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -60,5 +61,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3.6-35b-a3b-20260415/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 43.5,
+      "coding_index": 35.2,
+      "agentic_index": 58.3
+    }
   }
 }

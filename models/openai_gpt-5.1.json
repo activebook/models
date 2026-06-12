@@ -55,5 +55,77 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5.1-20251113/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1134,
+        "win_rate": 43.8,
+        "rank": 27
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1144,
+        "win_rate": 43.9,
+        "rank": 62
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1162,
+        "win_rate": 48.6,
+        "rank": 31
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1223,
+        "win_rate": 53.1,
+        "rank": 38
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1248,
+        "win_rate": 58,
+        "rank": 26
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1251,
+        "win_rate": 55.9,
+        "rank": 27
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1207,
+        "win_rate": 57.4,
+        "rank": 24
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1223,
+        "win_rate": 53,
+        "rank": 36
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1233,
+        "win_rate": 54.1,
+        "rank": 36
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 47.7,
+      "coding_index": 44.7,
+      "agentic_index": 51.3
+    }
   }
 }

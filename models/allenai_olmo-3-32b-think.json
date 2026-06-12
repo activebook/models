@@ -53,5 +53,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/allenai/olmo-3-32b-think-20251121/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 12.1,
+      "coding_index": 10.5,
+      "agentic_index": 0
+    }
   }
 }

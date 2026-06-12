@@ -53,5 +53,49 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/minimax/minimax-m3-20260531/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1348,
+        "win_rate": 63.7,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1319,
+        "win_rate": 59.3,
+        "rank": 9
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1291,
+        "win_rate": 57.9,
+        "rank": 10
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1305,
+        "win_rate": 57.4,
+        "rank": 12
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1313,
+        "win_rate": 58.4,
+        "rank": 8
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 54.7,
+      "coding_index": 43.4,
+      "agentic_index": 68.6
+    }
   }
 }

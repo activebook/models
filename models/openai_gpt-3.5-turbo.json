@@ -49,5 +49,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-3.5-turbo/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 10.7,
+      "agentic_index": null
+    }
   }
 }

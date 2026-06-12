@@ -50,5 +50,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/ibm-granite/granite-4.0-h-micro/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 7.7,
+      "coding_index": 5,
+      "agentic_index": 4.2
+    }
   }
 }

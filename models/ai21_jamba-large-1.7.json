@@ -42,5 +42,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/ai21/jamba-large-1.7/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 10.9,
+      "coding_index": 7.8,
+      "agentic_index": 4.5
+    }
   }
 }

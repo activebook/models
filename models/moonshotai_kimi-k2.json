@@ -46,5 +46,49 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1086,
+        "win_rate": 51.7,
+        "rank": 78
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1062,
+        "win_rate": 49.4,
+        "rank": 79
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1047,
+        "win_rate": 46.4,
+        "rank": 80
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1088,
+        "win_rate": 55.1,
+        "rank": 71
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1096,
+        "win_rate": 53.1,
+        "rank": 81
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 26.3,
+      "coding_index": 22.1,
+      "agentic_index": 24.3
+    }
   }
 }

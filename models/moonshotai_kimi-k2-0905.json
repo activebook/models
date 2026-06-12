@@ -50,5 +50,28 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2-0905/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1150,
+        "win_rate": 48.5,
+        "rank": 67
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1152,
+        "win_rate": 48.3,
+        "rank": 69
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 30.9,
+      "coding_index": 25.9,
+      "agentic_index": 37.7
+    }
   }
 }

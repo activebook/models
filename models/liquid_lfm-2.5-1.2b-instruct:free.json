@@ -49,5 +49,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/liquid/lfm-2.5-1.2b-instruct-20260120/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 8,
+      "coding_index": 0.8,
+      "agentic_index": 3.6
+    }
   }
 }

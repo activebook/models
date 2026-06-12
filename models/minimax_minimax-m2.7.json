@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000027",
-    "completion": "0.00000108",
-    "input_cache_read": "0.000000054"
+    "prompt": "0.00000025",
+    "completion": "0.000001",
+    "input_cache_read": "0.00000005"
   },
   "top_provider": {
-    "context_length": 204800,
+    "context_length": 196608,
     "max_completion_tokens": 131072,
     "is_moderated": false
   },
@@ -62,5 +62,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/minimax/minimax-m2.7-20260318/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1274,
+        "win_rate": 51,
+        "rank": 24
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1175,
+        "win_rate": 47.3,
+        "rank": 27
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1283,
+        "win_rate": 53.3,
+        "rank": 19
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1274,
+        "win_rate": 53.3,
+        "rank": 17
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1278,
+        "win_rate": 53.7,
+        "rank": 20
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1195,
+        "win_rate": 51.1,
+        "rank": 30
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1267,
+        "win_rate": 50.4,
+        "rank": 24
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1286,
+        "win_rate": 54,
+        "rank": 18
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 49.6,
+      "coding_index": 41.9,
+      "agentic_index": 61.5
+    }
   }
 }

@@ -64,5 +64,112 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/z-ai/glm-5.1-20260406/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1342,
+        "win_rate": 66.6,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1333,
+        "win_rate": 63.4,
+        "rank": 4
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1366,
+        "win_rate": 67,
+        "rank": 2
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1338,
+        "win_rate": 63.3,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1293,
+        "win_rate": 64.6,
+        "rank": 4
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1340,
+        "win_rate": 65.3,
+        "rank": 4
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1315,
+        "win_rate": 60.9,
+        "rank": 7
+      },
+      {
+        "arena": "agents",
+        "category": "agenticgamedev",
+        "elo": 1217,
+        "win_rate": 54.4,
+        "rank": 4
+      },
+      {
+        "arena": "agents",
+        "category": "agenticslides",
+        "elo": 1256,
+        "win_rate": 54.3,
+        "rank": 2
+      },
+      {
+        "arena": "agents",
+        "category": "androidnative",
+        "elo": 1220,
+        "win_rate": 50.1,
+        "rank": 8
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1251,
+        "win_rate": 58,
+        "rank": 6
+      },
+      {
+        "arena": "agents",
+        "category": "godotgamedev",
+        "elo": 1236,
+        "win_rate": 56,
+        "rank": 4
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1243,
+        "win_rate": 55.5,
+        "rank": 6
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1269,
+        "win_rate": 56.6,
+        "rank": 6
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 51.4,
+      "coding_index": 43.4,
+      "agentic_index": 67.1
+    }
   }
 }

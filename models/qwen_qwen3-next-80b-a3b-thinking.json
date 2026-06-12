@@ -56,5 +56,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-next-80b-a3b-thinking-2509/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 26.7,
+      "coding_index": 19.5,
+      "agentic_index": 23.6
+    }
   }
 }

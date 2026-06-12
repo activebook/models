@@ -45,5 +45,12 @@
   "expiration_date": "2026-06-19",
   "links": {
     "details": "/api/v1/models/meta-llama/llama-3-70b-instruct/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 8.9,
+      "coding_index": 6.8,
+      "agentic_index": 0
+    }
   }
 }

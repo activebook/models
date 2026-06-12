@@ -60,5 +60,56 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2.5-pro-20260422/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1335,
+        "win_rate": 64.1,
+        "rank": 8
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1323,
+        "win_rate": 61.8,
+        "rank": 8
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1311,
+        "win_rate": 62.8,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1332,
+        "win_rate": 62.8,
+        "rank": 7
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1309,
+        "win_rate": 60.6,
+        "rank": 11
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1310,
+        "win_rate": 60.1,
+        "rank": 9
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 53.8,
+      "coding_index": 45.5,
+      "agentic_index": 67.4
+    }
   }
 }

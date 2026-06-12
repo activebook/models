@@ -53,5 +53,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 21.4,
+      "coding_index": 14.8,
+      "agentic_index": 23.9
+    }
   }
 }

@@ -56,5 +56,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3.6-plus-04-02/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1280,
+        "win_rate": 51.5,
+        "rank": 21
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1179,
+        "win_rate": 48.3,
+        "rank": 26
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1279,
+        "win_rate": 52.1,
+        "rank": 22
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1266,
+        "win_rate": 51.1,
+        "rank": 22
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1285,
+        "win_rate": 53.6,
+        "rank": 17
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1220,
+        "win_rate": 52.6,
+        "rank": 18
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1288,
+        "win_rate": 52.4,
+        "rank": 20
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1263,
+        "win_rate": 52,
+        "rank": 26
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 50,
+      "coding_index": 42.9,
+      "agentic_index": 61.7
+    }
   }
 }

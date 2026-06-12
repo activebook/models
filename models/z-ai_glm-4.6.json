@@ -60,5 +60,91 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.6/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "androidnative",
+        "elo": 1106,
+        "win_rate": 52.4,
+        "rank": 17
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1116,
+        "win_rate": 42.3,
+        "rank": 20
+      },
+      {
+        "arena": "agents",
+        "category": "godotgamedev",
+        "elo": 1218,
+        "win_rate": 53,
+        "rank": 8
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1194,
+        "win_rate": 49.3,
+        "rank": 17
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1210,
+        "win_rate": 54,
+        "rank": 39
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1218,
+        "win_rate": 54.3,
+        "rank": 45
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1208,
+        "win_rate": 52.8,
+        "rank": 41
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1222,
+        "win_rate": 54.6,
+        "rank": 34
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1166,
+        "win_rate": 52.1,
+        "rank": 35
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1215,
+        "win_rate": 54,
+        "rank": 40
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1220,
+        "win_rate": 54.4,
+        "rank": 44
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 32.5,
+      "coding_index": 29.5,
+      "agentic_index": 41.6
+    }
   }
 }

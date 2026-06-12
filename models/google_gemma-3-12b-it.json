@@ -51,5 +51,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemma-3-12b-it/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 8.8,
+      "coding_index": 6.3,
+      "agentic_index": 3.6
+    }
   }
 }

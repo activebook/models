@@ -47,5 +47,56 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/o4-mini-2025-04-16/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 935,
+        "win_rate": 34,
+        "rank": 89
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1028,
+        "win_rate": 46.4,
+        "rank": 89
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1034,
+        "win_rate": 50,
+        "rank": 83
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1076,
+        "win_rate": 50,
+        "rank": 74
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1041,
+        "win_rate": 46.9,
+        "rank": 79
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1031,
+        "win_rate": 47.1,
+        "rank": 91
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 33.1,
+      "coding_index": 25.6,
+      "agentic_index": 36.1
+    }
   }
 }

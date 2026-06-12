@@ -60,5 +60,112 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.6-sonnet-20260217/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "agenticgamedev",
+        "elo": 1200,
+        "win_rate": 50.9,
+        "rank": 6
+      },
+      {
+        "arena": "agents",
+        "category": "androidnative",
+        "elo": 1236,
+        "win_rate": 61.8,
+        "rank": 5
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1292,
+        "win_rate": 63.1,
+        "rank": 4
+      },
+      {
+        "arena": "agents",
+        "category": "godotgamedev",
+        "elo": 1277,
+        "win_rate": 60.6,
+        "rank": 1
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1265,
+        "win_rate": 59.2,
+        "rank": 3
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1271,
+        "win_rate": 55.8,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1321,
+        "win_rate": 62.7,
+        "rank": 10
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1273,
+        "win_rate": 60.7,
+        "rank": 7
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1326,
+        "win_rate": 62.5,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1324,
+        "win_rate": 63.5,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1318,
+        "win_rate": 61.5,
+        "rank": 11
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1256,
+        "win_rate": 60,
+        "rank": 11
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1319,
+        "win_rate": 62.7,
+        "rank": 9
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1327,
+        "win_rate": 62.4,
+        "rank": 4
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 51.7,
+      "coding_index": 50.9,
+      "agentic_index": 63
+    }
   }
 }

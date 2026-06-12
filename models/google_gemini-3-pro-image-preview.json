@@ -56,5 +56,37 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-3-pro-image-preview-20251120/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "graphicdesign",
+        "elo": 1276,
+        "win_rate": 66.3,
+        "rank": 2
+      },
+      {
+        "arena": "models",
+        "category": "image",
+        "elo": 1271,
+        "win_rate": 62.3,
+        "rank": 2
+      },
+      {
+        "arena": "models",
+        "category": "logo",
+        "elo": 1256,
+        "win_rate": 61.1,
+        "rank": 2
+      },
+      {
+        "arena": "models",
+        "category": "imageediting",
+        "elo": 1277,
+        "win_rate": 66.4,
+        "rank": 1
+      }
+    ]
   }
 }

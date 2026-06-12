@@ -57,5 +57,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-vl-235b-a22b-thinking/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 27.6,
+      "coding_index": 20.9,
+      "agentic_index": 27
+    }
   }
 }

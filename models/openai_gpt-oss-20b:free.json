@@ -47,5 +47,28 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-oss-20b/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 977,
+        "win_rate": 39.7,
+        "rank": 87
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 898,
+        "win_rate": 27.9,
+        "rank": 102
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 24.5,
+      "coding_index": 18.5,
+      "agentic_index": 27.6
+    }
   }
 }

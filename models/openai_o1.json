@@ -54,5 +54,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/o1-2024-12-17/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 30.7,
+      "coding_index": 20.5,
+      "agentic_index": 31.1
+    }
   }
 }

@@ -50,5 +50,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-vl-8b-thinking/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 16.7,
+      "coding_index": 9.8,
+      "agentic_index": 15.6
+    }
   }
 }

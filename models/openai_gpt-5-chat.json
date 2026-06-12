@@ -43,5 +43,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5-chat-2025-08-07/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 21.2,
+      "agentic_index": null
+    }
   }
 }

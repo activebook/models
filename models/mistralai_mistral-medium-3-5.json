@@ -57,5 +57,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/mistralai/mistral-medium-3.5-20260430/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 39.2,
+      "coding_index": 35.4,
+      "agentic_index": 53.2
+    }
   }
 }

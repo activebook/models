@@ -51,5 +51,56 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/meta-llama/llama-4-maverick-17b-128e-instruct/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 981,
+        "win_rate": 40.2,
+        "rank": 86
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 932,
+        "win_rate": 35.8,
+        "rank": 97
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 926,
+        "win_rate": 38.4,
+        "rank": 95
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 910,
+        "win_rate": 33.7,
+        "rank": 94
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 956,
+        "win_rate": 40.8,
+        "rank": 89
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 916,
+        "win_rate": 34.4,
+        "rank": 100
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 18.4,
+      "coding_index": 15.6,
+      "agentic_index": 7.2
+    }
   }
 }

@@ -55,5 +55,42 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/mistralai/ministral-14b-2512/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1072,
+        "win_rate": 39.6,
+        "rank": 77
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1118,
+        "win_rate": 44,
+        "rank": 74
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1111,
+        "win_rate": 43.6,
+        "rank": 69
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1127,
+        "win_rate": 44.8,
+        "rank": 74
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 16,
+      "coding_index": 10.9,
+      "agentic_index": 17.4
+    }
   }
 }

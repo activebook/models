@@ -55,5 +55,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-vl-8b-instruct/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 14.3,
+      "coding_index": 7.3,
+      "agentic_index": 18.4
+    }
   }
 }

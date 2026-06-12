@@ -50,5 +50,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-next-80b-a3b-instruct-2509/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 20.1,
+      "coding_index": 15.3,
+      "agentic_index": 14.2
+    }
   }
 }

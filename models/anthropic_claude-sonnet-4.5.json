@@ -58,5 +58,91 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.5-sonnet-20250929/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1245,
+        "win_rate": 55.8,
+        "rank": 30
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1240,
+        "win_rate": 55.9,
+        "rank": 10
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1235,
+        "win_rate": 53.9,
+        "rank": 31
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1208,
+        "win_rate": 49.8,
+        "rank": 40
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1239,
+        "win_rate": 54,
+        "rank": 31
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1170,
+        "win_rate": 53.2,
+        "rank": 34
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1231,
+        "win_rate": 53.2,
+        "rank": 33
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1234,
+        "win_rate": 54,
+        "rank": 35
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1137,
+        "win_rate": 43.5,
+        "rank": 16
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1192,
+        "win_rate": 48.9,
+        "rank": 19
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1155,
+        "win_rate": 43.1,
+        "rank": 17
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 43,
+      "coding_index": 38.6,
+      "agentic_index": 51.7
+    }
   }
 }

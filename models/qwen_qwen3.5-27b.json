@@ -63,5 +63,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3.5-27b-20260224/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 42.1,
+      "coding_index": 34.9,
+      "agentic_index": 54.6
+    }
   }
 }

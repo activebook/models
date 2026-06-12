@@ -5,7 +5,7 @@
   "name": "DeepSeek: R1 Distill Llama 70B",
   "created": 1737663169,
   "description": "DeepSeek R1 Distill Llama 70B is a distilled large language model based on [Llama-3.3-70B-Instruct](/meta-llama/llama-3.3-70b-instruct), using outputs from [DeepSeek R1](/deepseek/deepseek-r1). The model combines advanced distillation techniques to achieve high performance across...",
-  "context_length": 131072,
+  "context_length": 128000,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,25 +18,22 @@
     "instruct_type": "deepseek-r1"
   },
   "pricing": {
-    "prompt": "0.0000007",
+    "prompt": "0.0000008",
     "completion": "0.0000008"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": 16384,
+    "context_length": 8192,
+    "max_completion_tokens": 8192,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
-    "response_format",
     "seed",
     "stop",
     "temperature",
@@ -46,8 +43,15 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": "2024-07-31",
-  "expiration_date": "2026-06-11",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-r1-distill-llama-70b/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 11.4,
+      "agentic_index": null
+    }
   }
 }

@@ -52,5 +52,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/inception/mercury-2-20260304/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 32.8,
+      "coding_index": 30.6,
+      "agentic_index": 39.7
+    }
   }
 }

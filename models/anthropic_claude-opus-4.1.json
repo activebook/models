@@ -58,5 +58,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.1-opus-20250805/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1235,
+        "win_rate": 54,
+        "rank": 32
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1213,
+        "win_rate": 53.2,
+        "rank": 14
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1224,
+        "win_rate": 55.8,
+        "rank": 36
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1209,
+        "win_rate": 56.4,
+        "rank": 39
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1245,
+        "win_rate": 58.5,
+        "rank": 29
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1209,
+        "win_rate": 60.8,
+        "rank": 21
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1220,
+        "win_rate": 58,
+        "rank": 38
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1222,
+        "win_rate": 55.3,
+        "rank": 42
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 36.5,
+      "agentic_index": null
+    }
   }
 }

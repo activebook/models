@@ -51,5 +51,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/upstage/solar-pro-3/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 25.9,
+      "coding_index": 13.3,
+      "agentic_index": 34.9
+    }
   }
 }

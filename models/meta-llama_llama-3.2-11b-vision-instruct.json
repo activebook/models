@@ -48,5 +48,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/meta-llama/llama-3.2-11b-vision-instruct/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 8.7,
+      "coding_index": 4.2,
+      "agentic_index": 4.9
+    }
   }
 }

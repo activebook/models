@@ -49,5 +49,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-nano-12b-v2-vl/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 14.9,
+      "coding_index": 11.7,
+      "agentic_index": 7.1
+    }
   }
 }

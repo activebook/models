@@ -51,5 +51,49 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/meta-llama/llama-4-scout-17b-16e-instruct/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 842,
+        "win_rate": 26.6,
+        "rank": 101
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 939,
+        "win_rate": 39.3,
+        "rank": 91
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 845,
+        "win_rate": 27.4,
+        "rank": 96
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 825,
+        "win_rate": 25.5,
+        "rank": 95
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 796,
+        "win_rate": 22.7,
+        "rank": 107
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 13.5,
+      "coding_index": 6.7,
+      "agentic_index": 5.2
+    }
   }
 }

@@ -54,5 +54,30 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-flash-image/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "graphicdesign",
+        "elo": 1194,
+        "win_rate": 56.9,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "image",
+        "elo": 1214,
+        "win_rate": 55.6,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "logo",
+        "elo": 1185,
+        "win_rate": 51.5,
+        "rank": 6
+      }
+    ]
   }
 }

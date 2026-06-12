@@ -60,5 +60,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-3-ultra-550b-a55b-20260604/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 47.7,
+      "coding_index": 37.6,
+      "agentic_index": 57.1
+    }
   }
 }

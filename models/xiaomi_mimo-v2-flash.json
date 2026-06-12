@@ -51,5 +51,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2-flash-20251210/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1196,
+        "win_rate": 49.3,
+        "rank": 44
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1065,
+        "win_rate": 34.6,
+        "rank": 40
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1207,
+        "win_rate": 49.6,
+        "rank": 47
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1176,
+        "win_rate": 46,
+        "rank": 55
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1204,
+        "win_rate": 49.2,
+        "rank": 45
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1087,
+        "win_rate": 40.6,
+        "rank": 51
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1198,
+        "win_rate": 48,
+        "rank": 47
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1211,
+        "win_rate": 50.1,
+        "rank": 47
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 41.5,
+      "coding_index": 33.5,
+      "agentic_index": 48.8
+    }
   }
 }

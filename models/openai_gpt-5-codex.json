@@ -50,5 +50,21 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5-codex/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1139,
+        "win_rate": 43.2,
+        "rank": 26
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 44.6,
+      "coding_index": 38.9,
+      "agentic_index": 52.7
+    }
   }
 }

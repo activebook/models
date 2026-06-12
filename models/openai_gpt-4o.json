@@ -53,5 +53,51 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-4o/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 950,
+        "win_rate": 39.2,
+        "rank": 87
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 913,
+        "win_rate": 34.8,
+        "rank": 99
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 900,
+        "win_rate": 36,
+        "rank": 96
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 979,
+        "win_rate": 42.3,
+        "rank": 89
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 942,
+        "win_rate": 38.1,
+        "rank": 91
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 876,
+        "win_rate": 31.5,
+        "rank": 104
+      }
+    ]
   }
 }

@@ -53,5 +53,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepcogito/cogito-v2.1-671b-20251118/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 24.8,
+      "agentic_index": null
+    }
   }
 }

@@ -57,5 +57,63 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/minimax/minimax-m2/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1180,
+        "win_rate": 48.3,
+        "rank": 48
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1187,
+        "win_rate": 48.1,
+        "rank": 56
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1184,
+        "win_rate": 50,
+        "rank": 51
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1190,
+        "win_rate": 48.1,
+        "rank": 47
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1157,
+        "win_rate": 55.3,
+        "rank": 37
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1193,
+        "win_rate": 49.2,
+        "rank": 49
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1188,
+        "win_rate": 48,
+        "rank": 56
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 36.1,
+      "coding_index": 29.2,
+      "agentic_index": 47.5
+    }
   }
 }

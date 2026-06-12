@@ -19,10 +19,10 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000004",
-    "completion": "0.0000016",
-    "input_cache_read": "0.00000008",
-    "input_cache_write": "0.0000005"
+    "prompt": "0.00000032",
+    "completion": "0.00000128",
+    "input_cache_read": "0.000000064",
+    "input_cache_write": "0.0000004"
   },
   "top_provider": {
     "context_length": 1000000,
@@ -51,5 +51,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3.7-plus-20260602/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 53.3,
+      "coding_index": 46.5,
+      "agentic_index": 65.1
+    }
   }
 }

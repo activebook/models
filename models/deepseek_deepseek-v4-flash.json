@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000983",
-    "completion": "0.0000001966",
-    "input_cache_read": "0.0000000197"
+    "prompt": "0.000000098",
+    "completion": "0.000000196",
+    "input_cache_read": "0.00000002"
   },
   "top_provider": {
-    "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "context_length": 1048575,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -62,5 +62,70 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v4-flash-20260423/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1280,
+        "win_rate": 50.4,
+        "rank": 20
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1194,
+        "win_rate": 48.4,
+        "rank": 19
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1266,
+        "win_rate": 51.3,
+        "rank": 26
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1178,
+        "win_rate": 43.8,
+        "rank": 54
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1281,
+        "win_rate": 52.3,
+        "rank": 18
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1209,
+        "win_rate": 50.8,
+        "rank": 22
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1230,
+        "win_rate": 48.5,
+        "rank": 34
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1259,
+        "win_rate": 52.1,
+        "rank": 27
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 46.5,
+      "coding_index": 38.7,
+      "agentic_index": 61.3
+    }
   }
 }

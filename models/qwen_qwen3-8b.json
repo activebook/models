@@ -60,5 +60,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-8b-04-28/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 13.2,
+      "coding_index": 9,
+      "agentic_index": 12.6
+    }
   }
 }

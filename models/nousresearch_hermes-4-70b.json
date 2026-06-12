@@ -45,5 +45,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/nousresearch/hermes-4-70b/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 16,
+      "coding_index": 14.4,
+      "agentic_index": 11.7
+    }
   }
 }

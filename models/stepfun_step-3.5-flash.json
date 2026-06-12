@@ -59,5 +59,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/stepfun/step-3.5-flash/endpoints"
+  },
+  "benchmarks": {
+    "artificial_analysis": {
+      "intelligence_index": 38.5,
+      "coding_index": 34.6,
+      "agentic_index": 48.2
+    }
   }
 }

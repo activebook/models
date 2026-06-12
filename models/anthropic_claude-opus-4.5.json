@@ -58,5 +58,98 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.5-opus-20251124/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1294,
+        "win_rate": 61.6,
+        "rank": 17
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1218,
+        "win_rate": 53.6,
+        "rank": 13
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1294,
+        "win_rate": 60.8,
+        "rank": 16
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1292,
+        "win_rate": 60.5,
+        "rank": 9
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1300,
+        "win_rate": 60.9,
+        "rank": 15
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1234,
+        "win_rate": 58.7,
+        "rank": 14
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1295,
+        "win_rate": 60,
+        "rank": 16
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1292,
+        "win_rate": 60.7,
+        "rank": 15
+      },
+      {
+        "arena": "agents",
+        "category": "androidnative",
+        "elo": 1199,
+        "win_rate": 65.5,
+        "rank": 9
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1241,
+        "win_rate": 59.9,
+        "rank": 7
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1248,
+        "win_rate": 57.4,
+        "rank": 5
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1247,
+        "win_rate": 54.2,
+        "rank": 7
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 49.7,
+      "coding_index": 47.8,
+      "agentic_index": 59.6
+    }
   }
 }
