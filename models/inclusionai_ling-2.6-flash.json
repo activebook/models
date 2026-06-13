@@ -58,6 +58,7 @@
     "details": "/api/v1/models/inclusionai/ling-2.6-flash-20260421/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 26.2,
       "coding_index": 23.2,

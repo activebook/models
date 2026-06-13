@@ -57,6 +57,7 @@
     "details": "/api/v1/models/z-ai/glm-4.5v/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 15.1,
       "coding_index": 10.9,

@@ -53,6 +53,7 @@
     "details": "/api/v1/models/qwen/qwen3-vl-32b-instruct/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 24.7,
       "coding_index": 14.5,

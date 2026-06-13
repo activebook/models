@@ -60,6 +60,7 @@
     "details": "/api/v1/models/nvidia/llama-3.3-nemotron-super-49b-v1.5/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 18.7,
       "coding_index": 15.1,

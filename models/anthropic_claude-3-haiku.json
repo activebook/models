@@ -48,6 +48,7 @@
     "details": "/api/v1/models/anthropic/claude-3-haiku/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 12.3,
       "coding_index": 6.7,

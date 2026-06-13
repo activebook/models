@@ -53,6 +53,7 @@
     "details": "/api/v1/models/deepseek/deepseek-chat-v3-0324/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 22.3,
       "coding_index": 22,

@@ -52,6 +52,7 @@
     "details": "/api/v1/models/qwen/qwen-2.5-72b-instruct/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 11.9,

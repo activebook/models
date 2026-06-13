@@ -55,6 +55,7 @@
     "details": "/api/v1/models/deepcogito/cogito-v2.1-671b-20251118/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 24.8,

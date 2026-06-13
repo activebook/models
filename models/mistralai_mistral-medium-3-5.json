@@ -59,6 +59,7 @@
     "details": "/api/v1/models/mistralai/mistral-medium-3.5-20260430/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 39.2,
       "coding_index": 35.4,

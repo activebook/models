@@ -58,6 +58,7 @@
     "details": "/api/v1/models/ibm-granite/granite-4.1-8b-20260429/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 12.4,
       "coding_index": 7.3,

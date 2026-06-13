@@ -60,6 +60,7 @@
     "details": "/api/v1/models/kwaipilot/kat-coder-pro-v2-20260327/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 43.8,
       "coding_index": 45.6,

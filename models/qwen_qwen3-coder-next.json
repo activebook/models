@@ -57,6 +57,7 @@
     "details": "/api/v1/models/qwen/qwen3-coder-next-2025-02-03/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 28.3,
       "coding_index": 22.9,

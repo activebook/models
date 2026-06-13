@@ -51,6 +51,7 @@
     "details": "/api/v1/models/openai/gpt-3.5-turbo/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 10.7,

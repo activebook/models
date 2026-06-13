@@ -65,6 +65,7 @@
     "details": "/api/v1/models/qwen/qwen3.5-27b-20260224/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 42.1,
       "coding_index": 34.9,

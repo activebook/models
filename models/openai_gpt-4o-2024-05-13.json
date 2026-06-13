@@ -55,6 +55,7 @@
     "details": "/api/v1/models/openai/gpt-4o-2024-05-13/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 24.2,

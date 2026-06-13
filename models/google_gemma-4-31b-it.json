@@ -66,6 +66,7 @@
     "details": "/api/v1/models/google/gemma-4-31b-it-20260402/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 39.2,
       "coding_index": 38.7,

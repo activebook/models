@@ -60,6 +60,7 @@
     "details": "/api/v1/models/deepseek/deepseek-r1/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 18.8,
       "coding_index": 15.9,

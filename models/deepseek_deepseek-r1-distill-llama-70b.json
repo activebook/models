@@ -48,6 +48,7 @@
     "details": "/api/v1/models/deepseek/deepseek-r1-distill-llama-70b/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 11.4,

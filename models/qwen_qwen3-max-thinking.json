@@ -52,6 +52,7 @@
     "details": "/api/v1/models/qwen/qwen3-max-thinking-20260123/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 39.8,
       "coding_index": 30.5,

@@ -57,6 +57,7 @@
     "details": "/api/v1/models/qwen/qwen3-vl-8b-instruct/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 14.3,
       "coding_index": 7.3,

@@ -52,6 +52,7 @@
     "details": "/api/v1/models/ibm-granite/granite-4.0-h-micro/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 7.7,
       "coding_index": 5,

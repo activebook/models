@@ -57,6 +57,7 @@
     "details": "/api/v1/models/openai/gpt-5.4-mini-20260317/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 48.9,
       "coding_index": 51.5,

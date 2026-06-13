@@ -52,6 +52,7 @@
     "details": "/api/v1/models/meta-llama/llama-3.1-8b-instruct/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 11.8,
       "coding_index": 4.9,

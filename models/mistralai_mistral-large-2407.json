@@ -52,6 +52,7 @@
     "details": "/api/v1/models/mistralai/mistral-large-2407/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 15.1,
       "coding_index": 13.8,

@@ -54,6 +54,7 @@
     "details": "/api/v1/models/mistralai/devstral-2512/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 22,
       "coding_index": 23.7,

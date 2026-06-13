@@ -59,6 +59,7 @@
     "details": "/api/v1/models/inclusionai/ring-2.6-1t-20260508/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 38.5,
       "coding_index": 33.3,

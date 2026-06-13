@@ -53,6 +53,7 @@
     "details": "/api/v1/models/upstage/solar-pro-3/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 25.9,
       "coding_index": 13.3,

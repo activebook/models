@@ -54,6 +54,7 @@
     "details": "/api/v1/models/liquid/lfm-2-24b-a2b-20260224/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 10.5,
       "coding_index": 3.6,

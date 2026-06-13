@@ -56,6 +56,7 @@
     "details": "/api/v1/models/openai/o1-2024-12-17/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 30.7,
       "coding_index": 20.5,

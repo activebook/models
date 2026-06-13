@@ -52,6 +52,7 @@
     "details": "/api/v1/models/openai/o3-mini-high-2025-01-31/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 25.2,
       "coding_index": 17.3,

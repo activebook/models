@@ -58,6 +58,7 @@
     "details": "/api/v1/models/qwen/qwen3-vl-235b-a22b-instruct/endpoints"
   },
   "benchmarks": {
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": 20.8,
       "coding_index": 16.5,
