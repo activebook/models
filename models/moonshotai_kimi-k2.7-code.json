@@ -7,11 +7,10 @@
   "description": "MoonshotAI: Kimi K2.7 Code is a coding-focused model in Moonshot AI's Kimi K2 family, built to complete end-to-end programming tasks reliably over long contexts. It uses a native multimodal mixture-of-experts...",
   "context_length": 262144,
   "architecture": {
-    "modality": "text+image+video->text",
+    "modality": "text+image->text",
     "input_modalities": [
       "text",
-      "image",
-      "video"
+      "image"
     ],
     "output_modalities": [
       "text"
@@ -20,20 +19,23 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000095",
-    "completion": "0.000004",
-    "input_cache_read": "0.00000019"
+    "prompt": "0.00000075",
+    "completion": "0.0000035",
+    "input_cache_read": "0.00000016"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": null,
+    "max_completion_tokens": 262144,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
+    "logprobs",
     "max_tokens",
+    "min_p",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
@@ -45,6 +47,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -64,18 +67,53 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1208,
+        "win_rate": 52.3,
+        "rank": 11
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1328,
+        "win_rate": 59.9,
+        "rank": 10
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1318,
+        "win_rate": 57.7,
+        "rank": 9
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1283,
+        "win_rate": 57.5,
+        "rank": 13
+      },
+      {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1272,
-        "win_rate": 49.6,
-        "rank": 22
+        "elo": 1293,
+        "win_rate": 53.3,
+        "rank": 18
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1262,
+        "win_rate": 51.8,
+        "rank": 26
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1341,
-        "win_rate": 60.4,
-        "rank": 2
+        "elo": 1325,
+        "win_rate": 58.8,
+        "rank": 5
       }
     ]
   }

@@ -3,7 +3,7 @@
   "canonical_slug": "openrouter/fusion",
   "hugging_face_id": null,
   "name": "OpenRouter: Fusion",
-  "created": 1778603606,
+  "created": 1781371647,
   "description": "Fusion turns your prompt into a small multi-model deliberation. A panel of expert models (see below) analyzes your prompt in parallel with web search and web fetch enabled, then a...",
   "context_length": 128000,
   "architecture": {

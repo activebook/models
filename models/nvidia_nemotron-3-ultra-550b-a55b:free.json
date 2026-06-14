@@ -52,7 +52,15 @@
     "details": "/api/v1/models/nvidia/nemotron-3-ultra-550b-a55b-20260604/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1135,
+        "win_rate": 32.4,
+        "rank": 74
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 47.7,
       "coding_index": 37.6,
