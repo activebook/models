@@ -69,14 +69,21 @@
       {
         "arena": "agents",
         "category": "agenticslides",
-        "elo": 1066,
+        "elo": 1073,
         "win_rate": 39.3,
         "rank": 9
       },
       {
         "arena": "agents",
+        "category": "agenticslides(python-pptx)",
+        "elo": 1074,
+        "win_rate": 39.3,
+        "rank": 10
+      },
+      {
+        "arena": "agents",
         "category": "androidnative",
-        "elo": 1072,
+        "elo": 1069,
         "win_rate": 47.9,
         "rank": 21
       },
@@ -111,7 +118,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1264,
+        "elo": 1265,
         "win_rate": 62.7,
         "rank": 26
       },
@@ -127,7 +134,7 @@
         "category": "gamedev",
         "elo": 1235,
         "win_rate": 58.3,
-        "rank": 36
+        "rank": 37
       },
       {
         "arena": "models",

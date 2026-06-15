@@ -48,7 +48,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-06-17",
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2-flash-20251210/endpoints"
   },
@@ -57,7 +57,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1195,
+        "elo": 1196,
         "win_rate": 49.3,
         "rank": 44
       },
@@ -78,21 +78,21 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1177,
-        "win_rate": 46,
-        "rank": 55
+        "elo": 1176,
+        "win_rate": 45.8,
+        "rank": 56
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1200,
-        "win_rate": 48.9,
-        "rank": 51
+        "win_rate": 48.8,
+        "rank": 52
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1083,
+        "elo": 1085,
         "win_rate": 40.5,
         "rank": 52
       },
@@ -107,7 +107,7 @@
         "arena": "models",
         "category": "website",
         "elo": 1211,
-        "win_rate": 50,
+        "win_rate": 49.9,
         "rank": 48
       }
     ],
