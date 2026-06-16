@@ -31,7 +31,6 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logprobs",
     "max_tokens",
     "presence_penalty",
     "reasoning",
@@ -39,12 +38,10 @@
     "response_format",
     "seed",
     "stop",
-    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -77,9 +74,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1237,
+        "elo": 1236,
         "win_rate": 59.4,
-        "rank": 31
+        "rank": 32
       },
       {
         "arena": "models",

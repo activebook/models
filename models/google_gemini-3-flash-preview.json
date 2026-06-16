@@ -76,21 +76,21 @@
       {
         "arena": "agents",
         "category": "agenticslides(python-pptx)",
-        "elo": 1074,
+        "elo": 1075,
         "win_rate": 39.3,
-        "rank": 10
+        "rank": 9
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1069,
+        "elo": 1067,
         "win_rate": 47.9,
         "rank": 21
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1144,
+        "elo": 1138,
         "win_rate": 47.1,
         "rank": 16
       },
@@ -104,14 +104,14 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1196,
+        "elo": 1197,
         "win_rate": 49.8,
         "rank": 15
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1200,
+        "elo": 1193,
         "win_rate": 49.5,
         "rank": 13
       },
@@ -134,7 +134,7 @@
         "category": "gamedev",
         "elo": 1235,
         "win_rate": 58.3,
-        "rank": 37
+        "rank": 36
       },
       {
         "arena": "models",
