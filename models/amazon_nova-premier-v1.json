@@ -53,13 +53,13 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 880,
+        "elo": 878,
         "win_rate": 26.2,
-        "rank": 105
+        "rank": 106
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 19,
+      "intelligence_index": null,
       "coding_index": 13.8,
       "agentic_index": 16.4
     }

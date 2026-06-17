@@ -472,6 +472,10 @@
     "file": "models/z-ai_glm-5.1.json"
   },
   {
+    "name": "glm-5.2",
+    "file": "models/z-ai_glm-5.2.json"
+  },
+  {
     "name": "glm-5v-turbo",
     "file": "models/z-ai_glm-5v-turbo.json"
   },

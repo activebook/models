@@ -56,20 +56,20 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1150,
+        "elo": 1148,
         "win_rate": 48.5,
-        "rank": 68
+        "rank": 69
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1152,
+        "elo": 1150,
         "win_rate": 48.3,
-        "rank": 70
+        "rank": 71
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 30.9,
+      "intelligence_index": null,
       "coding_index": 25.9,
       "agentic_index": 37.7
     }

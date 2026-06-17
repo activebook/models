@@ -55,21 +55,42 @@
     "design_arena": [
       {
         "arena": "models",
+        "category": "3d",
+        "elo": 1170,
+        "win_rate": 37.4,
+        "rank": 52
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1147,
+        "win_rate": 33.2,
+        "rank": 70
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1097,
+        "win_rate": 30.2,
+        "rank": 76
+      },
+      {
+        "arena": "models",
         "category": "gamedev",
-        "elo": 1224,
-        "win_rate": 44.6,
-        "rank": 39
+        "elo": 1210,
+        "win_rate": 40.6,
+        "rank": 43
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1136,
-        "win_rate": 33.3,
-        "rank": 74
+        "elo": 1133,
+        "win_rate": 31.5,
+        "rank": 75
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 47.7,
+      "intelligence_index": 37.8,
       "coding_index": 37.6,
       "agentic_index": 57.1
     }

@@ -64,14 +64,14 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1068,
+        "elo": 1067,
         "win_rate": 37,
         "rank": 26
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1188,
+        "elo": 1187,
         "win_rate": 48,
         "rank": 12
       },
@@ -85,13 +85,13 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1134,
+        "elo": 1131,
         "win_rate": 40.5,
         "rank": 18
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 49,
+      "intelligence_index": null,
       "coding_index": 43,
       "agentic_index": 56.5
     }
