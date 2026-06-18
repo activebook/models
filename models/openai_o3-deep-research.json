@@ -59,5 +59,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/o3-deep-research-2025-06-26/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

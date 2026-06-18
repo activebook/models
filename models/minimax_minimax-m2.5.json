@@ -70,14 +70,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1249,
+        "elo": 1248,
         "win_rate": 57.6,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1257,
+        "elo": 1256,
         "win_rate": 56.8,
         "rank": 29
       },
@@ -86,7 +86,7 @@
         "category": "dataviz",
         "elo": 1215,
         "win_rate": 51.2,
-        "rank": 40
+        "rank": 39
       },
       {
         "arena": "models",
@@ -122,5 +122,8 @@
       "coding_index": 37.4,
       "agentic_index": 55.6
     }
+  },
+  "reasoning": {
+    "mandatory": true
   }
 }

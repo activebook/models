@@ -50,5 +50,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-oss-safeguard-20b/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true
   }
 }

@@ -27,7 +27,7 @@
   "top_provider": {
     "context_length": 400000,
     "max_completion_tokens": 128000,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -54,5 +54,15 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5.1-codex-max-20251204/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true,
+    "supported_efforts": [
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

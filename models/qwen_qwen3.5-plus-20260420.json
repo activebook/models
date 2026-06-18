@@ -49,5 +49,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3.5-plus-20260420/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

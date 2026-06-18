@@ -58,5 +58,9 @@
   "expiration_date": "2026-06-29",
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.6-opus-fast-20260407/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "supports_max_tokens": true
   }
 }

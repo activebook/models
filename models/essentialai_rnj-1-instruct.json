@@ -53,5 +53,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/essentialai/rnj-1-instruct/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

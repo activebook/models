@@ -44,5 +44,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/tencent/hunyuan-a13b-instruct/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

@@ -24,7 +24,7 @@
     "completion": "0"
   },
   "top_provider": {
-    "context_length": 262144,
+    "context_length": 131072,
     "max_completion_tokens": 32768,
     "is_moderated": false
   },
@@ -63,5 +63,9 @@
       "coding_index": 22.4,
       "agentic_index": 32.1
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false
   }
 }

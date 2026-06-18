@@ -56,5 +56,16 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/x-ai/grok-4.20-multi-agent-20260309/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true,
+    "default_enabled": true,
+    "supported_efforts": [
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

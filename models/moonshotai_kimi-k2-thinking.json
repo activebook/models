@@ -19,7 +19,8 @@
   },
   "pricing": {
     "prompt": "0.0000006",
-    "completion": "0.0000025"
+    "completion": "0.0000025",
+    "input_cache_read": "0.0000006"
   },
   "top_provider": {
     "context_length": 262144,
@@ -72,5 +73,8 @@
       "coding_index": 34.8,
       "agentic_index": 47.9
     }
+  },
+  "reasoning": {
+    "mandatory": true
   }
 }

@@ -33,7 +33,7 @@
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 65536,
+    "max_completion_tokens": 65535,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -83,14 +83,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1064,
+        "elo": 1065,
         "win_rate": 47.9,
         "rank": 21
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1137,
+        "elo": 1136,
         "win_rate": 47.1,
         "rank": 16
       },
@@ -111,14 +111,14 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1191,
+        "elo": 1192,
         "win_rate": 49.5,
-        "rank": 12
+        "rank": 13
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1263,
+        "elo": 1262,
         "win_rate": 62.7,
         "rank": 27
       },
@@ -149,5 +149,15 @@
       "coding_index": 42.6,
       "agentic_index": 49.7
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "minimal"
+    ],
+    "default_effort": "medium"
   }
 }

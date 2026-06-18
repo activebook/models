@@ -29,7 +29,7 @@
   "top_provider": {
     "context_length": 1000000,
     "max_completion_tokens": 128000,
-    "is_moderated": false
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -62,8 +62,8 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1270,
-        "win_rate": 64.4,
+        "elo": 1267,
+        "win_rate": 64,
         "rank": 2
       },
       {
@@ -132,58 +132,58 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1307,
-        "win_rate": 67.9,
+        "elo": 1304,
+        "win_rate": 67.1,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1285,
+        "elo": 1286,
         "win_rate": 56.5,
         "rank": 21
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1311,
-        "win_rate": 63.8,
-        "rank": 3
+        "elo": 1305,
+        "win_rate": 63.2,
+        "rank": 5
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1280,
-        "win_rate": 55,
+        "win_rate": 55.1,
         "rank": 22
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1282,
-        "win_rate": 55.9,
-        "rank": 15
+        "elo": 1280,
+        "win_rate": 55.8,
+        "rank": 17
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1288,
-        "win_rate": 51,
-        "rank": 18
+        "elo": 1295,
+        "win_rate": 52.5,
+        "rank": 16
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1237,
-        "win_rate": 54.3,
+        "elo": 1238,
+        "win_rate": 54.5,
         "rank": 14
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1286,
-        "win_rate": 56.2,
-        "rank": 21
+        "elo": 1285,
+        "win_rate": 56.1,
+        "rank": 22
       },
       {
         "arena": "models",
@@ -198,5 +198,8 @@
       "coding_index": 56.7,
       "agentic_index": 77.8
     }
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

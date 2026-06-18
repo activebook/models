@@ -44,5 +44,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/o1-pro/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

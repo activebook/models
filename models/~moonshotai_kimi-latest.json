@@ -39,7 +39,6 @@
     "parallel_tool_calls",
     "presence_penalty",
     "reasoning",
-    "reasoning_effort",
     "repetition_penalty",
     "response_format",
     "seed",
@@ -65,5 +64,9 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/~moonshotai/kimi-latest/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true
   }
 }

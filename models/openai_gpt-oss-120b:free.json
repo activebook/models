@@ -30,12 +30,16 @@
   "supported_parameters": [
     "include_reasoning",
     "max_tokens",
+    "min_p",
     "reasoning",
     "seed",
     "stop",
     "temperature",
     "tool_choice",
-    "tools"
+    "tools",
+    "top_a",
+    "top_k",
+    "top_p"
   ],
   "default_parameters": {
     "temperature": null,
@@ -83,7 +87,7 @@
         "category": "uicomponent",
         "elo": 979,
         "win_rate": 35.5,
-        "rank": 88
+        "rank": 89
       },
       {
         "arena": "models",
@@ -98,5 +102,14 @@
       "coding_index": 28.6,
       "agentic_index": 37.9
     }
+  },
+  "reasoning": {
+    "mandatory": true,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

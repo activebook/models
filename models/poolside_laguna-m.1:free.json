@@ -31,6 +31,7 @@
     "include_reasoning",
     "max_tokens",
     "reasoning",
+    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools"
@@ -48,5 +49,9 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/poolside/laguna-m.1-20260312/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true
   }
 }

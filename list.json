@@ -324,12 +324,20 @@
     "file": "models/google_gemini-3-flash-preview.json"
   },
   {
+    "name": "gemini-3-pro-image",
+    "file": "models/google_gemini-3-pro-image.json"
+  },
+  {
     "name": "gemini-3-pro-image-preview",
     "file": "models/google_gemini-3-pro-image-preview.json"
   },
   {
     "name": "gemini-3-pro-preview",
     "file": "models/google_gemini-3-pro-preview.json"
+  },
+  {
+    "name": "gemini-3.1-flash-image",
+    "file": "models/google_gemini-3.1-flash-image.json"
   },
   {
     "name": "gemini-3.1-flash-image-preview",
@@ -1266,6 +1274,10 @@
   {
     "name": "nex-n2-pro:free",
     "file": "models/nex-agi_nex-n2-pro:free.json"
+  },
+  {
+    "name": "north-mini-code:free",
+    "file": "models/cohere_north-mini-code:free.json"
   },
   {
     "name": "nova-2-lite-v1",

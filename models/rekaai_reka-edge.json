@@ -55,5 +55,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/rekaai/reka-edge-2603/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

@@ -32,6 +32,7 @@
   "supported_parameters": [
     "include_reasoning",
     "max_tokens",
+    "min_p",
     "reasoning",
     "response_format",
     "seed",
@@ -39,6 +40,8 @@
     "temperature",
     "tool_choice",
     "tools",
+    "top_a",
+    "top_k",
     "top_p"
   ],
   "default_parameters": {
@@ -62,5 +65,9 @@
       "coding_index": 38.7,
       "agentic_index": 40.9
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false
   }
 }

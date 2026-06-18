@@ -51,5 +51,12 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/o4-mini-high-2025-04-16/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true,
+    "supported_efforts": [
+      "high"
+    ],
+    "default_effort": "high"
   }
 }

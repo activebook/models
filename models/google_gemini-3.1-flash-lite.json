@@ -63,5 +63,16 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-3.1-flash-lite-20260507/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "minimal"
+    ],
+    "default_effort": "minimal"
   }
 }

@@ -57,5 +57,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/~anthropic/claude-fable-latest/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true
   }
 }

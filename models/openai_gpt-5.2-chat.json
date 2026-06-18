@@ -27,8 +27,8 @@
   },
   "top_provider": {
     "context_length": 128000,
-    "max_completion_tokens": 16384,
-    "is_moderated": true
+    "max_completion_tokens": 32000,
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -47,7 +47,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-08-10",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5.2-chat-20251211/endpoints"
   }

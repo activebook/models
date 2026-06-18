@@ -68,14 +68,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1134,
+        "elo": 1135,
         "win_rate": 57.8,
         "rank": 15
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1189,
+        "elo": 1188,
         "win_rate": 54.1,
         "rank": 13
       },
@@ -89,16 +89,16 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1196,
+        "elo": 1195,
         "win_rate": 49.3,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1200,
+        "elo": 1201,
         "win_rate": 50.3,
-        "rank": 11
+        "rank": 12
       },
       {
         "arena": "models",
@@ -110,23 +110,23 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1222,
-        "win_rate": 48.4,
+        "elo": 1221,
+        "win_rate": 48.2,
         "rank": 14
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1287,
-        "win_rate": 54.8,
+        "elo": 1286,
+        "win_rate": 54.9,
         "rank": 20
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1271,
+        "elo": 1272,
         "win_rate": 52.9,
-        "rank": 21
+        "rank": 20
       },
       {
         "arena": "models",
@@ -138,22 +138,22 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1217,
-        "win_rate": 51.4,
+        "elo": 1216,
+        "win_rate": 51.3,
         "rank": 20
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1289,
-        "win_rate": 54,
+        "win_rate": 54.1,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1291,
-        "win_rate": 55.9,
+        "win_rate": 56,
         "rank": 17
       }
     ],
@@ -162,5 +162,9 @@
       "coding_index": 39.6,
       "agentic_index": 58.9
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true
   }
 }

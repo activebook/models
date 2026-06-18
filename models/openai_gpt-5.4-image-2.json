@@ -59,5 +59,17 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-5.4-image-2-20260421/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false,
+    "supported_efforts": [
+      "xhigh",
+      "high",
+      "medium",
+      "low",
+      "none"
+    ],
+    "default_effort": "medium"
   }
 }

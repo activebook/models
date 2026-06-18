@@ -28,7 +28,7 @@
   "top_provider": {
     "context_length": 400000,
     "max_completion_tokens": 128000,
-    "is_moderated": false
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -63,5 +63,17 @@
       "coding_index": 43.9,
       "agentic_index": 47.6
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false,
+    "supported_efforts": [
+      "xhigh",
+      "high",
+      "medium",
+      "low",
+      "none"
+    ],
+    "default_effort": "medium"
   }
 }

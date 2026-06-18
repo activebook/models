@@ -86,12 +86,12 @@
         "category": "gamedev",
         "elo": 1198,
         "win_rate": 52.5,
-        "rank": 51
+        "rank": 50
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1123,
+        "elo": 1122,
         "win_rate": 50.1,
         "rank": 46
       },
@@ -115,5 +115,8 @@
       "coding_index": 33.7,
       "agentic_index": 29.8
     }
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

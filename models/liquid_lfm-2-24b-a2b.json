@@ -34,6 +34,7 @@
     "min_p",
     "presence_penalty",
     "repetition_penalty",
+    "response_format",
     "stop",
     "temperature",
     "top_k",

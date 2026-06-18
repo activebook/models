@@ -43,7 +43,6 @@
     "reasoning",
     "response_format",
     "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
@@ -60,5 +59,14 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-3.1-pro-preview-customtools-20260219/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

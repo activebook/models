@@ -96,7 +96,7 @@
         "category": "uicomponent",
         "elo": 1076,
         "win_rate": 41.4,
-        "rank": 75
+        "rank": 76
       },
       {
         "arena": "models",
@@ -106,5 +106,8 @@
         "rank": 74
       }
     ]
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

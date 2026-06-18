@@ -25,8 +25,8 @@
     "web_search": "0.014"
   },
   "top_provider": {
-    "context_length": 65536,
-    "max_completion_tokens": 65536,
+    "context_length": 131072,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -36,7 +36,6 @@
     "reasoning",
     "response_format",
     "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "top_p"
@@ -79,5 +78,14 @@
         "rank": 1
       }
     ]
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "minimal"
+    ],
+    "default_effort": "minimal"
   }
 }

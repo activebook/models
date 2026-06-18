@@ -63,5 +63,16 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/~google/gemini-flash-latest/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "minimal"
+    ],
+    "default_effort": "medium"
   }
 }

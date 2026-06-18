@@ -66,36 +66,43 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1170,
-        "win_rate": 37.4,
-        "rank": 52
-      },
-      {
-        "arena": "models",
-        "category": "codecategories",
-        "elo": 1147,
-        "win_rate": 33.2,
-        "rank": 70
-      },
-      {
-        "arena": "models",
-        "category": "dataviz",
-        "elo": 1097,
-        "win_rate": 30.2,
-        "rank": 76
-      },
-      {
-        "arena": "models",
-        "category": "gamedev",
-        "elo": 1210,
-        "win_rate": 40.6,
+        "elo": 1201,
+        "win_rate": 41.7,
         "rank": 43
       },
       {
         "arena": "models",
+        "category": "codecategories",
+        "elo": 1164,
+        "win_rate": 35.2,
+        "rank": 63
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1126,
+        "win_rate": 32.8,
+        "rank": 72
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1198,
+        "win_rate": 38.9,
+        "rank": 53
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1172,
+        "win_rate": 36.8,
+        "rank": 54
+      },
+      {
+        "arena": "models",
         "category": "website",
-        "elo": 1133,
-        "win_rate": 31.5,
+        "elo": 1132,
+        "win_rate": 31.3,
         "rank": 75
       }
     ],
@@ -104,5 +111,15 @@
       "coding_index": 37.6,
       "agentic_index": 57.1
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supports_max_tokens": true,
+    "supported_efforts": [
+      "high",
+      "medium"
+    ],
+    "default_effort": "high"
   }
 }

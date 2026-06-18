@@ -70,8 +70,8 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1342,
-        "win_rate": 65,
+        "elo": 1339,
+        "win_rate": 64.6,
         "rank": 6
       },
       {
@@ -91,30 +91,30 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1343,
-        "win_rate": 63.4,
-        "rank": 5
+        "elo": 1341,
+        "win_rate": 63.1,
+        "rank": 6
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1290,
-        "win_rate": 63.4,
+        "win_rate": 63.3,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1332,
-        "win_rate": 62.6,
+        "elo": 1327,
+        "win_rate": 62,
         "rank": 6
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1317,
-        "win_rate": 57.1,
-        "rank": 8
+        "elo": 1319,
+        "win_rate": 57.4,
+        "rank": 6
       },
       {
         "arena": "agents",
@@ -154,15 +154,15 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1223,
-        "win_rate": 51.2,
+        "elo": 1222,
+        "win_rate": 51.3,
         "rank": 8
       },
       {
         "arena": "agents",
         "category": "fullstack",
         "elo": 1240,
-        "win_rate": 57.6,
+        "win_rate": 57.5,
         "rank": 6
       },
       {
@@ -176,7 +176,7 @@
         "arena": "agents",
         "category": "htmlslides",
         "elo": 1203,
-        "win_rate": 52.3,
+        "win_rate": 52.2,
         "rank": 6
       },
       {
@@ -196,15 +196,15 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1249,
+        "elo": 1250,
         "win_rate": 56.4,
         "rank": 6
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1241,
-        "win_rate": 53.5,
+        "elo": 1240,
+        "win_rate": 53.4,
         "rank": 4
       }
     ],
@@ -213,5 +213,9 @@
       "coding_index": 43.4,
       "agentic_index": 67.1
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true
   }
 }

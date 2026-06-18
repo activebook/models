@@ -27,8 +27,8 @@
   },
   "top_provider": {
     "context_length": 1047576,
-    "max_completion_tokens": 32768,
-    "is_moderated": true
+    "max_completion_tokens": null,
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -61,7 +61,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1044,
+        "elo": 1043,
         "win_rate": 47.5,
         "rank": 91
       },
@@ -84,12 +84,12 @@
         "category": "uicomponent",
         "elo": 1016,
         "win_rate": 45.4,
-        "rank": 84
+        "rank": 85
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1040,
+        "elo": 1041,
         "win_rate": 47.8,
         "rank": 92
       }

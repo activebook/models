@@ -50,5 +50,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-coder-plus/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

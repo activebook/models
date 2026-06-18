@@ -69,9 +69,9 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1221,
+        "elo": 1220,
         "win_rate": 54.2,
-        "rank": 39
+        "rank": 40
       },
       {
         "arena": "models",
@@ -97,9 +97,9 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1221,
+        "elo": 1220,
         "win_rate": 53.3,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "models",
@@ -114,5 +114,8 @@
       "coding_index": 34.6,
       "agentic_index": 39.8
     }
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

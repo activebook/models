@@ -52,5 +52,15 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/bytedance-seed/seed-2.0-mini-20260224/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "minimal"
+    ],
+    "default_effort": "medium"
   }
 }

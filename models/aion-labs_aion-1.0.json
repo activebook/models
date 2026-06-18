@@ -40,5 +40,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/aion-labs/aion-1.0/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

@@ -47,5 +47,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/baidu/ernie-4.5-vl-424b-a47b/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

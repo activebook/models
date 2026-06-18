@@ -58,5 +58,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/~anthropic/claude-haiku-latest/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

@@ -59,5 +59,8 @@
       "coding_index": 1.4,
       "agentic_index": 6.5
     }
+  },
+  "reasoning": {
+    "mandatory": true
   }
 }

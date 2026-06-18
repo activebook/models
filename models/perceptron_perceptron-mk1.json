@@ -53,5 +53,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/perceptron/perceptron-mk1-20260512/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

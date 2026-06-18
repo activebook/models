@@ -60,5 +60,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/~anthropic/claude-sonnet-latest/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

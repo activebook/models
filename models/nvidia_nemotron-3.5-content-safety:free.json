@@ -49,5 +49,9 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-3.5-content-safety-20260604/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true
   }
 }

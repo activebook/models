@@ -52,5 +52,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/bytedance-seed/seed-1.6-20250625/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

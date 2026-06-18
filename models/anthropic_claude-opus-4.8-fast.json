@@ -56,5 +56,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.8-opus-fast-20260528/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

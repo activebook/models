@@ -65,15 +65,15 @@
         "arena": "models",
         "category": "3d",
         "elo": 1230,
-        "win_rate": 53.3,
+        "win_rate": 53.2,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1216,
+        "elo": 1217,
         "win_rate": 53.1,
-        "rank": 15
+        "rank": 16
       },
       {
         "arena": "models",
@@ -123,5 +123,8 @@
       "coding_index": 36.5,
       "agentic_index": null
     }
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

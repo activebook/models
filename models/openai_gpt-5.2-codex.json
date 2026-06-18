@@ -85,9 +85,9 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1131,
+        "elo": 1132,
         "win_rate": 40.5,
-        "rank": 18
+        "rank": 19
       }
     ],
     "artificial_analysis": {
@@ -95,5 +95,15 @@
       "coding_index": 43,
       "agentic_index": 56.5
     }
+  },
+  "reasoning": {
+    "mandatory": true,
+    "supported_efforts": [
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

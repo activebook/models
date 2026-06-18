@@ -72,5 +72,9 @@
       "coding_index": 38.7,
       "agentic_index": 40.9
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false
   }
 }

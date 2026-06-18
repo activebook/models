@@ -55,5 +55,8 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/nex-agi/nex-n2-pro/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false
   }
 }

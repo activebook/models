@@ -60,5 +60,16 @@
       "coding_index": 30.6,
       "agentic_index": 39.7
     }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "none"
+    ],
+    "default_effort": "medium"
   }
 }
