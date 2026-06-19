@@ -5,7 +5,7 @@
   "name": "Kwaipilot: KAT-Coder-Pro V2",
   "created": 1774649310,
   "description": "KAT-Coder-Pro V2 is the latest high-performance model in KwaiKAT\u2019s KAT-Coder series, designed for complex enterprise-grade software engineering and SaaS integration. It builds on the agentic coding strengths of earlier versions,...",
-  "context_length": 262144,
+  "context_length": 256000,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -23,14 +23,15 @@
     "input_cache_read": "0.00000006"
   },
   "top_provider": {
-    "context_length": 262144,
-    "max_completion_tokens": 144000,
+    "context_length": 256000,
+    "max_completion_tokens": 80000,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "logit_bias",
+    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -43,6 +44,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {

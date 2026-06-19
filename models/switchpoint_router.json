@@ -31,6 +31,7 @@
     "include_reasoning",
     "max_tokens",
     "reasoning",
+    "response_format",
     "seed",
     "stop",
     "temperature",

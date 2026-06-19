@@ -30,6 +30,7 @@
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
+    "logprobs",
     "max_tokens",
     "presence_penalty",
     "repetition_penalty",
@@ -41,6 +42,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {

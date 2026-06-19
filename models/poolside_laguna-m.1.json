@@ -1,8 +1,8 @@
 {
-  "id": "poolside/laguna-m.1:free",
+  "id": "poolside/laguna-m.1",
   "canonical_slug": "poolside/laguna-m.1-20260312",
   "hugging_face_id": "poolside/Laguna-M.1",
-  "name": "Poolside: Laguna M.1 (free)",
+  "name": "Poolside: Laguna M.1",
   "created": 1777388504,
   "description": "Laguna M.1 is the flagship coding agent model from [Poolside](https://poolside.ai/), optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
   "context_length": 262144,
@@ -18,8 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0",
-    "completion": "0"
+    "prompt": "0.0000002",
+    "completion": "0.0000004",
+    "input_cache_read": "0.0000001"
   },
   "top_provider": {
     "context_length": 262144,
@@ -31,6 +32,7 @@
     "include_reasoning",
     "max_tokens",
     "reasoning",
+    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools"

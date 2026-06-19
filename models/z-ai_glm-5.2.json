@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000014",
-    "completion": "0.0000044",
-    "input_cache_read": "0.00000026"
+    "prompt": "0.0000012",
+    "completion": "0.0000041",
+    "input_cache_read": "0.0000002"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -59,7 +59,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2098-12-31",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/z-ai/glm-5.2-20260616/endpoints"
   },
@@ -76,7 +76,7 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1360,
-        "win_rate": 61.7,
+        "win_rate": 61.8,
         "rank": 1
       },
       {
@@ -90,28 +90,28 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1369,
-        "win_rate": 62.3,
+        "win_rate": 62.4,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1347,
-        "win_rate": 60.9,
+        "elo": 1348,
+        "win_rate": 61.2,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1358,
+        "elo": 1357,
         "win_rate": 61.6,
         "rank": 1
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 50.7,
-      "coding_index": 50.7,
-      "agentic_index": 75.9
+      "intelligence_index": 51.1,
+      "coding_index": 68.8,
+      "agentic_index": 43.1
     }
   },
   "reasoning": {

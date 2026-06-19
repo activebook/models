@@ -908,8 +908,16 @@
     "file": "models/sao10k_l3.3-euryale-70b.json"
   },
   {
+    "name": "laguna-m.1",
+    "file": "models/poolside_laguna-m.1.json"
+  },
+  {
     "name": "laguna-m.1:free",
     "file": "models/poolside_laguna-m.1:free.json"
+  },
+  {
+    "name": "laguna-xs.2",
+    "file": "models/poolside_laguna-xs.2.json"
   },
   {
     "name": "laguna-xs.2:free",

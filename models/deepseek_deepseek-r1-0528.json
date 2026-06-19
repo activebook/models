@@ -32,6 +32,7 @@
     "frequency_penalty",
     "include_reasoning",
     "logit_bias",
+    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -45,6 +46,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -63,7 +65,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1190,
+        "elo": 1189,
         "win_rate": 53.4,
         "rank": 48
       },
@@ -91,7 +93,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1096,
+        "elo": 1095,
         "win_rate": 48.7,
         "rank": 48
       },

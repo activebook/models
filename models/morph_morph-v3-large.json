@@ -28,9 +28,13 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "logprobs",
     "max_tokens",
+    "response_format",
     "stop",
-    "temperature"
+    "structured_outputs",
+    "temperature",
+    "top_logprobs"
   ],
   "default_parameters": {
     "temperature": null,

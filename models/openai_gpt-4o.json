@@ -21,13 +21,12 @@
   },
   "pricing": {
     "prompt": "0.0000025",
-    "completion": "0.00001",
-    "input_cache_read": "0.00000125"
+    "completion": "0.00001"
   },
   "top_provider": {
     "context_length": 128000,
     "max_completion_tokens": 16384,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -60,7 +59,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 947,
+        "elo": 946,
         "win_rate": 39.2,
         "rank": 90
       },
@@ -81,7 +80,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 973,
+        "elo": 972,
         "win_rate": 42.3,
         "rank": 96
       },

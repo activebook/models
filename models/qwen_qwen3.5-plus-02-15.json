@@ -31,6 +31,7 @@
   "per_request_limits": null,
   "supported_parameters": [
     "include_reasoning",
+    "logprobs",
     "max_tokens",
     "presence_penalty",
     "reasoning",
@@ -40,6 +41,7 @@
     "temperature",
     "tool_choice",
     "tools",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -58,7 +60,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1199,
+        "elo": 1198,
         "win_rate": 47.8,
         "rank": 45
       },
@@ -67,7 +69,7 @@
         "category": "asciiart",
         "elo": 1138,
         "win_rate": 43.2,
-        "rank": 37
+        "rank": 38
       },
       {
         "arena": "models",
@@ -81,12 +83,12 @@
         "category": "dataviz",
         "elo": 1178,
         "win_rate": 44.8,
-        "rank": 56
+        "rank": 57
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1173,
+        "elo": 1172,
         "win_rate": 42.7,
         "rank": 56
       },

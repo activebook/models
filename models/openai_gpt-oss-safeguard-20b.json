@@ -20,7 +20,7 @@
   "pricing": {
     "prompt": "0.000000075",
     "completion": "0.0000003",
-    "input_cache_read": "0.000000037"
+    "input_cache_read": "0.0000000375"
   },
   "top_provider": {
     "context_length": 131072,
@@ -29,16 +29,16 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "max_tokens",
+    "presence_penalty",
     "reasoning",
     "response_format",
-    "seed",
-    "stop",
-    "temperature",
+    "structured_outputs",
     "tool_choice",
-    "tools",
-    "top_p"
+    "tools"
   ],
   "default_parameters": {
     "temperature": null,

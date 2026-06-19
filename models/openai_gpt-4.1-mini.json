@@ -27,8 +27,8 @@
   },
   "top_provider": {
     "context_length": 1047576,
-    "max_completion_tokens": null,
-    "is_moderated": false
+    "max_completion_tokens": 32768,
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -54,7 +54,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 915,
+        "elo": 914,
         "win_rate": 30.5,
         "rank": 94
       },
@@ -75,7 +75,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1138,
+        "elo": 1137,
         "win_rate": 58.5,
         "rank": 69
       },
@@ -89,7 +89,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1041,
+        "elo": 1040,
         "win_rate": 47.8,
         "rank": 92
       }
