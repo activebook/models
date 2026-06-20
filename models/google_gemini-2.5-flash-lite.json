@@ -61,14 +61,6 @@
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-flash-lite/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 18.2,
-      "agentic_index": 11.7
-    }
-  },
   "reasoning": {
     "mandatory": false
   }

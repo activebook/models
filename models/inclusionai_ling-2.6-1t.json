@@ -58,13 +58,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/inclusionai/ling-2.6-1t-20260423/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 33.1,
-      "agentic_index": 48.2
-    }
   }
 }

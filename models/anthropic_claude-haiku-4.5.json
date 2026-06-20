@@ -73,7 +73,7 @@
         "category": "asciiart",
         "elo": 1183,
         "win_rate": 49.3,
-        "rank": 30
+        "rank": 29
       },
       {
         "arena": "models",
@@ -99,7 +99,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1082,
+        "elo": 1081,
         "win_rate": 39.1,
         "rank": 53
       },
@@ -120,8 +120,8 @@
     ],
     "artificial_analysis": {
       "intelligence_index": 29.6,
-      "coding_index": 32.6,
-      "agentic_index": 40.2
+      "coding_index": 43.9,
+      "agentic_index": 16.4
     }
   },
   "reasoning": {

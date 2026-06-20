@@ -41,13 +41,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/amazon/nova-micro-v1/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 4.1,
-      "agentic_index": 4.7
-    }
   }
 }

@@ -30,11 +30,14 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "max_tokens",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
     "response_format",
+    "seed",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
@@ -93,9 +96,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1048,
+        "elo": 1047,
         "win_rate": 34.4,
-        "rank": 61
+        "rank": 60
       },
       {
         "arena": "models",
@@ -111,12 +114,7 @@
         "win_rate": 42.9,
         "rank": 66
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 19.1,
-      "agentic_index": 19.8
-    }
+    ]
   },
   "reasoning": {
     "mandatory": true

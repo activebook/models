@@ -53,14 +53,6 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3-vl-8b-thinking/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 9.8,
-      "agentic_index": 15.6
-    }
-  },
   "reasoning": {
     "mandatory": true
   }

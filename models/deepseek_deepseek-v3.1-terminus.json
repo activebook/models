@@ -79,7 +79,7 @@
         "category": "dataviz",
         "elo": 1207,
         "win_rate": 53,
-        "rank": 43
+        "rank": 44
       },
       {
         "arena": "models",
@@ -91,7 +91,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1122,
+        "elo": 1120,
         "win_rate": 50.1,
         "rank": 45
       },
@@ -100,7 +100,7 @@
         "category": "uicomponent",
         "elo": 1236,
         "win_rate": 59.3,
-        "rank": 32
+        "rank": 33
       },
       {
         "arena": "models",
@@ -109,12 +109,7 @@
         "win_rate": 56.4,
         "rank": 38
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 33.7,
-      "agentic_index": 29.8
-    }
+    ]
   },
   "reasoning": {
     "mandatory": false

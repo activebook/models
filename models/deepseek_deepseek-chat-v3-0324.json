@@ -53,13 +53,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-chat-v3-0324/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 22,
-      "agentic_index": 16.3
-    }
   }
 }

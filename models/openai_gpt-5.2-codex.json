@@ -64,9 +64,9 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1058,
+        "elo": 1061,
         "win_rate": 37,
-        "rank": 26
+        "rank": 27
       },
       {
         "arena": "agents",
@@ -78,7 +78,7 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1179,
+        "elo": 1173,
         "win_rate": 47.7,
         "rank": 22
       },
@@ -87,14 +87,9 @@
         "category": "webapps",
         "elo": 1130,
         "win_rate": 40.5,
-        "rank": 20
+        "rank": 21
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 43,
-      "agentic_index": 56.5
-    }
+    ]
   },
   "reasoning": {
     "mandatory": true,

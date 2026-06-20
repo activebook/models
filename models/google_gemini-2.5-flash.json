@@ -111,16 +111,11 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1077,
+        "elo": 1075,
         "win_rate": 43.1,
         "rank": 55
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 22.2,
-      "agentic_index": 18.8
-    }
+    ]
   },
   "reasoning": {
     "mandatory": false

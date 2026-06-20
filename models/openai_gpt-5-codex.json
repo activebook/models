@@ -56,16 +56,11 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1137,
+        "elo": 1132,
         "win_rate": 43.2,
         "rank": 26
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 38.9,
-      "agentic_index": 52.7
-    }
+    ]
   },
   "reasoning": {
     "mandatory": true

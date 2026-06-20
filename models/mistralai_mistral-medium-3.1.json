@@ -64,7 +64,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1042,
+        "elo": 1041,
         "win_rate": 30.8,
         "rank": 44
       },
@@ -92,9 +92,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1049,
+        "elo": 1048,
         "win_rate": 38.2,
-        "rank": 60
+        "rank": 59
       },
       {
         "arena": "models",
@@ -110,11 +110,6 @@
         "win_rate": 46,
         "rank": 60
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 18.3,
-      "agentic_index": 25.3
-    }
+    ]
   }
 }

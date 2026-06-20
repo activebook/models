@@ -45,13 +45,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/cohere/command-a-03-2025/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 29.3,
-      "agentic_index": 40.9
-    }
   }
 }

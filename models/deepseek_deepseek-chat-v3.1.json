@@ -75,7 +75,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1142,
+        "elo": 1143,
         "win_rate": 46.8,
         "rank": 64
       },
@@ -89,7 +89,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1024,
+        "elo": 1022,
         "win_rate": 38.2,
         "rank": 66
       },
@@ -107,12 +107,7 @@
         "win_rate": 48,
         "rank": 63
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 29.7,
-      "agentic_index": 18.9
-    }
+    ]
   },
   "reasoning": {
     "mandatory": false

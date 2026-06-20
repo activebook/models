@@ -58,13 +58,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/inclusionai/ling-2.6-flash-20260421/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 23.2,
-      "agentic_index": 38.1
-    }
   }
 }

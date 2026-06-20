@@ -92,14 +92,14 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1089,
+        "elo": 1088,
         "win_rate": 42,
         "rank": 50
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1220,
+        "elo": 1221,
         "win_rate": 53.3,
         "rank": 38
       },
@@ -110,12 +110,7 @@
         "win_rate": 54.2,
         "rank": 43
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 34.6,
-      "agentic_index": 39.8
-    }
+    ]
   },
   "reasoning": {
     "mandatory": false

@@ -49,13 +49,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/microsoft/phi-4-mini-instruct/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 3.6,
-      "agentic_index": 2.7
-    }
   }
 }

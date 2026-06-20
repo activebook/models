@@ -52,13 +52,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/mistralai/devstral-2512/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 23.7,
-      "agentic_index": 21.9
-    }
   }
 }

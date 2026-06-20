@@ -50,13 +50,5 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/anthropic/claude-3-5-haiku/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 10.7,
-      "agentic_index": 17.7
-    }
   }
 }

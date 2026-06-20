@@ -55,14 +55,6 @@
   "links": {
     "details": "/api/v1/models/liquid/lfm-2.5-1.2b-thinking-20260120/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 1.4,
-      "agentic_index": 6.5
-    }
-  },
   "reasoning": {
     "mandatory": true
   }

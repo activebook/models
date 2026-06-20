@@ -55,14 +55,6 @@
   "links": {
     "details": "/api/v1/models/cohere/north-mini-code-20260617/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 33.4,
-      "agentic_index": 21.7
-    }
-  },
   "reasoning": {
     "mandatory": false
   }

@@ -29,15 +29,10 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
     "max_tokens",
-    "presence_penalty",
     "reasoning",
-    "repetition_penalty",
     "response_format",
-    "seed",
-    "stop",
     "temperature",
     "tool_choice",
     "tools",
@@ -51,7 +46,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2024-12-31",
-  "expiration_date": "2026-06-19",
+  "expiration_date": "2026-12-31",
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.5/endpoints"
   },
@@ -69,12 +64,12 @@
         "category": "codecategories",
         "elo": 1215,
         "win_rate": 54.4,
-        "rank": 45
+        "rank": 46
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1203,
+        "elo": 1204,
         "win_rate": 53.3,
         "rank": 46
       },
@@ -88,14 +83,14 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1153,
+        "elo": 1152,
         "win_rate": 50.8,
         "rank": 39
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1198,
+        "elo": 1199,
         "win_rate": 55.1,
         "rank": 48
       },
@@ -106,12 +101,7 @@
         "win_rate": 53.8,
         "rank": 47
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 26.3,
-      "agentic_index": 16.2
-    }
+    ]
   },
   "reasoning": {
     "mandatory": false

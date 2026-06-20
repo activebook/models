@@ -50,14 +50,6 @@
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-nano-9b-v2/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 8.3,
-      "agentic_index": 9.4
-    }
-  },
   "reasoning": {
     "mandatory": false
   }

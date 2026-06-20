@@ -53,14 +53,6 @@
   "links": {
     "details": "/api/v1/models/minimax/minimax-m1/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 14.5,
-      "agentic_index": 29.1
-    }
-  },
   "reasoning": {
     "mandatory": false
   }

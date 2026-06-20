@@ -53,14 +53,6 @@
   "links": {
     "details": "/api/v1/models/inception/mercury-2-20260304/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 30.6,
-      "agentic_index": 39.7
-    }
-  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,
