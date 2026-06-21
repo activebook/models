@@ -29,7 +29,7 @@
   "top_provider": {
     "context_length": 200000,
     "max_completion_tokens": 32000,
-    "is_moderated": false
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -65,15 +65,15 @@
         "arena": "models",
         "category": "3d",
         "elo": 1228,
-        "win_rate": 53,
+        "win_rate": 52.8,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1215,
-        "win_rate": 53,
-        "rank": 17
+        "elo": 1210,
+        "win_rate": 52.2,
+        "rank": 19
       },
       {
         "arena": "models",
@@ -87,7 +87,7 @@
         "category": "dataviz",
         "elo": 1209,
         "win_rate": 56.4,
-        "rank": 41
+        "rank": 40
       },
       {
         "arena": "models",

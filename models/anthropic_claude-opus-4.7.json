@@ -97,7 +97,7 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1326,
+        "elo": 1324,
         "win_rate": 61.7,
         "rank": 2
       },
@@ -118,7 +118,7 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1242,
+        "elo": 1241,
         "win_rate": 57.7,
         "rank": 3
       },
@@ -127,7 +127,7 @@
         "category": "mobileapps",
         "elo": 1199,
         "win_rate": 50.9,
-        "rank": 13
+        "rank": 14
       },
       {
         "arena": "agents",
@@ -139,30 +139,30 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1332,
+        "elo": 1331,
         "win_rate": 65.5,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1352,
-        "win_rate": 66.3,
+        "elo": 1349,
+        "win_rate": 66.2,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1324,
-        "win_rate": 61.2,
+        "elo": 1325,
+        "win_rate": 61.1,
         "rank": 10
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1298,
+        "elo": 1301,
         "win_rate": 63,
-        "rank": 7
+        "rank": 6
       },
       {
         "arena": "models",
@@ -174,8 +174,8 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1326,
-        "win_rate": 62.3,
+        "elo": 1325,
+        "win_rate": 62.1,
         "rank": 3
       },
       {
@@ -188,22 +188,22 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1280,
+        "elo": 1281,
         "win_rate": 62,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1356,
-        "win_rate": 64,
+        "elo": 1358,
+        "win_rate": 64.3,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1335,
-        "win_rate": 60.6,
+        "win_rate": 60.5,
         "rank": 4
       }
     ],
