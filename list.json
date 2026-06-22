@@ -1280,6 +1280,10 @@
     "file": "models/nvidia_nemotron-nano-9b-v2:free.json"
   },
   {
+    "name": "nex-n2-pro",
+    "file": "models/nex-agi_nex-n2-pro.json"
+  },
+  {
     "name": "nex-n2-pro:free",
     "file": "models/nex-agi_nex-n2-pro:free.json"
   },
