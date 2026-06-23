@@ -58,6 +58,14 @@
     "details": "/api/v1/models/~anthropic/claude-opus-latest/endpoints"
   },
   "reasoning": {
-    "mandatory": false
+    "mandatory": false,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

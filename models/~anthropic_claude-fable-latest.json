@@ -59,6 +59,14 @@
     "details": "/api/v1/models/~anthropic/claude-fable-latest/endpoints"
   },
   "reasoning": {
-    "mandatory": true
+    "mandatory": true,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

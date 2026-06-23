@@ -53,6 +53,52 @@
   "links": {
     "details": "/api/v1/models/nex-agi/nex-n2-pro/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1320,
+        "win_rate": 56.5,
+        "rank": 12
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1279,
+        "win_rate": 50.2,
+        "rank": 24
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1255,
+        "win_rate": 49.5,
+        "rank": 26
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1279,
+        "win_rate": 49.4,
+        "rank": 22
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1241,
+        "win_rate": 44.9,
+        "rank": 32
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1259,
+        "win_rate": 47.6,
+        "rank": 29
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": false
   }

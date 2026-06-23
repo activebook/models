@@ -62,6 +62,13 @@
     "details": "/api/v1/models/~anthropic/claude-sonnet-latest/endpoints"
   },
   "reasoning": {
-    "mandatory": false
+    "mandatory": false,
+    "supported_efforts": [
+      "max",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

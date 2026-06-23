@@ -61,6 +61,13 @@
   },
   "reasoning": {
     "mandatory": false,
-    "supports_max_tokens": true
+    "supports_max_tokens": true,
+    "supported_efforts": [
+      "max",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }

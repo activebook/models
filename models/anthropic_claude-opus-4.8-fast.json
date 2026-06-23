@@ -58,6 +58,14 @@
     "details": "/api/v1/models/anthropic/claude-4.8-opus-fast-20260528/endpoints"
   },
   "reasoning": {
-    "mandatory": false
+    "mandatory": false,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
   }
 }
