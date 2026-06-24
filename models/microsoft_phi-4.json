@@ -18,7 +18,7 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000065",
+    "prompt": "0.00000007",
     "completion": "0.00000014"
   },
   "top_provider": {
@@ -30,7 +30,6 @@
   "supported_parameters": [
     "frequency_penalty",
     "logit_bias",
-    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -41,7 +40,6 @@
     "structured_outputs",
     "temperature",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {},
