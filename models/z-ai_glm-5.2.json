@@ -68,43 +68,50 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1272,
-        "win_rate": 60.4,
-        "rank": 3
+        "elo": 1249,
+        "win_rate": 57,
+        "rank": 7
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1301,
-        "win_rate": 64.7,
+        "elo": 1303,
+        "win_rate": 64.9,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1200,
-        "win_rate": 51.5,
-        "rank": 8
+        "elo": 1206,
+        "win_rate": 52.6,
+        "rank": 7
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1255,
-        "win_rate": 55.7,
+        "elo": 1263,
+        "win_rate": 57,
+        "rank": 2
+      },
+      {
+        "arena": "agents",
+        "category": "python-pptxslides",
+        "elo": 1221,
+        "win_rate": 48.6,
         "rank": 5
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1281,
-        "win_rate": 57.3,
+        "elo": 1280,
+        "win_rate": 57.2,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1379,
-        "win_rate": 64.2,
+        "elo": 1377,
+        "win_rate": 63.9,
         "rank": 1
       },
       {
@@ -125,15 +132,15 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1368,
-        "win_rate": 62.3,
+        "win_rate": 62.5,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1353,
-        "win_rate": 61.5,
-        "rank": 4
+        "elo": 1355,
+        "win_rate": 61.7,
+        "rank": 3
       },
       {
         "arena": "models",
@@ -145,8 +152,8 @@
     ],
     "artificial_analysis": {
       "intelligence_index": 51.1,
-      "coding_index": 50.7,
-      "agentic_index": 75.9
+      "coding_index": 68.8,
+      "agentic_index": 43.1
     }
   },
   "reasoning": {

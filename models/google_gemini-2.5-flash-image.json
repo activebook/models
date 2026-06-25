@@ -31,7 +31,7 @@
   },
   "top_provider": {
     "context_length": 32768,
-    "max_completion_tokens": 8192,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -60,21 +60,21 @@
       {
         "arena": "models",
         "category": "graphicdesign",
-        "elo": 1203,
+        "elo": 1204,
         "win_rate": 56.9,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "image",
-        "elo": 1214,
+        "elo": 1215,
         "win_rate": 55.6,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "logo",
-        "elo": 1188,
+        "elo": 1189,
         "win_rate": 51.5,
         "rank": 6
       }

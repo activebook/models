@@ -280,6 +280,10 @@
     "file": "models/openrouter_free.json"
   },
   {
+    "name": "fugu-ultra",
+    "file": "models/sakana_fugu-ultra.json"
+  },
+  {
     "name": "fusion",
     "file": "models/openrouter_fusion.json"
   },

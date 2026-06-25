@@ -19,7 +19,8 @@
   },
   "pricing": {
     "prompt": "0.0000006",
-    "completion": "0.0000025"
+    "completion": "0.0000025",
+    "input_cache_read": "0.0000006"
   },
   "top_provider": {
     "context_length": 262144,
@@ -64,7 +65,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1156,
+        "elo": 1157,
         "win_rate": 48.8,
         "rank": 70
       }
