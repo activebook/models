@@ -24,7 +24,8 @@
     "completion": "0.00015",
     "web_search": "0.01",
     "input_cache_read": "0.000003",
-    "input_cache_write": "0.0000375"
+    "input_cache_write": "0.0000375",
+    "input_cache_write_1h": "0.00006"
   },
   "top_provider": {
     "context_length": 1000000,

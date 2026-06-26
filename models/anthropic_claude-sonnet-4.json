@@ -24,7 +24,8 @@
     "completion": "0.000015",
     "web_search": "0.01",
     "input_cache_read": "0.0000003",
-    "input_cache_write": "0.00000375"
+    "input_cache_write": "0.00000375",
+    "input_cache_write_1h": "0.000006"
   },
   "top_provider": {
     "context_length": 1000000,
@@ -64,21 +65,21 @@
         "category": "3d",
         "elo": 1218,
         "win_rate": 57.8,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1191,
+        "elo": 1192,
         "win_rate": 53.4,
-        "rank": 56
+        "rank": 55
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1195,
+        "elo": 1196,
         "win_rate": 55.8,
-        "rank": 51
+        "rank": 50
       },
       {
         "arena": "models",
@@ -104,9 +105,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1189,
+        "elo": 1190,
         "win_rate": 52.4,
-        "rank": 58
+        "rank": 57
       }
     ]
   },

@@ -7,10 +7,11 @@
   "description": "Grok 4.3 is a reasoning model from xAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
   "context_length": 1000000,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"
@@ -101,15 +102,15 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1067,
-        "win_rate": 27.6,
+        "elo": 1069,
+        "win_rate": 27.8,
         "rank": 23
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1070,
-        "win_rate": 31.5,
+        "elo": 1071,
+        "win_rate": 31.4,
         "rank": 26
       },
       {
@@ -129,8 +130,8 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1136,
-        "win_rate": 38,
+        "elo": 1140,
+        "win_rate": 38.5,
         "rank": 26
       },
       {
@@ -143,29 +144,29 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1073,
-        "win_rate": 31.1,
+        "elo": 1072,
+        "win_rate": 30.8,
         "rank": 10
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1196,
-        "win_rate": 47.1,
-        "rank": 13
+        "elo": 1195,
+        "win_rate": 47,
+        "rank": 14
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1205,
-        "win_rate": 44.9,
+        "elo": 1206,
+        "win_rate": 45,
         "rank": 43
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1195,
-        "win_rate": 47.8,
+        "elo": 1192,
+        "win_rate": 47.5,
         "rank": 25
       },
       {
@@ -179,20 +180,20 @@
         "arena": "models",
         "category": "dataviz",
         "elo": 1236,
-        "win_rate": 48.8,
+        "win_rate": 48.7,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1248,
-        "win_rate": 50.6,
+        "elo": 1247,
+        "win_rate": 50.4,
         "rank": 32
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1141,
+        "elo": 1142,
         "win_rate": 42.2,
         "rank": 42
       },
