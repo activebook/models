@@ -48,6 +48,14 @@
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-3-nano-30b-a3b/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 14.2,
+      "coding_index": 14.4,
+      "agentic_index": 2
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

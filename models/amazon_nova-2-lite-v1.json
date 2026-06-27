@@ -52,6 +52,14 @@
   "links": {
     "details": "/api/v1/models/amazon/nova-2-lite-v1/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 18.2,
+      "coding_index": 23,
+      "agentic_index": 3.1
+    }
+  },
   "reasoning": {
     "mandatory": false
   }
