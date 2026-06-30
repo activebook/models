@@ -94,7 +94,7 @@
         "category": "svg",
         "elo": 1050,
         "win_rate": 38.2,
-        "rank": 62
+        "rank": 63
       },
       {
         "arena": "models",
@@ -110,6 +110,11 @@
         "win_rate": 46,
         "rank": 61
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 14.7,
+      "coding_index": 20.5,
+      "agentic_index": 6.2
+    }
   }
 }

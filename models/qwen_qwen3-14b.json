@@ -55,6 +55,14 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3-14b-04-28/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": 1.8
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

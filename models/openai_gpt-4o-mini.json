@@ -54,5 +54,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/openai/gpt-4o-mini/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 11.4,
+      "agentic_index": null
+    }
   }
 }
