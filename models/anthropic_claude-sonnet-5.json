@@ -1,10 +1,10 @@
 {
-  "id": "~anthropic/claude-sonnet-latest",
-  "canonical_slug": "~anthropic/claude-sonnet-latest",
+  "id": "anthropic/claude-sonnet-5",
+  "canonical_slug": "anthropic/claude-sonnet-5-20260630",
   "hugging_face_id": null,
-  "name": "Anthropic Claude Sonnet Latest",
-  "created": 1777318368,
-  "description": "This model always redirects to the latest model in the Anthropic Claude Sonnet family.",
+  "name": "Anthropic: Claude Sonnet 5",
+  "created": 1782843083,
+  "description": "Sonnet 5 is Anthropic's most capable Sonnet-class model, with frontier performance across coding, agents, and professional work. It supports adaptive thinking with selectable reasoning effort levels (low, medium, high, max,...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -16,7 +16,7 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Claude",
     "instruct_type": null
   },
   "pricing": {
@@ -57,7 +57,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~anthropic/claude-sonnet-latest/endpoints"
+    "details": "/api/v1/models/anthropic/claude-sonnet-5-20260630/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 53.4,
+      "coding_index": 71.5,
+      "agentic_index": 46.7
+    }
   },
   "reasoning": {
     "mandatory": false,

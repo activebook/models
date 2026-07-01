@@ -128,6 +128,10 @@
     "file": "models/anthropic_claude-sonnet-4.6.json"
   },
   {
+    "name": "claude-sonnet-5",
+    "file": "models/anthropic_claude-sonnet-5.json"
+  },
+  {
     "name": "claude-sonnet-latest",
     "file": "models/~anthropic_claude-sonnet-latest.json"
   },
@@ -350,6 +354,10 @@
   {
     "name": "gemini-3.1-flash-lite",
     "file": "models/google_gemini-3.1-flash-lite.json"
+  },
+  {
+    "name": "gemini-3.1-flash-lite-image",
+    "file": "models/google_gemini-3.1-flash-lite-image.json"
   },
   {
     "name": "gemini-3.1-flash-lite-preview",

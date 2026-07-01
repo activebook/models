@@ -109,7 +109,12 @@
         "win_rate": 52.4,
         "rank": 58
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 28.9,
+      "coding_index": 37.6,
+      "agentic_index": 16.6
+    }
   },
   "reasoning": {
     "mandatory": false
