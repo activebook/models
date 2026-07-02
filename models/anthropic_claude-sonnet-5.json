@@ -60,7 +60,36 @@
     "details": "/api/v1/models/anthropic/claude-sonnet-5-20260630/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1315,
+        "win_rate": 57.8,
+        "rank": 13
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1232,
+        "win_rate": 49.4,
+        "rank": 36
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1341,
+        "win_rate": 59.3,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1341,
+        "win_rate": 61.2,
+        "rank": 4
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 53.4,
       "coding_index": 71.5,

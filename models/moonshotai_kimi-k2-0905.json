@@ -29,9 +29,7 @@
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
-    "logit_bias",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "repetition_penalty",
     "response_format",
@@ -56,14 +54,14 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1148,
+        "elo": 1147,
         "win_rate": 48.5,
         "rank": 71
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1151,
+        "elo": 1150,
         "win_rate": 48.3,
         "rank": 72
       }

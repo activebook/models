@@ -18,35 +18,25 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000008",
-    "completion": "0.0000004",
-    "input_cache_read": "0.00000008"
+    "prompt": "0.00000013",
+    "completion": "0.00000156"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": 131072,
+    "context_length": 81920,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
-    "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
-    "repetition_penalty",
     "response_format",
     "seed",
-    "stop",
-    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {},
@@ -63,12 +53,12 @@
         "category": "dataviz",
         "elo": 969,
         "win_rate": 33.3,
-        "rank": 94
+        "rank": 95
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 974,
+        "elo": 973,
         "win_rate": 35.5,
         "rank": 102
       }
