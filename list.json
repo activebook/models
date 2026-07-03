@@ -928,6 +928,14 @@
     "file": "models/poolside_laguna-m.1:free.json"
   },
   {
+    "name": "laguna-xs-2.1",
+    "file": "models/poolside_laguna-xs-2.1.json"
+  },
+  {
+    "name": "laguna-xs-2.1:free",
+    "file": "models/poolside_laguna-xs-2.1:free.json"
+  },
+  {
     "name": "laguna-xs.2",
     "file": "models/poolside_laguna-xs.2.json"
   },

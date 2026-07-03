@@ -65,14 +65,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1126,
+        "elo": 1127,
         "win_rate": 56,
         "rank": 18
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1117,
+        "elo": 1116,
         "win_rate": 44.9,
         "rank": 20
       },
@@ -81,7 +81,7 @@
         "category": "godotgamedev",
         "elo": 1131,
         "win_rate": 39.1,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "agents",
@@ -93,30 +93,30 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1269,
-        "win_rate": 54.4,
+        "elo": 1268,
+        "win_rate": 54.3,
         "rank": 27
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1213,
+        "elo": 1212,
         "win_rate": 48.3,
         "rank": 18
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1265,
+        "elo": 1266,
         "win_rate": 54.9,
-        "rank": 27
+        "rank": 28
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1239,
-        "win_rate": 51.5,
-        "rank": 32
+        "elo": 1240,
+        "win_rate": 51.7,
+        "rank": 33
       },
       {
         "arena": "models",
@@ -128,15 +128,15 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1199,
+        "elo": 1200,
         "win_rate": 54.4,
         "rank": 29
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1249,
-        "win_rate": 50.8,
+        "elo": 1250,
+        "win_rate": 50.9,
         "rank": 30
       },
       {
@@ -144,9 +144,14 @@
         "category": "website",
         "elo": 1268,
         "win_rate": 55.5,
-        "rank": 25
+        "rank": 26
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 33.7,
+      "coding_index": 45.3,
+      "agentic_index": 25.4
+    }
   },
   "reasoning": {
     "mandatory": false,

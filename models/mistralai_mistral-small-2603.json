@@ -59,6 +59,14 @@
   "links": {
     "details": "/api/v1/models/mistralai/mistral-small-2603/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 19.6,
+      "coding_index": 26.6,
+      "agentic_index": 4.7
+    }
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": false,
