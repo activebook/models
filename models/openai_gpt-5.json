@@ -70,7 +70,7 @@
         "category": "asciiart",
         "elo": 1187,
         "win_rate": 49,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
@@ -82,7 +82,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1282,
+        "elo": 1281,
         "win_rate": 63.3,
         "rank": 15
       },
@@ -98,7 +98,7 @@
         "category": "svg",
         "elo": 1246,
         "win_rate": 64.1,
-        "rank": 13
+        "rank": 14
       },
       {
         "arena": "models",
@@ -114,7 +114,12 @@
         "win_rate": 53.7,
         "rank": 43
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 34.7,
+      "coding_index": 37.8,
+      "agentic_index": 25.7
+    }
   },
   "reasoning": {
     "mandatory": true,
