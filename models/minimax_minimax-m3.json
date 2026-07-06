@@ -70,8 +70,8 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1047,
-        "win_rate": 26.2,
+        "elo": 1053,
+        "win_rate": 26.7,
         "rank": 26
       },
       {
@@ -114,7 +114,7 @@
         "category": "svg",
         "elo": 1243,
         "win_rate": 54.3,
-        "rank": 15
+        "rank": 16
       },
       {
         "arena": "models",
@@ -128,7 +128,7 @@
         "category": "website",
         "elo": 1304,
         "win_rate": 55.6,
-        "rank": 12
+        "rank": 13
       }
     ],
     "artificial_analysis": {

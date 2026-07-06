@@ -61,8 +61,8 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1208,
-        "win_rate": 53.1,
+        "elo": 1206,
+        "win_rate": 53,
         "rank": 5
       },
       {
@@ -97,13 +97,13 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1261,
-        "win_rate": 55.4,
+        "win_rate": 55.3,
         "rank": 4
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1150,
+        "elo": 1151,
         "win_rate": 44.4,
         "rank": 15
       },
@@ -117,15 +117,15 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1080,
-        "win_rate": 34.3,
+        "elo": 1084,
+        "win_rate": 34.4,
         "rank": 11
       },
       {
         "arena": "agents",
         "category": "mobileapps",
         "elo": 1220,
-        "win_rate": 51.1,
+        "win_rate": 51,
         "rank": 9
       },
       {
@@ -140,27 +140,27 @@
         "category": "python-pptxslides",
         "elo": 1152,
         "win_rate": 43.3,
-        "rank": 8
+        "rank": 9
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1182,
+        "elo": 1183,
         "win_rate": 45.2,
         "rank": 18
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1264,
+        "elo": 1265,
         "win_rate": 53.2,
         "rank": 29
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1316,
-        "win_rate": 63.2,
+        "elo": 1314,
+        "win_rate": 62.7,
         "rank": 3
       },
       {
@@ -168,13 +168,13 @@
         "category": "codecategories",
         "elo": 1296,
         "win_rate": 56.7,
-        "rank": 16
+        "rank": 17
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1300,
-        "win_rate": 58.3,
+        "elo": 1301,
+        "win_rate": 58.4,
         "rank": 9
       },
       {
@@ -195,15 +195,15 @@
         "arena": "models",
         "category": "uicomponent",
         "elo": 1298,
-        "win_rate": 57.1,
+        "win_rate": 56.9,
         "rank": 16
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1289,
+        "elo": 1290,
         "win_rate": 55.9,
-        "rank": 20
+        "rank": 19
       }
     ],
     "artificial_analysis": {
