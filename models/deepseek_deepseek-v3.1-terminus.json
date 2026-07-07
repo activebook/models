@@ -70,7 +70,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1224,
+        "elo": 1225,
         "win_rate": 56,
         "rank": 39
       },
@@ -109,7 +109,12 @@
         "win_rate": 56.4,
         "rank": 42
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 43.3,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": false

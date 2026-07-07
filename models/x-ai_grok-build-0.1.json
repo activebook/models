@@ -61,6 +61,14 @@
   "links": {
     "details": "/api/v1/models/x-ai/grok-build-0.1-20260520/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 39.8,
+      "coding_index": 51.5,
+      "agentic_index": 28
+    }
+  },
   "reasoning": {
     "mandatory": true
   }

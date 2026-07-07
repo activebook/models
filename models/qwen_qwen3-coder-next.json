@@ -56,5 +56,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-coder-next-2025-02-03/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 21.1,
+      "coding_index": 36.2,
+      "agentic_index": 8.8
+    }
   }
 }

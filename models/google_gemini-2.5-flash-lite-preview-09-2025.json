@@ -57,7 +57,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-01-31",
-  "expiration_date": null,
+  "expiration_date": "2026-07-09",
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-flash-lite-preview-09-2025/endpoints"
   },
@@ -103,7 +103,7 @@
         "category": "website",
         "elo": 1142,
         "win_rate": 48.1,
-        "rank": 77
+        "rank": 76
       }
     ]
   },

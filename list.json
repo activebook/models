@@ -836,12 +836,20 @@
     "file": "models/tencent_hunyuan-a13b-instruct.json"
   },
   {
+    "name": "hy3",
+    "file": "models/tencent_hy3.json"
+  },
+  {
     "name": "hy3-preview",
     "file": "models/tencent_hy3-preview.json"
   },
   {
     "name": "hy3-preview:free",
     "file": "models/tencent_hy3-preview:free.json"
+  },
+  {
+    "name": "hy3:free",
+    "file": "models/tencent_hy3:free.json"
   },
   {
     "name": "inflection-3-pi",
@@ -1298,6 +1306,10 @@
   {
     "name": "nemotron-nano-9b-v2:free",
     "file": "models/nvidia_nemotron-nano-9b-v2:free.json"
+  },
+  {
+    "name": "nex-n2-mini",
+    "file": "models/nex-agi_nex-n2-mini.json"
   },
   {
     "name": "nex-n2-pro",

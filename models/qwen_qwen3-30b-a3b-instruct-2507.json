@@ -32,6 +32,7 @@
     "logit_bias",
     "logprobs",
     "max_tokens",
+    "min_p",
     "presence_penalty",
     "repetition_penalty",
     "response_format",
