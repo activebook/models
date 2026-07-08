@@ -5,7 +5,7 @@
   "name": "TheDrummer: Rocinante 12B",
   "created": 1727654400,
   "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narratives -...",
-  "context_length": 32768,
+  "context_length": 65536,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -22,22 +22,26 @@
     "completion": "0.0000005"
   },
   "top_provider": {
-    "context_length": 32768,
-    "max_completion_tokens": null,
+    "context_length": 65536,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "logit_bias",
+    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
     "repetition_penalty",
+    "response_format",
     "seed",
     "stop",
+    "structured_outputs",
     "temperature",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {},

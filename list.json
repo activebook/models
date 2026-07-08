@@ -24,6 +24,14 @@
     "file": "models/aion-labs_aion-2.0.json"
   },
   {
+    "name": "aion-3.0",
+    "file": "models/aion-labs_aion-3.0.json"
+  },
+  {
+    "name": "aion-3.0-mini",
+    "file": "models/aion-labs_aion-3.0-mini.json"
+  },
+  {
     "name": "aion-rp-llama-3.1-8b",
     "file": "models/aion-labs_aion-rp-llama-3.1-8b.json"
   },

@@ -24,7 +24,7 @@
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 16384,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -70,7 +70,7 @@
         "category": "3d",
         "elo": 1268,
         "win_rate": 50,
-        "rank": 27
+        "rank": 25
       },
       {
         "arena": "models",
@@ -83,15 +83,15 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1255,
-        "win_rate": 50.1,
+        "win_rate": 50,
         "rank": 31
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1167,
-        "win_rate": 41.6,
-        "rank": 62
+        "elo": 1165,
+        "win_rate": 41.4,
+        "rank": 63
       },
       {
         "arena": "models",
@@ -103,8 +103,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1213,
-        "win_rate": 49,
+        "elo": 1214,
+        "win_rate": 49.1,
         "rank": 25
       },
       {
@@ -117,8 +117,8 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1251,
-        "win_rate": 50.7,
+        "elo": 1250,
+        "win_rate": 50.6,
         "rank": 31
       }
     ],
