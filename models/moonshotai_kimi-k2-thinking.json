@@ -50,7 +50,10 @@
   "default_parameters": {
     "temperature": null,
     "top_p": null,
-    "frequency_penalty": null
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
@@ -63,9 +66,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1156,
+        "elo": 1152,
         "win_rate": 48.8,
-        "rank": 71
+        "rank": 72
       }
     ],
     "artificial_analysis": {
@@ -75,6 +78,7 @@
     }
   },
   "reasoning": {
-    "mandatory": true
+    "mandatory": true,
+    "default_enabled": true
   }
 }

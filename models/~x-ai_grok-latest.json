@@ -1,29 +1,32 @@
 {
-  "id": "tencent/hy3",
-  "canonical_slug": "tencent/hy3-20260706",
-  "hugging_face_id": "tencent/Hy3",
-  "name": "Tencent: Hy3",
-  "created": 1783344048,
-  "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
-  "context_length": 262144,
+  "id": "~x-ai/grok-latest",
+  "canonical_slug": "~x-ai/grok-latest",
+  "hugging_face_id": null,
+  "name": "xAI: Grok Latest",
+  "created": 1783519360,
+  "description": "This model always redirects to the latest Grok model from xAI.",
+  "context_length": 500000,
   "architecture": {
-    "modality": "text->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
-      "text"
+      "text",
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Other",
+    "tokenizer": "Router",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000014",
-    "completion": "0.00000058",
-    "input_cache_read": "0.000000035"
+    "prompt": "0.000002",
+    "completion": "0.000006",
+    "web_search": "0.005",
+    "input_cache_read": "0.0000005"
   },
   "top_provider": {
-    "context_length": 262144,
+    "context_length": 500000,
     "max_completion_tokens": null,
     "is_moderated": false
   },
@@ -31,12 +34,10 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
+    "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
-    "repetition_penalty",
     "response_format",
     "seed",
     "stop",
@@ -44,12 +45,12 @@
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
-    "temperature": 0.9,
-    "top_p": 1,
+    "temperature": null,
+    "top_p": null,
     "top_k": null,
     "frequency_penalty": null,
     "presence_penalty": null,
@@ -59,15 +60,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/tencent/hy3-20260706/endpoints"
+    "details": "/api/v1/models/~x-ai/grok-latest/endpoints"
   },
   "reasoning": {
-    "mandatory": false,
-    "default_enabled": false,
+    "mandatory": true,
+    "default_enabled": true,
     "supported_efforts": [
       "high",
-      "low",
-      "none"
+      "medium",
+      "low"
     ],
     "default_effort": "high"
   }
