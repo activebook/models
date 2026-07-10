@@ -34,6 +34,7 @@
     "include_reasoning",
     "max_tokens",
     "reasoning",
+    "reasoning_effort",
     "response_format",
     "seed",
     "structured_outputs",
@@ -59,21 +60,21 @@
       {
         "arena": "models",
         "category": "graphicdesign",
-        "elo": 1292,
-        "win_rate": 66.6,
+        "elo": 1287,
+        "win_rate": 66.5,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "image",
-        "elo": 1302,
-        "win_rate": 65.3,
+        "elo": 1298,
+        "win_rate": 65.2,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "logo",
-        "elo": 1280,
+        "elo": 1277,
         "win_rate": 63.1,
         "rank": 2
       }

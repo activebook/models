@@ -34,6 +34,7 @@
     "max_tokens",
     "presence_penalty",
     "reasoning",
+    "reasoning_effort",
     "seed",
     "stop",
     "temperature",

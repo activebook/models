@@ -36,6 +36,7 @@
     "max_completion_tokens",
     "max_tokens",
     "reasoning",
+    "reasoning_effort",
     "response_format",
     "seed",
     "structured_outputs",
@@ -61,7 +62,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1132,
+        "elo": 1131,
         "win_rate": 41.4,
         "rank": 71
       },
@@ -75,7 +76,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1214,
+        "elo": 1212,
         "win_rate": 54.7,
         "rank": 45
       },
@@ -110,7 +111,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1223,
+        "elo": 1220,
         "win_rate": 53.7,
         "rank": 44
       }

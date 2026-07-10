@@ -36,6 +36,7 @@
     "min_p",
     "presence_penalty",
     "reasoning",
+    "reasoning_effort",
     "repetition_penalty",
     "response_format",
     "seed",
@@ -64,14 +65,14 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 976,
+        "elo": 975,
         "win_rate": 39.7,
         "rank": 94
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 891,
+        "elo": 889,
         "win_rate": 27.9,
         "rank": 109
       }

@@ -33,6 +33,7 @@
   "supported_parameters": [
     "include_reasoning",
     "reasoning",
+    "reasoning_effort",
     "structured_outputs",
     "tool_choice",
     "tools",

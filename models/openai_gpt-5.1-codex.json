@@ -35,6 +35,7 @@
     "max_completion_tokens",
     "max_tokens",
     "reasoning",
+    "reasoning_effort",
     "response_format",
     "seed",
     "structured_outputs",
@@ -60,28 +61,28 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1085,
+        "elo": 1084,
         "win_rate": 44.5,
-        "rank": 25
+        "rank": 26
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1197,
+        "elo": 1196,
         "win_rate": 54,
         "rank": 15
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1089,
+        "elo": 1083,
         "win_rate": 44.1,
-        "rank": 24
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1196,
+        "elo": 1194,
         "win_rate": 55.2,
         "rank": 54
       },
@@ -102,7 +103,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1200,
+        "elo": 1197,
         "win_rate": 56,
         "rank": 56
       }

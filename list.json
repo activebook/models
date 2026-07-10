@@ -260,6 +260,10 @@
     "file": "models/mistralai_devstral-small.json"
   },
   {
+    "name": "dolphin-mistral-24b-venice-edition",
+    "file": "models/cognitivecomputations_dolphin-mistral-24b-venice-edition.json"
+  },
+  {
     "name": "dolphin-mistral-24b-venice-edition:free",
     "file": "models/cognitivecomputations_dolphin-mistral-24b-venice-edition:free.json"
   },
@@ -702,6 +706,30 @@
   {
     "name": "gpt-5.5-pro",
     "file": "models/openai_gpt-5.5-pro.json"
+  },
+  {
+    "name": "gpt-5.6-luna",
+    "file": "models/openai_gpt-5.6-luna.json"
+  },
+  {
+    "name": "gpt-5.6-luna-pro",
+    "file": "models/openai_gpt-5.6-luna-pro.json"
+  },
+  {
+    "name": "gpt-5.6-sol",
+    "file": "models/openai_gpt-5.6-sol.json"
+  },
+  {
+    "name": "gpt-5.6-sol-pro",
+    "file": "models/openai_gpt-5.6-sol-pro.json"
+  },
+  {
+    "name": "gpt-5.6-terra",
+    "file": "models/openai_gpt-5.6-terra.json"
+  },
+  {
+    "name": "gpt-5.6-terra-pro",
+    "file": "models/openai_gpt-5.6-terra-pro.json"
   },
   {
     "name": "gpt-audio",

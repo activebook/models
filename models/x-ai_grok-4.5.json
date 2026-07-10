@@ -38,6 +38,7 @@
     "max_tokens",
     "presence_penalty",
     "reasoning",
+    "reasoning_effort",
     "response_format",
     "seed",
     "stop",
@@ -65,30 +66,37 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1275,
+        "win_rate": 53,
+        "rank": 5
+      },
+      {
         "arena": "models",
         "category": "3d",
-        "elo": 1340,
-        "win_rate": 61.8,
+        "elo": 1342,
+        "win_rate": 60.9,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1329,
+        "elo": 1327,
         "win_rate": 58,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1336,
-        "win_rate": 61.4,
+        "elo": 1352,
+        "win_rate": 65.3,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1327,
+        "elo": 1323,
         "win_rate": 57.8,
         "rank": 5
       }

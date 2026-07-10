@@ -35,6 +35,7 @@
     "max_completion_tokens",
     "max_tokens",
     "reasoning",
+    "reasoning_effort",
     "response_format",
     "seed",
     "structured_outputs",
@@ -64,30 +65,30 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1053,
+        "elo": 1052,
         "win_rate": 37,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1187,
+        "elo": 1188,
         "win_rate": 48,
         "rank": 12
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1165,
+        "elo": 1166,
         "win_rate": 47.7,
         "rank": 25
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1128,
+        "elo": 1122,
         "win_rate": 40.5,
-        "rank": 22
+        "rank": 25
       }
     ]
   },
