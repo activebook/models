@@ -62,6 +62,17 @@
   "links": {
     "details": "/api/v1/models/tencent/hy3-20260706/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1219,
+        "win_rate": 42.9,
+        "rank": 45
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": false,
