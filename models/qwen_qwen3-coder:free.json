@@ -41,7 +41,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": "2025-06-30",
-  "expiration_date": null,
+  "expiration_date": "2026-07-19",
   "links": {
     "details": "/api/v1/models/qwen/qwen3-coder-480b-a35b-07-25/endpoints"
   },
@@ -57,21 +57,21 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1124,
+        "elo": 1122,
         "win_rate": 54.9,
         "rank": 77
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1167,
+        "elo": 1162,
         "win_rate": 59,
-        "rank": 59
+        "rank": 60
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1162,
+        "elo": 1163,
         "win_rate": 61.5,
         "rank": 57
       },
@@ -80,7 +80,7 @@
         "category": "website",
         "elo": 1194,
         "win_rate": 61.7,
-        "rank": 58
+        "rank": 59
       }
     ]
   }

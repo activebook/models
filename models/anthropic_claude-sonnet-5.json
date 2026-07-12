@@ -65,15 +65,15 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1303,
-        "win_rate": 61.3,
+        "elo": 1314,
+        "win_rate": 62.2,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "webapps",
         "elo": 1351,
-        "win_rate": 62.9,
+        "win_rate": 63,
         "rank": 1
       },
       {
@@ -109,12 +109,12 @@
         "category": "gamedev",
         "elo": 1345,
         "win_rate": 59.9,
-        "rank": 4
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1243,
+        "elo": 1247,
         "win_rate": 54.8,
         "rank": 12
       },

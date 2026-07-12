@@ -59,21 +59,21 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1060,
+        "elo": 1059,
         "win_rate": 49.4,
         "rank": 85
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1040,
+        "elo": 1035,
         "win_rate": 46.4,
-        "rank": 90
+        "rank": 91
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1078,
+        "elo": 1080,
         "win_rate": 55.1,
         "rank": 76
       },
@@ -82,7 +82,7 @@
         "category": "website",
         "elo": 1085,
         "win_rate": 53.1,
-        "rank": 88
+        "rank": 89
       }
     ]
   }
