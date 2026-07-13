@@ -75,9 +75,9 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1170,
-        "win_rate": 47.3,
-        "rank": 33
+        "elo": 1182,
+        "win_rate": 47.1,
+        "rank": 31
       },
       {
         "arena": "models",
@@ -91,35 +91,35 @@
         "category": "dataviz",
         "elo": 1366,
         "win_rate": 67,
-        "rank": 2
+        "rank": 1
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1332,
-        "win_rate": 61.7,
+        "win_rate": 61.6,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1273,
-        "win_rate": 61.2,
+        "win_rate": 61.1,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1330,
-        "win_rate": 61.3,
-        "rank": 6
+        "elo": 1331,
+        "win_rate": 61.4,
+        "rank": 5
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1310,
-        "win_rate": 57,
-        "rank": 9
+        "elo": 1312,
+        "win_rate": 57.1,
+        "rank": 8
       },
       {
         "arena": "agents",
@@ -160,15 +160,15 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1246,
-        "win_rate": 54.1,
+        "win_rate": 53.8,
         "rank": 7
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1231,
-        "win_rate": 56.4,
-        "rank": 12
+        "elo": 1229,
+        "win_rate": 56.3,
+        "rank": 11
       },
       {
         "arena": "agents",
@@ -180,7 +180,7 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1205,
+        "elo": 1206,
         "win_rate": 52.5,
         "rank": 6
       },
@@ -208,7 +208,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1241,
+        "elo": 1239,
         "win_rate": 54.5,
         "rank": 12
       }

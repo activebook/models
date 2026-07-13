@@ -5,7 +5,7 @@
   "name": "Z.ai: GLM 4.6",
   "created": 1759235576,
   "description": "Compared with GLM-4.5, this generation brings several key improvements: Longer context window: The context window has been expanded from 128K to 200K tokens, enabling the model to handle more complex...",
-  "context_length": 202752,
+  "context_length": 200000,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -19,12 +19,12 @@
   },
   "pricing": {
     "prompt": "0.00000043",
-    "completion": "0.00000174",
+    "completion": "0.00000175",
     "input_cache_read": "0.00000008"
   },
   "top_provider": {
-    "context_length": 202752,
-    "max_completion_tokens": 131072,
+    "context_length": 198000,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -73,7 +73,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1096,
+        "elo": 1093,
         "win_rate": 42.3,
         "rank": 25
       },
@@ -94,7 +94,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1200,
+        "elo": 1201,
         "win_rate": 54,
         "rank": 44
       },
@@ -108,16 +108,16 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1204,
+        "elo": 1205,
         "win_rate": 52.8,
-        "rank": 46
+        "rank": 45
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1211,
         "win_rate": 54.6,
-        "rank": 41
+        "rank": 42
       },
       {
         "arena": "models",
@@ -131,7 +131,7 @@
         "category": "uicomponent",
         "elo": 1207,
         "win_rate": 54,
-        "rank": 45
+        "rank": 46
       },
       {
         "arena": "models",
