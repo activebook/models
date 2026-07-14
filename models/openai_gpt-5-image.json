@@ -23,6 +23,7 @@
   "pricing": {
     "prompt": "0.00001",
     "completion": "0.00001",
+    "image_output": "0.00004",
     "web_search": "0.01",
     "input_cache_read": "0.00000125"
   },
@@ -65,7 +66,7 @@
         "arena": "models",
         "category": "graphicdesign",
         "elo": 1201,
-        "win_rate": 50.8,
+        "win_rate": 50.7,
         "rank": 6
       },
       {

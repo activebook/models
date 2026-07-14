@@ -23,7 +23,9 @@
     "prompt": "0.0000003",
     "completion": "0.0000025",
     "image": "0.0000003",
+    "image_output": "0.00003",
     "audio": "0.000001",
+    "input_audio_cache": "0.0000001",
     "web_search": "0.014",
     "internal_reasoning": "0.0000025",
     "input_cache_read": "0.00000003",
@@ -60,7 +62,7 @@
       {
         "arena": "models",
         "category": "graphicdesign",
-        "elo": 1195,
+        "elo": 1194,
         "win_rate": 56.9,
         "rank": 8
       },

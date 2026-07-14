@@ -24,7 +24,7 @@
     "input_cache_read": "0.000000203"
   },
   "top_provider": {
-    "context_length": 256000,
+    "context_length": 262144,
     "max_completion_tokens": null,
     "is_moderated": false
   },
@@ -69,9 +69,9 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1127,
+        "elo": 1105,
         "win_rate": 57.9,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "agents",
@@ -83,9 +83,9 @@
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1256,
+        "elo": 1219,
         "win_rate": 59.5,
-        "rank": 2
+        "rank": 7
       },
       {
         "arena": "agents",
@@ -106,41 +106,41 @@
         "category": "3d",
         "elo": 1279,
         "win_rate": 53.7,
-        "rank": 24
+        "rank": 25
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1209,
-        "win_rate": 46.5,
-        "rank": 20
+        "elo": 1206,
+        "win_rate": 46.1,
+        "rank": 19
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1279,
+        "elo": 1278,
         "win_rate": 54.6,
         "rank": 22
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1266,
+        "elo": 1265,
         "win_rate": 52.7,
-        "rank": 24
+        "rank": 25
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1267,
-        "win_rate": 53.5,
+        "win_rate": 53.6,
         "rank": 25
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1198,
-        "win_rate": 49.1,
+        "win_rate": 49,
         "rank": 30
       },
       {
@@ -157,7 +157,12 @@
         "win_rate": 55.8,
         "rank": 20
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 46.8,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": false,

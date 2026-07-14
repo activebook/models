@@ -30,7 +30,7 @@
   "top_provider": {
     "context_length": 200000,
     "max_completion_tokens": 64000,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -68,7 +68,7 @@
         "category": "3d",
         "elo": 1145,
         "win_rate": 41.2,
-        "rank": 67
+        "rank": 68
       },
       {
         "arena": "models",
@@ -87,16 +87,16 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1164,
+        "elo": 1163,
         "win_rate": 45.6,
-        "rank": 63
+        "rank": 64
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1158,
+        "elo": 1157,
         "win_rate": 44.6,
-        "rank": 63
+        "rank": 64
       },
       {
         "arena": "models",
@@ -115,9 +115,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1157,
+        "elo": 1156,
         "win_rate": 45,
-        "rank": 68
+        "rank": 70
       }
     ],
     "artificial_analysis": {

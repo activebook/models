@@ -26,6 +26,7 @@
     "completion": "0.0000015",
     "image": "0.00000025",
     "audio": "0.0000005",
+    "input_audio_cache": "0.00000005",
     "web_search": "0.014",
     "internal_reasoning": "0.0000015",
     "input_cache_read": "0.000000025",
@@ -44,7 +45,6 @@
     "reasoning_effort",
     "response_format",
     "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
@@ -72,35 +72,35 @@
         "category": "3d",
         "elo": 1121,
         "win_rate": 38.8,
-        "rank": 75
+        "rank": 76
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1211,
+        "elo": 1210,
         "win_rate": 50.7,
         "rank": 16
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1114,
+        "elo": 1113,
         "win_rate": 36.4,
         "rank": 79
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1085,
+        "elo": 1083,
         "win_rate": 33.3,
-        "rank": 81
+        "rank": 82
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1092,
         "win_rate": 34,
-        "rank": 82
+        "rank": 83
       },
       {
         "arena": "models",

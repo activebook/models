@@ -21,7 +21,23 @@
     "prompt": "0.000000195",
     "completion": "0.000000975",
     "input_cache_read": "0.000000039",
-    "input_cache_write": "0.00000024375"
+    "input_cache_write": "0.00000024375",
+    "overrides": [
+      {
+        "min_prompt_tokens": 32000,
+        "prompt": "0.000000325",
+        "completion": "0.000001625",
+        "input_cache_read": "0.000000065",
+        "input_cache_write": "0.00000040625"
+      },
+      {
+        "min_prompt_tokens": 128000,
+        "prompt": "0.00000052",
+        "completion": "0.0000026",
+        "input_cache_read": "0.000000104",
+        "input_cache_write": "0.00000065"
+      }
+    ]
   },
   "top_provider": {
     "context_length": 1000000,

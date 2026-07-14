@@ -24,7 +24,16 @@
     "completion": "0.00003",
     "web_search": "0.01",
     "input_cache_read": "0.0000005",
-    "input_cache_write": "0.00000625"
+    "input_cache_write": "0.00000625",
+    "overrides": [
+      {
+        "min_prompt_tokens": 272000,
+        "prompt": "0.00001",
+        "completion": "0.000045",
+        "input_cache_read": "0.000001",
+        "input_cache_write": "0.0000125"
+      }
+    ]
   },
   "top_provider": {
     "context_length": 1050000,

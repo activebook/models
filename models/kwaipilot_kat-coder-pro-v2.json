@@ -60,5 +60,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/kwaipilot/kat-coder-pro-v2-20260327/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 33.7,
+      "coding_index": 59.5,
+      "agentic_index": 15.5
+    }
   }
 }

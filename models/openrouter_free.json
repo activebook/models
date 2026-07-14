@@ -33,7 +33,6 @@
     "include_reasoning",
     "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
@@ -45,7 +44,6 @@
     "temperature",
     "tool_choice",
     "tools",
-    "top_a",
     "top_k",
     "top_logprobs",
     "top_p"

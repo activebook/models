@@ -22,7 +22,8 @@
   "pricing": {
     "prompt": "0.0000006",
     "completion": "0.0000024",
-    "audio": "0.0000006"
+    "audio": "0.0000006",
+    "audio_output": "0.0000024"
   },
   "top_provider": {
     "context_length": 128000,

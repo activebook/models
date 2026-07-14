@@ -21,7 +21,14 @@
   },
   "pricing": {
     "prompt": "0.0000001",
-    "completion": "0.0000004"
+    "completion": "0.0000004",
+    "overrides": [
+      {
+        "min_prompt_tokens": 128000,
+        "prompt": "0.0000002",
+        "completion": "0.0000008"
+      }
+    ]
   },
   "top_provider": {
     "context_length": 262144,

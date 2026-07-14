@@ -25,23 +25,19 @@
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 8192,
-    "is_moderated": true
+    "max_completion_tokens": 32768,
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "include_reasoning",
     "max_tokens",
-    "min_p",
     "reasoning",
     "response_format",
     "seed",
-    "stop",
     "temperature",
     "tool_choice",
     "tools",
-    "top_a",
-    "top_k",
     "top_p"
   ],
   "default_parameters": {

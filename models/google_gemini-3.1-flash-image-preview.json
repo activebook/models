@@ -22,6 +22,7 @@
   "pricing": {
     "prompt": "0.0000005",
     "completion": "0.000003",
+    "image_output": "0.00006",
     "web_search": "0.014"
   },
   "top_provider": {
@@ -74,8 +75,8 @@
       {
         "arena": "models",
         "category": "logo",
-        "elo": 1277,
-        "win_rate": 63.1,
+        "elo": 1276,
+        "win_rate": 63,
         "rank": 2
       }
     ]

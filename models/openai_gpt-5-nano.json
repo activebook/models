@@ -23,12 +23,12 @@
     "prompt": "0.00000005",
     "completion": "0.0000004",
     "web_search": "0.01",
-    "input_cache_read": "0.00000001"
+    "input_cache_read": "0.000000005"
   },
   "top_provider": {
     "context_length": 400000,
-    "max_completion_tokens": null,
-    "is_moderated": false
+    "max_completion_tokens": 128000,
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -64,7 +64,7 @@
         "category": "3d",
         "elo": 1037,
         "win_rate": 36.1,
-        "rank": 89
+        "rank": 90
       },
       {
         "arena": "models",
@@ -76,16 +76,16 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1100,
+        "elo": 1098,
         "win_rate": 46.7,
-        "rank": 79
+        "rank": 80
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1107,
+        "elo": 1106,
         "win_rate": 46.6,
-        "rank": 79
+        "rank": 80
       },
       {
         "arena": "models",

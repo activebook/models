@@ -22,7 +22,16 @@
     "prompt": "0.00000032",
     "completion": "0.00000128",
     "input_cache_read": "0.000000064",
-    "input_cache_write": "0.0000004"
+    "input_cache_write": "0.0000004",
+    "overrides": [
+      {
+        "min_prompt_tokens": 256000,
+        "prompt": "0.00000096",
+        "completion": "0.00000384",
+        "input_cache_read": "0.000000192",
+        "input_cache_write": "0.0000012"
+      }
+    ]
   },
   "top_provider": {
     "context_length": 1000000,
@@ -56,10 +65,31 @@
     "design_arena": [
       {
         "arena": "models",
+        "category": "3d",
+        "elo": 1319,
+        "win_rate": 54.5,
+        "rank": 12
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1289,
+        "win_rate": 51.9,
+        "rank": 12
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1246,
+        "win_rate": 44,
+        "rank": 34
+      },
+      {
+        "arena": "models",
         "category": "website",
-        "elo": 1293,
-        "win_rate": 52.8,
-        "rank": 16
+        "elo": 1303,
+        "win_rate": 54.1,
+        "rank": 12
       }
     ],
     "artificial_analysis": {
