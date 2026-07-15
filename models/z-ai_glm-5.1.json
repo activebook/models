@@ -82,7 +82,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1321,
+        "elo": 1320,
         "win_rate": 59.1,
         "rank": 6
       },
@@ -91,19 +91,19 @@
         "category": "dataviz",
         "elo": 1366,
         "win_rate": 67,
-        "rank": 2
+        "rank": 1
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1332,
-        "win_rate": 61.6,
+        "elo": 1330,
+        "win_rate": 61.5,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1273,
+        "elo": 1274,
         "win_rate": 61.1,
         "rank": 7
       },
@@ -117,15 +117,15 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1312,
+        "elo": 1311,
         "win_rate": 57.1,
         "rank": 8
       },
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1187,
-        "win_rate": 52,
+        "elo": 1188,
+        "win_rate": 51.8,
         "rank": 9
       },
       {
@@ -159,8 +159,8 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1222,
-        "win_rate": 53.8,
+        "elo": 1233,
+        "win_rate": 53.9,
         "rank": 7
       },
       {
@@ -173,15 +173,15 @@
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1169,
-        "win_rate": 46.4,
+        "elo": 1166,
+        "win_rate": 45.3,
         "rank": 18
       },
       {
         "arena": "agents",
         "category": "htmlslides",
         "elo": 1203,
-        "win_rate": 52,
+        "win_rate": 51.8,
         "rank": 8
       },
       {
@@ -203,12 +203,12 @@
         "category": "python-pptxslides",
         "elo": 1258,
         "win_rate": 54.2,
-        "rank": 5
+        "rank": 4
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1240,
+        "elo": 1242,
         "win_rate": 54.5,
         "rank": 12
       }

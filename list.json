@@ -912,12 +912,20 @@
     "file": "models/ai21_jamba-large-1.7.json"
   },
   {
+    "name": "kat-coder-air-v2.5",
+    "file": "models/kwaipilot_kat-coder-air-v2.5.json"
+  },
+  {
     "name": "kat-coder-pro",
     "file": "models/kwaipilot_kat-coder-pro.json"
   },
   {
     "name": "kat-coder-pro-v2",
     "file": "models/kwaipilot_kat-coder-pro-v2.json"
+  },
+  {
+    "name": "kat-coder-pro-v2.5",
+    "file": "models/kwaipilot_kat-coder-pro-v2.5.json"
   },
   {
     "name": "kimi-k2",
