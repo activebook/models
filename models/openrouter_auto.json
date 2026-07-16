@@ -40,6 +40,7 @@
     "max_completion_tokens",
     "max_tokens",
     "min_p",
+    "prediction",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",

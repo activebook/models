@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 VL 235B A22B Instruct",
   "created": 1758668687,
   "description": "Qwen3-VL-235B-A22B Instruct is an open-weight multimodal model that unifies strong text generation with visual understanding across images and video. The Instruct model targets general vision-language use (VQA, document parsing, chart/table...",
-  "context_length": 262144,
+  "context_length": 131072,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [
@@ -19,13 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000002",
-    "completion": "0.00000088",
-    "input_cache_read": "0.00000011"
+    "prompt": "0.00000021",
+    "completion": "0.0000019",
+    "input_cache_read": "0.0000001"
   },
   "top_provider": {
-    "context_length": 262144,
-    "max_completion_tokens": 16384,
+    "context_length": 131072,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,

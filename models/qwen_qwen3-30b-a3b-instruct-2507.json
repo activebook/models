@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 30B A3B Instruct 2507",
   "created": 1753806965,
   "description": "Qwen3-30B-A3B-Instruct-2507 is a 30.5B-parameter mixture-of-experts language model from Qwen, with 3.3B active parameters per inference. It operates in non-thinking mode and is designed for high-quality instruction following, multilingual understanding, and...",
-  "context_length": 131072,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000004815",
-    "completion": "0.00000019305"
+    "prompt": "0.0000001",
+    "completion": "0.0000003"
   },
   "top_provider": {
-    "context_length": 128000,
-    "max_completion_tokens": 32000,
+    "context_length": 262144,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,

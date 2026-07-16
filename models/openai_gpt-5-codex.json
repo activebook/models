@@ -56,9 +56,16 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1129,
+        "elo": 1128,
         "win_rate": 43.2,
         "rank": 29
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1138,
+        "win_rate": 52.4,
+        "rank": 23
       }
     ]
   },

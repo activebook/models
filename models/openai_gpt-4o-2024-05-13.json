@@ -35,6 +35,7 @@
     "logprobs",
     "max_completion_tokens",
     "max_tokens",
+    "prediction",
     "presence_penalty",
     "response_format",
     "seed",

@@ -18,8 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000022",
-    "completion": "0.0000018"
+    "prompt": "0.0000003",
+    "completion": "0.000001",
+    "input_cache_read": "0.0000001"
   },
   "top_provider": {
     "context_length": 262144,
@@ -58,7 +59,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1184,
+        "elo": 1183,
         "win_rate": 61.2,
         "rank": 57
       },
@@ -81,12 +82,12 @@
         "category": "uicomponent",
         "elo": 1162,
         "win_rate": 61.5,
-        "rank": 59
+        "rank": 60
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1193,
+        "elo": 1191,
         "win_rate": 61.7,
         "rank": 58
       }

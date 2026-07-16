@@ -64,40 +64,40 @@
         "category": "androidnative",
         "elo": 1084,
         "win_rate": 35.2,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1045,
+        "elo": 1046,
         "win_rate": 36.4,
-        "rank": 31
+        "rank": 32
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1122,
+        "elo": 1124,
         "win_rate": 45.1,
-        "rank": 24
+        "rank": 23
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1131,
+        "elo": 1130,
         "win_rate": 41.6,
         "rank": 28
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1114,
-        "win_rate": 39.1,
-        "rank": 26
+        "elo": 1111,
+        "win_rate": 38.9,
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1081,
+        "elo": 1080,
         "win_rate": 35.3,
         "rank": 81
       },
@@ -106,26 +106,26 @@
         "category": "asciiart",
         "elo": 1194,
         "win_rate": 51.2,
-        "rank": 25
+        "rank": 24
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1186,
+        "elo": 1184,
         "win_rate": 47.3,
         "rank": 56
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1201,
+        "elo": 1200,
         "win_rate": 50.4,
         "rank": 48
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1221,
+        "elo": 1220,
         "win_rate": 51.2,
         "rank": 42
       },
@@ -139,14 +139,14 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1185,
+        "elo": 1184,
         "win_rate": 47.3,
         "rank": 54
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1197,
+        "elo": 1195,
         "win_rate": 48.7,
         "rank": 55
       }

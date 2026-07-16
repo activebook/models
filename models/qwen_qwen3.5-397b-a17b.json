@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3.5 397B A17B",
   "created": 1771223018,
   "description": "The Qwen3.5 series 397B-A17B native vision-language model is built on a hybrid architecture that integrates a linear attention mechanism with a sparse mixture-of-experts model, achieving higher inference efficiency. It delivers...",
-  "context_length": 256000,
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000385",
-    "completion": "0.00000245",
-    "input_cache_read": "0.000000111"
+    "prompt": "0.00000045",
+    "completion": "0.000003",
+    "input_cache_read": "0.000000225"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": null,
+    "context_length": 262144,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -70,21 +70,21 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1234,
+        "elo": 1233,
         "win_rate": 56.7,
         "rank": 36
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1221,
+        "elo": 1219,
         "win_rate": 52.6,
         "rank": 38
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1214,
+        "elo": 1213,
         "win_rate": 53.2,
         "rank": 41
       },
@@ -112,7 +112,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1225,
+        "elo": 1223,
         "win_rate": 52.6,
         "rank": 40
       }

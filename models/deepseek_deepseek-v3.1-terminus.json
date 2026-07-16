@@ -5,7 +5,7 @@
   "name": "DeepSeek: DeepSeek V3.1 Terminus",
   "created": 1758548275,
   "description": "DeepSeek-V3.1 Terminus is an update to [DeepSeek V3.1](/deepseek/deepseek-chat-v3.1) that maintains the model's original capabilities while addressing issues reported by users, including language consistency and agent capabilities, further optimizing the model's...",
-  "context_length": 163840,
+  "context_length": 131072,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -19,11 +19,11 @@
   },
   "pricing": {
     "prompt": "0.00000027",
-    "completion": "0.00000095",
-    "input_cache_read": "0.00000013"
+    "completion": "0.000001",
+    "input_cache_read": "0.000000135"
   },
   "top_provider": {
-    "context_length": 163840,
+    "context_length": 131072,
     "max_completion_tokens": 32768,
     "is_moderated": false
   },
@@ -63,14 +63,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1214,
+        "elo": 1213,
         "win_rate": 56,
         "rank": 40
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1217,
+        "elo": 1215,
         "win_rate": 56,
         "rank": 40
       },
@@ -98,14 +98,14 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1229,
+        "elo": 1228,
         "win_rate": 59.3,
         "rank": 37
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1221,
+        "elo": 1219,
         "win_rate": 56.4,
         "rank": 44
       }
