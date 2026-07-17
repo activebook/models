@@ -956,6 +956,10 @@
     "file": "models/moonshotai_kimi-k2.7-code.json"
   },
   {
+    "name": "kimi-k3",
+    "file": "models/moonshotai_kimi-k3.json"
+  },
+  {
     "name": "kimi-latest",
     "file": "models/~moonshotai_kimi-latest.json"
   },
@@ -1306,6 +1310,10 @@
   {
     "name": "morph-v3-large",
     "file": "models/morph_morph-v3-large.json"
+  },
+  {
+    "name": "muse-spark-1.1",
+    "file": "models/meta_muse-spark-1.1.json"
   },
   {
     "name": "mythomax-l2-13b",
