@@ -65,21 +65,21 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1111,
+        "elo": 1114,
         "win_rate": 56,
         "rank": 22
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1113,
+        "elo": 1112,
         "win_rate": 44.9,
         "rank": 24
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1062,
+        "elo": 1060,
         "win_rate": 36.8,
         "rank": 27
       },
@@ -95,14 +95,14 @@
         "category": "3d",
         "elo": 1261,
         "win_rate": 54.3,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1209,
+        "elo": 1208,
         "win_rate": 48.2,
-        "rank": 19
+        "rank": 20
       },
       {
         "arena": "models",
@@ -114,7 +114,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1231,
+        "elo": 1232,
         "win_rate": 51.2,
         "rank": 37
       },

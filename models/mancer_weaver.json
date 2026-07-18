@@ -18,8 +18,8 @@
     "instruct_type": "alpaca"
   },
   "pricing": {
-    "prompt": "0.00000075",
-    "completion": "0.000001"
+    "prompt": "0.0000005",
+    "completion": "0.00000075"
   },
   "top_provider": {
     "context_length": 8000,

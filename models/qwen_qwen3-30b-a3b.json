@@ -18,12 +18,12 @@
     "instruct_type": "qwen3"
   },
   "pricing": {
-    "prompt": "0.00000012",
-    "completion": "0.0000005"
+    "prompt": "0.00000013",
+    "completion": "0.00000052"
   },
   "top_provider": {
-    "context_length": 40960,
-    "max_completion_tokens": 16384,
+    "context_length": 131072,
+    "max_completion_tokens": 8192,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -73,7 +73,7 @@
         "category": "dataviz",
         "elo": 1005,
         "win_rate": 39,
-        "rank": 94
+        "rank": 93
       },
       {
         "arena": "models",

@@ -40,6 +40,10 @@
     "file": "models/openrouter_auto.json"
   },
   {
+    "name": "auto-beta",
+    "file": "models/openrouter_auto-beta.json"
+  },
+  {
     "name": "bodybuilder",
     "file": "models/openrouter_bodybuilder.json"
   },
@@ -902,6 +906,10 @@
   {
     "name": "inflection-3-productivity",
     "file": "models/inflection_inflection-3-productivity.json"
+  },
+  {
+    "name": "inkling",
+    "file": "models/thinkingmachines_inkling.json"
   },
   {
     "name": "intellect-3",
