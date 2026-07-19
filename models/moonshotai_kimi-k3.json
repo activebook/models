@@ -57,7 +57,22 @@
     "details": "/api/v1/models/moonshotai/kimi-k3-20260715/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1461,
+        "win_rate": 73.3,
+        "rank": 1
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1465,
+        "win_rate": 75.7,
+        "rank": 1
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 57.1,
       "coding_index": 76.2,
