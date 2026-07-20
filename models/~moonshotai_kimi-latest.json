@@ -57,10 +57,13 @@
     "details": "/api/v1/models/~moonshotai/kimi-latest/endpoints"
   },
   "reasoning": {
-    "mandatory": true,
+    "mandatory": false,
     "default_enabled": true,
     "supported_efforts": [
-      "max"
-    ]
+      "max",
+      "high",
+      "low"
+    ],
+    "default_effort": "max"
   }
 }

@@ -60,12 +60,12 @@
         "category": "androidnative",
         "elo": 1176,
         "win_rate": 47.5,
-        "rank": 18
+        "rank": 17
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1050,
+        "elo": 1051,
         "win_rate": 37,
         "rank": 31
       },
@@ -74,7 +74,7 @@
         "category": "godotgamedev",
         "elo": 1142,
         "win_rate": 47.8,
-        "rank": 19
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -86,9 +86,9 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1112,
+        "elo": 1110,
         "win_rate": 40.1,
-        "rank": 27
+        "rank": 29
       }
     ]
   },

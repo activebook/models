@@ -76,16 +76,16 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1235,
-        "win_rate": 52.4,
+        "elo": 1232,
+        "win_rate": 52.5,
         "rank": 5
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1227,
-        "win_rate": 53.4,
-        "rank": 12
+        "elo": 1239,
+        "win_rate": 55,
+        "rank": 9
       },
       {
         "arena": "agents",
@@ -97,36 +97,36 @@
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1302,
-        "win_rate": 60.6,
+        "elo": 1299,
+        "win_rate": 60.5,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1241,
+        "elo": 1240,
         "win_rate": 55.3,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1239,
-        "win_rate": 50.7,
-        "rank": 7
+        "elo": 1233,
+        "win_rate": 50.1,
+        "rank": 9
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1271,
-        "win_rate": 52.7,
-        "rank": 6
+        "elo": 1268,
+        "win_rate": 52.2,
+        "rank": 8
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1346,
-        "win_rate": 61.3,
+        "elo": 1344,
+        "win_rate": 60.8,
         "rank": 4
       },
       {
@@ -139,9 +139,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1313,
-        "win_rate": 58.5,
-        "rank": 6
+        "elo": 1314,
+        "win_rate": 58.4,
+        "rank": 7
       },
       {
         "arena": "models",
@@ -153,16 +153,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1339,
+        "elo": 1336,
         "win_rate": 56.5,
-        "rank": 5
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1326,
+        "elo": 1325,
         "win_rate": 58.3,
-        "rank": 5
+        "rank": 6
       }
     ],
     "artificial_analysis": {

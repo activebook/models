@@ -59,17 +59,38 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "python-pptxslides",
+        "elo": 1270,
+        "win_rate": 55.3,
+        "rank": 4
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1333,
+        "win_rate": 62.7,
+        "rank": 1
+      },
+      {
         "arena": "models",
         "category": "3d",
-        "elo": 1461,
-        "win_rate": 73.3,
+        "elo": 1447,
+        "win_rate": 71.8,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1465,
-        "win_rate": 75.7,
+        "elo": 1400,
+        "win_rate": 68.6,
+        "rank": 1
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1405,
+        "win_rate": 67.9,
         "rank": 1
       }
     ],
@@ -80,10 +101,13 @@
     }
   },
   "reasoning": {
-    "mandatory": true,
+    "mandatory": false,
     "default_enabled": true,
     "supported_efforts": [
-      "max"
-    ]
+      "max",
+      "high",
+      "low"
+    ],
+    "default_effort": "max"
   }
 }
