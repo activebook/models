@@ -1136,6 +1136,10 @@
     "file": "models/eleutherai_llemma_7b.json"
   },
   {
+    "name": "longcat-2.0",
+    "file": "models/meituan_longcat-2.0.json"
+  },
+  {
     "name": "longcat-flash-chat",
     "file": "models/meituan_longcat-flash-chat.json"
   },
