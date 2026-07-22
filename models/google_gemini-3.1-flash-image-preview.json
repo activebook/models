@@ -26,8 +26,8 @@
     "web_search": "0.014"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": 32768,
+    "context_length": 65536,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -62,7 +62,7 @@
         "arena": "models",
         "category": "graphicdesign",
         "elo": 1287,
-        "win_rate": 66.4,
+        "win_rate": 66.3,
         "rank": 2
       },
       {
@@ -75,7 +75,7 @@
       {
         "arena": "models",
         "category": "logo",
-        "elo": 1277,
+        "elo": 1276,
         "win_rate": 63,
         "rank": 2
       }

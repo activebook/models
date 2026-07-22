@@ -5,7 +5,7 @@
   "name": "Meta: Llama Guard 4 12B",
   "created": 1745975193,
   "description": "Llama Guard 4 is a Llama 4 Scout-derived multimodal pretrained model, fine-tuned for content safety classification. Similar to previous versions, it can be used to classify content in both LLM...",
-  "context_length": 163840,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [

@@ -5,7 +5,7 @@
   "name": "DeepSeek: DeepSeek V3",
   "created": 1735241320,
   "description": "DeepSeek-V3 is the latest model from the DeepSeek team, building upon the instruction following and coding abilities of the previous versions. Pre-trained on nearly 15 trillion tokens, the reported evaluations...",
-  "context_length": 131072,
+  "context_length": 163840,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -56,14 +56,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1154,
+        "elo": 1146,
         "win_rate": 50.7,
         "rank": 61
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1145,
+        "elo": 1142,
         "win_rate": 48.5,
         "rank": 74
       },
@@ -91,16 +91,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1137,
+        "elo": 1136,
         "win_rate": 52.8,
         "rank": 68
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1150,
+        "elo": 1147,
         "win_rate": 48.5,
-        "rank": 73
+        "rank": 74
       }
     ]
   }

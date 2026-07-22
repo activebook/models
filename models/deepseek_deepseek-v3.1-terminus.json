@@ -5,7 +5,7 @@
   "name": "DeepSeek: DeepSeek V3.1 Terminus",
   "created": 1758548275,
   "description": "DeepSeek-V3.1 Terminus is an update to [DeepSeek V3.1](/deepseek/deepseek-chat-v3.1) that maintains the model's original capabilities while addressing issues reported by users, including language consistency and agent capabilities, further optimizing the model's...",
-  "context_length": 131072,
+  "context_length": 163840,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -63,14 +63,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1207,
+        "elo": 1199,
         "win_rate": 56,
         "rank": 43
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1212,
+        "elo": 1209,
         "win_rate": 56,
         "rank": 43
       },
@@ -100,14 +100,14 @@
         "category": "uicomponent",
         "elo": 1224,
         "win_rate": 59.3,
-        "rank": 40
+        "rank": 39
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1217,
+        "elo": 1214,
         "win_rate": 56.4,
-        "rank": 47
+        "rank": 48
       }
     ],
     "artificial_analysis": {

@@ -5,7 +5,7 @@
   "name": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
   "created": 1781754054,
   "description": "Nano Banana Pro is Google\u2019s most advanced image-generation and editing model, built on Gemini 3 Pro. It extends the original Nano Banana with significantly improved multimodal reasoning, real-world grounding, and...",
-  "context_length": 65536,
+  "context_length": 131072,
   "architecture": {
     "modality": "text+image->text+image",
     "input_modalities": [

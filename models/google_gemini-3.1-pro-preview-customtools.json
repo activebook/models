@@ -5,7 +5,7 @@
   "name": "Google: Gemini 3.1 Pro Preview Custom Tools",
   "created": 1772045923,
   "description": "Gemini 3.1 Pro Preview Custom Tools is a variant of Gemini 3.1 Pro that improves tool selection behavior by preventing overuse of a general bash tool when more efficient third-party...",
-  "context_length": 1048756,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",
     "input_modalities": [

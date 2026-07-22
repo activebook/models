@@ -5,7 +5,7 @@
   "name": "Xiaomi: MiMo-V2.5",
   "created": 1776874269,
   "description": "MiMo-V2.5 is a native omnimodal model by Xiaomi. It delivers Pro-level agentic performance at roughly half the inference cost, while surpassing MiMo-V2-Omni in multimodal perception across image and video understanding...",
-  "context_length": 1048576,
+  "context_length": 1050000,
   "architecture": {
     "modality": "text+image+audio+video->text",
     "input_modalities": [
@@ -71,8 +71,8 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1282,
-        "win_rate": 52.8,
+        "elo": 1273,
+        "win_rate": 52.6,
         "rank": 23
       },
       {
@@ -80,34 +80,34 @@
         "category": "asciiart",
         "elo": 1175,
         "win_rate": 45.7,
-        "rank": 35
+        "rank": 36
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1290,
+        "elo": 1286,
         "win_rate": 54.6,
-        "rank": 16
+        "rank": 18
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1279,
-        "win_rate": 54.5,
+        "win_rate": 54.4,
         "rank": 17
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1291,
-        "win_rate": 55.4,
+        "win_rate": 55.3,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1217,
-        "win_rate": 52.7,
+        "elo": 1218,
+        "win_rate": 52.8,
         "rank": 22
       },
       {
@@ -120,9 +120,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1291,
+        "elo": 1288,
         "win_rate": 55,
-        "rank": 16
+        "rank": 18
       }
     ],
     "artificial_analysis": {

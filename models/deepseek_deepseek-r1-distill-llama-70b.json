@@ -5,7 +5,7 @@
   "name": "DeepSeek: R1 Distill Llama 70B",
   "created": 1737663169,
   "description": "DeepSeek R1 Distill Llama 70B is a distilled large language model based on [Llama-3.3-70B-Instruct](/meta-llama/llama-3.3-70b-instruct), using outputs from [DeepSeek R1](/deepseek/deepseek-r1). The model combines advanced distillation techniques to achieve high performance across...",
-  "context_length": 128000,
+  "context_length": 8192,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

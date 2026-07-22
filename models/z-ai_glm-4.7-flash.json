@@ -5,7 +5,7 @@
   "name": "Z.ai: GLM 4.7 Flash",
   "created": 1768833913,
   "description": "As a 30B-class SOTA model, GLM-4.7-Flash offers a new option that balances performance and efficiency. It is further optimized for agentic coding use cases, strengthening coding capabilities, long-horizon task planning,...",
-  "context_length": 200000,
+  "context_length": 202752,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -64,14 +64,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1187,
+        "elo": 1179,
         "win_rate": 51.2,
         "rank": 52
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1214,
+        "elo": 1211,
         "win_rate": 53.1,
         "rank": 42
       },
@@ -101,12 +101,12 @@
         "category": "uicomponent",
         "elo": 1250,
         "win_rate": 57.6,
-        "rank": 32
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1224,
+        "elo": 1221,
         "win_rate": 54,
         "rank": 42
       }

@@ -392,6 +392,14 @@
     "file": "models/google_gemini-3.5-flash.json"
   },
   {
+    "name": "gemini-3.5-flash-lite",
+    "file": "models/google_gemini-3.5-flash-lite.json"
+  },
+  {
+    "name": "gemini-3.6-flash",
+    "file": "models/google_gemini-3.6-flash.json"
+  },
+  {
     "name": "gemini-flash-latest",
     "file": "models/~google_gemini-flash-latest.json"
   },
@@ -998,6 +1006,14 @@
   {
     "name": "laguna-m.1:free",
     "file": "models/poolside_laguna-m.1:free.json"
+  },
+  {
+    "name": "laguna-s-2.1",
+    "file": "models/poolside_laguna-s-2.1.json"
+  },
+  {
+    "name": "laguna-s-2.1:free",
+    "file": "models/poolside_laguna-s-2.1:free.json"
   },
   {
     "name": "laguna-xs-2.1",

@@ -5,7 +5,7 @@
   "name": "Xiaomi: MiMo-V2.5-Pro",
   "created": 1776874273,
   "description": "MiMo-V2.5-Pro is Xiaomi\u2019s flagship model, delivering strong performance in general agentic capabilities, complex software engineering, and long-horizon tasks, with top rankings on benchmarks such as ClawEval, GDPVal, and SWE-bench Pro....",
-  "context_length": 1048576,
+  "context_length": 1050000,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -68,58 +68,58 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1314,
-        "win_rate": 57.4,
-        "rank": 13
+        "elo": 1304,
+        "win_rate": 57.1,
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1187,
         "win_rate": 47.6,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1306,
-        "win_rate": 57.1,
+        "elo": 1302,
+        "win_rate": 57,
         "rank": 12
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1282,
-        "win_rate": 56.9,
-        "rank": 15
+        "elo": 1281,
+        "win_rate": 56.7,
+        "rank": 16
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1331,
-        "win_rate": 61,
+        "win_rate": 60.9,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1220,
+        "elo": 1221,
         "win_rate": 52.5,
         "rank": 21
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1278,
-        "win_rate": 53.5,
-        "rank": 23
+        "elo": 1281,
+        "win_rate": 53.9,
+        "rank": 20
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1299,
-        "win_rate": 56,
-        "rank": 14
+        "elo": 1296,
+        "win_rate": 55.9,
+        "rank": 15
       }
     ],
     "artificial_analysis": {

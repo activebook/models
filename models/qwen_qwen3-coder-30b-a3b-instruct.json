@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 Coder 30B A3B Instruct",
   "created": 1753972379,
   "description": "Qwen3-Coder-30B-A3B-Instruct is a 30.5B parameter Mixture-of-Experts (MoE) model with 128 experts (8 active per forward pass), designed for advanced code generation, repository-scale understanding, and agentic tool use. Built on the...",
-  "context_length": 160000,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -70,9 +70,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1118,
+        "elo": 1115,
         "win_rate": 57.1,
-        "rank": 83
+        "rank": 84
       }
     ]
   }

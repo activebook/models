@@ -5,7 +5,7 @@
   "name": "MythoMax 13B",
   "created": 1688256000,
   "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
-  "context_length": 4096,
+  "context_length": 8192,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 VL 32B Instruct",
   "created": 1761231332,
   "description": "Qwen3-VL-32B-Instruct is a large-scale multimodal vision-language model designed for high-precision understanding and reasoning across text, images, and video. With 32 billion parameters, it combines deep visual perception with advanced text...",
-  "context_length": 262144,
+  "context_length": 131072,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [

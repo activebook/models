@@ -5,7 +5,7 @@
   "name": "Z.ai: GLM 4.7",
   "created": 1766378014,
   "description": "GLM-4.7 is Z.ai\u2019s latest flagship model, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution. It demonstrates significant improvements in executing complex agent tasks while...",
-  "context_length": 202752,
+  "context_length": 204800,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -68,37 +68,37 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1109,
+        "elo": 1105,
         "win_rate": 56,
         "rank": 22
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1109,
+        "elo": 1108,
         "win_rate": 44.9,
         "rank": 24
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1072,
+        "elo": 1077,
         "win_rate": 36.8,
         "rank": 28
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1184,
+        "elo": 1183,
         "win_rate": 49.5,
         "rank": 18
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1257,
+        "elo": 1249,
         "win_rate": 54.3,
-        "rank": 32
+        "rank": 31
       },
       {
         "arena": "models",
@@ -110,7 +110,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1253,
+        "elo": 1249,
         "win_rate": 54.7,
         "rank": 31
       },
@@ -140,14 +140,14 @@
         "category": "uicomponent",
         "elo": 1240,
         "win_rate": 51,
-        "rank": 35
+        "rank": 36
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1256,
+        "elo": 1253,
         "win_rate": 55.2,
-        "rank": 30
+        "rank": 31
       }
     ],
     "artificial_analysis": {

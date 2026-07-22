@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 14B",
   "created": 1745876478,
   "description": "Qwen3-14B is a dense 14.8B parameter causal language model from the Qwen3 series, designed for both complex reasoning and efficient dialogue. It supports seamless switching between a \"thinking\" mode for...",
-  "context_length": 131702,
+  "context_length": 131072,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [

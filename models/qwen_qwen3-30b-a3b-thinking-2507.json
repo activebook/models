@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3 30B A3B Thinking 2507",
   "created": 1756399192,
   "description": "Qwen3-30B-A3B-Thinking-2507 is a 30B parameter Mixture-of-Experts reasoning model optimized for complex tasks requiring extended multi-step thinking. The model is designed specifically for \u201cthinking mode,\u201d where internal reasoning traces are separated...",
-  "context_length": 131072,
+  "context_length": 81920,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -58,9 +58,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 961,
+        "elo": 958,
         "win_rate": 35.5,
-        "rank": 109
+        "rank": 110
       }
     ],
     "artificial_analysis": {
