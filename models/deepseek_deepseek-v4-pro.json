@@ -78,7 +78,7 @@
         "category": "godotgamedev",
         "elo": 1059,
         "win_rate": 34,
-        "rank": 30
+        "rank": 27
       },
       {
         "arena": "agents",
@@ -90,30 +90,30 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1310,
+        "elo": 1311,
         "win_rate": 58.9,
-        "rank": 10
+        "rank": 12
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1194,
+        "elo": 1193,
         "win_rate": 46.6,
         "rank": 24
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1272,
-        "win_rate": 54.2,
-        "rank": 23
+        "elo": 1271,
+        "win_rate": 54.1,
+        "rank": 25
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1212,
-        "win_rate": 47.4,
-        "rank": 42
+        "win_rate": 47.5,
+        "rank": 43
       },
       {
         "arena": "models",
@@ -125,22 +125,22 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1183,
-        "win_rate": 46.5,
+        "elo": 1184,
+        "win_rate": 46.6,
         "rank": 36
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1263,
-        "win_rate": 52.1,
-        "rank": 29
+        "elo": 1261,
+        "win_rate": 52,
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1261,
-        "win_rate": 53,
+        "win_rate": 52.8,
         "rank": 28
       }
     ],

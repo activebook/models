@@ -2,9 +2,9 @@
   "id": "google/gemini-3.5-flash-lite",
   "canonical_slug": "google/gemini-3.5-flash-lite-20260721",
   "hugging_face_id": null,
-  "name": "Google: Gemini 3.5 Flash-Lite",
+  "name": "Google: Gemini 3.5 Flash Lite",
   "created": 1784646726,
-  "description": "Gemini 3.5 Flash-Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
+  "description": "Gemini 3.5 Flash Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",

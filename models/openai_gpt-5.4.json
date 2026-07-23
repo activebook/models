@@ -36,7 +36,7 @@
   "top_provider": {
     "context_length": 1050000,
     "max_completion_tokens": 128000,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -70,14 +70,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1160,
+        "elo": 1161,
         "win_rate": 42.3,
-        "rank": 58
+        "rank": 59
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1241,
+        "elo": 1240,
         "win_rate": 55.5,
         "rank": 11
       },
@@ -86,12 +86,12 @@
         "category": "codecategories",
         "elo": 1245,
         "win_rate": 52.6,
-        "rank": 32
+        "rank": 34
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1268,
+        "elo": 1267,
         "win_rate": 56.3,
         "rank": 23
       },
@@ -105,16 +105,16 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1241,
+        "elo": 1242,
         "win_rate": 57.8,
         "rank": 13
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1281,
+        "elo": 1280,
         "win_rate": 57.5,
-        "rank": 19
+        "rank": 22
       },
       {
         "arena": "models",
@@ -126,23 +126,23 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1020,
+        "elo": 1018,
         "win_rate": 47.4,
         "rank": 30
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1076,
+        "elo": 1075,
         "win_rate": 40.8,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
         "elo": 1135,
         "win_rate": 46.9,
-        "rank": 23
+        "rank": 22
       },
       {
         "arena": "agents",
