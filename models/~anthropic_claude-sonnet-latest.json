@@ -62,6 +62,7 @@
   },
   "reasoning": {
     "mandatory": false,
+    "default_enabled": false,
     "supported_efforts": [
       "max",
       "xhigh",
@@ -69,6 +70,6 @@
       "medium",
       "low"
     ],
-    "default_effort": "medium"
+    "default_effort": "high"
   }
 }

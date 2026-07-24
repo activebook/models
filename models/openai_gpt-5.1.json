@@ -92,12 +92,12 @@
         "category": "codecategories",
         "elo": 1204,
         "win_rate": 53.1,
-        "rank": 49
+        "rank": 48
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1239,
+        "elo": 1238,
         "win_rate": 58,
         "rank": 35
       },
@@ -111,7 +111,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1197,
+        "elo": 1198,
         "win_rate": 57.4,
         "rank": 30
       },
@@ -125,9 +125,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1214,
+        "elo": 1215,
         "win_rate": 54.1,
-        "rank": 48
+        "rank": 46
       }
     ],
     "artificial_analysis": {

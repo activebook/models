@@ -5,7 +5,7 @@
   "name": "Thinking Machines: Inkling",
   "created": 1784325956,
   "description": "Inkling is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 41B active parameters out of 975B total. It is designed for general-purpose reasoning, coding, agentic and tool-use systems,...",
-  "context_length": 524288,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+audio->text",
     "input_modalities": [
@@ -40,6 +40,7 @@
     "reasoning",
     "reasoning_effort",
     "repetition_penalty",
+    "seed",
     "stop",
     "temperature",
     "tool_choice",
