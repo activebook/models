@@ -18,12 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000029",
-    "completion": "0.00000014"
+    "prompt": "0.00000003",
+    "completion": "0.00000013",
+    "input_cache_read": "0.00000003"
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": null,
+    "max_completion_tokens": 131072,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -72,7 +73,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 880,
+        "elo": 879,
         "win_rate": 27.9,
         "rank": 114
       }

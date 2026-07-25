@@ -124,6 +124,14 @@
     "file": "models/anthropic_claude-opus-4.8-fast.json"
   },
   {
+    "name": "claude-opus-5",
+    "file": "models/anthropic_claude-opus-5.json"
+  },
+  {
+    "name": "claude-opus-5-fast",
+    "file": "models/anthropic_claude-opus-5-fast.json"
+  },
+  {
     "name": "claude-opus-latest",
     "file": "models/~anthropic_claude-opus-latest.json"
   },

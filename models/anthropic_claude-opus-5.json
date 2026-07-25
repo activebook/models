@@ -1,10 +1,10 @@
 {
-  "id": "~anthropic/claude-sonnet-latest",
-  "canonical_slug": "~anthropic/claude-sonnet-latest",
+  "id": "anthropic/claude-opus-5",
+  "canonical_slug": "anthropic/claude-opus-5-20260723",
   "hugging_face_id": null,
-  "name": "Anthropic Claude Sonnet Latest",
-  "created": 1777318368,
-  "description": "This model always redirects to the latest model in the Anthropic Claude Sonnet family.",
+  "name": "Claude Opus 5",
+  "created": 1784912544,
+  "description": "Claude Opus 5 is Anthropic\u2019s flagship model for demanding reasoning, coding, and long-horizon agentic work. It is particularly strong at end-to-end software tasks, code review and bug finding, visual analysis...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -16,16 +16,16 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Claude",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000002",
-    "completion": "0.00001",
+    "prompt": "0.000005",
+    "completion": "0.000025",
     "web_search": "0.01",
-    "input_cache_read": "0.0000002",
-    "input_cache_write": "0.0000025",
-    "input_cache_write_1h": "0.000004"
+    "input_cache_read": "0.0000005",
+    "input_cache_write": "0.00000625",
+    "input_cache_write_1h": "0.00001"
   },
   "top_provider": {
     "context_length": 1000000,
@@ -42,6 +42,7 @@
     "response_format",
     "stop",
     "structured_outputs",
+    "temperature",
     "tool_choice",
     "tools",
     "verbosity"
@@ -58,7 +59,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~anthropic/claude-sonnet-latest/endpoints"
+    "details": "/api/v1/models/anthropic/claude-opus-5-20260723/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 60.7,
+      "coding_index": 78,
+      "agentic_index": 55.3
+    }
   },
   "reasoning": {
     "mandatory": false,

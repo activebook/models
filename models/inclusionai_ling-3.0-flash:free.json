@@ -44,7 +44,14 @@
     "top_logprobs",
     "top_p"
   ],
-  "default_parameters": {},
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
@@ -53,6 +60,6 @@
   },
   "reasoning": {
     "mandatory": false,
-    "default_enabled": false
+    "default_enabled": true
   }
 }
