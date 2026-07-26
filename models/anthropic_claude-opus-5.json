@@ -62,7 +62,29 @@
     "details": "/api/v1/models/anthropic/claude-opus-5-20260723/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1317,
+        "win_rate": 58.6,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1385,
+        "win_rate": 64.1,
+        "rank": 2
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1317,
+        "win_rate": 56.1,
+        "rank": 8
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 60.7,
       "coding_index": 78,

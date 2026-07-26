@@ -19,8 +19,7 @@
   },
   "pricing": {
     "prompt": "0.00000003",
-    "completion": "0.00000013",
-    "input_cache_read": "0.00000003"
+    "completion": "0.00000014"
   },
   "top_provider": {
     "context_length": 131072,
@@ -66,16 +65,16 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 968,
+        "elo": 966,
         "win_rate": 39.7,
-        "rank": 99
+        "rank": 100
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 879,
+        "elo": 878,
         "win_rate": 27.9,
-        "rank": 114
+        "rank": 115
       }
     ],
     "artificial_analysis": {
