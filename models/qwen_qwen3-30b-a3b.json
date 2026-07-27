@@ -18,12 +18,12 @@
     "instruct_type": "qwen3"
   },
   "pricing": {
-    "prompt": "0.00000013",
-    "completion": "0.00000052"
+    "prompt": "0.00000012",
+    "completion": "0.0000005"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": 8192,
+    "context_length": 40960,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -64,14 +64,14 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 973,
+        "elo": 972,
         "win_rate": 37.5,
-        "rank": 107
+        "rank": 108
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1000,
+        "elo": 997,
         "win_rate": 39,
         "rank": 97
       },
@@ -85,7 +85,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 984,
+        "elo": 983,
         "win_rate": 42.4,
         "rank": 97
       },

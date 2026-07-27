@@ -22,12 +22,12 @@
     "prompt": "0.00000125",
     "completion": "0.00001",
     "web_search": "0.01",
-    "input_cache_read": "0.000000125"
+    "input_cache_read": "0.00000013"
   },
   "top_provider": {
     "context_length": 400000,
     "max_completion_tokens": 128000,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -63,35 +63,35 @@
         "category": "fullstack",
         "elo": 1086,
         "win_rate": 44.5,
-        "rank": 27
+        "rank": 26
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1198,
+        "elo": 1199,
         "win_rate": 53.4,
         "rank": 17
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1076,
+        "elo": 1073,
         "win_rate": 44.1,
-        "rank": 31
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1182,
+        "elo": 1181,
         "win_rate": 55.2,
-        "rank": 59
+        "rank": 60
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1204,
+        "elo": 1203,
         "win_rate": 50.7,
-        "rank": 48
+        "rank": 46
       },
       {
         "arena": "models",

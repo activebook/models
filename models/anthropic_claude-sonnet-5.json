@@ -65,50 +65,50 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1231,
-        "win_rate": 55,
+        "elo": 1234,
+        "win_rate": 55.1,
         "rank": 4
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1248,
-        "win_rate": 53.2,
+        "elo": 1244,
+        "win_rate": 53.1,
         "rank": 8
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1281,
-        "win_rate": 59.1,
+        "elo": 1276,
+        "win_rate": 59,
         "rank": 6
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1266,
+        "elo": 1268,
         "win_rate": 59.7,
-        "rank": 3
-      },
-      {
-        "arena": "agents",
-        "category": "htmlslides",
-        "elo": 1232,
-        "win_rate": 54.1,
         "rank": 4
       },
       {
         "arena": "agents",
+        "category": "htmlslides",
+        "elo": 1231,
+        "win_rate": 54,
+        "rank": 5
+      },
+      {
+        "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1243,
-        "win_rate": 54.9,
+        "elo": 1245,
+        "win_rate": 55,
         "rank": 7
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1304,
-        "win_rate": 58.3,
+        "elo": 1301,
+        "win_rate": 58.1,
         "rank": 4
       },
       {
@@ -116,7 +116,7 @@
         "category": "3d",
         "elo": 1321,
         "win_rate": 57,
-        "rank": 8
+        "rank": 9
       },
       {
         "arena": "models",
@@ -150,7 +150,7 @@
         "arena": "models",
         "category": "svg",
         "elo": 1241,
-        "win_rate": 53.8,
+        "win_rate": 53.7,
         "rank": 14
       },
       {
@@ -158,7 +158,7 @@
         "category": "uicomponent",
         "elo": 1317,
         "win_rate": 56.5,
-        "rank": 9
+        "rank": 8
       },
       {
         "arena": "models",

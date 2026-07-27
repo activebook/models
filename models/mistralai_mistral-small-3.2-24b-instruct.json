@@ -32,7 +32,6 @@
   "supported_parameters": [
     "frequency_penalty",
     "logit_bias",
-    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -45,7 +44,6 @@
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -64,12 +62,12 @@
         "category": "codecategories",
         "elo": 938,
         "win_rate": 39.8,
-        "rank": 108
+        "rank": 109
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 960,
+        "elo": 958,
         "win_rate": 43.3,
         "rank": 101
       },
@@ -83,14 +81,14 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 945,
+        "elo": 944,
         "win_rate": 40.5,
         "rank": 101
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 921,
+        "elo": 920,
         "win_rate": 38.3,
         "rank": 112
       }

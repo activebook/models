@@ -27,7 +27,7 @@
   "top_provider": {
     "context_length": 400000,
     "max_completion_tokens": 128000,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -65,7 +65,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1049,
+        "elo": 1043,
         "win_rate": 37,
         "rank": 31
       },
@@ -79,16 +79,16 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1166,
+        "elo": 1167,
         "win_rate": 47.2,
         "rank": 25
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1111,
+        "elo": 1109,
         "win_rate": 40.1,
-        "rank": 29
+        "rank": 30
       }
     ]
   },
