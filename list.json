@@ -1776,6 +1776,10 @@
     "file": "models/qwen_qwen3.6-plus:free.json"
   },
   {
+    "name": "qwen3.7-flash",
+    "file": "models/qwen_qwen3.7-flash.json"
+  },
+  {
     "name": "qwen3.7-max",
     "file": "models/qwen_qwen3.7-max.json"
   },

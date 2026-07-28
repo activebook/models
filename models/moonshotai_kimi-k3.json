@@ -1,7 +1,7 @@
 {
   "id": "moonshotai/kimi-k3",
   "canonical_slug": "moonshotai/kimi-k3-20260715",
-  "hugging_face_id": null,
+  "hugging_face_id": "moonshotai/Kimi-K3",
   "name": "MoonshotAI: Kimi K3",
   "created": 1784215858,
   "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
@@ -32,19 +32,28 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
+    "logprobs",
     "max_tokens",
+    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
+    "repetition_penalty",
     "response_format",
+    "seed",
     "stop",
     "structured_outputs",
+    "temperature",
     "tool_choice",
-    "tools"
+    "tools",
+    "top_k",
+    "top_logprobs",
+    "top_p"
   ],
   "default_parameters": {
     "temperature": null,
-    "top_p": null,
+    "top_p": 0.95,
     "top_k": null,
     "frequency_penalty": null,
     "presence_penalty": null,
@@ -68,15 +77,15 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1385,
-        "win_rate": 71.5,
+        "elo": 1379,
+        "win_rate": 70.8,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "webapps",
         "elo": 1325,
-        "win_rate": 62.5,
+        "win_rate": 62.4,
         "rank": 1
       },
       {
@@ -89,29 +98,29 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1420,
-        "win_rate": 67.3,
-        "rank": 1
-      },
-      {
-        "arena": "models",
-        "category": "dataviz",
-        "elo": 1384,
+        "elo": 1419,
         "win_rate": 67.1,
         "rank": 1
       },
       {
         "arena": "models",
+        "category": "dataviz",
+        "elo": 1381,
+        "win_rate": 66.5,
+        "rank": 2
+      },
+      {
+        "arena": "models",
         "category": "uicomponent",
-        "elo": 1409,
-        "win_rate": 67.4,
+        "elo": 1415,
+        "win_rate": 68,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1377,
-        "win_rate": 63.8,
+        "elo": 1376,
+        "win_rate": 63.5,
         "rank": 1
       }
     ],
