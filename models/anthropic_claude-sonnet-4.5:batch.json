@@ -1,0 +1,162 @@
+{
+  "id": "anthropic/claude-sonnet-4.5:batch",
+  "canonical_slug": "anthropic/claude-4.5-sonnet-20250929",
+  "hugging_face_id": "",
+  "name": "Anthropic: Claude Sonnet 4.5 (batch)",
+  "created": 1759161676,
+  "description": "Claude Sonnet 4.5 is Anthropic\u2019s most advanced Sonnet model to date, optimized for real-world agents and coding workflows. It delivers state-of-the-art performance on coding benchmarks such as SWE-bench Verified, with...",
+  "context_length": 1000000,
+  "architecture": {
+    "modality": "text+image+file->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "file"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Claude",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000015",
+    "completion": "0.0000075",
+    "web_search": "0.01",
+    "input_cache_read": "0.00000015",
+    "input_cache_write": "0.000001875",
+    "input_cache_write_1h": "0.000003",
+    "overrides": [
+      {
+        "min_prompt_tokens": 200000,
+        "prompt": "0.000003",
+        "completion": "0.00001125",
+        "input_cache_read": "0.0000003",
+        "input_cache_write": "0.00000375",
+        "input_cache_write_1h": "0.000006"
+      }
+    ]
+  },
+  "top_provider": {
+    "context_length": 1000000,
+    "max_completion_tokens": 64000,
+    "is_moderated": true
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "response_format",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 1,
+    "top_p": 1,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": "2025-01-31",
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/anthropic/claude-4.5-sonnet-20250929/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1215,
+        "win_rate": 51.6,
+        "rank": 42
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1244,
+        "win_rate": 56.4,
+        "rank": 11
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1213,
+        "win_rate": 52.1,
+        "rank": 42
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1196,
+        "win_rate": 47.7,
+        "rank": 50
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1223,
+        "win_rate": 51.5,
+        "rank": 42
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1164,
+        "win_rate": 52.3,
+        "rank": 40
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1210,
+        "win_rate": 50.2,
+        "rank": 43
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1215,
+        "win_rate": 52.5,
+        "rank": 44
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1092,
+        "win_rate": 43.5,
+        "rank": 22
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1212,
+        "win_rate": 54.2,
+        "rank": 13
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1126,
+        "win_rate": 44.8,
+        "rank": 28
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 36.4,
+      "coding_index": 52.1,
+      "agentic_index": 24.6
+    }
+  },
+  "reasoning": {
+    "mandatory": false
+  }
+}

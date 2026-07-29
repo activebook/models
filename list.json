@@ -76,12 +76,20 @@
     "file": "models/anthropic_claude-fable-5.json"
   },
   {
+    "name": "claude-fable-5:batch",
+    "file": "models/anthropic_claude-fable-5:batch.json"
+  },
+  {
     "name": "claude-fable-latest",
     "file": "models/~anthropic_claude-fable-latest.json"
   },
   {
     "name": "claude-haiku-4.5",
     "file": "models/anthropic_claude-haiku-4.5.json"
+  },
+  {
+    "name": "claude-haiku-4.5:batch",
+    "file": "models/anthropic_claude-haiku-4.5:batch.json"
   },
   {
     "name": "claude-haiku-latest",
@@ -96,8 +104,16 @@
     "file": "models/anthropic_claude-opus-4.1.json"
   },
   {
+    "name": "claude-opus-4.1:batch",
+    "file": "models/anthropic_claude-opus-4.1:batch.json"
+  },
+  {
     "name": "claude-opus-4.5",
     "file": "models/anthropic_claude-opus-4.5.json"
+  },
+  {
+    "name": "claude-opus-4.5:batch",
+    "file": "models/anthropic_claude-opus-4.5:batch.json"
   },
   {
     "name": "claude-opus-4.6",
@@ -108,6 +124,10 @@
     "file": "models/anthropic_claude-opus-4.6-fast.json"
   },
   {
+    "name": "claude-opus-4.6:batch",
+    "file": "models/anthropic_claude-opus-4.6:batch.json"
+  },
+  {
     "name": "claude-opus-4.7",
     "file": "models/anthropic_claude-opus-4.7.json"
   },
@@ -116,12 +136,20 @@
     "file": "models/anthropic_claude-opus-4.7-fast.json"
   },
   {
+    "name": "claude-opus-4.7:batch",
+    "file": "models/anthropic_claude-opus-4.7:batch.json"
+  },
+  {
     "name": "claude-opus-4.8",
     "file": "models/anthropic_claude-opus-4.8.json"
   },
   {
     "name": "claude-opus-4.8-fast",
     "file": "models/anthropic_claude-opus-4.8-fast.json"
+  },
+  {
+    "name": "claude-opus-4.8:batch",
+    "file": "models/anthropic_claude-opus-4.8:batch.json"
   },
   {
     "name": "claude-opus-5",
@@ -144,12 +172,20 @@
     "file": "models/anthropic_claude-sonnet-4.5.json"
   },
   {
+    "name": "claude-sonnet-4.5:batch",
+    "file": "models/anthropic_claude-sonnet-4.5:batch.json"
+  },
+  {
     "name": "claude-sonnet-4.6",
     "file": "models/anthropic_claude-sonnet-4.6.json"
   },
   {
     "name": "claude-sonnet-5",
     "file": "models/anthropic_claude-sonnet-5.json"
+  },
+  {
+    "name": "claude-sonnet-5:batch",
+    "file": "models/anthropic_claude-sonnet-5:batch.json"
   },
   {
     "name": "claude-sonnet-latest",
@@ -340,6 +376,14 @@
     "file": "models/google_gemini-2.5-flash-lite-preview-09-2025.json"
   },
   {
+    "name": "gemini-2.5-flash-lite:batch",
+    "file": "models/google_gemini-2.5-flash-lite:batch.json"
+  },
+  {
+    "name": "gemini-2.5-flash:batch",
+    "file": "models/google_gemini-2.5-flash:batch.json"
+  },
+  {
     "name": "gemini-2.5-pro",
     "file": "models/google_gemini-2.5-pro.json"
   },
@@ -352,8 +396,16 @@
     "file": "models/google_gemini-2.5-pro-preview-05-06.json"
   },
   {
+    "name": "gemini-2.5-pro:batch",
+    "file": "models/google_gemini-2.5-pro:batch.json"
+  },
+  {
     "name": "gemini-3-flash-preview",
     "file": "models/google_gemini-3-flash-preview.json"
+  },
+  {
+    "name": "gemini-3-flash-preview:batch",
+    "file": "models/google_gemini-3-flash-preview:batch.json"
   },
   {
     "name": "gemini-3-pro-image",
@@ -388,12 +440,20 @@
     "file": "models/google_gemini-3.1-flash-lite-preview.json"
   },
   {
+    "name": "gemini-3.1-flash-lite:batch",
+    "file": "models/google_gemini-3.1-flash-lite:batch.json"
+  },
+  {
     "name": "gemini-3.1-pro-preview",
     "file": "models/google_gemini-3.1-pro-preview.json"
   },
   {
     "name": "gemini-3.1-pro-preview-customtools",
     "file": "models/google_gemini-3.1-pro-preview-customtools.json"
+  },
+  {
+    "name": "gemini-3.1-pro-preview:batch",
+    "file": "models/google_gemini-3.1-pro-preview:batch.json"
   },
   {
     "name": "gemini-3.5-flash",
@@ -404,8 +464,20 @@
     "file": "models/google_gemini-3.5-flash-lite.json"
   },
   {
+    "name": "gemini-3.5-flash-lite:batch",
+    "file": "models/google_gemini-3.5-flash-lite:batch.json"
+  },
+  {
+    "name": "gemini-3.5-flash:batch",
+    "file": "models/google_gemini-3.5-flash:batch.json"
+  },
+  {
     "name": "gemini-3.6-flash",
     "file": "models/google_gemini-3.6-flash.json"
+  },
+  {
+    "name": "gemini-3.6-flash:batch",
+    "file": "models/google_gemini-3.6-flash:batch.json"
   },
   {
     "name": "gemini-flash-latest",
@@ -648,8 +720,16 @@
     "file": "models/openai_gpt-5-mini.json"
   },
   {
+    "name": "gpt-5-mini:batch",
+    "file": "models/openai_gpt-5-mini:batch.json"
+  },
+  {
     "name": "gpt-5-nano",
     "file": "models/openai_gpt-5-nano.json"
+  },
+  {
+    "name": "gpt-5-nano:batch",
+    "file": "models/openai_gpt-5-nano:batch.json"
   },
   {
     "name": "gpt-5-pro",
@@ -676,6 +756,10 @@
     "file": "models/openai_gpt-5.1-codex-mini.json"
   },
   {
+    "name": "gpt-5.1:batch",
+    "file": "models/openai_gpt-5.1:batch.json"
+  },
+  {
     "name": "gpt-5.2",
     "file": "models/openai_gpt-5.2.json"
   },
@@ -690,6 +774,10 @@
   {
     "name": "gpt-5.2-pro",
     "file": "models/openai_gpt-5.2-pro.json"
+  },
+  {
+    "name": "gpt-5.2:batch",
+    "file": "models/openai_gpt-5.2:batch.json"
   },
   {
     "name": "gpt-5.3-chat",
@@ -712,12 +800,24 @@
     "file": "models/openai_gpt-5.4-mini.json"
   },
   {
+    "name": "gpt-5.4-mini:batch",
+    "file": "models/openai_gpt-5.4-mini:batch.json"
+  },
+  {
     "name": "gpt-5.4-nano",
     "file": "models/openai_gpt-5.4-nano.json"
   },
   {
+    "name": "gpt-5.4-nano:batch",
+    "file": "models/openai_gpt-5.4-nano:batch.json"
+  },
+  {
     "name": "gpt-5.4-pro",
     "file": "models/openai_gpt-5.4-pro.json"
+  },
+  {
+    "name": "gpt-5.4:batch",
+    "file": "models/openai_gpt-5.4:batch.json"
   },
   {
     "name": "gpt-5.5",
@@ -726,6 +826,10 @@
   {
     "name": "gpt-5.5-pro",
     "file": "models/openai_gpt-5.5-pro.json"
+  },
+  {
+    "name": "gpt-5.5:batch",
+    "file": "models/openai_gpt-5.5:batch.json"
   },
   {
     "name": "gpt-5.6-luna",
@@ -750,6 +854,10 @@
   {
     "name": "gpt-5.6-terra-pro",
     "file": "models/openai_gpt-5.6-terra-pro.json"
+  },
+  {
+    "name": "gpt-5:batch",
+    "file": "models/openai_gpt-5:batch.json"
   },
   {
     "name": "gpt-audio",
@@ -1254,6 +1362,10 @@
   {
     "name": "minimax-m3",
     "file": "models/minimax_minimax-m3.json"
+  },
+  {
+    "name": "minimax-m3:batch",
+    "file": "models/minimax_minimax-m3:batch.json"
   },
   {
     "name": "ministral-14b-2512",

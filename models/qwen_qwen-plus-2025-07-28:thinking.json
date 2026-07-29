@@ -18,15 +18,15 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000026",
-    "completion": "0.00000078",
-    "input_cache_write": "0.000000325",
+    "prompt": "0.0000004",
+    "completion": "0.0000012",
+    "input_cache_write": "0.0000005",
     "overrides": [
       {
         "min_prompt_tokens": 256000,
-        "prompt": "0.00000078",
-        "completion": "0.00000234",
-        "input_cache_write": "0.000000975"
+        "prompt": "0.0000012",
+        "completion": "0.0000036",
+        "input_cache_write": "0.0000015"
       }
     ]
   },
@@ -37,16 +37,21 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
+    "logprobs",
     "max_tokens",
     "presence_penalty",
     "reasoning",
     "response_format",
     "seed",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {

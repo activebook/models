@@ -1,0 +1,143 @@
+{
+  "id": "google/gemini-3.6-flash:batch",
+  "canonical_slug": "google/gemini-3.6-flash-20260721",
+  "hugging_face_id": null,
+  "name": "Google: Gemini 3.6 Flash (batch)",
+  "created": 1784646733,
+  "description": "Gemini 3.6 Flash is a high-efficiency model from Google for coding, agentic workflows, and web and app development. It is designed to produce polished outputs with fewer unnecessary edits and...",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text+image+file+audio+video->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "video",
+      "file",
+      "audio"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Gemini",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000075",
+    "completion": "0.00000375",
+    "image": "0.00000075",
+    "audio": "0.00000075",
+    "input_audio_cache": "0.000000075",
+    "web_search": "0.014",
+    "internal_reasoning": "0.00000375",
+    "input_cache_read": "0.000000075",
+    "input_cache_write": "0.00000008333333333333334"
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "tool_choice",
+    "tools"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-3.6-flash-20260721/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "agenticgamedev",
+        "elo": 1209,
+        "win_rate": 55,
+        "rank": 6
+      },
+      {
+        "arena": "agents",
+        "category": "androidnative",
+        "elo": 1103,
+        "win_rate": 33.5,
+        "rank": 23
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1334,
+        "win_rate": 53.1,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1313,
+        "win_rate": 55.2,
+        "rank": 7
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1354,
+        "win_rate": 63.6,
+        "rank": 4
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1300,
+        "win_rate": 52.4,
+        "rank": 16
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1312,
+        "win_rate": 55.4,
+        "rank": 10
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1320,
+        "win_rate": 58,
+        "rank": 8
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 50.1,
+      "coding_index": 69.2,
+      "agentic_index": 38.7
+    }
+  },
+  "reasoning": {
+    "mandatory": true,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "minimal"
+    ],
+    "default_effort": "medium"
+  }
+}

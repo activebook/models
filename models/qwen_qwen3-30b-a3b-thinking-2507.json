@@ -18,8 +18,8 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000013",
-    "completion": "0.00000156"
+    "prompt": "0.0000002",
+    "completion": "0.0000024"
   },
   "top_provider": {
     "context_length": 81920,
@@ -28,15 +28,18 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
     "max_tokens",
     "presence_penalty",
     "reasoning",
     "response_format",
     "seed",
+    "stop",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_p"
   ],
   "default_parameters": {},

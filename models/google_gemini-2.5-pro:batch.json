@@ -1,0 +1,128 @@
+{
+  "id": "google/gemini-2.5-pro:batch",
+  "canonical_slug": "google/gemini-2.5-pro",
+  "hugging_face_id": "",
+  "name": "Google: Gemini 2.5 Pro (batch)",
+  "created": 1750169544,
+  "description": "Gemini 2.5 Pro is Google\u2019s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs \u201cthinking\u201d capabilities, enabling it to reason through responses with enhanced accuracy...",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text+image+file+audio+video->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "file",
+      "audio",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Gemini",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000000625",
+    "completion": "0.000005",
+    "image": "0.000000625",
+    "audio": "0.000000625",
+    "input_audio_cache": "0.000000125",
+    "web_search": "0.014",
+    "internal_reasoning": "0.000005",
+    "input_cache_read": "0.000000125",
+    "overrides": [
+      {
+        "min_prompt_tokens": 200000,
+        "prompt": "0.00000125",
+        "completion": "0.0000075",
+        "audio": "0.00000125",
+        "input_audio_cache": "0.00000025",
+        "input_cache_read": "0.00000025"
+      }
+    ]
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "frequency_penalty": null
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": "2025-01-31",
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-2.5-pro/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1139,
+        "win_rate": 52.2,
+        "rank": 66
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1184,
+        "win_rate": 58.3,
+        "rank": 59
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1275,
+        "win_rate": 71.8,
+        "rank": 19
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1168,
+        "win_rate": 55.1,
+        "rank": 62
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1180,
+        "win_rate": 60.5,
+        "rank": 58
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1192,
+        "win_rate": 58.8,
+        "rank": 58
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 25.8,
+      "coding_index": 33.3,
+      "agentic_index": 7.1
+    }
+  },
+  "reasoning": {
+    "mandatory": true
+  }
+}

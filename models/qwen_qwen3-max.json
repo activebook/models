@@ -41,20 +41,23 @@
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 32768,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "logprobs",
     "max_tokens",
     "presence_penalty",
     "response_format",
     "seed",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],
@@ -74,7 +77,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1131,
+        "elo": 1130,
         "win_rate": 43.5,
         "rank": 73
       },
@@ -97,7 +100,7 @@
         "category": "dataviz",
         "elo": 1128,
         "win_rate": 41,
-        "rank": 77
+        "rank": 76
       },
       {
         "arena": "models",

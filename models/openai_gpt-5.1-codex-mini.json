@@ -33,7 +33,6 @@
   "supported_parameters": [
     "include_reasoning",
     "max_completion_tokens",
-    "max_tokens",
     "reasoning",
     "reasoning_effort",
     "response_format",
@@ -82,7 +81,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1127,
+        "elo": 1126,
         "win_rate": 40.7,
         "rank": 79
       },
@@ -103,7 +102,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1116,
+        "elo": 1117,
         "win_rate": 41,
         "rank": 75
       },

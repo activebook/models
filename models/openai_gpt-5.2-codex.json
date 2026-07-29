@@ -65,7 +65,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1039,
+        "elo": 1032,
         "win_rate": 37,
         "rank": 31
       },
@@ -74,20 +74,20 @@
         "category": "godotgamedev",
         "elo": 1142,
         "win_rate": 47.8,
-        "rank": 19
+        "rank": 20
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1167,
+        "elo": 1162,
         "win_rate": 47.2,
         "rank": 25
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1109,
-        "win_rate": 40.1,
+        "elo": 1106,
+        "win_rate": 40,
         "rank": 30
       }
     ]

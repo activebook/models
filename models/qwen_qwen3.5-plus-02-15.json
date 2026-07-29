@@ -37,6 +37,7 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
     "logprobs",
     "max_tokens",
@@ -44,10 +45,12 @@
     "reasoning",
     "response_format",
     "seed",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],
@@ -109,7 +112,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1213,
+        "elo": 1214,
         "win_rate": 52.2,
         "rank": 42
       },
@@ -118,7 +121,7 @@
         "category": "website",
         "elo": 1212,
         "win_rate": 50,
-        "rank": 48
+        "rank": 49
       }
     ]
   },

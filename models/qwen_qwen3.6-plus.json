@@ -39,6 +39,7 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
     "logprobs",
     "max_tokens",
@@ -46,10 +47,12 @@
     "reasoning",
     "response_format",
     "seed",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],
@@ -94,8 +97,8 @@
         "arena": "models",
         "category": "dataviz",
         "elo": 1259,
-        "win_rate": 51.8,
-        "rank": 29
+        "win_rate": 51.7,
+        "rank": 30
       },
       {
         "arena": "models",
@@ -114,15 +117,15 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1272,
+        "elo": 1273,
         "win_rate": 52.7,
-        "rank": 28
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1264,
-        "win_rate": 53,
+        "win_rate": 52.9,
         "rank": 29
       }
     ],

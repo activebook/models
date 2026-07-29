@@ -32,6 +32,7 @@
   "supported_parameters": [
     "frequency_penalty",
     "logit_bias",
+    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -44,6 +45,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -67,7 +69,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 958,
+        "elo": 957,
         "win_rate": 43.3,
         "rank": 101
       },
@@ -81,9 +83,9 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 943,
+        "elo": 944,
         "win_rate": 40.5,
-        "rank": 102
+        "rank": 101
       },
       {
         "arena": "models",

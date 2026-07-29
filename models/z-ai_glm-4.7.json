@@ -68,14 +68,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1105,
+        "elo": 1098,
         "win_rate": 56,
-        "rank": 23
+        "rank": 24
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1096,
+        "elo": 1089,
         "win_rate": 44.9,
         "rank": 24
       },
@@ -89,7 +89,7 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1186,
+        "elo": 1180,
         "win_rate": 49.5,
         "rank": 18
       },
@@ -131,7 +131,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1192,
+        "elo": 1193,
         "win_rate": 54.3,
         "rank": 32
       },
