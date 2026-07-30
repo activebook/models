@@ -41,11 +41,7 @@
     "tools",
     "top_p"
   ],
-  "default_parameters": {
-    "temperature": null,
-    "top_p": null,
-    "frequency_penalty": null
-  },
+  "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,

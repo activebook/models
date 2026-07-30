@@ -1,6 +1,10 @@
 {
   "id": "~google/gemini-pro-latest",
   "canonical_slug": "~google/gemini-pro-latest",
+  "alias_target": {
+    "name": "Google: Gemini 3.1 Pro Preview",
+    "slug": "google/gemini-3.1-pro-preview"
+  },
   "hugging_face_id": null,
   "name": "Google Gemini Pro Latest",
   "created": 1777318451,

@@ -1,6 +1,10 @@
 {
   "id": "~moonshotai/kimi-latest",
   "canonical_slug": "~moonshotai/kimi-latest",
+  "alias_target": {
+    "name": "MoonshotAI: Kimi K3",
+    "slug": "moonshotai/kimi-k3"
+  },
   "hugging_face_id": null,
   "name": "MoonshotAI Kimi Latest",
   "created": 1777318428,

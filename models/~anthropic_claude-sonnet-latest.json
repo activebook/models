@@ -1,6 +1,10 @@
 {
   "id": "~anthropic/claude-sonnet-latest",
   "canonical_slug": "~anthropic/claude-sonnet-latest",
+  "alias_target": {
+    "name": "Anthropic: Claude Sonnet 5",
+    "slug": "anthropic/claude-sonnet-5"
+  },
   "hugging_face_id": null,
   "name": "Anthropic Claude Sonnet Latest",
   "created": 1777318368,

@@ -1,6 +1,10 @@
 {
   "id": "~openai/gpt-mini-latest",
   "canonical_slug": "~openai/gpt-mini-latest",
+  "alias_target": {
+    "name": "OpenAI: GPT-5.4 Mini",
+    "slug": "openai/gpt-5.4-mini"
+  },
   "hugging_face_id": null,
   "name": "OpenAI GPT Mini Latest",
   "created": 1777318471,

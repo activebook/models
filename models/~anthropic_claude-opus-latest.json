@@ -1,6 +1,10 @@
 {
   "id": "~anthropic/claude-opus-latest",
   "canonical_slug": "~anthropic/claude-opus-latest",
+  "alias_target": {
+    "name": "Claude Opus 5",
+    "slug": "anthropic/claude-opus-5"
+  },
   "hugging_face_id": "",
   "name": "Anthropic: Claude Opus Latest",
   "created": 1776795361,

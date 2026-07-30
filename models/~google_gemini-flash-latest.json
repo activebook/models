@@ -1,6 +1,10 @@
 {
   "id": "~google/gemini-flash-latest",
   "canonical_slug": "~google/gemini-flash-latest",
+  "alias_target": {
+    "name": "Google: Gemini 3.6 Flash",
+    "slug": "google/gemini-3.6-flash"
+  },
   "hugging_face_id": null,
   "name": "Google Gemini Flash Latest",
   "created": 1777318398,

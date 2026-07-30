@@ -18,8 +18,8 @@
     "instruct_type": "chatml"
   },
   "pricing": {
-    "prompt": "0.00000004",
-    "completion": "0.0000001"
+    "prompt": "0.0000001",
+    "completion": "0.0000002"
   },
   "top_provider": {
     "context_length": 32768,
