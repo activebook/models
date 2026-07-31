@@ -18,12 +18,12 @@
     "instruct_type": "qwen3"
   },
   "pricing": {
-    "prompt": "0.0000003",
-    "completion": "0.000003"
+    "prompt": "0.00000023",
+    "completion": "0.0000023"
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 32768,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -91,7 +91,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 979,
+        "elo": 978,
         "win_rate": 33.9,
         "rank": 98
       },
