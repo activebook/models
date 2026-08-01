@@ -288,6 +288,10 @@
     "file": "models/deepseek_deepseek-v4-flash.json"
   },
   {
+    "name": "deepseek-v4-flash-0731",
+    "file": "models/deepseek_deepseek-v4-flash-0731.json"
+  },
+  {
     "name": "deepseek-v4-flash:free",
     "file": "models/deepseek_deepseek-v4-flash:free.json"
   },
@@ -1034,6 +1038,10 @@
   {
     "name": "inkling",
     "file": "models/thinkingmachines_inkling.json"
+  },
+  {
+    "name": "inkling-small",
+    "file": "models/thinkingmachines_inkling-small.json"
   },
   {
     "name": "intellect-3",

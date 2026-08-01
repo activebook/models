@@ -75,15 +75,15 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1188,
+        "elo": 1189,
         "win_rate": 47.8,
-        "rank": 29
+        "rank": 28
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1307,
-        "win_rate": 57.8,
+        "elo": 1306,
+        "win_rate": 57.7,
         "rank": 13
       },
       {
@@ -103,29 +103,29 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1267,
+        "elo": 1266,
         "win_rate": 59.4,
-        "rank": 7
+        "rank": 8
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1313,
-        "win_rate": 59.3,
+        "elo": 1314,
+        "win_rate": 59.5,
         "rank": 10
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1297,
-        "win_rate": 55.6,
+        "elo": 1296,
+        "win_rate": 55.5,
         "rank": 16
       },
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1176,
-        "win_rate": 50.6,
+        "elo": 1177,
+        "win_rate": 50.8,
         "rank": 13
       },
       {
@@ -159,14 +159,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1226,
-        "win_rate": 53.2,
+        "elo": 1225,
+        "win_rate": 53.1,
         "rank": 11
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1206,
+        "elo": 1207,
         "win_rate": 55.8,
         "rank": 12
       },
@@ -187,7 +187,7 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1219,
+        "elo": 1220,
         "win_rate": 53.9,
         "rank": 11
       },
@@ -208,8 +208,8 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1224,
-        "win_rate": 53.5,
+        "elo": 1225,
+        "win_rate": 53.6,
         "rank": 17
       }
     ],

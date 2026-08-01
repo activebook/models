@@ -32,19 +32,11 @@
     "include_reasoning",
     "max_tokens",
     "reasoning",
-    "stop",
     "temperature",
     "tool_choice",
     "tools"
   ],
-  "default_parameters": {
-    "temperature": 0.7,
-    "top_p": 0.9,
-    "top_k": null,
-    "frequency_penalty": null,
-    "presence_penalty": null,
-    "repetition_penalty": null
-  },
+  "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
