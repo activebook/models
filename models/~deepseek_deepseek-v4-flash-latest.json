@@ -1,10 +1,14 @@
 {
-  "id": "deepseek/deepseek-v4-flash-0731",
-  "canonical_slug": "deepseek/deepseek-v4-flash-20260731",
-  "hugging_face_id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-  "name": "DeepSeek: DeepSeek V4 Flash 0731",
-  "created": 1785478908,
-  "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
+  "id": "~deepseek/deepseek-v4-flash-latest",
+  "canonical_slug": "~deepseek/deepseek-v4-flash-latest",
+  "alias_target": {
+    "name": "DeepSeek: DeepSeek V4 Flash 0731",
+    "slug": "deepseek/deepseek-v4-flash-0731"
+  },
+  "hugging_face_id": null,
+  "name": "DeepSeek V4 Flash Latest",
+  "created": 1785606009,
+  "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family.",
   "context_length": 1048576,
   "architecture": {
     "modality": "text->text",
@@ -14,7 +18,7 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "DeepSeek",
+    "tokenizer": "Router",
     "instruct_type": null
   },
   "pricing": {
@@ -56,15 +60,7 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/deepseek/deepseek-v4-flash-20260731/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": 49.9,
-      "coding_index": 69.1,
-      "agentic_index": 45.7
-    }
+    "details": "/api/v1/models/~deepseek/deepseek-v4-flash-latest/endpoints"
   },
   "reasoning": {
     "mandatory": false,
