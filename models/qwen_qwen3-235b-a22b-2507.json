@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000009",
-    "completion": "0.00000055"
+    "prompt": "0.0000001495",
+    "completion": "0.000000598"
   },
   "top_provider": {
-    "context_length": 262144,
-    "max_completion_tokens": 16384,
+    "context_length": 131072,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -58,7 +58,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1052,
+        "elo": 1051,
         "win_rate": 41.1,
         "rank": 89
       },
