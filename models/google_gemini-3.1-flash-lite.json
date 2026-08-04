@@ -30,7 +30,7 @@
     "web_search": "0.014",
     "internal_reasoning": "0.0000015",
     "input_cache_read": "0.000000025",
-    "input_cache_write": "0.00000008333333333333334"
+    "input_cache_write": "0.0000000833333333333333"
   },
   "top_provider": {
     "context_length": 1048576,

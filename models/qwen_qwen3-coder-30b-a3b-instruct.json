@@ -19,11 +19,11 @@
   },
   "pricing": {
     "prompt": "0.00000007",
-    "completion": "0.00000028"
+    "completion": "0.00000027"
   },
   "top_provider": {
-    "context_length": 262144,
-    "max_completion_tokens": 262144,
+    "context_length": 160000,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -63,7 +63,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1083,
+        "elo": 1082,
         "win_rate": 54.1,
         "rank": 81
       },

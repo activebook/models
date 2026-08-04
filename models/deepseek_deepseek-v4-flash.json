@@ -2,7 +2,7 @@
   "id": "deepseek/deepseek-v4-flash",
   "canonical_slug": "deepseek/deepseek-v4-flash-20260423",
   "hugging_face_id": "deepseek-ai/DeepSeek-V4-Flash",
-  "name": "DeepSeek: DeepSeek V4 Flash",
+  "name": "DeepSeek: DeepSeek V4 Flash 0423",
   "created": 1777000666,
   "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
   "context_length": 1048576,
@@ -51,14 +51,7 @@
     "top_logprobs",
     "top_p"
   ],
-  "default_parameters": {
-    "temperature": null,
-    "top_p": null,
-    "top_k": null,
-    "frequency_penalty": null,
-    "presence_penalty": null,
-    "repetition_penalty": null
-  },
+  "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
@@ -70,8 +63,8 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1246,
-        "win_rate": 49.4,
+        "elo": 1244,
+        "win_rate": 49.3,
         "rank": 35
       },
       {
@@ -85,43 +78,43 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1235,
-        "win_rate": 49.1,
+        "win_rate": 49,
         "rank": 37
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1153,
-        "win_rate": 40.5,
-        "rank": 69
+        "elo": 1155,
+        "win_rate": 40.6,
+        "rank": 66
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1253,
-        "win_rate": 50.4,
-        "rank": 32
+        "elo": 1251,
+        "win_rate": 50.2,
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1199,
-        "win_rate": 48.4,
-        "rank": 27
+        "elo": 1200,
+        "win_rate": 48.3,
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1200,
-        "win_rate": 44.8,
+        "elo": 1199,
+        "win_rate": 44.7,
         "rank": 50
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1231,
-        "win_rate": 49.3,
-        "rank": 39
+        "win_rate": 49.2,
+        "rank": 38
       }
     ]
   },
