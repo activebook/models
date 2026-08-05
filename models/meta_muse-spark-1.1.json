@@ -68,14 +68,14 @@
         "category": "agenticgamedev",
         "elo": 1192,
         "win_rate": 48.2,
-        "rank": 9
+        "rank": 8
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1144,
+        "elo": 1141,
         "win_rate": 39.4,
-        "rank": 16
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -94,65 +94,65 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1255,
+        "elo": 1254,
         "win_rate": 51.1,
         "rank": 11
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1303,
-        "win_rate": 52.6,
+        "elo": 1304,
+        "win_rate": 52.8,
         "rank": 17
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1315,
-        "win_rate": 60.1,
+        "elo": 1320,
+        "win_rate": 60.5,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1309,
-        "win_rate": 55,
+        "elo": 1308,
+        "win_rate": 54.9,
         "rank": 9
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1319,
+        "elo": 1318,
         "win_rate": 55.1,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1345,
+        "elo": 1343,
         "win_rate": 56.6,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1264,
-        "win_rate": 50.2,
+        "elo": 1263,
+        "win_rate": 49.9,
         "rank": 10
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1334,
-        "win_rate": 55.4,
+        "win_rate": 55.3,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1296,
-        "win_rate": 54.2,
-        "rank": 17
+        "elo": 1295,
+        "win_rate": 54,
+        "rank": 16
       }
     ],
     "artificial_analysis": {

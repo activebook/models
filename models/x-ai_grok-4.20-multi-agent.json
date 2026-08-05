@@ -2,9 +2,9 @@
   "id": "x-ai/grok-4.20-multi-agent",
   "canonical_slug": "x-ai/grok-4.20-multi-agent-20260309",
   "hugging_face_id": "",
-  "name": "xAI: Grok 4.20 Multi-Agent",
+  "name": "SpaceXAI: Grok 4.20 Multi-Agent",
   "created": 1774979158,
-  "description": "Grok 4.20 Multi-Agent is a variant of xAI\u2019s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information...",
+  "description": "Grok 4.20 Multi-Agent is a variant of SpaceXAI\u2019s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information...",
   "context_length": 2000000,
   "architecture": {
     "modality": "text+image+file->text",

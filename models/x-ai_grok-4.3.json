@@ -2,9 +2,9 @@
   "id": "x-ai/grok-4.3",
   "canonical_slug": "x-ai/grok-4.3-20260430",
   "hugging_face_id": null,
-  "name": "xAI: Grok 4.3",
+  "name": "SpaceXAI: Grok 4.3",
   "created": 1777591821,
-  "description": "Grok 4.3 is a reasoning model from xAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
+  "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -111,14 +111,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1039,
-        "win_rate": 27.2,
-        "rank": 28
+        "elo": 989,
+        "win_rate": 22,
+        "rank": 31
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1047,
+        "elo": 1046,
         "win_rate": 30.1,
         "rank": 30
       },
@@ -139,9 +139,9 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1126,
-        "win_rate": 37.7,
-        "rank": 29
+        "elo": 1115,
+        "win_rate": 37.3,
+        "rank": 30
       },
       {
         "arena": "agents",
@@ -160,9 +160,9 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1173,
-        "win_rate": 45,
-        "rank": 23
+        "elo": 1177,
+        "win_rate": 45.4,
+        "rank": 21
       },
       {
         "arena": "models",
@@ -174,29 +174,29 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1179,
-        "win_rate": 46.4,
-        "rank": 34
+        "elo": 1178,
+        "win_rate": 46.3,
+        "rank": 35
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1215,
         "win_rate": 47.1,
-        "rank": 41
+        "rank": 42
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1213,
+        "elo": 1211,
         "win_rate": 46.9,
         "rank": 43
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1231,
-        "win_rate": 49.2,
+        "elo": 1229,
+        "win_rate": 49,
         "rank": 39
       },
       {
