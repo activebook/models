@@ -1196,6 +1196,10 @@
     "file": "models/inclusionai_ling-2.6-flash:free.json"
   },
   {
+    "name": "ling-3.0-flash",
+    "file": "models/inclusionai_ling-3.0-flash.json"
+  },
+  {
     "name": "ling-3.0-flash:free",
     "file": "models/inclusionai_ling-3.0-flash:free.json"
   },
@@ -1478,6 +1482,10 @@
   {
     "name": "muse-spark-1.1",
     "file": "models/meta_muse-spark-1.1.json"
+  },
+  {
+    "name": "muse-spark-1.2",
+    "file": "models/meta_muse-spark-1.2.json"
   },
   {
     "name": "mythomax-l2-13b",

@@ -59,7 +59,50 @@
     "details": "/api/v1/models/deepseek/deepseek-v4-flash-20260731/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1279,
+        "win_rate": 54.3,
+        "rank": 24
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1268,
+        "win_rate": 48.4,
+        "rank": 28
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1238,
+        "win_rate": 46.9,
+        "rank": 35
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1269,
+        "win_rate": 47.4,
+        "rank": 23
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1259,
+        "win_rate": 45.6,
+        "rank": 30
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1269,
+        "win_rate": 48.2,
+        "rank": 29
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 49.9,
       "coding_index": 69.1,
