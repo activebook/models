@@ -84,14 +84,14 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1331,
-        "win_rate": 63.8,
+        "elo": 1330,
+        "win_rate": 63.7,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1454,
+        "elo": 1455,
         "win_rate": 69.4,
         "rank": 1
       },
@@ -125,9 +125,9 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 57.1,
+      "intelligence_index": 59.7,
       "coding_index": 76.2,
-      "agentic_index": 50.1
+      "agentic_index": 54.3
     }
   },
   "reasoning": {

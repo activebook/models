@@ -35,12 +35,9 @@
   "per_request_limits": null,
   "supported_parameters": [
     "include_reasoning",
-    "max_completion_tokens",
     "max_tokens",
     "reasoning",
-    "response_format",
     "stop",
-    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
@@ -87,14 +84,14 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1192,
+        "elo": 1193,
         "win_rate": 56.4,
-        "rank": 52
+        "rank": 53
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1210,
+        "elo": 1213,
         "win_rate": 58.5,
         "rank": 41
       },

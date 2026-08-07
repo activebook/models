@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000085",
-    "completion": "0.0000004"
+    "prompt": "0.0000003",
+    "completion": "0.0000009"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 16384,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -66,9 +66,9 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 25.4,
+      "intelligence_index": 25.7,
       "coding_index": 37.7,
-      "agentic_index": 8.7
+      "agentic_index": 8.8
     }
   },
   "reasoning": {

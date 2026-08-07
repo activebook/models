@@ -5,7 +5,7 @@
   "name": "Ling-3.0-flash",
   "created": 1784818580,
   "description": "*Ling-3.0-flash* is a *124B-parameter Mixture-of-Experts (MoE) model*, with approximately *5.1B parameters activated per token*. The model is designed with *token efficiency and production-scale agentic inference* as key priorities, enabling developers...",
-  "context_length": 131072,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000075",
-    "completion": "0.00000022",
-    "input_cache_read": "0.000000015"
+    "prompt": "0.000000021",
+    "completion": "0.000000063",
+    "input_cache_read": "0.0000000042"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": 16384,
+    "context_length": 262144,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -32,6 +32,7 @@
     "frequency_penalty",
     "include_reasoning",
     "logit_bias",
+    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -43,6 +44,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {},
@@ -51,6 +53,14 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/inclusionai/ling-3.0-flash-20260723/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 50.6,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": false,

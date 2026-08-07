@@ -21,7 +21,8 @@
   },
   "pricing": {
     "prompt": "0.00000014",
-    "completion": "0.000001"
+    "completion": "0.000001",
+    "input_cache_read": "0.00000005"
   },
   "top_provider": {
     "context_length": 262144,
@@ -64,9 +65,9 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 31.6,
+      "intelligence_index": 32.1,
       "coding_index": 41.9,
-      "agentic_index": 21.4
+      "agentic_index": 21.6
     }
   },
   "reasoning": {

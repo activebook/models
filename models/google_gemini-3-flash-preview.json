@@ -34,7 +34,7 @@
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 65535,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -141,7 +141,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1204,
+        "elo": 1207,
         "win_rate": 58.3,
         "rank": 44
       },

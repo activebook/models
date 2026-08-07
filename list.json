@@ -160,6 +160,10 @@
     "file": "models/anthropic_claude-opus-5-fast.json"
   },
   {
+    "name": "claude-opus-5:batch",
+    "file": "models/anthropic_claude-opus-5:batch.json"
+  },
+  {
     "name": "claude-opus-latest",
     "file": "models/~anthropic_claude-opus-latest.json"
   },
@@ -178,6 +182,10 @@
   {
     "name": "claude-sonnet-4.6",
     "file": "models/anthropic_claude-sonnet-4.6.json"
+  },
+  {
+    "name": "claude-sonnet-4.6:batch",
+    "file": "models/anthropic_claude-sonnet-4.6:batch.json"
   },
   {
     "name": "claude-sonnet-5",
@@ -608,6 +616,10 @@
     "file": "models/z-ai_glm-5.2.json"
   },
   {
+    "name": "glm-5.2:batch",
+    "file": "models/z-ai_glm-5.2:batch.json"
+  },
+  {
     "name": "glm-5v-turbo",
     "file": "models/z-ai_glm-5v-turbo.json"
   },
@@ -632,6 +644,10 @@
     "file": "models/openai_gpt-3.5-turbo-instruct.json"
   },
   {
+    "name": "gpt-3.5-turbo:batch",
+    "file": "models/openai_gpt-3.5-turbo:batch.json"
+  },
+  {
     "name": "gpt-4",
     "file": "models/openai_gpt-4.json"
   },
@@ -652,6 +668,10 @@
     "file": "models/openai_gpt-4-turbo-preview.json"
   },
   {
+    "name": "gpt-4-turbo:batch",
+    "file": "models/openai_gpt-4-turbo:batch.json"
+  },
+  {
     "name": "gpt-4.1",
     "file": "models/openai_gpt-4.1.json"
   },
@@ -660,8 +680,20 @@
     "file": "models/openai_gpt-4.1-mini.json"
   },
   {
+    "name": "gpt-4.1-mini:batch",
+    "file": "models/openai_gpt-4.1-mini:batch.json"
+  },
+  {
     "name": "gpt-4.1-nano",
     "file": "models/openai_gpt-4.1-nano.json"
+  },
+  {
+    "name": "gpt-4.1-nano:batch",
+    "file": "models/openai_gpt-4.1-nano:batch.json"
+  },
+  {
+    "name": "gpt-4.1:batch",
+    "file": "models/openai_gpt-4.1:batch.json"
   },
   {
     "name": "gpt-4o",
@@ -696,8 +728,16 @@
     "file": "models/openai_gpt-4o-mini-search-preview.json"
   },
   {
+    "name": "gpt-4o-mini:batch",
+    "file": "models/openai_gpt-4o-mini:batch.json"
+  },
+  {
     "name": "gpt-4o-search-preview",
     "file": "models/openai_gpt-4o-search-preview.json"
+  },
+  {
+    "name": "gpt-4o:batch",
+    "file": "models/openai_gpt-4o:batch.json"
   },
   {
     "name": "gpt-4o:extended",
@@ -714,6 +754,10 @@
   {
     "name": "gpt-5-codex",
     "file": "models/openai_gpt-5-codex.json"
+  },
+  {
+    "name": "gpt-5-codex:batch",
+    "file": "models/openai_gpt-5-codex:batch.json"
   },
   {
     "name": "gpt-5-image",
@@ -742,6 +786,10 @@
   {
     "name": "gpt-5-pro",
     "file": "models/openai_gpt-5-pro.json"
+  },
+  {
+    "name": "gpt-5-pro:batch",
+    "file": "models/openai_gpt-5-pro:batch.json"
   },
   {
     "name": "gpt-5.1",
@@ -784,6 +832,10 @@
     "file": "models/openai_gpt-5.2-pro.json"
   },
   {
+    "name": "gpt-5.2-pro:batch",
+    "file": "models/openai_gpt-5.2-pro:batch.json"
+  },
+  {
     "name": "gpt-5.2:batch",
     "file": "models/openai_gpt-5.2:batch.json"
   },
@@ -824,6 +876,10 @@
     "file": "models/openai_gpt-5.4-pro.json"
   },
   {
+    "name": "gpt-5.4-pro:batch",
+    "file": "models/openai_gpt-5.4-pro:batch.json"
+  },
+  {
     "name": "gpt-5.4:batch",
     "file": "models/openai_gpt-5.4:batch.json"
   },
@@ -834,6 +890,10 @@
   {
     "name": "gpt-5.5-pro",
     "file": "models/openai_gpt-5.5-pro.json"
+  },
+  {
+    "name": "gpt-5.5-pro:batch",
+    "file": "models/openai_gpt-5.5-pro:batch.json"
   },
   {
     "name": "gpt-5.5:batch",
@@ -848,6 +908,14 @@
     "file": "models/openai_gpt-5.6-luna-pro.json"
   },
   {
+    "name": "gpt-5.6-luna-pro:batch",
+    "file": "models/openai_gpt-5.6-luna-pro:batch.json"
+  },
+  {
+    "name": "gpt-5.6-luna:batch",
+    "file": "models/openai_gpt-5.6-luna:batch.json"
+  },
+  {
     "name": "gpt-5.6-sol",
     "file": "models/openai_gpt-5.6-sol.json"
   },
@@ -856,12 +924,28 @@
     "file": "models/openai_gpt-5.6-sol-pro.json"
   },
   {
+    "name": "gpt-5.6-sol-pro:batch",
+    "file": "models/openai_gpt-5.6-sol-pro:batch.json"
+  },
+  {
+    "name": "gpt-5.6-sol:batch",
+    "file": "models/openai_gpt-5.6-sol:batch.json"
+  },
+  {
     "name": "gpt-5.6-terra",
     "file": "models/openai_gpt-5.6-terra.json"
   },
   {
     "name": "gpt-5.6-terra-pro",
     "file": "models/openai_gpt-5.6-terra-pro.json"
+  },
+  {
+    "name": "gpt-5.6-terra-pro:batch",
+    "file": "models/openai_gpt-5.6-terra-pro:batch.json"
+  },
+  {
+    "name": "gpt-5.6-terra:batch",
+    "file": "models/openai_gpt-5.6-terra:batch.json"
   },
   {
     "name": "gpt-5:batch",
@@ -1048,6 +1132,10 @@
     "file": "models/thinkingmachines_inkling-small.json"
   },
   {
+    "name": "inkling:batch",
+    "file": "models/thinkingmachines_inkling:batch.json"
+  },
+  {
     "name": "intellect-3",
     "file": "models/prime-intellect_intellect-3.json"
   },
@@ -1098,6 +1186,10 @@
   {
     "name": "kimi-k2.7-code",
     "file": "models/moonshotai_kimi-k2.7-code.json"
+  },
+  {
+    "name": "kimi-k2.7-code:batch",
+    "file": "models/moonshotai_kimi-k2.7-code:batch.json"
   },
   {
     "name": "kimi-k3",
@@ -1202,6 +1294,10 @@
   {
     "name": "ling-3.0-flash:free",
     "file": "models/inclusionai_ling-3.0-flash:free.json"
+  },
+  {
+    "name": "ling-3.0-tiny:free",
+    "file": "models/inclusionai_ling-3.0-tiny:free.json"
   },
   {
     "name": "llama-3-70b-instruct",
@@ -1516,6 +1612,10 @@
     "file": "models/nvidia_nemotron-3-ultra-550b-a55b.json"
   },
   {
+    "name": "nemotron-3-ultra-550b-a55b:batch",
+    "file": "models/nvidia_nemotron-3-ultra-550b-a55b:batch.json"
+  },
+  {
     "name": "nemotron-3-ultra-550b-a55b:free",
     "file": "models/nvidia_nemotron-3-ultra-550b-a55b:free.json"
   },
@@ -1584,6 +1684,14 @@
     "file": "models/openai_o1-pro.json"
   },
   {
+    "name": "o1-pro:batch",
+    "file": "models/openai_o1-pro:batch.json"
+  },
+  {
+    "name": "o1:batch",
+    "file": "models/openai_o1:batch.json"
+  },
+  {
     "name": "o3",
     "file": "models/openai_o3.json"
   },
@@ -1600,8 +1708,24 @@
     "file": "models/openai_o3-mini-high.json"
   },
   {
+    "name": "o3-mini-high:batch",
+    "file": "models/openai_o3-mini-high:batch.json"
+  },
+  {
+    "name": "o3-mini:batch",
+    "file": "models/openai_o3-mini:batch.json"
+  },
+  {
     "name": "o3-pro",
     "file": "models/openai_o3-pro.json"
+  },
+  {
+    "name": "o3-pro:batch",
+    "file": "models/openai_o3-pro:batch.json"
+  },
+  {
+    "name": "o3:batch",
+    "file": "models/openai_o3:batch.json"
   },
   {
     "name": "o4-mini",
@@ -1614,6 +1738,14 @@
   {
     "name": "o4-mini-high",
     "file": "models/openai_o4-mini-high.json"
+  },
+  {
+    "name": "o4-mini-high:batch",
+    "file": "models/openai_o4-mini-high:batch.json"
+  },
+  {
+    "name": "o4-mini:batch",
+    "file": "models/openai_o4-mini:batch.json"
   },
   {
     "name": "olmo-2-0325-32b-instruct",
