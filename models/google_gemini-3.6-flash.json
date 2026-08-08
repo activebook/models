@@ -78,9 +78,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1235,
-        "win_rate": 55,
-        "rank": 7
+        "elo": 1232,
+        "win_rate": 54.3,
+        "rank": 8
+      },
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1204,
+        "win_rate": 48.7,
+        "rank": 14
       },
       {
         "arena": "agents",
@@ -99,35 +106,35 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1332,
-        "win_rate": 54.2,
-        "rank": 6
+        "elo": 1330,
+        "win_rate": 54.3,
+        "rank": 7
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1318,
-        "win_rate": 55.5,
+        "elo": 1317,
+        "win_rate": 55.6,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1346,
+        "elo": 1345,
         "win_rate": 58,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1286,
-        "win_rate": 52.4,
-        "rank": 17
+        "elo": 1289,
+        "win_rate": 52.8,
+        "rank": 18
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1341,
+        "elo": 1340,
         "win_rate": 55.9,
         "rank": 4
       },
@@ -136,7 +143,7 @@
         "category": "website",
         "elo": 1323,
         "win_rate": 57.8,
-        "rank": 5
+        "rank": 6
       }
     ],
     "artificial_analysis": {

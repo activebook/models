@@ -54,6 +54,31 @@
   "links": {
     "details": "/api/v1/models/meta/muse-spark-1.2-20260805/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1343,
+        "win_rate": 62.6,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1347,
+        "win_rate": 60.1,
+        "rank": 3
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1333,
+        "win_rate": 57.7,
+        "rank": 4
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [
