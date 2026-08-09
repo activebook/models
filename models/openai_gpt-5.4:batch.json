@@ -69,14 +69,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1156,
+        "elo": 1155,
         "win_rate": 42.4,
         "rank": 63
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1237,
+        "elo": 1238,
         "win_rate": 55.5,
         "rank": 16
       },
@@ -85,12 +85,12 @@
         "category": "codecategories",
         "elo": 1240,
         "win_rate": 52.5,
-        "rank": 36
+        "rank": 37
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1262,
+        "elo": 1261,
         "win_rate": 56.6,
         "rank": 26
       },
@@ -99,21 +99,21 @@
         "category": "gamedev",
         "elo": 1279,
         "win_rate": 57.6,
-        "rank": 21
+        "rank": 22
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1241,
+        "elo": 1239,
         "win_rate": 57.8,
         "rank": 15
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1273,
+        "elo": 1272,
         "win_rate": 57.4,
-        "rank": 25
+        "rank": 28
       },
       {
         "arena": "models",
@@ -125,14 +125,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1062,
+        "elo": 1058,
         "win_rate": 47.4,
-        "rank": 30
+        "rank": 31
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1059,
+        "elo": 1051,
         "win_rate": 40.8,
         "rank": 30
       },
@@ -146,16 +146,16 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1147,
+        "elo": 1144,
         "win_rate": 45.9,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1107,
+        "elo": 1102,
         "win_rate": 40.1,
-        "rank": 28
+        "rank": 29
       }
     ],
     "artificial_analysis": {
