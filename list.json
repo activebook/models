@@ -1576,6 +1576,10 @@
     "file": "models/morph_morph-v3-large.json"
   },
   {
+    "name": "muse-glimmer-30b",
+    "file": "models/meta_muse-glimmer-30b.json"
+  },
+  {
     "name": "muse-spark-1.1",
     "file": "models/meta_muse-spark-1.1.json"
   },
@@ -2126,6 +2130,10 @@
   {
     "name": "solar-pro-3",
     "file": "models/upstage_solar-pro-3.json"
+  },
+  {
+    "name": "solar-pro4",
+    "file": "models/upstage_solar-pro4.json"
   },
   {
     "name": "sonar",

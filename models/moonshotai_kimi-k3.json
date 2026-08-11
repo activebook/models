@@ -69,6 +69,13 @@
     "design_arena": [
       {
         "arena": "agents",
+        "category": "androidnative",
+        "elo": 1251,
+        "win_rate": 56.3,
+        "rank": 7
+      },
+      {
+        "arena": "agents",
         "category": "godotgamedev",
         "elo": 1199,
         "win_rate": 48.5,
@@ -77,22 +84,22 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1289,
-        "win_rate": 59.6,
+        "elo": 1299,
+        "win_rate": 60.9,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1368,
+        "elo": 1371,
         "win_rate": 70.3,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1327,
-        "win_rate": 63.8,
+        "elo": 1330,
+        "win_rate": 64,
         "rank": 1
       },
       {
@@ -114,7 +121,7 @@
         "category": "dataviz",
         "elo": 1381,
         "win_rate": 65.6,
-        "rank": 3
+        "rank": 2
       },
       {
         "arena": "models",
@@ -127,7 +134,7 @@
         "arena": "models",
         "category": "website",
         "elo": 1378,
-        "win_rate": 63.5,
+        "win_rate": 63.6,
         "rank": 1
       }
     ],
