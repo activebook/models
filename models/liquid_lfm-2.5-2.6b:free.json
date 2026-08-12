@@ -1,21 +1,20 @@
 {
-  "id": "openrouter/free",
-  "canonical_slug": "openrouter/free",
-  "hugging_face_id": "",
-  "name": "Free Models Router",
-  "created": 1769917427,
-  "description": "The simplest way to get free inference. openrouter/free is a router that selects free models at random from the models available on OpenRouter. The router smartly filters for models that...",
-  "context_length": 200000,
+  "id": "liquid/lfm-2.5-2.6b:free",
+  "canonical_slug": "liquid/lfm-2.5-2.6b-20260811",
+  "hugging_face_id": "LiquidAI/LFM2.5-2.6B",
+  "name": "LiquidAI: LFM2.5-2.6B (free)",
+  "created": 1786470519,
+  "description": "LFM2.5-2.6B is a compact reasoning model from Liquid AI. It is suited for agent workflows, data extraction, RAG, and long-context processing. Liquid advises against using it for agentic coding or...",
+  "context_length": 128000,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text->text",
     "input_modalities": [
-      "text",
-      "image"
+      "text"
     ],
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Other",
     "instruct_type": null
   },
   "pricing": {
@@ -23,8 +22,8 @@
     "completion": "0"
   },
   "top_provider": {
-    "context_length": null,
-    "max_completion_tokens": null,
+    "context_length": 128000,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -37,7 +36,6 @@
     "min_p",
     "presence_penalty",
     "reasoning",
-    "reasoning_effort",
     "repetition_penalty",
     "response_format",
     "seed",
@@ -51,14 +49,17 @@
     "top_p"
   ],
   "default_parameters": {
-    "temperature": null,
-    "top_p": null,
-    "frequency_penalty": null
+    "temperature": 0.1,
+    "top_k": 50,
+    "repetition_penalty": 1.1
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/openrouter/free/endpoints"
+    "details": "/api/v1/models/liquid/lfm-2.5-2.6b-20260811/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true
   }
 }

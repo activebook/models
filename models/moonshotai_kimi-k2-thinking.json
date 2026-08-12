@@ -66,15 +66,15 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1135,
+        "elo": 1134,
         "win_rate": 48.8,
-        "rank": 82
+        "rank": 83
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 17.2,
+      "intelligence_index": null,
       "coding_index": 21,
-      "agentic_index": 1.8
+      "agentic_index": null
     }
   },
   "reasoning": {

@@ -1,0 +1,59 @@
+{
+  "id": "sakana/sakana-namazu",
+  "canonical_slug": "sakana/namazu-20260811",
+  "hugging_face_id": null,
+  "name": "Sakana: Sakana Namazu",
+  "created": 1786410129,
+  "description": "Sakana Namazu is a Japanese-specialized reasoning model from Sakana AI, based on Kimi K2.6 with additional training for Japanese language and business contexts. It is suited for Japanese instruction following,...",
+  "context_length": 262144,
+  "architecture": {
+    "modality": "text+image+file->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "file"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000095",
+    "completion": "0.000004",
+    "web_search": "0.007",
+    "input_cache_read": "0.00000015"
+  },
+  "top_provider": {
+    "context_length": 262144,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "reasoning",
+    "reasoning_effort",
+    "structured_outputs",
+    "tool_choice",
+    "tools",
+    "web_search_options"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/sakana/namazu-20260811/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "none"
+    ],
+    "default_effort": "high"
+  }
+}

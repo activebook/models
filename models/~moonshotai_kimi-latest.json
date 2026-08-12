@@ -11,10 +11,11 @@
   "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
   "context_length": 1048576,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+video->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "video"
     ],
     "output_modalities": [
       "text"

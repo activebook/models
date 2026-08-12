@@ -1268,6 +1268,10 @@
     "file": "models/liquid_lfm-2.5-1.2b-thinking:free.json"
   },
   {
+    "name": "lfm-2.5-2.6b:free",
+    "file": "models/liquid_lfm-2.5-2.6b:free.json"
+  },
+  {
     "name": "lfm2-8b-a1b",
     "file": "models/liquid_lfm2-8b-a1b.json"
   },
@@ -1626,6 +1630,14 @@
   {
     "name": "nemotron-3.5-content-safety:free",
     "file": "models/nvidia_nemotron-3.5-content-safety:free.json"
+  },
+  {
+    "name": "nemotron-3.5-lightning",
+    "file": "models/nvidia_nemotron-3.5-lightning.json"
+  },
+  {
+    "name": "nemotron-3.5-lightning:free",
+    "file": "models/nvidia_nemotron-3.5-lightning:free.json"
   },
   {
     "name": "nemotron-nano-12b-v2-vl",
@@ -2108,12 +2120,20 @@
     "file": "models/switchpoint_router.json"
   },
   {
+    "name": "sakana-namazu",
+    "file": "models/sakana_sakana-namazu.json"
+  },
+  {
     "name": "seed-1.6",
     "file": "models/bytedance-seed_seed-1.6.json"
   },
   {
     "name": "seed-1.6-flash",
     "file": "models/bytedance-seed_seed-1.6-flash.json"
+  },
+  {
+    "name": "seed-2.0-code",
+    "file": "models/bytedance-seed_seed-2.0-code.json"
   },
   {
     "name": "seed-2.0-lite",

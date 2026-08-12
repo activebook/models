@@ -7,10 +7,11 @@
   "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
   "context_length": 1048576,
   "architecture": {
-    "modality": "text+image->text",
+    "modality": "text+image+video->text",
     "input_modalities": [
       "text",
-      "image"
+      "image",
+      "video"
     ],
     "output_modalities": [
       "text"
@@ -70,9 +71,9 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1251,
-        "win_rate": 56.3,
-        "rank": 7
+        "elo": 1258,
+        "win_rate": 57,
+        "rank": 5
       },
       {
         "arena": "agents",
@@ -84,14 +85,14 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1299,
-        "win_rate": 60.9,
+        "elo": 1301,
+        "win_rate": 61.3,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1371,
+        "elo": 1372,
         "win_rate": 70.3,
         "rank": 1
       },
@@ -99,7 +100,7 @@
         "arena": "agents",
         "category": "webapps",
         "elo": 1330,
-        "win_rate": 64,
+        "win_rate": 63.9,
         "rank": 1
       },
       {
@@ -112,8 +113,8 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1415,
-        "win_rate": 66.7,
+        "elo": 1414,
+        "win_rate": 66.8,
         "rank": 1
       },
       {
@@ -133,8 +134,8 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1378,
-        "win_rate": 63.6,
+        "elo": 1379,
+        "win_rate": 63.8,
         "rank": 1
       }
     ],

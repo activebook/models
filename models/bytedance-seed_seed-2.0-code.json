@@ -1,0 +1,69 @@
+{
+  "id": "bytedance-seed/seed-2.0-code",
+  "canonical_slug": "bytedance-seed/seed-2.0-code-20260730",
+  "hugging_face_id": null,
+  "name": "ByteDance Seed: Seed-2.0-Code",
+  "created": 1785451719,
+  "description": "Seed 2.0 Code is a model from ByteDance Seed optimized for agentic coding. It is suited for frontend development, multilingual programming tasks, and coding-agent workflows in tools such as Claude...",
+  "context_length": 262144,
+  "architecture": {
+    "modality": "text+image+video->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000005",
+    "completion": "0.000003",
+    "overrides": [
+      {
+        "min_prompt_tokens": 128000,
+        "prompt": "0.000001",
+        "completion": "0.000006"
+      }
+    ]
+  },
+  "top_provider": {
+    "context_length": 262144,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/bytedance-seed/seed-2.0-code-20260730/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
+  }
+}
