@@ -5,7 +5,7 @@
   "name": "NVIDIA: Nemotron 3.5 Lightning",
   "created": 1786452751,
   "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that...",
-  "context_length": 262144,
+  "context_length": 1000000,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -43,6 +43,8 @@
     "stop",
     "structured_outputs",
     "temperature",
+    "tool_choice",
+    "tools",
     "top_k",
     "top_logprobs",
     "top_p"

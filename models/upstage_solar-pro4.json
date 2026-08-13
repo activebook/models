@@ -48,6 +48,14 @@
   "links": {
     "details": "/api/v1/models/upstage/solar-pro4-20260810/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 41.6,
+      "coding_index": 52.7,
+      "agentic_index": 33.6
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

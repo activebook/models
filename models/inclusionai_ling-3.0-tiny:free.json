@@ -51,7 +51,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-08-13",
   "links": {
     "details": "/api/v1/models/inclusionai/ling-3.0-tiny-20260806/endpoints"
   },

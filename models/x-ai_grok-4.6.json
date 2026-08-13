@@ -1,14 +1,10 @@
 {
-  "id": "~x-ai/grok-latest",
-  "canonical_slug": "~x-ai/grok-latest",
-  "alias_target": {
-    "name": "SpaceXAI: Grok 4.6",
-    "slug": "x-ai/grok-4.6"
-  },
+  "id": "x-ai/grok-4.6",
+  "canonical_slug": "x-ai/grok-4.6-20260810",
   "hugging_face_id": null,
-  "name": "xAI: Grok Latest",
-  "created": 1783519360,
-  "description": "This model always redirects to the latest Grok model from xAI.",
+  "name": "SpaceXAI: Grok 4.6",
+  "created": 1786548957,
+  "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
   "context_length": 500000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -20,7 +16,7 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Grok",
     "instruct_type": null
   },
   "pricing": {
@@ -66,7 +62,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~x-ai/grok-latest/endpoints"
+    "details": "/api/v1/models/x-ai/grok-4.6-20260810/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 60.9,
+      "coding_index": 76.8,
+      "agentic_index": 58.7
+    }
   },
   "reasoning": {
     "mandatory": true,

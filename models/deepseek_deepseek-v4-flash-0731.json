@@ -4,7 +4,7 @@
   "hugging_face_id": "deepseek-ai/DeepSeek-V4-Flash-0731",
   "name": "DeepSeek: DeepSeek V4 Flash 0731",
   "created": 1785478908,
-  "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
+  "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows....",
   "context_length": 1048576,
   "architecture": {
     "modality": "text->text",
@@ -64,43 +64,43 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1272,
-        "win_rate": 52.4,
-        "rank": 26
+        "elo": 1268,
+        "win_rate": 52,
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1260,
-        "win_rate": 47.6,
+        "elo": 1259,
+        "win_rate": 47.7,
         "rank": 32
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1195,
-        "win_rate": 40.4,
+        "elo": 1197,
+        "win_rate": 40.3,
         "rank": 50
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1258,
-        "win_rate": 46.5,
-        "rank": 28
+        "elo": 1262,
+        "win_rate": 47.3,
+        "rank": 26
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1276,
-        "win_rate": 48.3,
-        "rank": 25
+        "elo": 1263,
+        "win_rate": 46.5,
+        "rank": 31
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1261,
-        "win_rate": 47.4,
+        "win_rate": 47.5,
         "rank": 30
       }
     ],
