@@ -64,23 +64,23 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1265,
+        "elo": 1266,
         "win_rate": 58.5,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1228,
+        "elo": 1227,
         "win_rate": 54.7,
         "rank": 17
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1268,
+        "elo": 1267,
         "win_rate": 59.6,
-        "rank": 26
+        "rank": 28
       },
       {
         "arena": "models",
@@ -92,58 +92,58 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1270,
+        "elo": 1269,
         "win_rate": 59.4,
-        "rank": 25
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1223,
+        "elo": 1221,
         "win_rate": 58.7,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1272,
+        "elo": 1270,
         "win_rate": 58.5,
-        "rank": 26
+        "rank": 28
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1267,
         "win_rate": 59.8,
-        "rank": 28
+        "rank": 30
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1207,
+        "elo": 1209,
         "win_rate": 65.5,
         "rank": 15
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1191,
+        "elo": 1190,
         "win_rate": 59.9,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1245,
+        "elo": 1242,
         "win_rate": 60.5,
-        "rank": 8
+        "rank": 9
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1199,
+        "elo": 1196,
         "win_rate": 54.7,
-        "rank": 20
+        "rank": 21
       }
     ]
   },

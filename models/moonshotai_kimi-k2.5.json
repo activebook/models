@@ -69,7 +69,7 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1150,
+        "elo": 1153,
         "win_rate": 57.9,
         "rank": 24
       },
@@ -78,7 +78,7 @@
         "category": "fullstack",
         "elo": 1148,
         "win_rate": 54.2,
-        "rank": 21
+        "rank": 22
       },
       {
         "arena": "agents",
@@ -90,28 +90,28 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1201,
+        "elo": 1199,
         "win_rate": 54.2,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1174,
+        "elo": 1172,
         "win_rate": 51.3,
-        "rank": 22
+        "rank": 23
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1257,
+        "elo": 1258,
         "win_rate": 53.1,
-        "rank": 31
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1207,
+        "elo": 1206,
         "win_rate": 46.4,
         "rank": 19
       },
@@ -120,42 +120,42 @@
         "category": "codecategories",
         "elo": 1262,
         "win_rate": 54.1,
-        "rank": 29
+        "rank": 31
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1246,
         "win_rate": 51.3,
-        "rank": 34
+        "rank": 35
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1248,
+        "elo": 1246,
         "win_rate": 53.4,
-        "rank": 31
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1190,
+        "elo": 1189,
         "win_rate": 48.4,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1271,
+        "elo": 1268,
         "win_rate": 53.6,
-        "rank": 27
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1270,
+        "elo": 1269,
         "win_rate": 55.2,
-        "rank": 25
+        "rank": 28
       }
     ],
     "artificial_analysis": {

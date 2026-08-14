@@ -29,7 +29,6 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "logprobs",
     "max_tokens",
     "presence_penalty",

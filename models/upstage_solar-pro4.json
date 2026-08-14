@@ -4,7 +4,7 @@
   "hugging_face_id": null,
   "name": "Upstage: Solar Pro 4",
   "created": 1786371636,
-  "description": "Solar Pro 4 is a large language model from Upstage. It is suited for agentic workflows, office productivity, document-intensive work, and coding.",
+  "description": "Solar Pro 4 is Upstage's cost-efficient large language model, featuring a 524K context window. It is built for long-horizon tasks and agentic workflows, with strong capabilities in office productivity, document-intensive...",
   "context_length": 524288,
   "architecture": {
     "modality": "text->text",
@@ -49,7 +49,22 @@
     "details": "/api/v1/models/upstage/solar-pro4-20260810/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1166,
+        "win_rate": 34.6,
+        "rank": 66
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1172,
+        "win_rate": 34.4,
+        "rank": 69
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 41.6,
       "coding_index": 52.7,

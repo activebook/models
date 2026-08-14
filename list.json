@@ -500,6 +500,14 @@
     "file": "models/google_gemini-3.6-flash:batch.json"
   },
   {
+    "name": "gemini-3.7-flash",
+    "file": "models/google_gemini-3.7-flash.json"
+  },
+  {
+    "name": "gemini-3.7-flash:batch",
+    "file": "models/google_gemini-3.7-flash:batch.json"
+  },
+  {
     "name": "gemini-flash-latest",
     "file": "models/~google_gemini-flash-latest.json"
   },

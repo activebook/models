@@ -65,7 +65,57 @@
     "details": "/api/v1/models/x-ai/grok-4.6-20260810/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "fullstack",
+        "elo": 1287,
+        "win_rate": 54.4,
+        "rank": 2
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1275,
+        "win_rate": 56.9,
+        "rank": 2
+      },
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1281,
+        "win_rate": 57.5,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1371,
+        "win_rate": 58.6,
+        "rank": 4
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1336,
+        "win_rate": 56,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1364,
+        "win_rate": 61.6,
+        "rank": 3
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1325,
+        "win_rate": 54.7,
+        "rank": 5
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 60.9,
       "coding_index": 76.8,
