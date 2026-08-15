@@ -51,6 +51,17 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5-codex/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "webapps",
+        "elo": 1110,
+        "win_rate": 50.1,
+        "rank": 30
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": true
   }
