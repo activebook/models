@@ -60,7 +60,29 @@
     "details": "/api/v1/models/google/gemini-3.7-flash-20260813/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "androidnative",
+        "elo": 1253,
+        "win_rate": 56.8,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1309,
+        "win_rate": 52.6,
+        "rank": 13
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1347,
+        "win_rate": 59.6,
+        "rank": 2
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 56,
       "coding_index": 76.1,

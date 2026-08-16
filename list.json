@@ -336,6 +336,10 @@
     "file": "models/cognitivecomputations_dolphin-mistral-24b-venice-edition:free.json"
   },
   {
+    "name": "dots-3-note-preview:free",
+    "file": "models/dots-studio_dots-3-note-preview:free.json"
+  },
+  {
     "name": "elephant-alpha",
     "file": "models/openrouter_elephant-alpha.json"
   },
@@ -2086,6 +2090,10 @@
   {
     "name": "qwen3.8-2.4t-a95b",
     "file": "models/qwen_qwen3.8-2.4t-a95b.json"
+  },
+  {
+    "name": "qwen3.8-27b",
+    "file": "models/qwen_qwen3.8-27b.json"
   },
   {
     "name": "qwen3.8-max",

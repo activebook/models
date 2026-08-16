@@ -70,23 +70,23 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1195,
+        "elo": 1194,
         "win_rate": 56,
-        "rank": 52
+        "rank": 53
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1190,
+        "elo": 1191,
         "win_rate": 53.9,
         "rank": 53
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1174,
+        "elo": 1170,
         "win_rate": 52.7,
-        "rank": 64
+        "rank": 65
       },
       {
         "arena": "models",
@@ -98,7 +98,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1211,
+        "elo": 1210,
         "win_rate": 59.5,
         "rank": 45
       },
@@ -107,7 +107,7 @@
         "category": "website",
         "elo": 1198,
         "win_rate": 56.2,
-        "rank": 54
+        "rank": 55
       }
     ],
     "artificial_analysis": {
