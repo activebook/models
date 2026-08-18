@@ -52,6 +52,14 @@
   "links": {
     "details": "/api/v1/models/meituan/longcat-2.0-20260720/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": 45.3,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

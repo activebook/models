@@ -59,42 +59,42 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1238,
+        "elo": 1237,
         "win_rate": 54,
         "rank": 8
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1247,
-        "win_rate": 50.2,
+        "elo": 1242,
+        "win_rate": 50.1,
         "rank": 12
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 975,
-        "win_rate": 21,
-        "rank": 21
+        "elo": 1082,
+        "win_rate": 33.3,
+        "rank": 20
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1209,
+        "elo": 1207,
         "win_rate": 47.5,
-        "rank": 17
+        "rank": 16
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1012,
-        "win_rate": 23.9,
-        "rank": 21
+        "elo": 1121,
+        "win_rate": 37.2,
+        "rank": 19
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1265,
+        "elo": 1262,
         "win_rate": 52.4,
         "rank": 8
       },
@@ -109,27 +109,27 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1340,
-        "win_rate": 59.4,
-        "rank": 4
+        "win_rate": 59.3,
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1365,
         "win_rate": 63.5,
-        "rank": 4
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1357,
-        "win_rate": 60.7,
+        "win_rate": 60.6,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1344,
+        "elo": 1343,
         "win_rate": 58.4,
         "rank": 4
       },
@@ -140,7 +140,12 @@
         "win_rate": 57.8,
         "rank": 2
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 56.8,
+      "coding_index": 72.2,
+      "agentic_index": 49.3
+    }
   },
   "reasoning": {
     "mandatory": true,

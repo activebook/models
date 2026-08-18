@@ -19,12 +19,11 @@
   },
   "pricing": {
     "prompt": "0.00000027",
-    "completion": "0.00000095",
-    "input_cache_read": "0.00000013"
+    "completion": "0.000001"
   },
   "top_provider": {
     "context_length": 163840,
-    "max_completion_tokens": 32768,
+    "max_completion_tokens": 163840,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -54,7 +53,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": "2026-08-17",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v3.1-terminus/endpoints"
   },
@@ -63,7 +62,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1190,
+        "elo": 1191,
         "win_rate": 56.1,
         "rank": 53
       },
@@ -77,7 +76,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1189,
+        "elo": 1188,
         "win_rate": 53.9,
         "rank": 55
       },

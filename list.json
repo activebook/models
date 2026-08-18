@@ -636,6 +636,10 @@
     "file": "models/z-ai_glm-5.2:batch.json"
   },
   {
+    "name": "glm-5.2:free",
+    "file": "models/z-ai_glm-5.2:free.json"
+  },
+  {
     "name": "glm-5v-turbo",
     "file": "models/z-ai_glm-5v-turbo.json"
   },

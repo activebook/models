@@ -47,14 +47,7 @@
     "top_p",
     "verbosity"
   ],
-  "default_parameters": {
-    "temperature": null,
-    "top_p": null,
-    "top_k": null,
-    "frequency_penalty": null,
-    "presence_penalty": null,
-    "repetition_penalty": null
-  },
+  "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
@@ -66,29 +59,29 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1244,
-        "win_rate": 66,
+        "elo": 1247,
+        "win_rate": 65.9,
         "rank": 7
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1254,
+        "elo": 1249,
         "win_rate": 63.1,
         "rank": 10
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1266,
-        "win_rate": 62.9,
+        "elo": 1264,
+        "win_rate": 62.8,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1235,
-        "win_rate": 56,
+        "elo": 1232,
+        "win_rate": 55.9,
         "rank": 17
       },
       {
@@ -103,7 +96,7 @@
         "category": "asciiart",
         "elo": 1285,
         "win_rate": 61.7,
-        "rank": 9
+        "rank": 10
       },
       {
         "arena": "models",
@@ -115,9 +108,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1305,
+        "elo": 1303,
         "win_rate": 58.1,
-        "rank": 10
+        "rank": 11
       },
       {
         "arena": "models",
@@ -138,7 +131,7 @@
         "category": "uicomponent",
         "elo": 1312,
         "win_rate": 59.1,
-        "rank": 12
+        "rank": 11
       },
       {
         "arena": "models",

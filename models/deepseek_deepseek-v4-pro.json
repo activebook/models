@@ -2,7 +2,7 @@
   "id": "deepseek/deepseek-v4-pro",
   "canonical_slug": "deepseek/deepseek-v4-pro-20260423",
   "hugging_face_id": "deepseek-ai/DeepSeek-V4-Pro",
-  "name": "DeepSeek: DeepSeek V4 Pro",
+  "name": "DeepSeek: DeepSeek V4 Pro 0423",
   "created": 1777000679,
   "description": "DeepSeek V4 Pro is a large-scale Mixture-of-Experts model from DeepSeek with 1.6T total parameters and 49B activated parameters, supporting a 1M-token context window. It is designed for advanced reasoning, coding,...",
   "context_length": 1048576,
@@ -18,9 +18,39 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000435",
-    "completion": "0.00000087",
-    "input_cache_read": "0.000000003625"
+    "prompt": "0.00000132",
+    "completion": "0.00000396",
+    "input_cache_read": "0.000000044",
+    "overrides": [
+      {
+        "utc_start": 1000,
+        "utc_end": 100,
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022"
+      },
+      {
+        "utc_start": 100,
+        "utc_end": 400,
+        "prompt": "0.00000132",
+        "completion": "0.00000396",
+        "input_cache_read": "0.000000044"
+      },
+      {
+        "utc_start": 400,
+        "utc_end": 600,
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022"
+      },
+      {
+        "utc_start": 600,
+        "utc_end": 1000,
+        "prompt": "0.00000132",
+        "completion": "0.00000396",
+        "input_cache_read": "0.000000044"
+      }
+    ]
   },
   "top_provider": {
     "context_length": 1048576,
@@ -87,8 +117,8 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1306,
-        "win_rate": 57.5,
+        "elo": 1307,
+        "win_rate": 57.6,
         "rank": 16
       },
       {
@@ -96,7 +126,7 @@
         "category": "asciiart",
         "elo": 1183,
         "win_rate": 46.7,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
@@ -108,9 +138,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1225,
-        "win_rate": 49.3,
-        "rank": 42
+        "elo": 1222,
+        "win_rate": 49,
+        "rank": 43
       },
       {
         "arena": "models",
@@ -122,8 +152,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1174,
-        "win_rate": 46.8,
+        "elo": 1173,
+        "win_rate": 46.7,
         "rank": 39
       },
       {
@@ -136,11 +166,16 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1246,
+        "elo": 1247,
         "win_rate": 51.5,
         "rank": 35
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 45.3,
+      "coding_index": 59.4,
+      "agentic_index": 37.8
+    }
   },
   "reasoning": {
     "mandatory": false,

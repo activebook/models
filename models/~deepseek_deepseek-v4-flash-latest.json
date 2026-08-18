@@ -9,7 +9,7 @@
   "name": "DeepSeek V4 Flash Latest",
   "created": 1785606009,
   "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family.",
-  "context_length": 1048576,
+  "context_length": 1310720,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -22,13 +22,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000675",
-    "completion": "0.000000135",
-    "input_cache_read": "0.0000000135"
+    "prompt": "0.000000078596",
+    "completion": "0.000000157192",
+    "input_cache_read": "0.0000000157192"
   },
   "top_provider": {
-    "context_length": 262144,
-    "max_completion_tokens": 262144,
+    "context_length": 1024000,
+    "max_completion_tokens": 384000,
     "is_moderated": false
   },
   "per_request_limits": null,

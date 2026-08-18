@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000006426",
-    "completion": "0.00000012852",
-    "input_cache_read": "0.000000012852"
+    "prompt": "0.0000000826",
+    "completion": "0.0000001652",
+    "input_cache_read": "0.00000001652"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -85,9 +85,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1148,
+        "elo": 1146,
         "win_rate": 40.6,
-        "rank": 73
+        "rank": 75
       },
       {
         "arena": "models",
@@ -117,7 +117,12 @@
         "win_rate": 49.1,
         "rank": 44
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 42.1,
+      "coding_index": 56.2,
+      "agentic_index": 33.7
+    }
   },
   "reasoning": {
     "mandatory": false,

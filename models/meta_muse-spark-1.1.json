@@ -66,15 +66,15 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1219,
-        "win_rate": 50.8,
-        "rank": 13
+        "elo": 1222,
+        "win_rate": 51.4,
+        "rank": 12
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1245,
-        "win_rate": 49.5,
+        "elo": 1240,
+        "win_rate": 49.4,
         "rank": 13
       },
       {
@@ -87,43 +87,43 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1213,
+        "elo": 1218,
         "win_rate": 51.7,
         "rank": 8
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1203,
-        "win_rate": 45.5,
-        "rank": 18
+        "elo": 1200,
+        "win_rate": 44.8,
+        "rank": 19
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1179,
+        "elo": 1185,
         "win_rate": 44.2,
-        "rank": 13
+        "rank": 14
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1242,
-        "win_rate": 50.4,
+        "elo": 1239,
+        "win_rate": 50.3,
         "rank": 14
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1303,
+        "elo": 1304,
         "win_rate": 53.4,
         "rank": 17
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1328,
-        "win_rate": 62,
+        "elo": 1326,
+        "win_rate": 61.7,
         "rank": 3
       },
       {
@@ -136,9 +136,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1305,
+        "elo": 1303,
         "win_rate": 52.5,
-        "rank": 11
+        "rank": 12
       },
       {
         "arena": "models",
@@ -159,7 +159,7 @@
         "category": "uicomponent",
         "elo": 1321,
         "win_rate": 53.4,
-        "rank": 11
+        "rank": 10
       },
       {
         "arena": "models",
