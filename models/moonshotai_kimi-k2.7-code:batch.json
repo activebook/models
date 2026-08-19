@@ -19,9 +19,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000475",
-    "completion": "0.000002",
-    "input_cache_read": "0.000000095"
+    "prompt": "0.00000095",
+    "completion": "0.000004",
+    "input_cache_read": "0.00000019"
   },
   "top_provider": {
     "context_length": 262144,
@@ -108,9 +108,9 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1186,
+        "elo": 1185,
         "win_rate": 47.1,
-        "rank": 13
+        "rank": 14
       },
       {
         "arena": "agents",
@@ -136,8 +136,8 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1277,
-        "win_rate": 52.2,
+        "elo": 1276,
+        "win_rate": 52.1,
         "rank": 25
       },
       {

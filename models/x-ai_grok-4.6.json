@@ -66,8 +66,8 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1182,
-        "win_rate": 46.8,
+        "elo": 1177,
+        "win_rate": 45.9,
         "rank": 22
       },
       {
@@ -81,13 +81,13 @@
         "arena": "agents",
         "category": "mobileapps",
         "elo": 1276,
-        "win_rate": 57.6,
+        "win_rate": 57.7,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1211,
+        "elo": 1210,
         "win_rate": 55.5,
         "rank": 10
       },
@@ -115,7 +115,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1322,
+        "elo": 1320,
         "win_rate": 53.5,
         "rank": 7
       },

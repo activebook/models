@@ -640,6 +640,10 @@
     "file": "models/z-ai_glm-5.2:free.json"
   },
   {
+    "name": "glm-5.3",
+    "file": "models/z-ai_glm-5.3.json"
+  },
+  {
     "name": "glm-5v-turbo",
     "file": "models/z-ai_glm-5v-turbo.json"
   },

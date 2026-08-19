@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000005",
-    "completion": "0.00000315",
-    "input_cache_read": "0.000000115"
+    "prompt": "0.000000966",
+    "completion": "0.000003036",
+    "input_cache_read": "0.0000001932"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -78,7 +78,7 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1208,
-        "win_rate": 54.7,
+        "win_rate": 54.6,
         "rank": 15
       },
       {
@@ -113,7 +113,7 @@
         "arena": "agents",
         "category": "python-pptxslides",
         "elo": 1207,
-        "win_rate": 49.3,
+        "win_rate": 49.4,
         "rank": 11
       },
       {
@@ -140,7 +140,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1326,
+        "elo": 1325,
         "win_rate": 56.3,
         "rank": 6
       },
@@ -161,8 +161,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1254,
-        "win_rate": 55.5,
+        "elo": 1253,
+        "win_rate": 55.4,
         "rank": 13
       },
       {
