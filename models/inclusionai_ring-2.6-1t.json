@@ -55,16 +55,16 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-08-24",
   "links": {
     "details": "/api/v1/models/inclusionai/ring-2.6-1t-20260508/endpoints"
   },
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": null,
+      "intelligence_index": 31.7,
       "coding_index": 42.8,
-      "agentic_index": null
+      "agentic_index": 20.1
     }
   },
   "reasoning": {

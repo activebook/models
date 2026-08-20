@@ -648,6 +648,10 @@
     "file": "models/z-ai_glm-5v-turbo.json"
   },
   {
+    "name": "glm-latest",
+    "file": "models/~z-ai_glm-latest.json"
+  },
+  {
     "name": "goliath-120b",
     "file": "models/alpindale_goliath-120b.json"
   },

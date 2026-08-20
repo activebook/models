@@ -5,7 +5,7 @@
   "name": "Qwen: Qwen3.8 27B",
   "created": 1786722910,
   "description": "Qwen3.8 27B is an open-weight dense vision-language model from Qwen. It is suited for coding, professional workflows, research, multimodal interaction, and long-running agent tasks, with flexible thinking that can be...",
-  "context_length": 262144,
+  "context_length": 1000000,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -33,6 +33,7 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "logprobs",
     "max_tokens",
     "presence_penalty",
@@ -60,6 +61,14 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3.8-27b-20260814/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 52,
+      "coding_index": 68.1,
+      "agentic_index": 50.9
+    }
   },
   "reasoning": {
     "mandatory": false,
