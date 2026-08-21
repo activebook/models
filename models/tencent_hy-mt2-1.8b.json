@@ -1,0 +1,43 @@
+{
+  "id": "tencent/hy-mt2-1.8b",
+  "canonical_slug": "tencent/hy-mt2-1.8b-20260521",
+  "hugging_face_id": "tencent/Hy-MT2-1.8B",
+  "name": "Tencent: Hy-MT2-1.8B",
+  "created": 1787231581,
+  "description": "Hy-MT2-1.8B is a compact 1.8B-parameter translation model from Tencent. It supports 33 language pairs and five Chinese dialect and minority-language pairs, with workflows for structured, delimiter-based, contextual, glossary-based, and style-guided...",
+  "context_length": 8192,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000000044",
+    "completion": "0.000000177"
+  },
+  "top_provider": {
+    "context_length": 8192,
+    "max_completion_tokens": 4096,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_completion_tokens",
+    "max_tokens",
+    "stop",
+    "temperature"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/tencent/hy-mt2-1.8b-20260521/endpoints"
+  }
+}

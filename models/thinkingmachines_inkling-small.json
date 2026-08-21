@@ -5,7 +5,7 @@
   "name": "Thinking Machines: Inkling Small",
   "created": 1785443117,
   "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total. It is positioned as the smaller, more efficient member of...",
-  "context_length": 524288,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+audio->text",
     "input_modalities": [

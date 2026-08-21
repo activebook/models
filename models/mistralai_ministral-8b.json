@@ -1,0 +1,50 @@
+{
+  "id": "mistralai/ministral-8b",
+  "canonical_slug": "mistralai/ministral-8b",
+  "hugging_face_id": null,
+  "name": "Mistral: Ministral 8B",
+  "created": 1729123200,
+  "description": "Ministral 8B is an 8B parameter model featuring a unique interleaved sliding-window attention pattern for faster, memory-efficient inference. Designed for edge use cases, it supports up to 128k context length...",
+  "context_length": 128000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Mistral",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000011",
+    "completion": "0.00000011"
+  },
+  "top_provider": {
+    "context_length": 128000,
+    "max_completion_tokens": null,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.3
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": "2024-09-30",
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/ministral-8b/endpoints"
+  }
+}

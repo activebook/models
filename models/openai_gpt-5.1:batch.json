@@ -59,67 +59,60 @@
   "benchmarks": {
     "design_arena": [
       {
-        "arena": "agents",
-        "category": "webapps",
-        "elo": 1029,
-        "win_rate": 39.9,
-        "rank": 36
-      },
-      {
         "arena": "models",
         "category": "3d",
-        "elo": 1110,
+        "elo": 1107,
         "win_rate": 43.7,
-        "rank": 85
+        "rank": 86
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1151,
         "win_rate": 48.6,
-        "rank": 44
+        "rank": 45
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1188,
-        "win_rate": 52.9,
+        "elo": 1195,
+        "win_rate": 53,
         "rank": 57
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1225,
-        "win_rate": 58.1,
+        "elo": 1226,
+        "win_rate": 58,
         "rank": 42
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1217,
+        "elo": 1215,
         "win_rate": 55.9,
         "rank": 44
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1186,
-        "win_rate": 56.3,
-        "rank": 35
+        "elo": 1190,
+        "win_rate": 57.4,
+        "rank": 36
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1196,
-        "win_rate": 53.4,
-        "rank": 54
+        "elo": 1193,
+        "win_rate": 52.9,
+        "rank": 57
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1198,
-        "win_rate": 53.9,
-        "rank": 56
+        "elo": 1207,
+        "win_rate": 54,
+        "rank": 54
       }
     ],
     "artificial_analysis": {

@@ -1132,6 +1132,14 @@
     "file": "models/tencent_hunyuan-a13b-instruct.json"
   },
   {
+    "name": "hy-mt2-1.8b",
+    "file": "models/tencent_hy-mt2-1.8b.json"
+  },
+  {
+    "name": "hy-mt2-30b-a3b",
+    "file": "models/tencent_hy-mt2-30b-a3b.json"
+  },
+  {
     "name": "hy3",
     "file": "models/tencent_hy3.json"
   },
@@ -1524,6 +1532,10 @@
     "file": "models/mistralai_ministral-3b-2512.json"
   },
   {
+    "name": "ministral-8b",
+    "file": "models/mistralai_ministral-8b.json"
+  },
+  {
     "name": "ministral-8b-2512",
     "file": "models/mistralai_ministral-8b-2512.json"
   },
@@ -1822,6 +1834,10 @@
   {
     "name": "owl-alpha",
     "file": "models/openrouter_owl-alpha.json"
+  },
+  {
+    "name": "ox-alpha",
+    "file": "models/stealth_ox-alpha.json"
   },
   {
     "name": "palmyra-x5",
