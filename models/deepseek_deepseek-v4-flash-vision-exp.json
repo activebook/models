@@ -1,0 +1,95 @@
+{
+  "id": "deepseek/deepseek-v4-flash-vision-exp",
+  "canonical_slug": "deepseek/deepseek-v4-flash-vision-exp-20260821",
+  "hugging_face_id": null,
+  "name": "DeepSeek: DeepSeek V4 Flash Vision Exp",
+  "created": 1787311563,
+  "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of [DeepSeek V4 Flash 0731](https://openrouter.ai/deepseek/deepseek-v4-flash-0731) from DeepSeek, adding image understanding while matching the base model on text capabilities including agents,...",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text+image->text",
+    "input_modalities": [
+      "text",
+      "image"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "DeepSeek",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000044",
+    "completion": "0.00000132",
+    "input_cache_read": "0.000000014",
+    "overrides": [
+      {
+        "utc_start": 1000,
+        "utc_end": 100,
+        "prompt": "0.00000022",
+        "completion": "0.00000066",
+        "input_cache_read": "0.000000007"
+      },
+      {
+        "utc_start": 100,
+        "utc_end": 400,
+        "prompt": "0.00000044",
+        "completion": "0.00000132",
+        "input_cache_read": "0.000000014"
+      },
+      {
+        "utc_start": 400,
+        "utc_end": 600,
+        "prompt": "0.00000022",
+        "completion": "0.00000066",
+        "input_cache_read": "0.000000007"
+      },
+      {
+        "utc_start": 600,
+        "utc_end": 1000,
+        "prompt": "0.00000044",
+        "completion": "0.00000132",
+        "input_cache_read": "0.000000014"
+      }
+    ]
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 384000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logprobs",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "stop",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/deepseek/deepseek-v4-flash-vision-exp-20260821/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "max",
+      "high",
+      "low"
+    ],
+    "default_effort": "high"
+  }
+}

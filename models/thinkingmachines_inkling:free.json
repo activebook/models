@@ -1,11 +1,11 @@
 {
-  "id": "thinkingmachines/inkling",
+  "id": "thinkingmachines/inkling:free",
   "canonical_slug": "thinkingmachines/inkling-20260715",
   "hugging_face_id": "thinkingmachines/Inkling",
-  "name": "Thinking Machines: Inkling",
+  "name": "Thinking Machines: Inkling (free)",
   "created": 1784325956,
   "description": "Inkling is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 41B active parameters out of 975B total. It is designed for general-purpose reasoning, coding, agentic and tool-use systems,...",
-  "context_length": 1048576,
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image+audio->text",
     "input_modalities": [
@@ -20,12 +20,11 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000095",
-    "completion": "0.00000405",
-    "input_cache_read": "0.00000016"
+    "prompt": "0",
+    "completion": "0"
   },
   "top_provider": {
-    "context_length": 524288,
+    "context_length": 262144,
     "max_completion_tokens": 262144,
     "is_moderated": false
   },
@@ -33,20 +32,14 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
-    "repetition_penalty",
-    "response_format",
     "seed",
     "stop",
     "temperature",
-    "tool_choice",
     "tools",
-    "top_k",
     "top_p"
   ],
   "default_parameters": {

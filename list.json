@@ -304,6 +304,10 @@
     "file": "models/~deepseek_deepseek-v4-flash-latest.json"
   },
   {
+    "name": "deepseek-v4-flash-vision-exp",
+    "file": "models/deepseek_deepseek-v4-flash-vision-exp.json"
+  },
+  {
     "name": "deepseek-v4-flash:free",
     "file": "models/deepseek_deepseek-v4-flash:free.json"
   },
@@ -1172,8 +1176,16 @@
     "file": "models/thinkingmachines_inkling-small.json"
   },
   {
+    "name": "inkling-small:free",
+    "file": "models/thinkingmachines_inkling-small:free.json"
+  },
+  {
     "name": "inkling:batch",
     "file": "models/thinkingmachines_inkling:batch.json"
+  },
+  {
+    "name": "inkling:free",
+    "file": "models/thinkingmachines_inkling:free.json"
   },
   {
     "name": "intellect-3",
@@ -1634,6 +1646,10 @@
   {
     "name": "muse-spark-1.2",
     "file": "models/meta_muse-spark-1.2.json"
+  },
+  {
+    "name": "muse-spark-1.2-contributor",
+    "file": "models/meta_muse-spark-1.2-contributor.json"
   },
   {
     "name": "mythomax-l2-13b",
