@@ -1144,6 +1144,10 @@
     "file": "models/tencent_hy-mt2-30b-a3b.json"
   },
   {
+    "name": "hy-mt2-7b",
+    "file": "models/tencent_hy-mt2-7b.json"
+  },
+  {
     "name": "hy3",
     "file": "models/tencent_hy3.json"
   },
