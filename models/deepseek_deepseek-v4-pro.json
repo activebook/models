@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000413772",
-    "completion": "0.000000827544",
-    "input_cache_read": "0.000000034481"
+    "prompt": "0.000000519216",
+    "completion": "0.000001038432",
+    "input_cache_read": "0.000000043268"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -94,7 +94,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1179,
+        "elo": 1177,
         "win_rate": 46.8,
         "rank": 30
       },
@@ -108,9 +108,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1223,
-        "win_rate": 48.8,
-        "rank": 43
+        "elo": 1221,
+        "win_rate": 48.6,
+        "rank": 44
       },
       {
         "arena": "models",
@@ -122,15 +122,15 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1177,
-        "win_rate": 45.7,
+        "elo": 1178,
+        "win_rate": 45.9,
         "rank": 42
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1250,
-        "win_rate": 51.3,
+        "win_rate": 51.2,
         "rank": 36
       },
       {

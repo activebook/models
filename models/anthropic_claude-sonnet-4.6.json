@@ -61,9 +61,9 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1185,
+        "elo": 1186,
         "win_rate": 52.2,
-        "rank": 8
+        "rank": 10
       },
       {
         "arena": "agents",
@@ -75,9 +75,9 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1247,
+        "elo": 1234,
         "win_rate": 64.3,
-        "rank": 12
+        "rank": 13
       },
       {
         "arena": "agents",
@@ -89,28 +89,28 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1263,
+        "elo": 1260,
         "win_rate": 63.6,
-        "rank": 4
+        "rank": 5
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1227,
+        "elo": 1222,
         "win_rate": 57,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1281,
+        "elo": 1280,
         "win_rate": 57.6,
         "rank": 25
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1261,
+        "elo": 1259,
         "win_rate": 60.1,
         "rank": 12
       },
@@ -126,7 +126,7 @@
         "category": "dataviz",
         "elo": 1301,
         "win_rate": 58.3,
-        "rank": 12
+        "rank": 13
       },
       {
         "arena": "models",
