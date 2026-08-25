@@ -19,13 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000045",
-    "completion": "0.00000225",
-    "input_cache_read": "0.00000007"
+    "prompt": "0.0000006",
+    "completion": "0.000003",
+    "input_cache_read": "0.0000001"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 262144,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -60,7 +60,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-08-31",
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2.5-0127/endpoints"
   },
@@ -69,14 +69,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1146,
+        "elo": 1145,
         "win_rate": 57.9,
         "rank": 26
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1134,
+        "elo": 1138,
         "win_rate": 54.4,
         "rank": 25
       },
@@ -90,14 +90,14 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1195,
+        "elo": 1193,
         "win_rate": 54.6,
         "rank": 23
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1168,
+        "elo": 1169,
         "win_rate": 51.6,
         "rank": 24
       },
@@ -111,7 +111,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1196,
+        "elo": 1197,
         "win_rate": 46.5,
         "rank": 21
       },
