@@ -24,7 +24,7 @@
   },
   "top_provider": {
     "context_length": 163840,
-    "max_completion_tokens": 163840,
+    "max_completion_tokens": 147456,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -70,14 +70,14 @@
         "category": "3d",
         "elo": 1178,
         "win_rate": 49.5,
-        "rank": 57
+        "rank": 56
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1109,
         "win_rate": 40.5,
-        "rank": 53
+        "rank": 54
       },
       {
         "arena": "models",
@@ -96,9 +96,9 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1168,
+        "elo": 1167,
         "win_rate": 46.6,
-        "rank": 65
+        "rank": 66
       },
       {
         "arena": "models",

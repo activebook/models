@@ -39,7 +39,7 @@
   },
   "top_provider": {
     "context_length": 500000,
-    "max_completion_tokens": null,
+    "max_completion_tokens": 450000,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -51,10 +51,12 @@
     "reasoning_effort",
     "response_format",
     "seed",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],

@@ -24,7 +24,7 @@
   },
   "top_provider": {
     "context_length": 161000,
-    "max_completion_tokens": 161000,
+    "max_completion_tokens": 144900,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -105,7 +105,7 @@
         "category": "website",
         "elo": 1143,
         "win_rate": 48,
-        "rank": 82
+        "rank": 83
       }
     ]
   },

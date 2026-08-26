@@ -25,7 +25,7 @@
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 262144,
+    "max_completion_tokens": 235929,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -70,21 +70,21 @@
         "category": "asciiart",
         "elo": 1128,
         "win_rate": 38.2,
-        "rank": 50
+        "rank": 51
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1258,
-        "win_rate": 48.5,
-        "rank": 35
+        "elo": 1257,
+        "win_rate": 48.4,
+        "rank": 36
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1251,
-        "win_rate": 49.1,
-        "rank": 31
+        "elo": 1249,
+        "win_rate": 48.9,
+        "rank": 33
       },
       {
         "arena": "models",
@@ -104,14 +104,14 @@
         "arena": "models",
         "category": "uicomponent",
         "elo": 1245,
-        "win_rate": 47.1,
+        "win_rate": 47,
         "rank": 38
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1242,
-        "win_rate": 46.3,
+        "elo": 1241,
+        "win_rate": 46.2,
         "rank": 40
       }
     ],

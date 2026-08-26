@@ -1,11 +1,11 @@
 {
-  "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
-  "canonical_slug": "nvidia/nemotron-3-ultra-550b-a55b-20260604",
-  "hugging_face_id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
-  "name": "NVIDIA: Nemotron 3 Ultra (free)",
-  "created": 1780551208,
-  "description": "NVIDIA Nemotron 3 Ultra is an open frontier-reasoning and orchestration model from NVIDIA, with 55B active parameters out of 550B total (MoE). Built on a hybrid Transformer-Mamba mixture-of-experts architecture, it...",
-  "context_length": 1000000,
+  "id": "minimax/minimax-m2.7:free",
+  "canonical_slug": "minimax/minimax-m2.7-20260318",
+  "hugging_face_id": "MiniMaxAI/MiniMax-M2.7",
+  "name": "MiniMax: MiniMax M2.7 (free)",
+  "created": 1773836697,
+  "description": "MiniMax-M2.7 is a next-generation large language model designed for autonomous, real-world productivity and continuous improvement. Built to actively participate in its own evolution, M2.7 integrates advanced agentic capabilities through multi-agent...",
+  "context_length": 196608,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -22,8 +22,8 @@
     "completion": "0"
   },
   "top_provider": {
-    "context_length": 1000000,
-    "max_completion_tokens": 65536,
+    "context_length": 196608,
+    "max_completion_tokens": 176947,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -31,7 +31,7 @@
     "include_reasoning",
     "max_tokens",
     "reasoning",
-    "reasoning_effort",
+    "response_format",
     "seed",
     "temperature",
     "tool_choice",
@@ -50,81 +50,74 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/nvidia/nemotron-3-ultra-550b-a55b-20260604/endpoints"
+    "details": "/api/v1/models/minimax/minimax-m2.7-20260318/endpoints"
   },
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1178,
-        "win_rate": 41.1,
-        "rank": 57
+        "elo": 1239,
+        "win_rate": 50.8,
+        "rank": 37
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1101,
-        "win_rate": 36.6,
-        "rank": 55
+        "elo": 1167,
+        "win_rate": 47.9,
+        "rank": 36
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1160,
-        "win_rate": 36.3,
-        "rank": 75
+        "elo": 1259,
+        "win_rate": 52.3,
+        "rank": 34
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1158,
-        "win_rate": 38,
-        "rank": 70
+        "elo": 1251,
+        "win_rate": 52.5,
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1160,
-        "win_rate": 37,
-        "rank": 68
+        "elo": 1244,
+        "win_rate": 51.7,
+        "rank": 35
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1120,
-        "win_rate": 36.7,
-        "rank": 55
+        "elo": 1179,
+        "win_rate": 49.4,
+        "rank": 41
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1163,
-        "win_rate": 37.5,
-        "rank": 69
+        "elo": 1237,
+        "win_rate": 49.4,
+        "rank": 40
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1147,
-        "win_rate": 34.3,
-        "rank": 80
+        "elo": 1266,
+        "win_rate": 53,
+        "rank": 32
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 38.3,
-      "coding_index": 49.3,
-      "agentic_index": 27.5
+      "intelligence_index": 38.9,
+      "coding_index": 52.6,
+      "agentic_index": 25.9
     }
   },
   "reasoning": {
-    "mandatory": false,
-    "default_enabled": true,
-    "supports_max_tokens": true,
-    "supported_efforts": [
-      "high",
-      "medium"
-    ],
-    "default_effort": "high"
+    "mandatory": true
   }
 }

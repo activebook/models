@@ -1,11 +1,11 @@
 {
-  "id": "minimax/minimax-m3:batch",
+  "id": "minimax/minimax-m3:free",
   "canonical_slug": "minimax/minimax-m3-20260531",
   "hugging_face_id": "MiniMaxAI/Minimax-M3",
-  "name": "MiniMax: MiniMax M3 (batch)",
+  "name": "MiniMax: MiniMax M3 (free)",
   "created": 1780245374,
   "description": "MiniMax-M3 is a multimodal foundation model from MiniMax. It supports text, image, and video inputs with text output, a 1M-token context window, and is suited for long-horizon agentic work, coding,...",
-  "context_length": 524288,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -20,32 +20,24 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000003",
-    "completion": "0.0000012",
-    "input_cache_read": "0.00000006"
+    "prompt": "0",
+    "completion": "0"
   },
   "top_provider": {
-    "context_length": 524288,
-    "max_completion_tokens": 471859,
+    "context_length": 1048576,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "max_tokens",
-    "min_p",
-    "presence_penalty",
     "reasoning",
-    "repetition_penalty",
     "response_format",
-    "stop",
-    "structured_outputs",
+    "seed",
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
     "top_p"
   ],
   "default_parameters": {

@@ -24,13 +24,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000026",
-    "completion": "0.000013",
-    "input_cache_read": "0.00000029"
+    "prompt": "0.00000255",
+    "completion": "0.00001275",
+    "input_cache_read": "0.00000025599999"
   },
   "top_provider": {
-    "context_length": 974842,
-    "max_completion_tokens": 974842,
+    "context_length": 1048576,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,

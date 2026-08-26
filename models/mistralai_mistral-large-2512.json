@@ -26,7 +26,7 @@
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": null,
+    "max_completion_tokens": 209715,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -68,7 +68,7 @@
         "category": "asciiart",
         "elo": 1095,
         "win_rate": 40.3,
-        "rank": 55
+        "rank": 56
       },
       {
         "arena": "models",
@@ -108,9 +108,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1182,
+        "elo": 1183,
         "win_rate": 49.5,
-        "rank": 69
+        "rank": 67
       }
     ],
     "artificial_analysis": {

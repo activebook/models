@@ -23,8 +23,8 @@
     "input_cache_read": "0.00000006"
   },
   "top_provider": {
-    "context_length": 196608,
-    "max_completion_tokens": null,
+    "context_length": 204800,
+    "max_completion_tokens": 131072,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -68,16 +68,16 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1240,
+        "elo": 1239,
         "win_rate": 50.8,
         "rank": 37
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1166,
-        "win_rate": 47.8,
-        "rank": 37
+        "elo": 1167,
+        "win_rate": 47.9,
+        "rank": 36
       },
       {
         "arena": "models",
@@ -90,7 +90,7 @@
         "arena": "models",
         "category": "dataviz",
         "elo": 1251,
-        "win_rate": 52.4,
+        "win_rate": 52.5,
         "rank": 30
       },
       {
@@ -104,7 +104,7 @@
         "arena": "models",
         "category": "svg",
         "elo": 1179,
-        "win_rate": 49.5,
+        "win_rate": 49.4,
         "rank": 41
       },
       {
