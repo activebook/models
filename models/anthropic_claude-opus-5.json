@@ -59,30 +59,30 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1272,
-        "win_rate": 53.6,
+        "elo": 1267,
+        "win_rate": 54.2,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1348,
-        "win_rate": 69.3,
+        "elo": 1347,
+        "win_rate": 69.1,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1270,
-        "win_rate": 55.5,
+        "elo": 1271,
+        "win_rate": 55.7,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1378,
-        "win_rate": 63.7,
-        "rank": 2
+        "elo": 1373,
+        "win_rate": 63.2,
+        "rank": 3
       },
       {
         "arena": "models",
@@ -95,14 +95,14 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1349,
-        "win_rate": 59.4,
+        "win_rate": 59.3,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1357,
-        "win_rate": 60.7,
+        "elo": 1356,
+        "win_rate": 60.6,
         "rank": 4
       },
       {
@@ -115,30 +115,30 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1363,
+        "elo": 1362,
         "win_rate": 62.8,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1373,
+        "elo": 1371,
         "win_rate": 62,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1331,
+        "elo": 1332,
         "win_rate": 57.6,
-        "rank": 3
+        "rank": 2
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1298,
-        "win_rate": 60,
-        "rank": 1
+        "elo": 1285,
+        "win_rate": 58.4,
+        "rank": 2
       }
     ],
     "artificial_analysis": {

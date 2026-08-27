@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000005",
-    "completion": "0.000002",
-    "input_cache_read": "0.0000001"
+    "prompt": "0.00000043",
+    "completion": "0.00000175",
+    "input_cache_read": "0.00000008"
   },
   "top_provider": {
-    "context_length": 202752,
-    "max_completion_tokens": 131072,
+    "context_length": 198000,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -75,7 +75,7 @@
         "category": "fullstack",
         "elo": 1053,
         "win_rate": 42.3,
-        "rank": 35
+        "rank": 36
       },
       {
         "arena": "agents",
@@ -94,21 +94,21 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1174,
+        "elo": 1173,
         "win_rate": 54.2,
         "rank": 58
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1191,
+        "elo": 1190,
         "win_rate": 54.3,
         "rank": 61
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1183,
+        "elo": 1182,
         "win_rate": 52.6,
         "rank": 60
       },
@@ -122,14 +122,14 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1150,
+        "elo": 1149,
         "win_rate": 52.1,
         "rank": 47
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1175,
+        "elo": 1173,
         "win_rate": 52.5,
         "rank": 64
       },

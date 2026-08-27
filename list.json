@@ -648,6 +648,10 @@
     "file": "models/z-ai_glm-5.3.json"
   },
   {
+    "name": "glm-5.3-flash",
+    "file": "models/z-ai_glm-5.3-flash.json"
+  },
+  {
     "name": "glm-5v-turbo",
     "file": "models/z-ai_glm-5v-turbo.json"
   },
@@ -2150,6 +2154,10 @@
   {
     "name": "qwen3.8-27b",
     "file": "models/qwen_qwen3.8-27b.json"
+  },
+  {
+    "name": "qwen3.8-flash",
+    "file": "models/qwen_qwen3.8-flash.json"
   },
   {
     "name": "qwen3.8-max",
