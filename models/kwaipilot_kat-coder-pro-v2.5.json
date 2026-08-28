@@ -5,7 +5,7 @@
   "name": "Kwaipilot: KAT-Coder-Pro V2.5",
   "created": 1783714589,
   "description": "KAT-Coder-Pro V2.5 is a flagship-level Agentic Coding model that can directly hand over an entire issue or an entire business workflow to it, allowing it to autonomously locate and make...",
-  "context_length": 256000,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -29,15 +29,21 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
+    "logit_bias",
     "logprobs",
     "max_tokens",
+    "min_p",
     "presence_penalty",
+    "repetition_penalty",
     "response_format",
+    "seed",
     "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],

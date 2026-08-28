@@ -1,0 +1,120 @@
+{
+  "id": "mistralai/mistral-medium-3.1:batch",
+  "canonical_slug": "mistralai/mistral-medium-3.1",
+  "hugging_face_id": "",
+  "name": "Mistral: Mistral Medium 3.1 (batch)",
+  "created": 1755095639,
+  "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances...",
+  "context_length": 131072,
+  "architecture": {
+    "modality": "text+image+file->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "file"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Mistral",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000004",
+    "completion": "0.000002",
+    "input_cache_read": "0.00000004"
+  },
+  "top_provider": {
+    "context_length": 131072,
+    "max_completion_tokens": 104857,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "max_tokens",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.3
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": "2025-06-30",
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/mistralai/mistral-medium-3.1/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1125,
+        "win_rate": 44.6,
+        "rank": 78
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1024,
+        "win_rate": 30.8,
+        "rank": 60
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1145,
+        "win_rate": 45.1,
+        "rank": 78
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1165,
+        "win_rate": 47.2,
+        "rank": 67
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1110,
+        "win_rate": 40.7,
+        "rank": 86
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1032,
+        "win_rate": 38.2,
+        "rank": 74
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1126,
+        "win_rate": 43.6,
+        "rank": 79
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1152,
+        "win_rate": 46,
+        "rank": 78
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 14.7,
+      "coding_index": 20.5,
+      "agentic_index": 6.1
+    }
+  }
+}

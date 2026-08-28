@@ -216,6 +216,10 @@
     "file": "models/mistralai_codestral-2508.json"
   },
   {
+    "name": "codestral-2508:batch",
+    "file": "models/mistralai_codestral-2508:batch.json"
+  },
+  {
     "name": "cogito-v2.1-671b",
     "file": "models/deepcogito_cogito-v2.1-671b.json"
   },
@@ -1168,6 +1172,10 @@
     "file": "models/tencent_hy3:free.json"
   },
   {
+    "name": "hy4-preview",
+    "file": "models/tencent_hy4-preview.json"
+  },
+  {
     "name": "inflection-3-pi",
     "file": "models/inflection_inflection-3-pi.json"
   },
@@ -1354,6 +1362,10 @@
   {
     "name": "ling-3.0-flash",
     "file": "models/inclusionai_ling-3.0-flash.json"
+  },
+  {
+    "name": "ling-3.0-flash-fin:free",
+    "file": "models/inclusionai_ling-3.0-flash-fin:free.json"
   },
   {
     "name": "ling-3.0-flash:free",
@@ -1568,6 +1580,10 @@
     "file": "models/mistralai_ministral-8b-2512.json"
   },
   {
+    "name": "ministral-8b-2512:batch",
+    "file": "models/mistralai_ministral-8b-2512:batch.json"
+  },
+  {
     "name": "mistral-7b-instruct-v0.1",
     "file": "models/mistralai_mistral-7b-instruct-v0.1.json"
   },
@@ -1588,6 +1604,10 @@
     "file": "models/mistralai_mistral-large-2512.json"
   },
   {
+    "name": "mistral-large-2512:batch",
+    "file": "models/mistralai_mistral-large-2512:batch.json"
+  },
+  {
     "name": "mistral-medium-3",
     "file": "models/mistralai_mistral-medium-3.json"
   },
@@ -1596,8 +1616,16 @@
     "file": "models/mistralai_mistral-medium-3-5.json"
   },
   {
+    "name": "mistral-medium-3-5:batch",
+    "file": "models/mistralai_mistral-medium-3-5:batch.json"
+  },
+  {
     "name": "mistral-medium-3.1",
     "file": "models/mistralai_mistral-medium-3.1.json"
+  },
+  {
+    "name": "mistral-medium-3.1:batch",
+    "file": "models/mistralai_mistral-medium-3.1:batch.json"
   },
   {
     "name": "mistral-nemo",
@@ -1614,6 +1642,10 @@
   {
     "name": "mistral-small-2603",
     "file": "models/mistralai_mistral-small-2603.json"
+  },
+  {
+    "name": "mistral-small-2603:batch",
+    "file": "models/mistralai_mistral-small-2603:batch.json"
   },
   {
     "name": "mistral-small-3.1-24b-instruct",
