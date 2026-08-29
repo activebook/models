@@ -304,6 +304,10 @@
     "file": "models/deepseek_deepseek-v4-flash-0731.json"
   },
   {
+    "name": "deepseek-v4-flash-0731:batch",
+    "file": "models/deepseek_deepseek-v4-flash-0731:batch.json"
+  },
+  {
     "name": "deepseek-v4-flash-latest",
     "file": "models/~deepseek_deepseek-v4-flash-latest.json"
   },
@@ -322,6 +326,10 @@
   {
     "name": "deepseek-v4-pro-0813",
     "file": "models/deepseek_deepseek-v4-pro-0813.json"
+  },
+  {
+    "name": "deepseek-v4-pro-0813:batch",
+    "file": "models/deepseek_deepseek-v4-pro-0813:batch.json"
   },
   {
     "name": "devstral-2512",
@@ -584,6 +592,10 @@
     "file": "models/google_gemma-4-31b-it.json"
   },
   {
+    "name": "gemma-4-31b-it:batch",
+    "file": "models/google_gemma-4-31b-it:batch.json"
+  },
+  {
     "name": "gemma-4-31b-it:free",
     "file": "models/google_gemma-4-31b-it:free.json"
   },
@@ -654,6 +666,10 @@
   {
     "name": "glm-5.3-flash",
     "file": "models/z-ai_glm-5.3-flash.json"
+  },
+  {
+    "name": "glm-5.3-flash:batch",
+    "file": "models/z-ai_glm-5.3-flash:batch.json"
   },
   {
     "name": "glm-5v-turbo",
@@ -1016,12 +1032,20 @@
     "file": "models/openai_gpt-oss-120b.json"
   },
   {
+    "name": "gpt-oss-120b:batch",
+    "file": "models/openai_gpt-oss-120b:batch.json"
+  },
+  {
     "name": "gpt-oss-120b:free",
     "file": "models/openai_gpt-oss-120b:free.json"
   },
   {
     "name": "gpt-oss-20b",
     "file": "models/openai_gpt-oss-20b.json"
+  },
+  {
+    "name": "gpt-oss-20b:batch",
+    "file": "models/openai_gpt-oss-20b:batch.json"
   },
   {
     "name": "gpt-oss-20b:free",
@@ -1192,6 +1216,10 @@
     "file": "models/thinkingmachines_inkling-small.json"
   },
   {
+    "name": "inkling-small:batch",
+    "file": "models/thinkingmachines_inkling-small:batch.json"
+  },
+  {
     "name": "inkling-small:free",
     "file": "models/thinkingmachines_inkling-small:free.json"
   },
@@ -1262,6 +1290,10 @@
   {
     "name": "kimi-k3",
     "file": "models/moonshotai_kimi-k3.json"
+  },
+  {
+    "name": "kimi-k3:batch",
+    "file": "models/moonshotai_kimi-k3:batch.json"
   },
   {
     "name": "kimi-latest",
@@ -1686,6 +1718,10 @@
   {
     "name": "muse-glimmer-30b",
     "file": "models/meta_muse-glimmer-30b.json"
+  },
+  {
+    "name": "muse-glimmer-30b:batch",
+    "file": "models/meta_muse-glimmer-30b:batch.json"
   },
   {
     "name": "muse-spark-1.1",
@@ -2128,6 +2164,10 @@
     "file": "models/qwen_qwen3.5-9b.json"
   },
   {
+    "name": "qwen3.5-9b:batch",
+    "file": "models/qwen_qwen3.5-9b:batch.json"
+  },
+  {
     "name": "qwen3.5-flash-02-23",
     "file": "models/qwen_qwen3.5-flash-02-23.json"
   },
@@ -2182,6 +2222,10 @@
   {
     "name": "qwen3.8-2.4t-a95b",
     "file": "models/qwen_qwen3.8-2.4t-a95b.json"
+  },
+  {
+    "name": "qwen3.8-2.4t-a95b:batch",
+    "file": "models/qwen_qwen3.8-2.4t-a95b:batch.json"
   },
   {
     "name": "qwen3.8-27b",

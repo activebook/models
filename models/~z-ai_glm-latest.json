@@ -9,7 +9,7 @@
   "name": "Z.ai: GLM Latest",
   "created": 1787151053,
   "description": "This model always redirects to the latest GLM model from Z.ai.",
-  "context_length": 1048576,
+  "context_length": 1310720,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -22,26 +22,36 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000014",
-    "completion": "0.0000044",
-    "input_cache_read": "0.00000026"
+    "prompt": "0.0000012",
+    "completion": "0.000004",
+    "input_cache_read": "0.00000024"
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
+    "logprobs",
     "max_tokens",
+    "min_p",
+    "presence_penalty",
     "reasoning",
     "reasoning_effort",
+    "repetition_penalty",
     "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -50,7 +60,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2098-12-31",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/~z-ai/glm-latest/endpoints"
   },
