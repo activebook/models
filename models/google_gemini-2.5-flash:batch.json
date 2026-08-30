@@ -69,7 +69,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1115,
+        "elo": 1114,
         "win_rate": 47.4,
         "rank": 84
       },
@@ -83,7 +83,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1155,
+        "elo": 1154,
         "win_rate": 49.1,
         "rank": 72
       },
@@ -111,9 +111,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1060,
+        "elo": 1059,
         "win_rate": 43.1,
-        "rank": 68
+        "rank": 69
       }
     ]
   },
