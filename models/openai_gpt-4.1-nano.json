@@ -23,12 +23,12 @@
     "prompt": "0.0000001",
     "completion": "0.0000004",
     "web_search": "0.01",
-    "input_cache_read": "0.00000003"
+    "input_cache_read": "0.000000025"
   },
   "top_provider": {
     "context_length": 1047576,
-    "max_completion_tokens": 942818,
-    "is_moderated": false
+    "max_completion_tokens": 32768,
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -68,7 +68,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 910,
+        "elo": 911,
         "win_rate": 41.1,
         "rank": 114
       },

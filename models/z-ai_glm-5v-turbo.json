@@ -102,7 +102,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1174,
+        "elo": 1173,
         "win_rate": 52.1,
         "rank": 24
       },
@@ -137,14 +137,14 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1166,
+        "elo": 1167,
         "win_rate": 49.3,
         "rank": 18
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1154,
+        "elo": 1155,
         "win_rate": 44.7,
         "rank": 28
       },
@@ -153,13 +153,13 @@
         "category": "3d",
         "elo": 1253,
         "win_rate": 53.9,
-        "rank": 32
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1134,
-        "win_rate": 42.8,
+        "elo": 1136,
+        "win_rate": 43.1,
         "rank": 48
       },
       {
@@ -193,8 +193,8 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1241,
-        "win_rate": 50.1,
+        "elo": 1239,
+        "win_rate": 49.9,
         "rank": 39
       },
       {
