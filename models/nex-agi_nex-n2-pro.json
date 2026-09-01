@@ -52,7 +52,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-09-04",
   "links": {
     "details": "/api/v1/models/nex-agi/nex-n2-pro/endpoints"
   },
@@ -68,7 +68,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1129,
+        "elo": 1128,
         "win_rate": 38.2,
         "rank": 51
       },

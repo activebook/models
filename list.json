@@ -1064,6 +1064,10 @@
     "file": "models/ibm-granite_granite-4.1-8b.json"
   },
   {
+    "name": "granite-4.2-8b",
+    "file": "models/ibm-granite_granite-4.2-8b.json"
+  },
+  {
     "name": "grok-3",
     "file": "models/x-ai_grok-3.json"
   },

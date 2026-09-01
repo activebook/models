@@ -23,15 +23,14 @@
     "input_cache_read": "0.00000015"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 80000,
+    "context_length": 262144,
+    "max_completion_tokens": 235929,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "logit_bias",
-    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -44,7 +43,6 @@
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {

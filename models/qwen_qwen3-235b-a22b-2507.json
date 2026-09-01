@@ -18,13 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000875",
-    "completion": "0.00000035",
-    "input_cache_read": "0.0000000175"
+    "prompt": "0.00000009",
+    "completion": "0.00000055"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 235929,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -80,7 +79,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 988,
+        "elo": 987,
         "win_rate": 35,
         "rank": 110
       },

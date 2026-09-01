@@ -53,7 +53,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-09-04",
   "links": {
     "details": "/api/v1/models/nex-agi/nex-n2-mini/endpoints"
   },

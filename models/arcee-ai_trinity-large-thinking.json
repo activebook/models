@@ -29,23 +29,13 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
-    "logprobs",
     "max_tokens",
-    "presence_penalty",
     "reasoning",
-    "repetition_penalty",
-    "response_format",
-    "seed",
-    "stop",
-    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -109,7 +99,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1072,
+        "elo": 1071,
         "win_rate": 32.6,
         "rank": 90
       },
