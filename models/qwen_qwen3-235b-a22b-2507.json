@@ -18,12 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000009",
-    "completion": "0.00000055"
+    "prompt": "0.0000000875",
+    "completion": "0.00000035",
+    "input_cache_read": "0.0000000175"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 16384,
+    "max_completion_tokens": 235929,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -65,7 +66,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1062,
+        "elo": 1061,
         "win_rate": 42.6,
         "rank": 98
       },
@@ -93,7 +94,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1077,
+        "elo": 1076,
         "win_rate": 43.6,
         "rank": 98
       }

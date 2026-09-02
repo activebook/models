@@ -76,6 +76,10 @@
     "file": "models/anthropic_claude-fable-5.json"
   },
   {
+    "name": "claude-fable-5.1",
+    "file": "models/anthropic_claude-fable-5.1.json"
+  },
+  {
     "name": "claude-fable-5:batch",
     "file": "models/anthropic_claude-fable-5:batch.json"
   },
@@ -674,6 +678,10 @@
   {
     "name": "glm-5v-turbo",
     "file": "models/z-ai_glm-5v-turbo.json"
+  },
+  {
+    "name": "glm-flash-latest",
+    "file": "models/~z-ai_glm-flash-latest.json"
   },
   {
     "name": "glm-latest",
@@ -1526,6 +1534,10 @@
   {
     "name": "mercury-2",
     "file": "models/inception_mercury-2.json"
+  },
+  {
+    "name": "mercury-2.5-preview",
+    "file": "models/inception_mercury-2.5-preview.json"
   },
   {
     "name": "mercury-coder",

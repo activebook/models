@@ -1,0 +1,61 @@
+{
+  "id": "inception/mercury-2.5-preview",
+  "canonical_slug": "inception/mercury-2.5-preview-20260831",
+  "hugging_face_id": "",
+  "name": "Inception: Mercury 2.5 Preview",
+  "created": 1788209864,
+  "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
+  "context_length": 260000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000004",
+    "completion": "0.00000015",
+    "input_cache_read": "0.000000004"
+  },
+  "top_provider": {
+    "context_length": 260000,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/inception/mercury-2.5-preview-20260831/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "none"
+    ],
+    "default_effort": "medium"
+  }
+}
