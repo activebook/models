@@ -1,8 +1,8 @@
 {
-  "id": "anthropic/claude-fable-5.1",
+  "id": "anthropic/claude-fable-5.1:batch",
   "canonical_slug": "anthropic/claude-fable-5.1-20260831",
   "hugging_face_id": null,
-  "name": "Anthropic: Claude Fable 5.1",
+  "name": "Anthropic: Claude Fable 5.1 (batch)",
   "created": 1788285838,
   "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
   "context_length": 1000000,
@@ -20,12 +20,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00001",
-    "completion": "0.00005",
+    "prompt": "0.000005",
+    "completion": "0.000025",
     "web_search": "0.01",
-    "input_cache_read": "0.00000025",
-    "input_cache_write": "0.0000125",
-    "input_cache_write_1h": "0.00002"
+    "input_cache_read": "0.000000125",
+    "input_cache_write": "0.00000625",
+    "input_cache_write_1h": "0.00001"
   },
   "top_provider": {
     "context_length": 1000000,
@@ -35,13 +35,13 @@
   "per_request_limits": null,
   "supported_parameters": [
     "include_reasoning",
-    "max_completion_tokens",
     "max_tokens",
     "reasoning",
     "reasoning_effort",
     "response_format",
     "stop",
     "structured_outputs",
+    "tool_choice",
     "tools",
     "verbosity"
   ],

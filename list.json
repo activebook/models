@@ -80,6 +80,10 @@
     "file": "models/anthropic_claude-fable-5.1.json"
   },
   {
+    "name": "claude-fable-5.1:batch",
+    "file": "models/anthropic_claude-fable-5.1:batch.json"
+  },
+  {
     "name": "claude-fable-5:batch",
     "file": "models/anthropic_claude-fable-5:batch.json"
   },
@@ -530,6 +534,14 @@
   {
     "name": "gemini-3.7-flash:batch",
     "file": "models/google_gemini-3.7-flash:batch.json"
+  },
+  {
+    "name": "gemini-3.8-flash",
+    "file": "models/google_gemini-3.8-flash.json"
+  },
+  {
+    "name": "gemini-3.8-flash:batch",
+    "file": "models/google_gemini-3.8-flash:batch.json"
   },
   {
     "name": "gemini-flash-latest",
@@ -1750,6 +1762,14 @@
   {
     "name": "muse-spark-1.2-contributor",
     "file": "models/meta_muse-spark-1.2-contributor.json"
+  },
+  {
+    "name": "muse-spark-1.3",
+    "file": "models/meta_muse-spark-1.3.json"
+  },
+  {
+    "name": "muse-spark-1.3-contributor",
+    "file": "models/meta_muse-spark-1.3-contributor.json"
   },
   {
     "name": "mythomax-l2-13b",

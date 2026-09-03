@@ -1,14 +1,10 @@
 {
-  "id": "~google/gemini-flash-latest",
-  "canonical_slug": "~google/gemini-flash-latest",
-  "alias_target": {
-    "name": "Google: Gemini 3.8 Flash",
-    "slug": "google/gemini-3.8-flash"
-  },
+  "id": "meta/muse-spark-1.3",
+  "canonical_slug": "meta/muse-spark-1.3-20260902",
   "hugging_face_id": null,
-  "name": "Google Gemini Flash Latest",
-  "created": 1777318398,
-  "description": "This model always redirects to the latest model in the Google Gemini Flash family.",
+  "name": "Meta: Muse Spark 1.3",
+  "created": 1788378359,
+  "description": "Muse Spark 1.3 is a multimodal reasoning model from Meta for long-running agentic, multi-agent, and coding workflows. It is designed to keep track of information across extended tasks, work through...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",
@@ -22,24 +18,19 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Other",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000075",
-    "completion": "0.00000375",
-    "image": "0.00000075",
-    "audio": "0.00000075",
-    "input_audio_cache": "0.000000075",
-    "web_search": "0.014",
-    "internal_reasoning": "0.00000375",
-    "input_cache_read": "0.000000075",
-    "input_cache_write": "0.0000000416666666666667"
+    "prompt": "0.00000125",
+    "completion": "0.00000425",
+    "web_search": "0.0025",
+    "input_cache_read": "0.00000015"
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 65536,
-    "is_moderated": false
+    "max_completion_tokens": 943718,
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -47,13 +38,13 @@
     "max_tokens",
     "reasoning",
     "reasoning_effort",
+    "repetition_penalty",
     "response_format",
-    "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_p"
   ],
   "default_parameters": {},
@@ -61,15 +52,16 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~google/gemini-flash-latest/endpoints"
+    "details": "/api/v1/models/meta/muse-spark-1.3-20260902/endpoints"
   },
   "reasoning": {
     "mandatory": true,
-    "default_enabled": true,
     "supported_efforts": [
+      "xhigh",
       "high",
       "medium",
-      "low"
+      "low",
+      "minimal"
     ],
     "default_effort": "medium"
   }

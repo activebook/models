@@ -18,13 +18,12 @@
     "instruct_type": "llama3"
   },
   "pricing": {
-    "prompt": "0.00000071",
-    "completion": "0.00000071",
-    "input_cache_read": "0.00000071"
+    "prompt": "0.0000001",
+    "completion": "0.00000032"
   },
   "top_provider": {
-    "context_length": 128000,
-    "max_completion_tokens": 115200,
+    "context_length": 131072,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
