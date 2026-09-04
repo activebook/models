@@ -54,6 +54,17 @@
   "links": {
     "details": "/api/v1/models/meta/muse-spark-1.3-20260902/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1345,
+        "win_rate": 59.2,
+        "rank": 2
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [

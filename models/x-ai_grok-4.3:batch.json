@@ -1,60 +1,57 @@
 {
-  "id": "google/gemini-3.1-pro-preview:batch",
-  "canonical_slug": "google/gemini-3.1-pro-preview-20260219",
-  "hugging_face_id": "",
-  "name": "Google: Gemini 3.1 Pro Preview (batch)",
-  "created": 1771509627,
-  "description": "Gemini 3.1 Pro Preview is Google\u2019s frontier reasoning model, delivering enhanced software engineering performance, improved agentic reliability, and more efficient token usage across complex workflows. Building on the multimodal foundation...",
-  "context_length": 1048576,
+  "id": "x-ai/grok-4.3:batch",
+  "canonical_slug": "x-ai/grok-4.3-20260430",
+  "hugging_face_id": null,
+  "name": "SpaceXAI: Grok 4.3 (batch)",
+  "created": 1777591821,
+  "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
+  "context_length": 1000000,
   "architecture": {
-    "modality": "text+image+file+audio+video->text",
+    "modality": "text+image+file->text",
     "input_modalities": [
-      "audio",
-      "file",
-      "image",
       "text",
-      "video"
+      "image",
+      "file"
     ],
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Gemini",
+    "tokenizer": "Grok",
     "instruct_type": null
   },
   "pricing": {
     "prompt": "0.000001",
-    "completion": "0.000006",
-    "image": "0.000001",
-    "audio": "0.000001",
-    "web_search": "0.014",
-    "internal_reasoning": "0.000006",
+    "completion": "0.000002",
+    "web_search": "0.005",
+    "input_cache_read": "0.00000016",
     "overrides": [
       {
         "min_prompt_tokens": 200000,
         "prompt": "0.000002",
-        "completion": "0.000009",
-        "audio": "0.000002"
+        "completion": "0.000004",
+        "input_cache_read": "0.00000032"
       }
     ]
   },
   "top_provider": {
-    "context_length": 1048576,
-    "max_completion_tokens": 65536,
+    "context_length": 1000000,
+    "max_completion_tokens": 900000,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "include_reasoning",
+    "logprobs",
     "max_tokens",
     "reasoning",
     "reasoning_effort",
     "response_format",
     "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -69,171 +66,173 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/google/gemini-3.1-pro-preview-20260219/endpoints"
+    "details": "/api/v1/models/x-ai/grok-4.3-20260430/endpoints"
   },
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1114,
-        "win_rate": 44.2,
-        "rank": 22
+        "elo": 1007,
+        "win_rate": 28.7,
+        "rank": 24
       },
       {
         "arena": "agents",
         "category": "agentichtmlslides",
-        "elo": 1226,
-        "win_rate": 55.8,
-        "rank": 5
+        "elo": 1066,
+        "win_rate": 31.8,
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "agenticslides",
-        "elo": 1112,
-        "win_rate": 33.8,
-        "rank": 8
+        "elo": 1072,
+        "win_rate": 31.9,
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "agenticslides(html)",
-        "elo": 1219,
-        "win_rate": 54.4,
-        "rank": 5
+        "elo": 1066,
+        "win_rate": 31.7,
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "agenticslides(python-pptx)",
-        "elo": 1107,
-        "win_rate": 33.9,
-        "rank": 8
+        "elo": 1068,
+        "win_rate": 32.4,
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1069,
-        "win_rate": 41.4,
-        "rank": 34
+        "elo": 977,
+        "win_rate": 22.5,
+        "rank": 37
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1095,
-        "win_rate": 42,
-        "rank": 28
+        "elo": 1030,
+        "win_rate": 28.8,
+        "rank": 38
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1236,
-        "win_rate": 60,
-        "rank": 6
+        "elo": 1035,
+        "win_rate": 31.2,
+        "rank": 29
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1165,
-        "win_rate": 48.6,
-        "rank": 15
+        "elo": 1021,
+        "win_rate": 28.6,
+        "rank": 22
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1132,
-        "win_rate": 43.7,
-        "rank": 32
+        "elo": 1104,
+        "win_rate": 35.8,
+        "rank": 38
       },
       {
         "arena": "agents",
         "category": "pptxslides",
-        "elo": 1110,
-        "win_rate": 34.1,
-        "rank": 8
+        "elo": 1071,
+        "win_rate": 32.5,
+        "rank": 9
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1109,
-        "win_rate": 31.9,
-        "rank": 20
+        "elo": 1072,
+        "win_rate": 30.8,
+        "rank": 21
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1155,
-        "win_rate": 45,
-        "rank": 27
+        "elo": 1159,
+        "win_rate": 44.3,
+        "rank": 26
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1274,
-        "win_rate": 59,
-        "rank": 28
+        "elo": 1163,
+        "win_rate": 42.2,
+        "rank": 64
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1296,
-        "win_rate": 63.5,
-        "rank": 7
+        "elo": 1161,
+        "win_rate": 45.2,
+        "rank": 39
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1263,
-        "win_rate": 64.4,
-        "rank": 30
+        "elo": 1205,
+        "win_rate": 45.3,
+        "rank": 48
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1259,
-        "win_rate": 61.8,
-        "rank": 27
+        "elo": 1203,
+        "win_rate": 46.2,
+        "rank": 49
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1238,
-        "win_rate": 53.3,
-        "rank": 38
+        "elo": 1210,
+        "win_rate": 46,
+        "rank": 46
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1325,
-        "win_rate": 68.2,
-        "rank": 5
+        "elo": 1123,
+        "win_rate": 40.1,
+        "rank": 56
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1302,
-        "win_rate": 69.4,
-        "rank": 15
+        "elo": 1214,
+        "win_rate": 46.4,
+        "rank": 45
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1268,
-        "win_rate": 64.4,
-        "rank": 31
+        "elo": 1208,
+        "win_rate": 45.3,
+        "rank": 54
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 47.7,
-      "coding_index": 68.8,
-      "agentic_index": 23
+      "intelligence_index": 37.9,
+      "coding_index": 42.2,
+      "agentic_index": 24.2
     }
   },
   "reasoning": {
-    "mandatory": true,
+    "mandatory": false,
+    "default_enabled": true,
     "supported_efforts": [
       "high",
       "medium",
-      "low"
+      "low",
+      "none"
     ],
-    "default_effort": "medium"
+    "default_effort": "low"
   }
 }

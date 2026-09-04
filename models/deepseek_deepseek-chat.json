@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000002574",
-    "completion": "0.0000010287"
+    "prompt": "0.00000032",
+    "completion": "0.00000089"
   },
   "top_provider": {
-    "context_length": 128000,
-    "max_completion_tokens": 16000,
+    "context_length": 163840,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -56,14 +56,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1127,
+        "elo": 1126,
         "win_rate": 50.5,
-        "rank": 75
+        "rank": 77
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1129,
+        "elo": 1127,
         "win_rate": 48.4,
         "rank": 86
       },
@@ -91,16 +91,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1117,
+        "elo": 1115,
         "win_rate": 52.7,
         "rank": 81
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1136,
+        "elo": 1135,
         "win_rate": 48.5,
-        "rank": 86
+        "rank": 87
       }
     ]
   }

@@ -63,10 +63,17 @@
     "design_arena": [
       {
         "arena": "models",
+        "category": "3d",
+        "elo": 1340,
+        "win_rate": 58.2,
+        "rank": 7
+      },
+      {
+        "arena": "models",
         "category": "website",
-        "elo": 1311,
-        "win_rate": 56.3,
-        "rank": 11
+        "elo": 1302,
+        "win_rate": 54.6,
+        "rank": 13
       }
     ],
     "artificial_analysis": {

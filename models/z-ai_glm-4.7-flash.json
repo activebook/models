@@ -56,7 +56,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-09-10",
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.7-flash-20260119/endpoints"
   },
@@ -65,14 +65,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1161,
+        "elo": 1160,
         "win_rate": 51.2,
-        "rank": 65
+        "rank": 66
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1198,
+        "elo": 1197,
         "win_rate": 53.1,
         "rank": 53
       },
@@ -100,16 +100,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1231,
+        "elo": 1230,
         "win_rate": 57.6,
         "rank": 42
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1210,
+        "elo": 1209,
         "win_rate": 54,
-        "rank": 50
+        "rank": 51
       }
     ]
   },

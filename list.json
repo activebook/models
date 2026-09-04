@@ -1136,6 +1136,10 @@
     "file": "models/x-ai_grok-4.3.json"
   },
   {
+    "name": "grok-4.3:batch",
+    "file": "models/x-ai_grok-4.3:batch.json"
+  },
+  {
     "name": "grok-4.5",
     "file": "models/x-ai_grok-4.5.json"
   },
@@ -1418,6 +1422,10 @@
   {
     "name": "ling-3.0-flash",
     "file": "models/inclusionai_ling-3.0-flash.json"
+  },
+  {
+    "name": "ling-3.0-flash-fin",
+    "file": "models/inclusionai_ling-3.0-flash-fin.json"
   },
   {
     "name": "ling-3.0-flash-fin:free",
@@ -1806,6 +1814,10 @@
   {
     "name": "nemotron-3-ultra-550b-a55b:free",
     "file": "models/nvidia_nemotron-3-ultra-550b-a55b:free.json"
+  },
+  {
+    "name": "nemotron-3.5-content-safety",
+    "file": "models/nvidia_nemotron-3.5-content-safety.json"
   },
   {
     "name": "nemotron-3.5-content-safety:free",
