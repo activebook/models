@@ -1028,6 +1028,22 @@
     "file": "models/openai_gpt-5:batch.json"
   },
   {
+    "name": "gpt-6-astra",
+    "file": "models/openai_gpt-6-astra.json"
+  },
+  {
+    "name": "gpt-6-astra-pro",
+    "file": "models/openai_gpt-6-astra-pro.json"
+  },
+  {
+    "name": "gpt-6-astra-pro:batch",
+    "file": "models/openai_gpt-6-astra-pro:batch.json"
+  },
+  {
+    "name": "gpt-6-astra:batch",
+    "file": "models/openai_gpt-6-astra:batch.json"
+  },
+  {
     "name": "gpt-audio",
     "file": "models/openai_gpt-audio.json"
   },
@@ -1430,6 +1446,10 @@
   {
     "name": "ling-3.0-flash-fin:free",
     "file": "models/inclusionai_ling-3.0-flash-fin:free.json"
+  },
+  {
+    "name": "ling-3.0-flash-sante:free",
+    "file": "models/inclusionai_ling-3.0-flash-sante:free.json"
   },
   {
     "name": "ling-3.0-flash:free",
@@ -2293,11 +2313,11 @@
   },
   {
     "name": "reka-edge",
-    "file": "models/rekaai_reka-edge.json"
+    "file": "models/reka_reka-edge.json"
   },
   {
     "name": "reka-edge",
-    "file": "models/reka_reka-edge.json"
+    "file": "models/rekaai_reka-edge.json"
   },
   {
     "name": "reka-flash-3",

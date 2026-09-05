@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000104226",
-    "completion": "0.00000208452",
-    "input_cache_read": "0.000000086855"
+    "prompt": "0.000000971442",
+    "completion": "0.000001942884",
+    "input_cache_read": "0.0000000809535"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -87,64 +87,64 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1294,
-        "win_rate": 57.5,
+        "elo": 1293,
+        "win_rate": 57.4,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1174,
+        "elo": 1172,
         "win_rate": 46.4,
-        "rank": 33
+        "rank": 34
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1261,
-        "win_rate": 52.6,
-        "rank": 32
+        "elo": 1258,
+        "win_rate": 52.5,
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1220,
+        "elo": 1219,
         "win_rate": 48.4,
-        "rank": 45
+        "rank": 46
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1269,
-        "win_rate": 54,
-        "rank": 28
+        "elo": 1262,
+        "win_rate": 53.5,
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1175,
+        "elo": 1176,
         "win_rate": 45.5,
-        "rank": 44
+        "rank": 43
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1244,
         "win_rate": 50.8,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1250,
+        "elo": 1251,
         "win_rate": 51.1,
         "rank": 38
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 45.3,
+      "intelligence_index": null,
       "coding_index": 59.4,
-      "agentic_index": 37.8
+      "agentic_index": 27.9
     }
   },
   "reasoning": {

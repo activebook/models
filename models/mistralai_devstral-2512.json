@@ -56,9 +56,9 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 19.2,
+      "intelligence_index": null,
       "coding_index": 31.3,
-      "agentic_index": 10.6
+      "agentic_index": null
     }
   }
 }

@@ -105,14 +105,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1180,
+        "elo": 1182,
         "win_rate": 50.2,
         "rank": 21
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1181,
+        "elo": 1170,
         "win_rate": 51.8,
         "rank": 23
       },
@@ -133,7 +133,7 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1197,
+        "elo": 1198,
         "win_rate": 49.8,
         "rank": 19
       },
@@ -161,64 +161,64 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1308,
+        "elo": 1307,
         "win_rate": 57.6,
         "rank": 15
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1189,
+        "elo": 1190,
         "win_rate": 47.5,
         "rank": 26
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1292,
+        "elo": 1289,
         "win_rate": 54.8,
-        "rank": 18
+        "rank": 19
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1271,
+        "elo": 1270,
         "win_rate": 52.1,
-        "rank": 23
+        "rank": 24
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1287,
+        "elo": 1281,
         "win_rate": 54.9,
-        "rank": 24
+        "rank": 26
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1219,
         "win_rate": 51.2,
-        "rank": 26
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1289,
         "win_rate": 55.6,
-        "rank": 22
+        "rank": 23
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1285,
         "win_rate": 54.2,
-        "rank": 21
+        "rank": 22
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 45.1,
+      "intelligence_index": null,
       "coding_index": 61.8,
-      "agentic_index": 31.2
+      "agentic_index": 22.2
     }
   },
   "reasoning": {

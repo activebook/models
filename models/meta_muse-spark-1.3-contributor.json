@@ -57,6 +57,7 @@
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [
+      "max",
       "xhigh",
       "high",
       "medium",

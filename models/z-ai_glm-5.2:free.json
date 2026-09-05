@@ -72,14 +72,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1195,
+        "elo": 1197,
         "win_rate": 53,
-        "rank": 18
+        "rank": 16
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1263,
+        "elo": 1252,
         "win_rate": 61.4,
         "rank": 10
       },
@@ -121,64 +121,64 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1340,
+        "elo": 1339,
         "win_rate": 56.5,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1244,
-        "win_rate": 52.2,
-        "rank": 14
+        "elo": 1242,
+        "win_rate": 52,
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1321,
+        "elo": 1318,
         "win_rate": 55.8,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1319,
+        "elo": 1318,
         "win_rate": 54.3,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1318,
-        "win_rate": 53.3,
-        "rank": 11
+        "elo": 1311,
+        "win_rate": 53.2,
+        "rank": 13
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1254,
+        "elo": 1255,
         "win_rate": 54,
-        "rank": 16
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1319,
         "win_rate": 57,
-        "rank": 10
+        "rank": 11
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1316,
-        "win_rate": 56.5,
+        "elo": 1315,
+        "win_rate": 56.4,
         "rank": 8
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 52.6,
+      "intelligence_index": null,
       "coding_index": 68.8,
-      "agentic_index": 45.7
+      "agentic_index": 39.7
     }
   },
   "reasoning": {

@@ -59,8 +59,8 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1345,
-        "win_rate": 59.2,
+        "elo": 1342,
+        "win_rate": 58.9,
         "rank": 2
       }
     ]
@@ -68,6 +68,7 @@
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [
+      "max",
       "xhigh",
       "high",
       "medium",
