@@ -66,7 +66,7 @@
         "arena": "agents",
         "category": "agenticgamedev",
         "elo": 1284,
-        "win_rate": 61.8,
+        "win_rate": 61.7,
         "rank": 1
       },
       {
@@ -87,13 +87,13 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1296,
-        "win_rate": 64.8,
-        "rank": 2
+        "win_rate": 64.7,
+        "rank": 1
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1284,
+        "elo": 1281,
         "win_rate": 61.6,
         "rank": 5
       },
@@ -107,8 +107,8 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1290,
-        "win_rate": 63.6,
+        "elo": 1285,
+        "win_rate": 63.2,
         "rank": 1
       },
       {
@@ -121,8 +121,8 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1318,
-        "win_rate": 62.8,
+        "elo": 1313,
+        "win_rate": 62.7,
         "rank": 2
       },
       {
@@ -136,8 +136,8 @@
         "arena": "models",
         "category": "3d",
         "elo": 1356,
-        "win_rate": 62.2,
-        "rank": 5
+        "win_rate": 62.1,
+        "rank": 6
       },
       {
         "arena": "models",
@@ -150,13 +150,13 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1327,
-        "win_rate": 58.5,
+        "win_rate": 58.4,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1330,
+        "elo": 1331,
         "win_rate": 58.3,
         "rank": 6
       },
@@ -177,16 +177,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1336,
-        "win_rate": 58.1,
-        "rank": 8
+        "elo": 1338,
+        "win_rate": 58.3,
+        "rank": 6
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1313,
+        "elo": 1311,
         "win_rate": 57,
-        "rank": 9
+        "rank": 10
       }
     ],
     "artificial_analysis": {

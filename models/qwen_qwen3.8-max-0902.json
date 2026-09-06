@@ -1,10 +1,10 @@
 {
-  "id": "qwen/qwen3.8-27b",
-  "canonical_slug": "qwen/qwen3.8-27b-20260814",
-  "hugging_face_id": "Qwen/Qwen3.8-27B",
-  "name": "Qwen: Qwen3.8 27B",
-  "created": 1786722910,
-  "description": "Qwen3.8 27B is an open-weight dense vision-language model from Qwen. It is suited for coding, professional workflows, research, multimodal interaction, and long-running agent tasks, with flexible thinking that can be...",
+  "id": "qwen/qwen3.8-max-0902",
+  "canonical_slug": "qwen/qwen3.8-max-20260902",
+  "hugging_face_id": null,
+  "name": "Qwen: Qwen3.8 Max (0902)",
+  "created": 1788469704,
+  "description": "Qwen3.8 Max 0902 is an updated snapshot of Qwen3.8 Max from Alibaba's Qwen team. It is a 2.4-trillion-parameter mixture-of-experts model that accepts text, image, and video input and returns text,...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+video->text",
@@ -20,9 +20,10 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000042",
-    "completion": "0.000003",
-    "input_cache_read": "0.000000085"
+    "prompt": "0.000002",
+    "completion": "0.000006",
+    "input_cache_read": "0.00000025",
+    "input_cache_write": "0.0000025"
   },
   "top_provider": {
     "context_length": 1000000,
@@ -33,14 +34,11 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
-    "repetition_penalty",
     "response_format",
     "seed",
     "stop",
@@ -52,32 +50,30 @@
     "top_logprobs",
     "top_p"
   ],
-  "default_parameters": {
-    "temperature": 1,
-    "top_p": 0.95,
-    "top_k": 20
-  },
+  "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/qwen/qwen3.8-27b-20260814/endpoints"
+    "details": "/api/v1/models/qwen/qwen3.8-max-20260902/endpoints"
   },
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 41.4,
-      "coding_index": 68.1,
-      "agentic_index": 46.8
+      "intelligence_index": 46.9,
+      "coding_index": 71.8,
+      "agentic_index": 49.9
     }
   },
   "reasoning": {
-    "mandatory": false,
+    "mandatory": true,
     "default_enabled": true,
     "supported_efforts": [
       "xhigh",
+      "high",
       "medium",
-      "low"
+      "low",
+      "minimal"
     ],
     "default_effort": "xhigh"
   }

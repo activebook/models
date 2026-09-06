@@ -76,7 +76,7 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1114,
+        "elo": 1113,
         "win_rate": 44.2,
         "rank": 22
       },
@@ -118,7 +118,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1084,
+        "elo": 1081,
         "win_rate": 42,
         "rank": 29
       },
@@ -132,9 +132,9 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1165,
-        "win_rate": 48.7,
-        "rank": 15
+        "elo": 1160,
+        "win_rate": 48.6,
+        "rank": 16
       },
       {
         "arena": "agents",
@@ -155,7 +155,7 @@
         "category": "python-pptxslides",
         "elo": 1109,
         "win_rate": 31.9,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "agents",
@@ -167,14 +167,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1273,
+        "elo": 1274,
         "win_rate": 58.9,
         "rank": 28
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1293,
+        "elo": 1294,
         "win_rate": 63.5,
         "rank": 8
       },
@@ -190,13 +190,13 @@
         "category": "dataviz",
         "elo": 1258,
         "win_rate": 61.8,
-        "rank": 28
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1233,
-        "win_rate": 53.2,
+        "win_rate": 53,
         "rank": 40
       },
       {
@@ -209,21 +209,21 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1302,
+        "elo": 1303,
         "win_rate": 69.4,
-        "rank": 16
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1268,
+        "elo": 1266,
         "win_rate": 64.4,
         "rank": 31
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": null,
-      "coding_index": 68.7,
+      "intelligence_index": 36.7,
+      "coding_index": 68.8,
       "agentic_index": 10.4
     }
   },

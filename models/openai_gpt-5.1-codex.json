@@ -74,7 +74,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1048,
+        "elo": 1049,
         "win_rate": 44,
         "rank": 36
       },
@@ -88,7 +88,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1232,
+        "elo": 1233,
         "win_rate": 55.9,
         "rank": 42
       },
@@ -109,9 +109,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1177,
+        "elo": 1175,
         "win_rate": 56.1,
-        "rank": 72
+        "rank": 71
       }
     ]
   },
