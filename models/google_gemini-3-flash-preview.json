@@ -73,40 +73,40 @@
         "category": "agenticslides",
         "elo": 1073,
         "win_rate": 39.3,
-        "rank": 9
+        "rank": 8
       },
       {
         "arena": "agents",
         "category": "agenticslides(python-pptx)",
         "elo": 1075,
         "win_rate": 39.3,
-        "rank": 9
+        "rank": 8
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1072,
+        "elo": 1073,
         "win_rate": 48.1,
-        "rank": 33
+        "rank": 32
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1075,
+        "elo": 1071,
         "win_rate": 47.4,
-        "rank": 31
+        "rank": 30
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
         "elo": 1161,
         "win_rate": 50.6,
-        "rank": 14
+        "rank": 13
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1131,
+        "elo": 1127,
         "win_rate": 46.6,
         "rank": 33
       },
@@ -115,33 +115,33 @@
         "category": "python-pptxslides",
         "elo": 1036,
         "win_rate": 38.3,
-        "rank": 23
+        "rank": 22
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1141,
+        "elo": 1138,
         "win_rate": 48.5,
-        "rank": 30
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1223,
+        "elo": 1221,
         "win_rate": 62.7,
-        "rank": 43
+        "rank": 42
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1206,
         "win_rate": 57.6,
-        "rank": 48
+        "rank": 47
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1197,
+        "elo": 1195,
         "win_rate": 58.3,
         "rank": 53
       },
@@ -150,7 +150,7 @@
         "category": "website",
         "elo": 1209,
         "win_rate": 57,
-        "rank": 49
+        "rank": 47
       }
     ]
   },
