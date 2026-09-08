@@ -54,22 +54,22 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 942,
+        "elo": 941,
         "win_rate": 33.3,
         "rank": 111
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 943,
+        "elo": 945,
         "win_rate": 35.5,
         "rank": 119
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": null,
+      "intelligence_index": 9.8,
       "coding_index": 12.1,
-      "agentic_index": null
+      "agentic_index": 0.9
     }
   },
   "reasoning": {

@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000112068",
-    "completion": "0.00000336204",
-    "input_cache_read": "0.000000037356"
+    "prompt": "0.0000010494",
+    "completion": "0.0000031482",
+    "input_cache_read": "0.00000003498"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -63,9 +63,9 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 42.1,
+      "intelligence_index": 36.3,
       "coding_index": 68.8,
-      "agentic_index": 42.5
+      "agentic_index": 42.3
     }
   },
   "reasoning": {

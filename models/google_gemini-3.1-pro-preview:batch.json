@@ -76,9 +76,9 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1114,
+        "elo": 1113,
         "win_rate": 44.2,
-        "rank": 21
+        "rank": 22
       },
       {
         "arena": "agents",
@@ -118,7 +118,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1078,
+        "elo": 1079,
         "win_rate": 41.9,
         "rank": 28
       },
@@ -155,76 +155,76 @@
         "category": "python-pptxslides",
         "elo": 1109,
         "win_rate": 31.9,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1152,
+        "elo": 1153,
         "win_rate": 45,
         "rank": 26
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1272,
+        "elo": 1267,
         "win_rate": 58.8,
         "rank": 27
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1294,
+        "elo": 1293,
         "win_rate": 63.5,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1260,
+        "elo": 1261,
         "win_rate": 64.4,
         "rank": 30
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1257,
+        "elo": 1255,
         "win_rate": 61.8,
         "rank": 27
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1232,
-        "win_rate": 52.9,
+        "elo": 1228,
+        "win_rate": 52.8,
         "rank": 39
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1321,
-        "win_rate": 68.1,
+        "elo": 1313,
+        "win_rate": 68,
         "rank": 6
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1301,
+        "elo": 1298,
         "win_rate": 69.4,
         "rank": 14
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1266,
+        "elo": 1267,
         "win_rate": 64.4,
         "rank": 29
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 36.7,
+      "intelligence_index": 30.4,
       "coding_index": 68.8,
-      "agentic_index": 10.4
+      "agentic_index": 10.3
     }
   },
   "reasoning": {

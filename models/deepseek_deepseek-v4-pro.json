@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000010353",
-    "completion": "0.0000020706",
-    "input_cache_read": "0.000000086275"
+    "prompt": "0.00000095526",
+    "completion": "0.00000191052",
+    "input_cache_read": "0.000000079605"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -87,64 +87,64 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1292,
-        "win_rate": 57.2,
+        "elo": 1287,
+        "win_rate": 57,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1173,
+        "elo": 1172,
         "win_rate": 46.5,
-        "rank": 33
+        "rank": 34
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1258,
-        "win_rate": 52.3,
+        "elo": 1259,
+        "win_rate": 52.2,
         "rank": 32
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1218,
+        "elo": 1216,
         "win_rate": 48.3,
-        "rank": 45
+        "rank": 46
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1261,
-        "win_rate": 53.3,
+        "elo": 1257,
+        "win_rate": 53.1,
         "rank": 29
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1175,
-        "win_rate": 45.7,
+        "elo": 1167,
+        "win_rate": 45.5,
         "rank": 41
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1243,
+        "elo": 1240,
         "win_rate": 50.6,
         "rank": 38
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1249,
+        "elo": 1250,
         "win_rate": 50.9,
         "rank": 36
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": null,
+      "intelligence_index": 30.9,
       "coding_index": 59.4,
-      "agentic_index": 27.9
+      "agentic_index": 27.7
     }
   },
   "reasoning": {

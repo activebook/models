@@ -54,6 +54,17 @@
   "links": {
     "details": "/api/v1/models/meta/muse-spark-1.3-20260902/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "python-pptxslides",
+        "elo": 1227,
+        "win_rate": 55.1,
+        "rank": 11
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [

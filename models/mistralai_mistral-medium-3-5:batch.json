@@ -5,7 +5,7 @@
   "name": "Mistral: Mistral Medium 3.5 (batch)",
   "created": 1777570439,
   "description": "Mistral Medium 3.5 is a dense 128B instruction-following model from Mistral AI. It supports text and image inputs with text output, and is designed for agentic workflows, coding, and complex...",
-  "context_length": 32768,
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image+file->text",
     "input_modalities": [
@@ -24,8 +24,8 @@
     "completion": "0.00000375"
   },
   "top_provider": {
-    "context_length": 32768,
-    "max_completion_tokens": 26214,
+    "context_length": 262144,
+    "max_completion_tokens": 209715,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -62,7 +62,7 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": null,
+      "intelligence_index": 14.9,
       "coding_index": 46.9,
       "agentic_index": 9.4
     }
