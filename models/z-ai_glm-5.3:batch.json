@@ -1,32 +1,26 @@
 {
-  "id": "~z-ai/glm-flash-latest",
-  "canonical_slug": "~z-ai/glm-flash-latest",
-  "alias_target": {
-    "name": "Z.ai: GLM 5.3 Flash",
-    "slug": "z-ai/glm-5.3-flash"
-  },
-  "hugging_face_id": null,
-  "name": "Z.ai: GLM Flash Latest",
-  "created": 1787817633,
-  "description": "This model always redirects to the latest model in the GLM Flash family.",
-  "context_length": 1310720,
+  "id": "z-ai/glm-5.3:batch",
+  "canonical_slug": "z-ai/glm-5.3-20260816",
+  "hugging_face_id": "zai-org/GLM-5.3",
+  "name": "Z.ai: GLM 5.3 (batch)",
+  "created": 1787086655,
+  "description": "GLM-5.3 is a large-scale reasoning model from Z.ai, built for complex software engineering and long-horizon agent tasks. It supports text input and output with a 1M-token context window, and improves...",
+  "context_length": 1048576,
   "architecture": {
-    "modality": "text+image+video->text",
+    "modality": "text->text",
     "input_modalities": [
-      "text",
-      "image",
-      "video"
+      "text"
     ],
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Other",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000075",
-    "completion": "0.00000025",
-    "input_cache_read": "0.000000015"
+    "prompt": "0.0000007",
+    "completion": "0.0000022",
+    "input_cache_read": "0.00000013"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -40,13 +34,11 @@
     "logit_bias",
     "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
     "repetition_penalty",
     "response_format",
-    "seed",
     "stop",
     "structured_outputs",
     "temperature",
@@ -64,7 +56,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~z-ai/glm-flash-latest/endpoints"
+    "details": "/api/v1/models/z-ai/glm-5.3-20260816/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 44.9,
+      "coding_index": 74.8,
+      "agentic_index": 53.4
+    }
   },
   "reasoning": {
     "mandatory": true,

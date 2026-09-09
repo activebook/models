@@ -324,6 +324,10 @@
     "file": "models/deepseek_deepseek-v4-flash-vision-exp.json"
   },
   {
+    "name": "deepseek-v4-flash-vision-exp:batch",
+    "file": "models/deepseek_deepseek-v4-flash-vision-exp:batch.json"
+  },
+  {
     "name": "deepseek-v4-flash:free",
     "file": "models/deepseek_deepseek-v4-flash:free.json"
   },
@@ -686,6 +690,10 @@
   {
     "name": "glm-5.3-flash:batch",
     "file": "models/z-ai_glm-5.3-flash:batch.json"
+  },
+  {
+    "name": "glm-5.3:batch",
+    "file": "models/z-ai_glm-5.3:batch.json"
   },
   {
     "name": "glm-5v-turbo",
@@ -1576,6 +1584,10 @@
     "file": "models/inception_mercury-2.json"
   },
   {
+    "name": "mercury-2.5",
+    "file": "models/inception_mercury-2.5.json"
+  },
+  {
     "name": "mercury-2.5-preview",
     "file": "models/inception_mercury-2.5-preview.json"
   },
@@ -1878,6 +1890,14 @@
   {
     "name": "nex-n2-pro:free",
     "file": "models/nex-agi_nex-n2-pro:free.json"
+  },
+  {
+    "name": "nex-n2.5-mini:free",
+    "file": "models/nex-agi_nex-n2.5-mini:free.json"
+  },
+  {
+    "name": "nex-n2.5-pro:free",
+    "file": "models/nex-agi_nex-n2.5-pro:free.json"
   },
   {
     "name": "north-mini-code:free",

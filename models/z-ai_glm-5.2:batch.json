@@ -5,7 +5,7 @@
   "name": "Z.ai: GLM 5.2 (batch)",
   "created": 1781631930,
   "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
-  "context_length": 1048575,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000014",
-    "completion": "0.0000044",
-    "input_cache_read": "0.00000026"
+    "prompt": "0.0000007",
+    "completion": "0.0000022",
+    "input_cache_read": "0.00000007"
   },
   "top_provider": {
-    "context_length": 1048575,
-    "max_completion_tokens": 943717,
+    "context_length": 1048576,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -32,8 +32,8 @@
     "frequency_penalty",
     "include_reasoning",
     "logit_bias",
+    "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
@@ -45,6 +45,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -66,22 +67,22 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1187,
-        "win_rate": 46.6,
-        "rank": 11
+        "elo": 1209,
+        "win_rate": 49.4,
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1200,
-        "win_rate": 54.9,
-        "rank": 18
+        "elo": 1191,
+        "win_rate": 52.9,
+        "rank": 17
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1262,
-        "win_rate": 61.4,
+        "elo": 1246,
+        "win_rate": 61.2,
         "rank": 10
       },
       {
@@ -89,97 +90,97 @@
         "category": "godotgamedev",
         "elo": 1142,
         "win_rate": 40.1,
-        "rank": 17
-      },
-      {
-        "arena": "agents",
-        "category": "htmlslides",
-        "elo": 1191,
-        "win_rate": 49.8,
-        "rank": 10
-      },
-      {
-        "arena": "agents",
-        "category": "mobileapps",
-        "elo": 1212,
-        "win_rate": 52,
         "rank": 16
       },
       {
         "arena": "agents",
+        "category": "htmlslides",
+        "elo": 1178,
+        "win_rate": 49.6,
+        "rank": 12
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1199,
+        "win_rate": 51.4,
+        "rank": 17
+      },
+      {
+        "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1218,
-        "win_rate": 49.1,
+        "elo": 1206,
+        "win_rate": 48.9,
         "rank": 13
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1252,
-        "win_rate": 56.5,
-        "rank": 11
+        "elo": 1241,
+        "win_rate": 56.4,
+        "rank": 12
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1347,
-        "win_rate": 56.9,
-        "rank": 7
-      },
-      {
-        "arena": "models",
-        "category": "asciiart",
-        "elo": 1245,
-        "win_rate": 52.1,
-        "rank": 14
-      },
-      {
-        "arena": "models",
-        "category": "codecategories",
-        "elo": 1331,
-        "win_rate": 56.5,
-        "rank": 5
-      },
-      {
-        "arena": "models",
-        "category": "dataviz",
-        "elo": 1324,
-        "win_rate": 54.4,
-        "rank": 7
-      },
-      {
-        "arena": "models",
-        "category": "gamedev",
-        "elo": 1322,
-        "win_rate": 54.1,
+        "elo": 1330,
+        "win_rate": 55.9,
         "rank": 11
       },
       {
         "arena": "models",
-        "category": "svg",
-        "elo": 1256,
-        "win_rate": 54.4,
-        "rank": 15
+        "category": "asciiart",
+        "elo": 1240,
+        "win_rate": 51.3,
+        "rank": 16
       },
       {
         "arena": "models",
-        "category": "uicomponent",
-        "elo": 1327,
-        "win_rate": 57.6,
+        "category": "codecategories",
+        "elo": 1315,
+        "win_rate": 55,
         "rank": 9
       },
       {
         "arena": "models",
+        "category": "dataviz",
+        "elo": 1315,
+        "win_rate": 54.3,
+        "rank": 9
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1305,
+        "win_rate": 52.8,
+        "rank": 13
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1251,
+        "win_rate": 53.5,
+        "rank": 13
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1313,
+        "win_rate": 56.3,
+        "rank": 11
+      },
+      {
+        "arena": "models",
         "category": "website",
-        "elo": 1325,
-        "win_rate": 57.3,
-        "rank": 4
+        "elo": 1310,
+        "win_rate": 55.4,
+        "rank": 10
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 52.6,
+      "intelligence_index": null,
       "coding_index": 68.8,
-      "agentic_index": 45.7
+      "agentic_index": 39.4
     }
   },
   "reasoning": {

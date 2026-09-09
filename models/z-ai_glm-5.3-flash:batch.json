@@ -5,7 +5,7 @@
   "name": "Z.ai: GLM 5.3 Flash (batch)",
   "created": 1787752741,
   "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
-  "context_length": 1048575,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000015",
-    "completion": "0.0000005",
-    "input_cache_read": "0.00000003"
+    "prompt": "0.000000075",
+    "completion": "0.00000025",
+    "input_cache_read": "0.000000015"
   },
   "top_provider": {
-    "context_length": 1048575,
-    "max_completion_tokens": 943717,
+    "context_length": 1048576,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,

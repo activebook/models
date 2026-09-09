@@ -32,6 +32,7 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logprobs",
     "max_tokens",
     "presence_penalty",
     "reasoning",
@@ -40,6 +41,7 @@
     "stop",
     "temperature",
     "tools",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {

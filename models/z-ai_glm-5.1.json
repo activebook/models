@@ -70,40 +70,40 @@
         "category": "3d",
         "elo": 1336,
         "win_rate": 62.6,
-        "rank": 7
+        "rank": 8
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1154,
         "win_rate": 44.3,
-        "rank": 44
+        "rank": 45
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1285,
+        "elo": 1283,
         "win_rate": 54,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1366,
         "win_rate": 67,
-        "rank": 1
+        "rank": 2
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1286,
+        "elo": 1283,
         "win_rate": 56.8,
-        "rank": 20
+        "rank": 22
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1244,
+        "elo": 1245,
         "win_rate": 57.4,
         "rank": 15
       },
@@ -112,14 +112,14 @@
         "category": "uicomponent",
         "elo": 1292,
         "win_rate": 54.9,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1290,
         "win_rate": 55.1,
-        "rank": 16
+        "rank": 17
       },
       {
         "arena": "agents",
@@ -159,16 +159,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1195,
+        "elo": 1190,
         "win_rate": 51.8,
         "rank": 18
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1174,
+        "elo": 1172,
         "win_rate": 53.6,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "agents",
@@ -180,7 +180,7 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1178,
+        "elo": 1173,
         "win_rate": 49,
         "rank": 13
       },
@@ -208,7 +208,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1202,
+        "elo": 1195,
         "win_rate": 51.4,
         "rank": 21
       }
