@@ -15,7 +15,7 @@
       "text"
     ],
     "tokenizer": "Mistral",
-    "instruct_type": "mistral"
+    "instruct_type": null
   },
   "pricing": {
     "prompt": "0.000000019",

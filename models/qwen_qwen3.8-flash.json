@@ -34,10 +34,13 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "logprobs",
     "max_tokens",
+    "min_p",
     "presence_penalty",
     "reasoning",
+    "repetition_penalty",
     "response_format",
     "seed",
     "stop",

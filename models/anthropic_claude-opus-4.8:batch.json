@@ -92,16 +92,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1251,
+        "elo": 1252,
         "win_rate": 57.1,
         "rank": 7
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1257,
+        "elo": 1258,
         "win_rate": 57,
-        "rank": 8
+        "rank": 9
       },
       {
         "arena": "agents",
@@ -136,63 +136,63 @@
         "category": "python-pptxslides",
         "elo": 1298,
         "win_rate": 65.9,
-        "rank": 2
+        "rank": 1
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1249,
+        "elo": 1250,
         "win_rate": 52.9,
         "rank": 9
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1255,
-        "win_rate": 53.1,
+        "elo": 1253,
+        "win_rate": 53,
         "rank": 30
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1299,
-        "win_rate": 62.9,
+        "elo": 1297,
+        "win_rate": 62.7,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1267,
-        "win_rate": 53.5,
+        "win_rate": 53.4,
         "rank": 28
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1256,
-        "win_rate": 54.1,
+        "win_rate": 53.9,
         "rank": 27
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1278,
-        "win_rate": 54.2,
+        "elo": 1279,
+        "win_rate": 54,
         "rank": 24
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1214,
+        "elo": 1215,
         "win_rate": 52.8,
         "rank": 23
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1274,
+        "elo": 1271,
         "win_rate": 54.4,
-        "rank": 27
+        "rank": 28
       },
       {
         "arena": "models",

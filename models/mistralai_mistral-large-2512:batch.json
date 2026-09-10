@@ -20,9 +20,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000005",
-    "completion": "0.0000015",
-    "input_cache_read": "0.00000005"
+    "prompt": "0.00000025",
+    "completion": "0.00000075",
+    "input_cache_read": "0.000000025"
   },
   "top_provider": {
     "context_length": 262144,
@@ -59,64 +59,64 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1142,
+        "elo": 1129,
         "win_rate": 46.9,
-        "rank": 69
+        "rank": 73
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1095,
+        "elo": 1090,
         "win_rate": 40.3,
-        "rank": 56
+        "rank": 59
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1166,
+        "elo": 1158,
         "win_rate": 47.6,
-        "rank": 70
+        "rank": 72
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1158,
+        "elo": 1153,
         "win_rate": 45.7,
-        "rank": 69
+        "rank": 73
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1116,
+        "elo": 1105,
         "win_rate": 41.5,
-        "rank": 83
+        "rank": 85
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1032,
+        "elo": 1021,
         "win_rate": 38,
-        "rank": 74
+        "rank": 77
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1128,
+        "elo": 1118,
         "win_rate": 43,
-        "rank": 76
+        "rank": 79
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1182,
+        "elo": 1175,
         "win_rate": 49.5,
-        "rank": 67
+        "rank": 71
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 15.9,
+      "intelligence_index": 9.7,
       "coding_index": 20.1,
-      "agentic_index": 5.5
+      "agentic_index": 2.4
     }
   }
 }
