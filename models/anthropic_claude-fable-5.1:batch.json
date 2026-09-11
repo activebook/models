@@ -55,10 +55,17 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "python-pptxslides",
+        "elo": 1272,
+        "win_rate": 54.3,
+        "rank": 4
+      },
+      {
         "arena": "models",
         "category": "3d",
-        "elo": 1420,
-        "win_rate": 68.9,
+        "elo": 1418,
+        "win_rate": 68.1,
         "rank": 2
       },
       {
@@ -72,36 +79,36 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1344,
-        "win_rate": 59,
+        "win_rate": 58.9,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1365,
+        "elo": 1364,
         "win_rate": 63.1,
-        "rank": 2
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1422,
-        "win_rate": 68.3,
+        "elo": 1416,
+        "win_rate": 67.1,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1343,
-        "win_rate": 63.6,
+        "elo": 1346,
+        "win_rate": 64,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1334,
-        "win_rate": 58.2,
-        "rank": 6
+        "win_rate": 58.1,
+        "rank": 8
       },
       {
         "arena": "models",

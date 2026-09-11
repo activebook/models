@@ -82,9 +82,9 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1333,
-        "win_rate": 63.7,
-        "rank": 2
+        "elo": 1332,
+        "win_rate": 63.5,
+        "rank": 1
       },
       {
         "arena": "agents",
@@ -110,64 +110,64 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1279,
-        "win_rate": 59.2,
+        "elo": 1276,
+        "win_rate": 59.1,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "webapps",
         "elo": 1317,
-        "win_rate": 61.3,
+        "win_rate": 61.2,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1427,
-        "win_rate": 69.1,
+        "elo": 1428,
+        "win_rate": 69,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1391,
-        "win_rate": 65,
+        "elo": 1390,
+        "win_rate": 64.9,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1363,
-        "win_rate": 63.8,
-        "rank": 3
+        "elo": 1366,
+        "win_rate": 64.1,
+        "rank": 2
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1402,
-        "win_rate": 63.1,
+        "elo": 1399,
+        "win_rate": 62.2,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1339,
-        "win_rate": 63.6,
+        "elo": 1336,
+        "win_rate": 63.1,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1371,
-        "win_rate": 63.3,
+        "elo": 1369,
+        "win_rate": 62.9,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1357,
-        "win_rate": 61.4,
+        "elo": 1355,
+        "win_rate": 61.2,
         "rank": 2
       }
     ],

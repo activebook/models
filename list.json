@@ -344,6 +344,10 @@
     "file": "models/deepseek_deepseek-v4-pro-0813:batch.json"
   },
   {
+    "name": "deepseek-v4.1-flash",
+    "file": "models/deepseek_deepseek-v4.1-flash.json"
+  },
+  {
     "name": "devstral-2512",
     "file": "models/mistralai_devstral-2512.json"
   },
@@ -1458,6 +1462,10 @@
   {
     "name": "ling-3.0-flash-sante:free",
     "file": "models/inclusionai_ling-3.0-flash-sante:free.json"
+  },
+  {
+    "name": "ling-3.0-flash-vl:free",
+    "file": "models/inclusionai_ling-3.0-flash-vl:free.json"
   },
   {
     "name": "ling-3.0-flash:free",
