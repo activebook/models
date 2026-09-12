@@ -400,8 +400,16 @@
     "file": "models/openrouter_free.json"
   },
   {
+    "name": "fugu-max",
+    "file": "models/sakana_fugu-max.json"
+  },
+  {
     "name": "fugu-ultra",
     "file": "models/sakana_fugu-ultra.json"
+  },
+  {
+    "name": "fugu-ultra-v2",
+    "file": "models/sakana_fugu-ultra-v2.json"
   },
   {
     "name": "fusion",
@@ -1056,6 +1064,10 @@
     "file": "models/openai_gpt-6-astra:batch.json"
   },
   {
+    "name": "gpt-astra-latest",
+    "file": "models/~openai_gpt-astra-latest.json"
+  },
+  {
     "name": "gpt-audio",
     "file": "models/openai_gpt-audio.json"
   },
@@ -1070,6 +1082,10 @@
   {
     "name": "gpt-latest",
     "file": "models/~openai_gpt-latest.json"
+  },
+  {
+    "name": "gpt-luna-latest",
+    "file": "models/~openai_gpt-luna-latest.json"
   },
   {
     "name": "gpt-mini-latest",
@@ -1102,6 +1118,14 @@
   {
     "name": "gpt-oss-safeguard-20b",
     "file": "models/openai_gpt-oss-safeguard-20b.json"
+  },
+  {
+    "name": "gpt-sol-latest",
+    "file": "models/~openai_gpt-sol-latest.json"
+  },
+  {
+    "name": "gpt-terra-latest",
+    "file": "models/~openai_gpt-terra-latest.json"
   },
   {
     "name": "granite-4.0-h-micro",
@@ -1462,6 +1486,10 @@
   {
     "name": "ling-3.0-flash-sante:free",
     "file": "models/inclusionai_ling-3.0-flash-sante:free.json"
+  },
+  {
+    "name": "ling-3.0-flash-vl",
+    "file": "models/inclusionai_ling-3.0-flash-vl.json"
   },
   {
     "name": "ling-3.0-flash-vl:free",
@@ -2390,6 +2418,14 @@
   {
     "name": "sakana-namazu",
     "file": "models/sakana_sakana-namazu.json"
+  },
+  {
+    "name": "schematron-v2-small",
+    "file": "models/inference-net_schematron-v2-small.json"
+  },
+  {
+    "name": "schematron-v2-turbo",
+    "file": "models/inference-net_schematron-v2-turbo.json"
   },
   {
     "name": "seed-1.6",

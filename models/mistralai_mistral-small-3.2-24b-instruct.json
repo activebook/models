@@ -5,7 +5,7 @@
   "name": "Mistral: Mistral Small 3.2 24B",
   "created": 1750443016,
   "description": "Mistral-Small-3.2-24B-Instruct-2506 is an updated 24B parameter model from Mistral optimized for instruction following, repetition reduction, and improved function calling. Compared to the 3.1 release, version 3.2 significantly improves accuracy on...",
-  "context_length": 131072,
+  "context_length": 256000,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [
@@ -68,21 +68,21 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 944,
+        "elo": 943,
         "win_rate": 43.3,
         "rank": 113
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 913,
+        "elo": 911,
         "win_rate": 39.4,
         "rank": 121
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 922,
+        "elo": 921,
         "win_rate": 40.5,
         "rank": 114
       },

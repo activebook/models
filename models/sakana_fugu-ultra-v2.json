@@ -1,0 +1,75 @@
+{
+  "id": "sakana/fugu-ultra-v2",
+  "canonical_slug": "sakana/fugu-ultra-v2-20260911",
+  "hugging_face_id": null,
+  "name": "Sakana: Fugu Ultra v2",
+  "created": 1789105383,
+  "description": "Fugu Ultra v2 is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to...",
+  "context_length": 1000000,
+  "architecture": {
+    "modality": "text+image+file->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "file"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000005",
+    "completion": "0.00003",
+    "web_search": "0.01",
+    "input_cache_read": "0.0000005",
+    "overrides": [
+      {
+        "min_prompt_tokens": 272000,
+        "prompt": "0.00001",
+        "completion": "0.000045",
+        "input_cache_read": "0.000001"
+      }
+    ]
+  },
+  "top_provider": {
+    "context_length": 1000000,
+    "max_completion_tokens": 128000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "reasoning",
+    "reasoning_effort",
+    "structured_outputs",
+    "tool_choice",
+    "tools",
+    "web_search_options"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": "2026-08-28",
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/sakana/fugu-ultra-v2-20260911/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true,
+    "default_enabled": true,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high"
+    ],
+    "default_effort": "xhigh"
+  }
+}

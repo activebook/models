@@ -1,0 +1,51 @@
+{
+  "id": "inference-net/schematron-v2-small",
+  "canonical_slug": "inference-net/schematron-v2-small-20260902",
+  "hugging_face_id": "inference-net/schematron-v2-llama-3.2-3b",
+  "name": "Inference.net: Schematron V2 Small",
+  "created": 1789176933,
+  "description": "Schematron V2 Small is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes extraction quality for complex schemas and long pages. Extraction instructions must be supplied through a JSON schema...",
+  "context_length": 128000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000005",
+    "completion": "0.00000023"
+  },
+  "top_provider": {
+    "context_length": 128000,
+    "max_completion_tokens": 4096,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "logit_bias",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/inference-net/schematron-v2-small-20260902/endpoints"
+  }
+}
