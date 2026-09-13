@@ -6,7 +6,7 @@
     "slug": "deepseek/deepseek-v4-flash-0731"
   },
   "hugging_face_id": null,
-  "name": "DeepSeek V4 Flash Latest",
+  "name": "DeepSeek: DeepSeek V4 Flash Latest",
   "created": 1785606009,
   "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family.",
   "context_length": 1310720,
@@ -22,13 +22,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000005",
-    "completion": "0.00000016",
-    "input_cache_read": "0.000000013"
+    "prompt": "0.00000003",
+    "completion": "0.00000007",
+    "input_cache_read": "0.000000005"
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 393216,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,

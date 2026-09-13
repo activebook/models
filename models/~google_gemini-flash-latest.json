@@ -6,9 +6,9 @@
     "slug": "google/gemini-3.8-flash"
   },
   "hugging_face_id": null,
-  "name": "Google Gemini Flash Latest",
+  "name": "Google: Gemini Flash Latest",
   "created": 1777318398,
-  "description": "This model always redirects to the latest model in the Google Gemini Flash family.",
+  "description": "This model always redirects to the latest model in the Gemini Flash family.",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",

@@ -6,9 +6,9 @@
     "slug": "openai/gpt-6-astra"
   },
   "hugging_face_id": null,
-  "name": "OpenAI GPT Astra Latest",
+  "name": "OpenAI: GPT Astra Latest",
   "created": 1789130932,
-  "description": "This model always redirects to the latest model in the OpenAI GPT Astra family.",
+  "description": "This model always redirects to the latest model in the GPT Astra family.",
   "context_length": 1050000,
   "architecture": {
     "modality": "text+image+file->text",

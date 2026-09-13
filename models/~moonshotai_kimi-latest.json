@@ -6,9 +6,9 @@
     "slug": "moonshotai/kimi-k3"
   },
   "hugging_face_id": null,
-  "name": "MoonshotAI Kimi Latest",
+  "name": "MoonshotAI: Kimi Latest",
   "created": 1777318428,
-  "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
+  "description": "This model always redirects to the latest model in the Kimi family.",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+video->text",
@@ -24,9 +24,8 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000230272875",
-    "completion": "0.000011550195",
-    "input_cache_read": "0.000000263169"
+    "prompt": "0.0000021",
+    "completion": "0.00001095"
   },
   "top_provider": {
     "context_length": 1048576,

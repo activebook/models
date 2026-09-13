@@ -6,9 +6,9 @@
     "slug": "google/gemini-3.1-pro-preview"
   },
   "hugging_face_id": null,
-  "name": "Google Gemini Pro Latest",
+  "name": "Google: Gemini Pro Latest",
   "created": 1777318451,
-  "description": "This model always redirects to the latest model in the Google Gemini Pro family.",
+  "description": "This model always redirects to the latest model in the Gemini Pro family.",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image+file+audio+video->text",

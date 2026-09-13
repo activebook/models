@@ -6,9 +6,9 @@
     "slug": "anthropic/claude-sonnet-5"
   },
   "hugging_face_id": null,
-  "name": "Anthropic Claude Sonnet Latest",
+  "name": "Anthropic: Claude Sonnet Latest",
   "created": 1777318368,
-  "description": "This model always redirects to the latest model in the Anthropic Claude Sonnet family.",
+  "description": "This model always redirects to the latest model in the Claude Sonnet family.",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+file->text",

@@ -6,9 +6,9 @@
     "slug": "openai/gpt-5.6-terra"
   },
   "hugging_face_id": null,
-  "name": "OpenAI GPT Terra Latest",
+  "name": "OpenAI: GPT Terra Latest",
   "created": 1789130925,
-  "description": "This model always redirects to the latest model in the OpenAI GPT Terra family.",
+  "description": "This model always redirects to the latest model in the GPT Terra family.",
   "context_length": 1050000,
   "architecture": {
     "modality": "text+image+file->text",

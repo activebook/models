@@ -30,7 +30,7 @@
   "top_provider": {
     "context_length": 200000,
     "max_completion_tokens": 32000,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -70,9 +70,9 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1188,
+        "elo": 1184,
         "win_rate": 51.5,
-        "rank": 26
+        "rank": 28
       },
       {
         "arena": "models",
@@ -98,7 +98,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1178,
+        "elo": 1177,
         "win_rate": 60.8,
         "rank": 37
       },

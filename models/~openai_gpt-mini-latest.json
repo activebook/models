@@ -6,9 +6,9 @@
     "slug": "openai/gpt-5.4-mini"
   },
   "hugging_face_id": null,
-  "name": "OpenAI GPT Mini Latest",
+  "name": "OpenAI: GPT Mini Latest",
   "created": 1777318471,
-  "description": "This model always redirects to the latest model in the OpenAI GPT Mini family.",
+  "description": "This model always redirects to the latest model in the GPT Mini family.",
   "context_length": 400000,
   "architecture": {
     "modality": "text+image+file->text",
