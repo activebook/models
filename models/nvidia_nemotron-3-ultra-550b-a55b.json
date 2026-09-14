@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000625",
-    "completion": "0.000003125",
-    "input_cache_read": "0.0000001875"
+    "prompt": "0.0000006",
+    "completion": "0.0000024",
+    "input_cache_read": "0.00000012"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 32768,
+    "context_length": 202800,
+    "max_completion_tokens": 182520,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -74,14 +74,14 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1099,
-        "win_rate": 36.9,
+        "elo": 1098,
+        "win_rate": 36.7,
         "rank": 60
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1154,
+        "elo": 1155,
         "win_rate": 36.3,
         "rank": 77
       },

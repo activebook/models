@@ -77,15 +77,15 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1154,
-        "win_rate": 46.2,
+        "elo": 1151,
+        "win_rate": 46.1,
         "rank": 25
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1185,
-        "win_rate": 51.7,
+        "elo": 1188,
+        "win_rate": 51.8,
         "rank": 22
       },
       {
@@ -105,9 +105,9 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1175,
-        "win_rate": 47.8,
-        "rank": 25
+        "elo": 1172,
+        "win_rate": 47.6,
+        "rank": 26
       },
       {
         "arena": "agents",
@@ -121,7 +121,7 @@
         "category": "webapps",
         "elo": 1193,
         "win_rate": 47.3,
-        "rank": 23
+        "rank": 22
       },
       {
         "arena": "models",
@@ -133,7 +133,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1222,
+        "elo": 1221,
         "win_rate": 49.3,
         "rank": 21
       },

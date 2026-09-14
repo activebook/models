@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000001092",
-    "completion": "0.000003432",
-    "input_cache_read": "0.0000002028"
+    "prompt": "0.0000014",
+    "completion": "0.0000044",
+    "input_cache_read": "0.00000026"
   },
   "top_provider": {
-    "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "context_length": 1048575,
+    "max_completion_tokens": 943717,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -94,8 +94,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1325,
-        "win_rate": 60.6,
+        "elo": 1324,
+        "win_rate": 60.1,
         "rank": 5
       },
       {
@@ -103,12 +103,12 @@
         "category": "uicomponent",
         "elo": 1343,
         "win_rate": 59.5,
-        "rank": 5
+        "rank": 6
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1319,
+        "elo": 1318,
         "win_rate": 56.3,
         "rank": 6
       },
@@ -122,9 +122,9 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1231,
+        "elo": 1229,
         "win_rate": 54.4,
-        "rank": 12
+        "rank": 13
       },
       {
         "arena": "agents",
