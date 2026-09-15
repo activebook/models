@@ -264,6 +264,14 @@
     "file": "models/deepseek_deepseek-chat-v3.1.json"
   },
   {
+    "name": "deepseek-flash-latest",
+    "file": "models/~deepseek_deepseek-flash-latest.json"
+  },
+  {
+    "name": "deepseek-pro-latest",
+    "file": "models/~deepseek_deepseek-pro-latest.json"
+  },
+  {
     "name": "deepseek-r1",
     "file": "models/deepseek_deepseek-r1.json"
   },
