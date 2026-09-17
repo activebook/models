@@ -2540,6 +2540,10 @@
     "file": "models/bytedance_ui-tars-1.5-7b.json"
   },
   {
+    "name": "union-alpha",
+    "file": "models/stealth_union-alpha.json"
+  },
+  {
     "name": "unslopnemo-12b",
     "file": "models/thedrummer_unslopnemo-12b.json"
   },
