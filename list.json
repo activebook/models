@@ -324,6 +324,10 @@
     "file": "models/deepseek_deepseek-v4-flash-0731:batch.json"
   },
   {
+    "name": "deepseek-v4-flash-0731:free",
+    "file": "models/deepseek_deepseek-v4-flash-0731:free.json"
+  },
+  {
     "name": "deepseek-v4-flash-latest",
     "file": "models/~deepseek_deepseek-v4-flash-latest.json"
   },
@@ -2076,6 +2080,10 @@
     "file": "models/writer_palmyra-x5.json"
   },
   {
+    "name": "pareto",
+    "file": "models/unbiased_pareto.json"
+  },
+  {
     "name": "pareto-code",
     "file": "models/openrouter_pareto-code.json"
   },
@@ -2362,6 +2370,10 @@
   {
     "name": "qwen3.8-27b",
     "file": "models/qwen_qwen3.8-27b.json"
+  },
+  {
+    "name": "qwen3.8-27b:free",
+    "file": "models/qwen_qwen3.8-27b:free.json"
   },
   {
     "name": "qwen3.8-flash",
