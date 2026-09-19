@@ -35,6 +35,7 @@
     "parallel_tool_calls",
     "presence_penalty",
     "reasoning",
+    "reasoning_effort",
     "response_format",
     "structured_outputs",
     "temperature",
@@ -82,7 +83,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1194,
+        "elo": 1195,
         "win_rate": 39.9,
         "rank": 54
       },
@@ -108,6 +109,17 @@
     }
   },
   "reasoning": {
-    "mandatory": false
+    "mandatory": false,
+    "default_enabled": false,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high",
+      "medium",
+      "low",
+      "minimal",
+      "none"
+    ],
+    "default_effort": "medium"
   }
 }

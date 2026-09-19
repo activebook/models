@@ -60,7 +60,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-01-31",
-  "expiration_date": null,
+  "expiration_date": "2026-10-20",
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-flash/endpoints"
   },
@@ -69,7 +69,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1099,
+        "elo": 1100,
         "win_rate": 47.4,
         "rank": 89
       },
@@ -83,14 +83,14 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1149,
+        "elo": 1148,
         "win_rate": 49.1,
         "rank": 77
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1088,
+        "elo": 1089,
         "win_rate": 44.3,
         "rank": 93
       },
@@ -111,9 +111,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1042,
+        "elo": 1043,
         "win_rate": 43.1,
-        "rank": 74
+        "rank": 75
       }
     ]
   },

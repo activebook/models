@@ -716,6 +716,10 @@
     "file": "models/z-ai_glm-5.3-flash:batch.json"
   },
   {
+    "name": "glm-5.3-flashx",
+    "file": "models/z-ai_glm-5.3-flashx.json"
+  },
+  {
     "name": "glm-5.3:batch",
     "file": "models/z-ai_glm-5.3:batch.json"
   },
@@ -2518,6 +2522,10 @@
   {
     "name": "step-3.7-flash",
     "file": "models/stepfun_step-3.7-flash.json"
+  },
+  {
+    "name": "ternary-bonsai-2-27b",
+    "file": "models/prism-ml_ternary-bonsai-2-27b.json"
   },
   {
     "name": "tongyi-deepresearch-30b-a3b",

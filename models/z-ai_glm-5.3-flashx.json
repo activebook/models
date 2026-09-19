@@ -1,30 +1,28 @@
 {
-  "id": "~z-ai/glm-latest",
-  "canonical_slug": "~z-ai/glm-latest",
-  "alias_target": {
-    "name": "Z.ai: GLM 5.3",
-    "slug": "z-ai/glm-5.3"
-  },
-  "hugging_face_id": null,
-  "name": "Z.ai: GLM Latest",
-  "created": 1787151053,
-  "description": "This model always redirects to the latest GLM model from Z.ai.",
-  "context_length": 1310720,
+  "id": "z-ai/glm-5.3-flashx",
+  "canonical_slug": "z-ai/glm-5.3-flashx-20260918",
+  "hugging_face_id": "",
+  "name": "Z.ai: GLM 5.3 FlashX",
+  "created": 1789744020,
+  "description": "GLM-5.3-FlashX is the high-speed variant of Z.ai's GLM-5.3-Flash, a native multimodal model delivering inference speeds of up to 200 tokens/s. Built on the same hybrid sparse and linear attention architecture...",
+  "context_length": 1048576,
   "architecture": {
-    "modality": "text->text",
+    "modality": "text+image+video->text",
     "input_modalities": [
-      "text"
+      "text",
+      "image",
+      "video"
     ],
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Other",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000008918",
-    "completion": "0.0000028028",
-    "input_cache_read": "0.00000016562"
+    "prompt": "0.00000037",
+    "completion": "0.00000125",
+    "input_cache_read": "0.000000075"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -33,26 +31,15 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
-    "logprobs",
     "max_tokens",
-    "min_p",
-    "parallel_tool_calls",
-    "presence_penalty",
     "reasoning",
     "reasoning_effort",
-    "repetition_penalty",
     "response_format",
-    "seed",
-    "stop",
-    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -63,7 +50,7 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~z-ai/glm-latest/endpoints"
+    "details": "/api/v1/models/z-ai/glm-5.3-flashx-20260918/endpoints"
   },
   "reasoning": {
     "mandatory": true,

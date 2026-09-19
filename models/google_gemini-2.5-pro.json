@@ -68,7 +68,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-01-31",
-  "expiration_date": null,
+  "expiration_date": "2026-10-20",
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-pro/endpoints"
   },
@@ -98,7 +98,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1134,
+        "elo": 1135,
         "win_rate": 54.2,
         "rank": 76
       },

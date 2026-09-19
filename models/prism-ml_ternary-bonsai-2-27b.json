@@ -1,11 +1,11 @@
 {
-  "id": "meta/muse-glimmer-30b",
-  "canonical_slug": "meta/muse-glimmer-30b-20260810",
-  "hugging_face_id": "meta-models/Muse-Glimmer-30B",
-  "name": "Meta: Muse Glimmer 30B",
-  "created": 1786302394,
-  "description": "Muse Glimmer 30B is a dense, open-weight multimodal model from Meta Superintelligence Labs, distilled from Muse Spark and optimized for autonomous agents on consumer hardware. It is suited for long-horizon...",
-  "context_length": 131072,
+  "id": "prism-ml/ternary-bonsai-2-27b",
+  "canonical_slug": "prism-ml/ternary-bonsai-2-27b-20260918",
+  "hugging_face_id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+  "name": "PrismML: Ternary Bonsai 2 27B",
+  "created": 1789754046,
+  "description": "Bonsai 2 27B is a 27B-parameter reasoning model from PrismML derived from Qwen3.8-27B. It supports coding, mathematics, tool calling, and image understanding with a 262K-token context window. Ternary compression shrinks...",
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [
@@ -15,27 +15,24 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Other",
+    "tokenizer": "Qwen",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000035",
-    "completion": "0.0000015",
-    "input_cache_read": "0.00000004"
+    "prompt": "0.000000075",
+    "completion": "0.0000005"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": 117964,
+    "context_length": 262144,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
@@ -54,22 +51,21 @@
   "default_parameters": {
     "temperature": 1,
     "top_p": 0.95,
-    "top_k": 64
+    "top_k": 20
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/meta/muse-glimmer-30b-20260810/endpoints"
+    "details": "/api/v1/models/prism-ml/ternary-bonsai-2-27b-20260918/endpoints"
   },
   "reasoning": {
-    "mandatory": true,
+    "mandatory": false,
+    "default_enabled": true,
     "supported_efforts": [
       "xhigh",
-      "high",
-      "medium",
-      "low"
+      "medium"
     ],
-    "default_effort": "medium"
+    "default_effort": "xhigh"
   }
 }
