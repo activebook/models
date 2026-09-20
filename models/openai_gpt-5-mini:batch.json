@@ -68,8 +68,8 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1141,
-        "win_rate": 44.5,
+        "elo": 1142,
+        "win_rate": 44.7,
         "rank": 50
       },
       {
@@ -116,9 +116,9 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 17.4,
+      "intelligence_index": 16.8,
       "coding_index": 15.6,
-      "agentic_index": 8.9
+      "agentic_index": 6.8
     }
   },
   "reasoning": {

@@ -114,14 +114,14 @@
         "category": "fullstack",
         "elo": 1208,
         "win_rate": 56.8,
-        "rank": 18
+        "rank": 17
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1112,
+        "elo": 1108,
         "win_rate": 43.1,
-        "rank": 24
+        "rank": 25
       },
       {
         "arena": "agents",
@@ -133,7 +133,7 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1201,
+        "elo": 1202,
         "win_rate": 51.6,
         "rank": 18
       },
@@ -162,15 +162,15 @@
         "arena": "models",
         "category": "3d",
         "elo": 1271,
-        "win_rate": 56.7,
+        "win_rate": 56.6,
         "rank": 26
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1274,
-        "win_rate": 59.4,
-        "rank": 12
+        "elo": 1273,
+        "win_rate": 59.2,
+        "rank": 13
       },
       {
         "arena": "models",
@@ -182,43 +182,43 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1248,
-        "win_rate": 53.4,
+        "elo": 1247,
+        "win_rate": 53.3,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1288,
-        "win_rate": 53.9,
-        "rank": 19
+        "elo": 1287,
+        "win_rate": 53.8,
+        "rank": 20
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1278,
-        "win_rate": 60.2,
+        "win_rate": 60.1,
         "rank": 11
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1287,
-        "win_rate": 55.3,
-        "rank": 22
+        "elo": 1288,
+        "win_rate": 55.4,
+        "rank": 21
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1275,
-        "win_rate": 53.8,
+        "win_rate": 53.9,
         "rank": 28
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 33,
+      "intelligence_index": 32.6,
       "coding_index": 70.1,
-      "agentic_index": 27.3
+      "agentic_index": 26
     }
   },
   "reasoning": {

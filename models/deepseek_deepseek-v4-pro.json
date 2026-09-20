@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000645366",
-    "completion": "0.000001290732",
-    "input_cache_read": "0.0000000537805"
+    "prompt": "0.000000422298",
+    "completion": "0.000000844596",
+    "input_cache_read": "0.0000000351915"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -75,7 +75,7 @@
         "category": "godotgamedev",
         "elo": 1059,
         "win_rate": 34,
-        "rank": 27
+        "rank": 28
       },
       {
         "arena": "agents",
@@ -94,7 +94,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1168,
+        "elo": 1167,
         "win_rate": 46.4,
         "rank": 37
       },
@@ -129,7 +129,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1237,
+        "elo": 1238,
         "win_rate": 50.6,
         "rank": 41
       },
@@ -142,9 +142,9 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 30.9,
+      "intelligence_index": 30.4,
       "coding_index": 59.4,
-      "agentic_index": 27.7
+      "agentic_index": 26.3
     }
   },
   "reasoning": {

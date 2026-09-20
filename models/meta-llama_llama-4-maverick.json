@@ -87,7 +87,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 914,
+        "elo": 915,
         "win_rate": 40.8,
         "rank": 115
       },
@@ -100,7 +100,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 9.3,
+      "intelligence_index": null,
       "coding_index": 16.3,
       "agentic_index": 0.6
     }

@@ -54,7 +54,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null,
+  "expiration_date": "2026-09-28",
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v3.1-terminus/endpoints"
   },
@@ -77,9 +77,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1182,
+        "elo": 1183,
         "win_rate": 53.4,
-        "rank": 62
+        "rank": 61
       },
       {
         "arena": "models",
@@ -98,7 +98,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1197,
+        "elo": 1198,
         "win_rate": 59.5,
         "rank": 52
       },
@@ -111,9 +111,9 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 15.4,
+      "intelligence_index": 14.8,
       "coding_index": 43.5,
-      "agentic_index": 8.9
+      "agentic_index": 6.8
     }
   },
   "reasoning": {

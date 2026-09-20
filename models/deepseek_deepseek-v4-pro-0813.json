@@ -18,13 +18,94 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000057816",
-    "completion": "0.00000173448",
-    "input_cache_read": "0.000000018396"
+    "prompt": "0.00000066",
+    "completion": "0.00000198",
+    "input_cache_read": "0.000000022",
+    "overrides": [
+      {
+        "utc_days": [
+          "saturday",
+          "sunday"
+        ],
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022"
+      },
+      {
+        "utc_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "utc_start": 0,
+        "utc_end": 100,
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022"
+      },
+      {
+        "utc_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "utc_start": 100,
+        "utc_end": 400,
+        "prompt": "0.00000132",
+        "completion": "0.00000396",
+        "input_cache_read": "0.000000044"
+      },
+      {
+        "utc_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "utc_start": 400,
+        "utc_end": 600,
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022"
+      },
+      {
+        "utc_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "utc_start": 600,
+        "utc_end": 1000,
+        "prompt": "0.00000132",
+        "completion": "0.00000396",
+        "input_cache_read": "0.000000044"
+      },
+      {
+        "utc_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "utc_start": 1000,
+        "utc_end": 0,
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022"
+      }
+    ]
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 393216,
+    "max_completion_tokens": 384000,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -63,9 +144,9 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 36.3,
+      "intelligence_index": 36,
       "coding_index": 68.8,
-      "agentic_index": 42.3
+      "agentic_index": 41.3
     }
   },
   "reasoning": {
