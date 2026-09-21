@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000003696",
-    "completion": "0.00000007392",
-    "input_cache_read": "0.000000007392"
+    "prompt": "0.000000088606",
+    "completion": "0.000000177212",
+    "input_cache_read": "0.0000000177212"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -78,7 +78,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1220,
+        "elo": 1219,
         "win_rate": 48.9,
         "rank": 47
       },
@@ -99,7 +99,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1179,
+        "elo": 1178,
         "win_rate": 48.4,
         "rank": 37
       },

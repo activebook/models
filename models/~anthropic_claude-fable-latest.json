@@ -46,6 +46,7 @@
     "response_format",
     "stop",
     "structured_outputs",
+    "tool_choice",
     "tools",
     "verbosity"
   ],
