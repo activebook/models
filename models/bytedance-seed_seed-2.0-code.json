@@ -53,7 +53,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-11",
   "links": {
     "details": "/api/v1/models/bytedance-seed/seed-2.0-code-20260730/endpoints"
   },

@@ -84,12 +84,12 @@
         "category": "asciiart",
         "elo": 1224,
         "win_rate": 56.1,
-        "rank": 21
+        "rank": 20
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1196,
+        "elo": 1197,
         "win_rate": 51.5,
         "rank": 53
       },
@@ -98,7 +98,7 @@
         "category": "dataviz",
         "elo": 1182,
         "win_rate": 47.4,
-        "rank": 62
+        "rank": 61
       },
       {
         "arena": "models",
@@ -124,7 +124,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1202,
+        "elo": 1201,
         "win_rate": 51.8,
         "rank": 57
       },
@@ -145,7 +145,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1075,
+        "elo": 1065,
         "win_rate": 43.2,
         "rank": 35
       }

@@ -56,7 +56,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-11",
   "links": {
     "details": "/api/v1/models/bytedance-seed/seed-1.6-flash-20250625/endpoints"
   },

@@ -1216,6 +1216,10 @@
     "file": "models/x-ai_grok-4.6.json"
   },
   {
+    "name": "grok-4.7",
+    "file": "models/x-ai_grok-4.7.json"
+  },
+  {
     "name": "grok-build-0.1",
     "file": "models/x-ai_grok-build-0.1.json"
   },
@@ -1666,6 +1670,18 @@
   {
     "name": "mimo-v2.5-pro",
     "file": "models/xiaomi_mimo-v2.5-pro.json"
+  },
+  {
+    "name": "mimo-v2.6-flash",
+    "file": "models/xiaomi_mimo-v2.6-flash.json"
+  },
+  {
+    "name": "mimo-v2.6-pro",
+    "file": "models/xiaomi_mimo-v2.6-pro.json"
+  },
+  {
+    "name": "mimo-v2.6-pro-ultraspeed",
+    "file": "models/xiaomi_mimo-v2.6-pro-ultraspeed.json"
   },
   {
     "name": "minimax-01",
