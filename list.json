@@ -168,6 +168,14 @@
     "file": "models/anthropic_claude-opus-5-fast.json"
   },
   {
+    "name": "claude-opus-5.5",
+    "file": "models/anthropic_claude-opus-5.5.json"
+  },
+  {
+    "name": "claude-opus-5.5:batch",
+    "file": "models/anthropic_claude-opus-5.5:batch.json"
+  },
+  {
     "name": "claude-opus-5:batch",
     "file": "models/anthropic_claude-opus-5:batch.json"
   },
@@ -234,6 +242,10 @@
   {
     "name": "command-a",
     "file": "models/cohere_command-a.json"
+  },
+  {
+    "name": "command-a-plus",
+    "file": "models/cohere_command-a-plus.json"
   },
   {
     "name": "command-r-08-2024",
@@ -358,6 +370,10 @@
   {
     "name": "deepseek-v4.1-flash",
     "file": "models/deepseek_deepseek-v4.1-flash.json"
+  },
+  {
+    "name": "deepseek-v4.1-flash:batch",
+    "file": "models/deepseek_deepseek-v4.1-flash:batch.json"
   },
   {
     "name": "devstral-2512",
@@ -1078,6 +1094,38 @@
   {
     "name": "gpt-6-astra:batch",
     "file": "models/openai_gpt-6-astra:batch.json"
+  },
+  {
+    "name": "gpt-6-luna",
+    "file": "models/openai_gpt-6-luna.json"
+  },
+  {
+    "name": "gpt-6-luna-pro",
+    "file": "models/openai_gpt-6-luna-pro.json"
+  },
+  {
+    "name": "gpt-6-luna-pro:batch",
+    "file": "models/openai_gpt-6-luna-pro:batch.json"
+  },
+  {
+    "name": "gpt-6-luna:batch",
+    "file": "models/openai_gpt-6-luna:batch.json"
+  },
+  {
+    "name": "gpt-6-sol",
+    "file": "models/openai_gpt-6-sol.json"
+  },
+  {
+    "name": "gpt-6-sol-pro",
+    "file": "models/openai_gpt-6-sol-pro.json"
+  },
+  {
+    "name": "gpt-6-sol-pro:batch",
+    "file": "models/openai_gpt-6-sol-pro:batch.json"
+  },
+  {
+    "name": "gpt-6-sol:batch",
+    "file": "models/openai_gpt-6-sol:batch.json"
   },
   {
     "name": "gpt-astra-latest",
@@ -1960,8 +2008,16 @@
     "file": "models/nex-agi_nex-n2-pro:free.json"
   },
   {
+    "name": "nex-n2.5-mini",
+    "file": "models/nex-agi_nex-n2.5-mini.json"
+  },
+  {
     "name": "nex-n2.5-mini:free",
     "file": "models/nex-agi_nex-n2.5-mini:free.json"
+  },
+  {
+    "name": "nex-n2.5-pro",
+    "file": "models/nex-agi_nex-n2.5-pro.json"
   },
   {
     "name": "nex-n2.5-pro:free",
@@ -2406,6 +2462,10 @@
   {
     "name": "qwen3.8-max-0902",
     "file": "models/qwen_qwen3.8-max-0902.json"
+  },
+  {
+    "name": "qwen3.8-omni-flash",
+    "file": "models/qwen_qwen3.8-omni-flash.json"
   },
   {
     "name": "qwq-32b",

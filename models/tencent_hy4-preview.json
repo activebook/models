@@ -29,6 +29,7 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "include_reasoning",
     "max_completion_tokens",
     "max_tokens",
@@ -39,7 +40,9 @@
     "structured_outputs",
     "temperature",
     "tool_choice",
-    "tools"
+    "tools",
+    "top_k",
+    "top_p"
   ],
   "default_parameters": {},
   "supported_voices": null,
