@@ -1,0 +1,69 @@
+{
+  "id": "z-ai/glm-5.3-prime",
+  "canonical_slug": "z-ai/glm-5.3-prime-20260921",
+  "hugging_face_id": null,
+  "name": "Z.ai: GLM 5.3 Prime",
+  "created": 1790199651,
+  "description": "GLM-5.3-Prime is the high-speed variant of Z.ai's GLM-5.3, inheriting its full capabilities while delivering 1.5\u20132\u00d7 the output throughput through inference acceleration. It supports text input and output with a 1M-token...",
+  "context_length": 1000000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000028",
+    "completion": "0.0000088",
+    "input_cache_read": "0.00000056"
+  },
+  "top_provider": {
+    "context_length": 1000000,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logprobs",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "seed",
+    "stop",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 1,
+    "top_p": 0.95
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/z-ai/glm-5.3-prime-20260921/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true,
+    "default_enabled": true,
+    "supported_efforts": [
+      "max",
+      "high",
+      "low"
+    ],
+    "default_effort": "max"
+  }
+}

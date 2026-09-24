@@ -1,0 +1,67 @@
+{
+  "id": "upstage/solar-mini4",
+  "canonical_slug": "upstage/solar-mini4-20260922",
+  "hugging_face_id": null,
+  "name": "Upstage: Solar Mini 4",
+  "created": 1790160358,
+  "description": "Solar Mini 4 is Upstage's compact, cost-efficient language model, a 35B-parameter mixture-of-experts with 3B active parameters and a 524K context window. It is built for agentic use cases where response...",
+  "context_length": 524288,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000005",
+    "completion": "0.0000002",
+    "input_cache_read": "0.000000005"
+  },
+  "top_provider": {
+    "context_length": 524288,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "parallel_tool_calls",
+    "presence_penalty",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/upstage/solar-mini4-20260922/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high",
+      "medium",
+      "low",
+      "minimal",
+      "none"
+    ],
+    "default_effort": "medium"
+  }
+}

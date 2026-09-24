@@ -32,6 +32,14 @@
     "file": "models/aion-labs_aion-3.0-mini.json"
   },
   {
+    "name": "aion-3.5",
+    "file": "models/aion-labs_aion-3.5.json"
+  },
+  {
+    "name": "aion-3.5-mini",
+    "file": "models/aion-labs_aion-3.5-mini.json"
+  },
+  {
     "name": "aion-rp-llama-3.1-8b",
     "file": "models/aion-labs_aion-rp-llama-3.1-8b.json"
   },
@@ -734,6 +742,10 @@
   {
     "name": "glm-5.3-flashx",
     "file": "models/z-ai_glm-5.3-flashx.json"
+  },
+  {
+    "name": "glm-5.3-prime",
+    "file": "models/z-ai_glm-5.3-prime.json"
   },
   {
     "name": "glm-5.3:batch",
@@ -2464,6 +2476,10 @@
     "file": "models/qwen_qwen3.8-max-0902.json"
   },
   {
+    "name": "qwen3.8-max-prime",
+    "file": "models/qwen_qwen3.8-max-prime.json"
+  },
+  {
     "name": "qwen3.8-omni-flash",
     "file": "models/qwen_qwen3.8-omni-flash.json"
   },
@@ -2556,6 +2572,10 @@
     "file": "models/thedrummer_skyfall-36b-v2.json"
   },
   {
+    "name": "solar-mini4",
+    "file": "models/upstage_solar-mini4.json"
+  },
+  {
     "name": "solar-pro-3",
     "file": "models/upstage_solar-pro-3.json"
   },
@@ -2582,6 +2602,10 @@
   {
     "name": "sonar-reasoning-pro",
     "file": "models/perplexity_sonar-reasoning-pro.json"
+  },
+  {
+    "name": "space-bunny-alpha",
+    "file": "models/stealth_space-bunny-alpha.json"
   },
   {
     "name": "spotlight",
