@@ -115,16 +115,16 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1010,
-        "win_rate": 28.2,
+        "elo": 1002,
+        "win_rate": 28.1,
         "rank": 40
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1035,
-        "win_rate": 31.2,
-        "rank": 33
+        "elo": 914,
+        "win_rate": 20.8,
+        "rank": 36
       },
       {
         "arena": "agents",
@@ -164,58 +164,58 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1153,
+        "elo": 1151,
         "win_rate": 41.5,
         "rank": 67
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1149,
-        "win_rate": 44.8,
+        "elo": 1148,
+        "win_rate": 44.6,
         "rank": 46
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1197,
+        "elo": 1196,
         "win_rate": 44.6,
         "rank": 53
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1196,
-        "win_rate": 45.7,
-        "rank": 55
+        "elo": 1193,
+        "win_rate": 45.8,
+        "rank": 54
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1195,
+        "elo": 1189,
         "win_rate": 44.4,
         "rank": 53
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1103,
-        "win_rate": 39.1,
+        "elo": 1096,
+        "win_rate": 38.8,
         "rank": 59
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1206,
-        "win_rate": 45.9,
-        "rank": 51
+        "elo": 1207,
+        "win_rate": 46,
+        "rank": 50
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1204,
+        "elo": 1203,
         "win_rate": 44.9,
-        "rank": 53
+        "rank": 54
       }
     ],
     "artificial_analysis": {

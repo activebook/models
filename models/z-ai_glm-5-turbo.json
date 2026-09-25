@@ -49,7 +49,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2098-12-31",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/z-ai/glm-5-turbo-20260315/endpoints"
   },
@@ -58,15 +58,15 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1276,
-        "win_rate": 56.3,
+        "elo": 1274,
+        "win_rate": 56.2,
         "rank": 26
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1169,
-        "win_rate": 49.6,
+        "win_rate": 49.3,
         "rank": 33
       },
       {
@@ -79,35 +79,35 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1277,
+        "elo": 1274,
         "win_rate": 55.1,
         "rank": 20
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1268,
-        "win_rate": 53.4,
+        "elo": 1261,
+        "win_rate": 53.3,
         "rank": 29
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1223,
-        "win_rate": 55.5,
+        "elo": 1217,
+        "win_rate": 55.4,
         "rank": 20
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1277,
-        "win_rate": 55.8,
+        "win_rate": 55.7,
         "rank": 27
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1272,
+        "elo": 1271,
         "win_rate": 53.5,
         "rank": 29
       }

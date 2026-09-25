@@ -51,7 +51,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2098-12-31",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/z-ai/glm-5v-turbo-20260401/endpoints"
   },
@@ -102,16 +102,16 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1153,
+        "elo": 1146,
         "win_rate": 52.1,
         "rank": 26
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 958,
+        "elo": 956,
         "win_rate": 26.9,
-        "rank": 34
+        "rank": 35
       },
       {
         "arena": "agents",
@@ -151,50 +151,50 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1237,
+        "elo": 1235,
         "win_rate": 53,
-        "rank": 36
+        "rank": 37
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1123,
-        "win_rate": 42.8,
+        "elo": 1122,
+        "win_rate": 42.5,
         "rank": 54
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1238,
-        "win_rate": 50.3,
+        "elo": 1237,
+        "win_rate": 50.2,
         "rank": 42
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1212,
-        "win_rate": 47.5,
+        "elo": 1210,
+        "win_rate": 47.6,
         "rank": 50
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1240,
-        "win_rate": 51.1,
+        "elo": 1234,
+        "win_rate": 51,
         "rank": 37
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1169,
-        "win_rate": 49.6,
+        "elo": 1162,
+        "win_rate": 49.4,
         "rank": 39
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1228,
-        "win_rate": 49.2,
+        "elo": 1227,
+        "win_rate": 49.1,
         "rank": 44
       },
       {

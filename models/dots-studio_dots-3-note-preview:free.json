@@ -42,7 +42,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-12-31",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/dots-studio/dots-3-note-preview-20260813/endpoints"
   },

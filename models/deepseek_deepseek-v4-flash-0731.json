@@ -18,8 +18,8 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000004",
-    "completion": "0.00000064",
+    "prompt": "0.00000003",
+    "completion": "0.00000032",
     "input_cache_read": "0.000000016"
   },
   "top_provider": {
@@ -66,7 +66,7 @@
         "category": "3d",
         "elo": 1235,
         "win_rate": 48.6,
-        "rank": 37
+        "rank": 36
       },
       {
         "arena": "models",
@@ -85,23 +85,23 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1196,
+        "elo": 1192,
         "win_rate": 41.1,
-        "rank": 54
+        "rank": 56
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1229,
+        "elo": 1224,
         "win_rate": 44.6,
-        "rank": 41
+        "rank": 40
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1205,
+        "elo": 1199,
         "win_rate": 45.2,
-        "rank": 27
+        "rank": 26
       },
       {
         "arena": "models",

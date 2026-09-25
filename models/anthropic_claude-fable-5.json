@@ -93,15 +93,15 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1283,
+        "elo": 1275,
         "win_rate": 58.2,
         "rank": 6
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1298,
-        "win_rate": 64.7,
+        "elo": 1292,
+        "win_rate": 64.2,
         "rank": 2
       },
       {
@@ -114,8 +114,8 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1289,
-        "win_rate": 60.8,
+        "elo": 1288,
+        "win_rate": 60.6,
         "rank": 2
       },
       {
@@ -135,7 +135,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1346,
+        "elo": 1344,
         "win_rate": 61.6,
         "rank": 9
       },
@@ -144,34 +144,34 @@
         "category": "asciiart",
         "elo": 1338,
         "win_rate": 67.7,
-        "rank": 2
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1320,
-        "win_rate": 57.8,
+        "elo": 1319,
+        "win_rate": 57.7,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1320,
+        "elo": 1317,
         "win_rate": 57.6,
         "rank": 9
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1359,
+        "elo": 1353,
         "win_rate": 61.3,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1321,
-        "win_rate": 63.6,
+        "elo": 1315,
+        "win_rate": 63.5,
         "rank": 5
       },
       {
@@ -179,13 +179,13 @@
         "category": "uicomponent",
         "elo": 1331,
         "win_rate": 58.1,
-        "rank": 10
+        "rank": 9
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1304,
-        "win_rate": 56.2,
+        "elo": 1303,
+        "win_rate": 56.1,
         "rank": 11
       }
     ],

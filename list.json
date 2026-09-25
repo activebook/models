@@ -412,6 +412,10 @@
     "file": "models/openrouter_elephant-alpha.json"
   },
   {
+    "name": "ember-1",
+    "file": "models/fireworks_ember-1.json"
+  },
+  {
     "name": "ernie-4.5-21b-a3b",
     "file": "models/baidu_ernie-4.5-21b-a3b.json"
   },

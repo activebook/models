@@ -1,14 +1,10 @@
 {
-  "id": "~deepseek/deepseek-flash-latest",
-  "canonical_slug": "~deepseek/deepseek-flash-latest",
-  "alias_target": {
-    "name": "DeepSeek: DeepSeek V4.1 Flash",
-    "slug": "deepseek/deepseek-v4.1-flash"
-  },
+  "id": "fireworks/ember-1",
+  "canonical_slug": "fireworks/ember-1-20260923",
   "hugging_face_id": null,
-  "name": "DeepSeek: DeepSeek Flash Latest",
-  "created": 1789399150,
-  "description": "This model always redirects to the latest model in the DeepSeek Flash family.",
+  "name": "Fireworks: Ember-1",
+  "created": 1790208461,
+  "description": "Ember-1 is a specialized reasoning model from Fireworks Research, built on [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3). It is designed to make every token go further: it produces shorter reasoning traces, using roughly 40%...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image->text",
@@ -19,13 +15,13 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Other",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000004",
-    "completion": "0.00000049",
-    "input_cache_read": "0.00000001"
+    "prompt": "0.000003",
+    "completion": "0.000015",
+    "input_cache_read": "0.0000003"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -39,13 +35,11 @@
     "logit_bias",
     "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
     "repetition_penalty",
     "response_format",
-    "seed",
     "stop",
     "structured_outputs",
     "temperature",
@@ -60,7 +54,7 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~deepseek/deepseek-flash-latest/endpoints"
+    "details": "/api/v1/models/fireworks/ember-1-20260923/endpoints"
   },
   "reasoning": {
     "mandatory": false,
@@ -70,6 +64,6 @@
       "high",
       "low"
     ],
-    "default_effort": "high"
+    "default_effort": "max"
   }
 }
