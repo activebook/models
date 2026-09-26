@@ -53,7 +53,22 @@
     "details": "/api/v1/models/anthropic/claude-opus-5.5-20260921/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1473,
+        "win_rate": 73.2,
+        "rank": 1
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1371,
+        "win_rate": 62.8,
+        "rank": 1
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 57.6,
       "coding_index": null,

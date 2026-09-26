@@ -1,0 +1,65 @@
+{
+  "id": "perceptron/perceptron-mk1.5",
+  "canonical_slug": "perceptron/perceptron-mk1.5-20260925",
+  "hugging_face_id": null,
+  "name": "Perceptron: Perceptron Mk1.5",
+  "created": 1790352661,
+  "description": "Perceptron Mk1.5 is Perceptron's embodied reasoning model for physical agents. It accepts text, image, video, and audio input, and answers with text plus optional structured annotations: points, boxes, polygons, tracks,...",
+  "context_length": 36864,
+  "architecture": {
+    "modality": "text+image+audio+video->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000015",
+    "completion": "0.0000015"
+  },
+  "top_provider": {
+    "context_length": 36864,
+    "max_completion_tokens": 8192,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "reasoning_effort",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/perceptron/perceptron-mk1.5-20260925/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "supported_efforts": [
+      "high",
+      "medium",
+      "low",
+      "minimal",
+      "none"
+    ],
+    "default_effort": "high"
+  }
+}

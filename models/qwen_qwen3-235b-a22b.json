@@ -45,7 +45,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null,
+  "expiration_date": "2026-10-09",
   "links": {
     "details": "/api/v1/models/qwen/qwen3-235b-a22b-04-28/endpoints"
   },
@@ -54,7 +54,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 884,
+        "elo": 882,
         "win_rate": 24.5,
         "rank": 113
       },
@@ -77,12 +77,12 @@
         "category": "gamedev",
         "elo": 943,
         "win_rate": 32.9,
-        "rank": 118
+        "rank": 119
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 973,
+        "elo": 967,
         "win_rate": 38.6,
         "rank": 109
       },
@@ -91,7 +91,7 @@
         "category": "website",
         "elo": 1038,
         "win_rate": 40.4,
-        "rank": 111
+        "rank": 112
       }
     ]
   },

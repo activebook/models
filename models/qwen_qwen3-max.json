@@ -68,7 +68,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-06-30",
-  "expiration_date": null,
+  "expiration_date": "2026-10-09",
   "links": {
     "details": "/api/v1/models/qwen/qwen3-max/endpoints"
   },
@@ -77,7 +77,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1100,
+        "elo": 1097,
         "win_rate": 43.5,
         "rank": 88
       },
@@ -86,7 +86,7 @@
         "category": "asciiart",
         "elo": 1140,
         "win_rate": 47.2,
-        "rank": 49
+        "rank": 48
       },
       {
         "arena": "models",
@@ -107,28 +107,28 @@
         "category": "gamedev",
         "elo": 1110,
         "win_rate": 43.8,
-        "rank": 85
+        "rank": 86
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1022,
+        "elo": 1024,
         "win_rate": 37.2,
         "rank": 79
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1092,
+        "elo": 1086,
         "win_rate": 40.2,
-        "rank": 90
+        "rank": 91
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1127,
         "win_rate": 44.5,
-        "rank": 90
+        "rank": 91
       }
     ]
   },
