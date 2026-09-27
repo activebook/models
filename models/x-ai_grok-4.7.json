@@ -65,7 +65,22 @@
     "details": "/api/v1/models/x-ai/grok-4.7-20260916/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1302,
+        "win_rate": 52.4,
+        "rank": 15
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1231,
+        "win_rate": 43.4,
+        "rank": 46
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 46.4,
       "coding_index": null,
