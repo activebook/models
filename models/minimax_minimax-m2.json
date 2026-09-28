@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000255",
-    "completion": "0.00000102"
+    "prompt": "0.0000003",
+    "completion": "0.0000012"
   },
   "top_provider": {
-    "context_length": 204800,
-    "max_completion_tokens": 131072,
+    "context_length": 196608,
+    "max_completion_tokens": 176947,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -62,7 +62,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1119,
+        "elo": 1116,
         "win_rate": 48.3,
         "rank": 80
       },
@@ -90,9 +90,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1109,
+        "elo": 1096,
         "win_rate": 55.3,
-        "rank": 56
+        "rank": 57
       },
       {
         "arena": "models",

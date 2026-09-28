@@ -19,9 +19,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000095",
-    "completion": "0.000004",
-    "input_cache_read": "0.00000016"
+    "prompt": "0.00000065",
+    "completion": "0.00000341",
+    "input_cache_read": "0.00000015"
   },
   "top_provider": {
     "context_length": 262144,
@@ -156,12 +156,12 @@
         "category": "webapps",
         "elo": 1268,
         "win_rate": 59.3,
-        "rank": 7
+        "rank": 6
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1290,
+        "elo": 1286,
         "win_rate": 57.6,
         "rank": 19
       },
@@ -170,7 +170,7 @@
         "category": "asciiart",
         "elo": 1177,
         "win_rate": 47.5,
-        "rank": 31
+        "rank": 32
       },
       {
         "arena": "models",
@@ -196,16 +196,16 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1191,
+        "elo": 1178,
         "win_rate": 51.2,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1274,
         "win_rate": 55.6,
-        "rank": 25
+        "rank": 26
       },
       {
         "arena": "models",

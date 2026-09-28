@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000269",
-    "completion": "0.0000004",
-    "input_cache_read": "0.0000001345"
+    "prompt": "0.00000028",
+    "completion": "0.00000042",
+    "input_cache_read": "0.000000028"
   },
   "top_provider": {
-    "context_length": 163840,
+    "context_length": 131072,
     "max_completion_tokens": 65536,
     "is_moderated": false
   },
@@ -59,7 +59,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-09-28",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v3.2-20251201/endpoints"
   },
@@ -68,7 +68,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1154,
+        "elo": 1151,
         "win_rate": 49.4,
         "rank": 64
       },
@@ -77,7 +77,7 @@
         "category": "asciiart",
         "elo": 1095,
         "win_rate": 40.5,
-        "rank": 61
+        "rank": 62
       },
       {
         "arena": "models",
@@ -103,9 +103,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1041,
+        "elo": 1028,
         "win_rate": 40.8,
-        "rank": 72
+        "rank": 75
       },
       {
         "arena": "models",
