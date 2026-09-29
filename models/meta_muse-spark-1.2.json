@@ -4,16 +4,15 @@
   "hugging_face_id": null,
   "name": "Meta: Muse Spark 1.2",
   "created": 1785959287,
-  "description": "Muse Spark 1.2 is a reasoning model from Meta, designed for complex agentic tasks. It accepts text, images, video, audio, and PDF documents, returns text, and offers a 1M-token context...",
+  "description": "Muse Spark 1.2 is a reasoning model from Meta, designed for complex agentic tasks. It accepts text, images, video, and PDF documents, returns text, and offers a 1M-token context window....",
   "context_length": 1048576,
   "architecture": {
-    "modality": "text+image+file+audio+video->text",
+    "modality": "text+image+file+video->text",
     "input_modalities": [
       "text",
       "image",
       "video",
-      "file",
-      "audio"
+      "file"
     ],
     "output_modalities": [
       "text"
@@ -59,106 +58,106 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1179,
-        "win_rate": 42.7,
-        "rank": 15
+        "elo": 1175,
+        "win_rate": 42.2,
+        "rank": 16
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1235,
-        "win_rate": 53.3,
+        "elo": 1238,
+        "win_rate": 53.5,
         "rank": 10
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1210,
-        "win_rate": 48.1,
-        "rank": 15
-      },
-      {
-        "arena": "agents",
-        "category": "htmlslides",
-        "elo": 1134,
-        "win_rate": 40,
-        "rank": 20
-      },
-      {
-        "arena": "agents",
-        "category": "mobileapps",
-        "elo": 1195,
-        "win_rate": 46.8,
-        "rank": 22
-      },
-      {
-        "arena": "agents",
-        "category": "python-pptxslides",
-        "elo": 1198,
+        "elo": 1219,
         "win_rate": 48.6,
         "rank": 15
       },
       {
         "arena": "agents",
+        "category": "htmlslides",
+        "elo": 1151,
+        "win_rate": 42.5,
+        "rank": 17
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1171,
+        "win_rate": 47.3,
+        "rank": 21
+      },
+      {
+        "arena": "agents",
+        "category": "python-pptxslides",
+        "elo": 1200,
+        "win_rate": 49.4,
+        "rank": 16
+      },
+      {
+        "arena": "agents",
         "category": "webapps",
-        "elo": 1223,
-        "win_rate": 51,
+        "elo": 1237,
+        "win_rate": 51.9,
         "rank": 13
       },
       {
         "arena": "models",
         "category": "3d",
         "elo": 1325,
-        "win_rate": 53.5,
+        "win_rate": 53.4,
         "rank": 13
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1307,
-        "win_rate": 58.3,
+        "win_rate": 58.5,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1320,
-        "win_rate": 53.5,
-        "rank": 7
+        "win_rate": 53.3,
+        "rank": 8
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1358,
-        "win_rate": 61,
-        "rank": 2
+        "elo": 1353,
+        "win_rate": 60.6,
+        "rank": 5
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1312,
-        "win_rate": 51.4,
+        "win_rate": 51.2,
         "rank": 11
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1285,
-        "win_rate": 55.9,
+        "elo": 1287,
+        "win_rate": 56,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1317,
-        "win_rate": 53.1,
+        "elo": 1316,
+        "win_rate": 52.9,
         "rank": 11
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1317,
-        "win_rate": 53.5,
+        "win_rate": 53.2,
         "rank": 7
       }
     ],

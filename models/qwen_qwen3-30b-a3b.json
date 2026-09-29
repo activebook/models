@@ -18,12 +18,12 @@
     "instruct_type": "qwen3"
   },
   "pricing": {
-    "prompt": "0.00000012",
-    "completion": "0.0000005"
+    "prompt": "0.00000013",
+    "completion": "0.00000052"
   },
   "top_provider": {
-    "context_length": 40960,
-    "max_completion_tokens": 16384,
+    "context_length": 131072,
+    "max_completion_tokens": 8192,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -53,7 +53,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-03-31",
-  "expiration_date": null,
+  "expiration_date": "2026-10-09",
   "links": {
     "details": "/api/v1/models/qwen/qwen3-30b-a3b-04-28/endpoints"
   },
@@ -69,9 +69,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 976,
+        "elo": 974,
         "win_rate": 39,
-        "rank": 110
+        "rank": 111
       },
       {
         "arena": "models",
@@ -83,14 +83,14 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 954,
+        "elo": 956,
         "win_rate": 42.4,
         "rank": 110
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 963,
+        "elo": 962,
         "win_rate": 37.7,
         "rank": 124
       }

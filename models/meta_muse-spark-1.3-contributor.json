@@ -7,13 +7,12 @@
   "description": "Muse Spark 1.3 Contributor is the cost-efficient contributor tier of Meta\u2019s multimodal reasoning model for experimentation, learning, and early-stage agentic, multi-agent, and coding workflows. It is designed to track information...",
   "context_length": 1048576,
   "architecture": {
-    "modality": "text+image+file+audio+video->text",
+    "modality": "text+image+file+video->text",
     "input_modalities": [
       "text",
       "image",
       "video",
-      "file",
-      "audio"
+      "file"
     ],
     "output_modalities": [
       "text"

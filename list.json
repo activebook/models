@@ -216,6 +216,14 @@
     "file": "models/anthropic_claude-sonnet-5.json"
   },
   {
+    "name": "claude-sonnet-5.5",
+    "file": "models/anthropic_claude-sonnet-5.5.json"
+  },
+  {
+    "name": "claude-sonnet-5.5:batch",
+    "file": "models/anthropic_claude-sonnet-5.5:batch.json"
+  },
+  {
     "name": "claude-sonnet-5:batch",
     "file": "models/anthropic_claude-sonnet-5:batch.json"
   },

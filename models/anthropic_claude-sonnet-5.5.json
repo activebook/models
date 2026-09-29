@@ -1,14 +1,10 @@
 {
-  "id": "~anthropic/claude-sonnet-latest",
-  "canonical_slug": "~anthropic/claude-sonnet-latest",
-  "alias_target": {
-    "name": "Anthropic: Claude Sonnet 5.5",
-    "slug": "anthropic/claude-sonnet-5.5"
-  },
+  "id": "anthropic/claude-sonnet-5.5",
+  "canonical_slug": "anthropic/claude-sonnet-5.5-20260928",
   "hugging_face_id": null,
-  "name": "Anthropic: Claude Sonnet Latest",
-  "created": 1777318368,
-  "description": "This model always redirects to the latest model in the Claude Sonnet family.",
+  "name": "Anthropic: Claude Sonnet 5.5",
+  "created": 1790618686,
+  "description": "Claude Sonnet 5.5 is Anthropic's Sonnet-class model for well-scoped everyday work, succeeding Claude Sonnet 5 as a direct upgrade. It is especially strong at building features, fixing bugs, and producing...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -20,7 +16,7 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Claude",
     "instruct_type": null
   },
   "pricing": {
@@ -34,7 +30,7 @@
   "top_provider": {
     "context_length": 1000000,
     "max_completion_tokens": 128000,
-    "is_moderated": false
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -56,7 +52,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~anthropic/claude-sonnet-latest/endpoints"
+    "details": "/api/v1/models/anthropic/claude-sonnet-5.5-20260928/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 56,
+      "coding_index": null,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": true,

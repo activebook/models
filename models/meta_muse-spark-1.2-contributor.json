@@ -7,13 +7,12 @@
   "description": "Muse Spark 1.2 contributor tier is a reasoning model from Meta designed for developers who want to start building at an even lower cost. It\u2019s meaningfully cheaper than Muse Spark...",
   "context_length": 1048576,
   "architecture": {
-    "modality": "text+image+file+audio+video->text",
+    "modality": "text+image+file+video->text",
     "input_modalities": [
       "text",
       "image",
       "video",
-      "file",
-      "audio"
+      "file"
     ],
     "output_modalities": [
       "text"

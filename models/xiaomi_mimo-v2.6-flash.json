@@ -61,6 +61,14 @@
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2.6-flash-20260921/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 37.9,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false
   }
