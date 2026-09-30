@@ -1,10 +1,10 @@
 {
-  "id": "openai/gpt-6-astra-pro:batch",
-  "canonical_slug": "openai/gpt-6-astra-pro-20260903",
+  "id": "openai/gpt-6.1-sol:batch",
+  "canonical_slug": "openai/gpt-6.1-sol-20260929",
   "hugging_face_id": null,
-  "name": "OpenAI: GPT-6 Astra Pro (batch)",
-  "created": 1788552835,
-  "description": "GPT-6 Astra Pro is the same underlying model as [GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost note:** pro mode spends far more...",
+  "name": "OpenAI: GPT-6.1 Sol (batch)",
+  "created": 1790702882,
+  "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional...",
   "context_length": 1050000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -20,18 +20,18 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000005",
-    "completion": "0.000025",
+    "prompt": "0.000001",
+    "completion": "0.000005",
     "web_search": "0.01",
-    "input_cache_read": "0.0000005",
-    "input_cache_write": "0.00000625",
+    "input_cache_read": "0.00000005",
+    "input_cache_write": "0.00000125",
     "overrides": [
       {
         "min_prompt_tokens": 272000,
-        "prompt": "0.00001",
-        "completion": "0.0000375",
-        "input_cache_read": "0.000001",
-        "input_cache_write": "0.0000125"
+        "prompt": "0.000002",
+        "completion": "0.0000075",
+        "input_cache_read": "0.0000001",
+        "input_cache_write": "0.0000025"
       }
     ]
   },
@@ -57,7 +57,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/openai/gpt-6-astra-pro-20260903/endpoints"
+    "details": "/api/v1/models/openai/gpt-6.1-sol-20260929/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 51.8,
+      "coding_index": null,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": true,

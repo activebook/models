@@ -34,9 +34,7 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
@@ -76,8 +74,8 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1159,
-        "win_rate": 45.8,
+        "elo": 1158,
+        "win_rate": 45.7,
         "rank": 41
       },
       {
@@ -91,7 +89,7 @@
         "arena": "models",
         "category": "dataviz",
         "elo": 1260,
-        "win_rate": 53.9,
+        "win_rate": 53.8,
         "rank": 27
       },
       {
@@ -104,16 +102,16 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1172,
+        "elo": 1175,
         "win_rate": 50.5,
-        "rank": 33
+        "rank": 35
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1266,
         "win_rate": 53.9,
-        "rank": 31
+        "rank": 33
       },
       {
         "arena": "models",

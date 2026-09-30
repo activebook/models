@@ -31,6 +31,7 @@
   "per_request_limits": null,
   "supported_parameters": [
     "max_tokens",
+    "response_format",
     "temperature",
     "tool_choice",
     "tools",

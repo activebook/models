@@ -9,7 +9,7 @@
   "name": "Z.ai: GLM Flash Latest",
   "created": 1787817633,
   "description": "This model always redirects to the latest model in the GLM Flash family.",
-  "context_length": 1310720,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [

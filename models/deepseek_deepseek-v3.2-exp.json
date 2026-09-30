@@ -18,9 +18,8 @@
     "instruct_type": "deepseek-v3.1"
   },
   "pricing": {
-    "prompt": "0.0000001344",
-    "completion": "0.0000002016",
-    "input_cache_read": "0.0000000672"
+    "prompt": "0.00000027",
+    "completion": "0.00000041"
   },
   "top_provider": {
     "context_length": 163840,
@@ -93,16 +92,16 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1028,
+        "elo": 1030,
         "win_rate": 42,
-        "rank": 76
+        "rank": 78
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1177,
         "win_rate": 53.3,
-        "rank": 60
+        "rank": 61
       },
       {
         "arena": "models",

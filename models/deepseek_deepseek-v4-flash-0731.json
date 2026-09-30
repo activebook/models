@@ -5,7 +5,7 @@
   "name": "DeepSeek: DeepSeek V4 Flash 0731",
   "created": 1785478908,
   "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows....",
-  "context_length": 1310720,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000018",
-    "completion": "0.00000032",
-    "input_cache_read": "0.000000018"
+    "prompt": "0.00000001",
+    "completion": "0.00000064",
+    "input_cache_read": "0.00000001"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -85,7 +85,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1190,
+        "elo": 1191,
         "win_rate": 41.1,
         "rank": 56
       },
@@ -99,16 +99,16 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1183,
+        "elo": 1185,
         "win_rate": 45.1,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1246,
+        "elo": 1245,
         "win_rate": 46.8,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "models",
