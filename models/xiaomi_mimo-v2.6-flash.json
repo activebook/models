@@ -5,7 +5,7 @@
   "name": "Xiaomi: MiMo-V2.6-Flash",
   "created": 1790021264,
   "description": "MiMo-V2.6-Flash is an open-source foundation model developed by Xiaomi. Built on a Mixture-of-Experts architecture with 309B total parameters and 15B activated per token, it employs a hybrid attention mechanism for...",
-  "context_length": 1048576,
+  "context_length": 1050000,
   "architecture": {
     "modality": "text+image+audio+video->text",
     "input_modalities": [

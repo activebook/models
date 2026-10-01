@@ -30,22 +30,14 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
-    "logprobs",
     "max_tokens",
-    "min_p",
-    "presence_penalty",
     "reasoning",
-    "repetition_penalty",
     "response_format",
-    "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -71,16 +63,16 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1180,
+        "elo": 1177,
         "win_rate": 54.2,
-        "rank": 62
+        "rank": 63
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1161,
         "win_rate": 50.6,
-        "rank": 72
+        "rank": 73
       },
       {
         "arena": "models",
@@ -101,7 +93,7 @@
         "category": "uicomponent",
         "elo": 1177,
         "win_rate": 53.3,
-        "rank": 61
+        "rank": 62
       },
       {
         "arena": "models",

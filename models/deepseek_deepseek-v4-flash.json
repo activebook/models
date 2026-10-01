@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000014",
-    "completion": "0.00000028",
-    "input_cache_read": "0.000000028"
+    "prompt": "0.000000042",
+    "completion": "0.000000084",
+    "input_cache_read": "0.0000000084"
   },
   "top_provider": {
-    "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "context_length": 1024000,
+    "max_completion_tokens": 384000,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -71,23 +71,23 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1125,
+        "elo": 1122,
         "win_rate": 42.8,
         "rank": 55
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1214,
+        "elo": 1212,
         "win_rate": 48.9,
-        "rank": 48
+        "rank": 49
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1136,
         "win_rate": 40.7,
-        "rank": 82
+        "rank": 83
       },
       {
         "arena": "models",
@@ -108,7 +108,7 @@
         "category": "uicomponent",
         "elo": 1174,
         "win_rate": 44.7,
-        "rank": 64
+        "rank": 65
       },
       {
         "arena": "models",
@@ -119,9 +119,9 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 24.2,
-      "coding_index": 56.2,
-      "agentic_index": 22.2
+      "intelligence_index": 24.4,
+      "coding_index": 52,
+      "agentic_index": 26.3
     }
   },
   "reasoning": {

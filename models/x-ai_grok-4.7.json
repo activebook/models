@@ -68,17 +68,31 @@
     "design_arena": [
       {
         "arena": "models",
+        "category": "dataviz",
+        "elo": 1200,
+        "win_rate": 44,
+        "rank": 54
+      },
+      {
+        "arena": "models",
         "category": "gamedev",
-        "elo": 1306,
-        "win_rate": 52.4,
+        "elo": 1304,
+        "win_rate": 51.7,
         "rank": 15
       },
       {
         "arena": "models",
+        "category": "uicomponent",
+        "elo": 1245,
+        "win_rate": 44.2,
+        "rank": 40
+      },
+      {
+        "arena": "models",
         "category": "website",
-        "elo": 1223,
-        "win_rate": 42.1,
-        "rank": 50
+        "elo": 1240,
+        "win_rate": 43.8,
+        "rank": 42
       }
     ],
     "artificial_analysis": {
