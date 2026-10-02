@@ -41,7 +41,8 @@
     "seed",
     "structured_outputs",
     "tool_choice",
-    "tools"
+    "tools",
+    "verbosity"
   ],
   "default_parameters": {
     "temperature": null,

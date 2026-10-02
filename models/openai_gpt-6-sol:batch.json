@@ -50,7 +50,8 @@
     "seed",
     "structured_outputs",
     "tool_choice",
-    "tools"
+    "tools",
+    "verbosity"
   ],
   "default_parameters": {
     "temperature": null,
@@ -69,7 +70,7 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 47.5,
+      "intelligence_index": 47.6,
       "coding_index": null,
       "agentic_index": null
     }

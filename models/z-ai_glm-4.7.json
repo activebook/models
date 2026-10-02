@@ -58,7 +58,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-12-31",
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.7-20251222/endpoints"
   },
@@ -67,14 +67,14 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1132,
+        "elo": 1128,
         "win_rate": 56.2,
         "rank": 27
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1058,
+        "elo": 1048,
         "win_rate": 45.1,
         "rank": 36
       },
@@ -83,19 +83,19 @@
         "category": "godotgamedev",
         "elo": 1058,
         "win_rate": 35.8,
-        "rank": 34
+        "rank": 33
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1104,
+        "elo": 1102,
         "win_rate": 48.9,
         "rank": 35
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1209,
+        "elo": 1205,
         "win_rate": 54.3,
         "rank": 45
       },
@@ -104,7 +104,7 @@
         "category": "asciiart",
         "elo": 1176,
         "win_rate": 48.2,
-        "rank": 30
+        "rank": 31
       },
       {
         "arena": "models",
@@ -130,21 +130,21 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1143,
+        "elo": 1142,
         "win_rate": 54.3,
         "rank": 47
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1209,
+        "elo": 1206,
         "win_rate": 51.1,
-        "rank": 49
+        "rank": 50
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1233,
+        "elo": 1232,
         "win_rate": 55.3,
         "rank": 46
       }

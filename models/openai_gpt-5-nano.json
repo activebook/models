@@ -41,7 +41,8 @@
     "seed",
     "structured_outputs",
     "tool_choice",
-    "tools"
+    "tools",
+    "verbosity"
   ],
   "default_parameters": {
     "temperature": null,
@@ -62,14 +63,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 984,
+        "elo": 980,
         "win_rate": 36.3,
         "rank": 108
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1091,
+        "elo": 1090,
         "win_rate": 48,
         "rank": 96
       },
@@ -83,21 +84,21 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1058,
+        "elo": 1057,
         "win_rate": 46.5,
         "rank": 100
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1077,
+        "elo": 1073,
         "win_rate": 51.9,
         "rank": 95
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1109,
+        "elo": 1108,
         "win_rate": 48.9,
         "rank": 97
       }

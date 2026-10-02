@@ -46,7 +46,8 @@
     "seed",
     "stop",
     "structured_outputs",
-    "top_logprobs"
+    "top_logprobs",
+    "verbosity"
   ],
   "default_parameters": {
     "temperature": null,

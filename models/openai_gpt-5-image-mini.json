@@ -47,7 +47,8 @@
     "structured_outputs",
     "temperature",
     "top_logprobs",
-    "top_p"
+    "top_p",
+    "verbosity"
   ],
   "default_parameters": {
     "temperature": null,
@@ -72,7 +73,7 @@
       {
         "arena": "models",
         "category": "image",
-        "elo": 1187,
+        "elo": 1186,
         "win_rate": 51,
         "rank": 11
       },

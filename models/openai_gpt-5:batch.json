@@ -40,7 +40,8 @@
     "seed",
     "structured_outputs",
     "tool_choice",
-    "tools"
+    "tools",
+    "verbosity"
   ],
   "default_parameters": {
     "temperature": null,
@@ -61,16 +62,16 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1074,
+        "elo": 1070,
         "win_rate": 41.3,
         "rank": 94
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1152,
+        "elo": 1151,
         "win_rate": 49,
-        "rank": 44
+        "rank": 45
       },
       {
         "arena": "models",
@@ -96,21 +97,21 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1188,
+        "elo": 1187,
         "win_rate": 64.1,
         "rank": 29
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1190,
+        "elo": 1186,
         "win_rate": 57.4,
         "rank": 57
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1192,
+        "elo": 1191,
         "win_rate": 53.7,
         "rank": 64
       }

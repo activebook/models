@@ -44,6 +44,10 @@
     "file": "models/aion-labs_aion-rp-llama-3.1-8b.json"
   },
   {
+    "name": "apodex-1.1-mini:free",
+    "file": "models/apodex_apodex-1.1-mini:free.json"
+  },
+  {
     "name": "auto",
     "file": "models/openrouter_auto.json"
   },
@@ -2202,6 +2206,10 @@
   {
     "name": "pareto",
     "file": "models/unbiased_pareto.json"
+  },
+  {
+    "name": "pareto-26.10-preview",
+    "file": "models/unbiased_pareto-26.10-preview.json"
   },
   {
     "name": "pareto-code",

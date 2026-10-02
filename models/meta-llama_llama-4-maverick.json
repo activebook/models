@@ -33,7 +33,6 @@
     "logit_bias",
     "logprobs",
     "max_tokens",
-    "min_p",
     "presence_penalty",
     "repetition_penalty",
     "response_format",
@@ -59,7 +58,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 918,
+        "elo": 915,
         "win_rate": 40.2,
         "rank": 112
       },
@@ -80,21 +79,21 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 851,
+        "elo": 850,
         "win_rate": 33.7,
         "rank": 125
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 909,
+        "elo": 906,
         "win_rate": 40.8,
         "rank": 119
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 879,
+        "elo": 877,
         "win_rate": 34.4,
         "rank": 128
       }
