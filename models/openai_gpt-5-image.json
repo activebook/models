@@ -34,16 +34,12 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "logprobs",
     "max_tokens",
-    "presence_penalty",
     "reasoning",
     "response_format",
     "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "top_logprobs",
@@ -80,7 +76,7 @@
       {
         "arena": "models",
         "category": "logo",
-        "elo": 1204,
+        "elo": 1203,
         "win_rate": 52.7,
         "rank": 9
       }

@@ -55,7 +55,15 @@
     "details": "/api/v1/models/anthropic/claude-sonnet-5.5-20260928/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1400,
+        "win_rate": 66.3,
+        "rank": 1
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 56,
       "coding_index": null,

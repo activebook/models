@@ -18,13 +18,12 @@
     "instruct_type": "deepseek-v3.1"
   },
   "pricing": {
-    "prompt": "0.0000003",
-    "completion": "0.000001",
-    "input_cache_read": "0.000000135"
+    "prompt": "0.00000027",
+    "completion": "0.000001"
   },
   "top_provider": {
-    "context_length": 131072,
-    "max_completion_tokens": 65536,
+    "context_length": 163840,
+    "max_completion_tokens": 147456,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -63,7 +62,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1155,
+        "elo": 1156,
         "win_rate": 56,
         "rank": 61
       },
@@ -77,9 +76,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1177,
+        "elo": 1176,
         "win_rate": 53.4,
-        "rank": 64
+        "rank": 65
       },
       {
         "arena": "models",
@@ -100,7 +99,7 @@
         "category": "uicomponent",
         "elo": 1189,
         "win_rate": 59.5,
-        "rank": 56
+        "rank": 57
       },
       {
         "arena": "models",
