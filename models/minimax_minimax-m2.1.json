@@ -51,7 +51,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-10-08",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/minimax/minimax-m2.1/endpoints"
   },
@@ -60,7 +60,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1180,
+        "elo": 1176,
         "win_rate": 57.5,
         "rank": 53
       },
