@@ -56,6 +56,14 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.5v/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 7.6,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

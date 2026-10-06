@@ -60,5 +60,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3-vl-30b-a3b-instruct/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 7.9,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

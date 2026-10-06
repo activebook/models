@@ -64,7 +64,7 @@
         "category": "website",
         "elo": 1201,
         "win_rate": 54.4,
-        "rank": 57
+        "rank": 56
       },
       {
         "arena": "agents",
@@ -104,7 +104,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1090,
+        "elo": 1094,
         "win_rate": 41.5,
         "rank": 87
       },
@@ -120,7 +120,7 @@
         "category": "dataviz",
         "elo": 1209,
         "win_rate": 56.1,
-        "rank": 52
+        "rank": 51
       },
       {
         "arena": "models",
@@ -141,7 +141,7 @@
         "category": "asciiart",
         "elo": 1163,
         "win_rate": 50.7,
-        "rank": 35
+        "rank": 36
       },
       {
         "arena": "models",
@@ -150,7 +150,12 @@
         "win_rate": 53.7,
         "rank": 50
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 30.4,
+      "coding_index": null,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": false,

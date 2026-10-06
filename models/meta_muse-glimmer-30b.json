@@ -60,6 +60,14 @@
   "links": {
     "details": "/api/v1/models/meta/muse-glimmer-30b-20260810/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 17.5,
+      "coding_index": 49,
+      "agentic_index": 8.5
+    }
+  },
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [

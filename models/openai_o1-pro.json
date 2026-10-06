@@ -45,6 +45,14 @@
   "links": {
     "details": "/api/v1/models/openai/o1-pro/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 12.4,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

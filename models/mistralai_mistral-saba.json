@@ -50,5 +50,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/mistralai/mistral-saba-2502/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 6.5,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

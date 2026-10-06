@@ -42,5 +42,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/amazon/nova-lite-v1/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 6.7,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

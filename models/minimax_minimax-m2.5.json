@@ -68,9 +68,9 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1180,
+        "elo": 1185,
         "win_rate": 57.6,
-        "rank": 52
+        "rank": 51
       },
       {
         "arena": "models",
@@ -114,7 +114,12 @@
         "win_rate": 57.5,
         "rank": 47
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 22.8,
+      "coding_index": null,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": true

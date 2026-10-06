@@ -56,6 +56,14 @@
   "links": {
     "details": "/api/v1/models/rekaai/reka-flash-3/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 6.4,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": true
   }

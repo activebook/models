@@ -51,6 +51,14 @@
   "links": {
     "details": "/api/v1/models/openai/o3-pro-2025-06-10/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 21.9,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000055",
-    "completion": "0.0000035",
-    "input_cache_read": "0.000000225"
+    "prompt": "0.00000045",
+    "completion": "0.000003",
+    "input_cache_read": "0.00000022"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 235929,
+    "max_completion_tokens": 81920,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -70,9 +70,9 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1171,
+        "elo": 1176,
         "win_rate": 56.7,
-        "rank": 56
+        "rank": 54
       },
       {
         "arena": "models",
@@ -118,9 +118,9 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 18.4,
-      "coding_index": 48.2,
-      "agentic_index": 8.3
+      "intelligence_index": 21.4,
+      "coding_index": null,
+      "agentic_index": null
     }
   },
   "reasoning": {

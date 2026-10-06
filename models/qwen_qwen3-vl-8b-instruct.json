@@ -56,5 +56,13 @@
   "expiration_date": "2026-10-09",
   "links": {
     "details": "/api/v1/models/qwen/qwen3-vl-8b-instruct/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 7.3,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

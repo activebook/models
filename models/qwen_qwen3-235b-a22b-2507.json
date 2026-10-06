@@ -18,13 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000875",
-    "completion": "0.00000035",
-    "input_cache_read": "0.0000000175"
+    "prompt": "0.00000009",
+    "completion": "0.00000055"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 235929,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -59,7 +58,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1005,
+        "elo": 1009,
         "win_rate": 41.1,
         "rank": 103
       },
@@ -98,6 +97,11 @@
         "win_rate": 43.6,
         "rank": 105
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 12,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

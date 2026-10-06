@@ -58,6 +58,14 @@
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v4-flash-vision-exp-20260821/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 34.8,
+      "coding_index": 65,
+      "agentic_index": 47.5
+    }
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

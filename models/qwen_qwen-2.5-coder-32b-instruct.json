@@ -47,5 +47,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen-2.5-coder-32b-instruct/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 6.7,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

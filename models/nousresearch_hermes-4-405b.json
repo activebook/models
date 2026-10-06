@@ -46,6 +46,14 @@
   "links": {
     "details": "/api/v1/models/nousresearch/hermes-4-405b/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 7.5,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

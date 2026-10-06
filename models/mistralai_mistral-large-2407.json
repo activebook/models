@@ -50,5 +50,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/mistralai/mistral-large-2407/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 7.6,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

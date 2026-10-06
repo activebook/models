@@ -52,5 +52,13 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/mistralai/mistral-small-24b-instruct-2501/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 6.7,
+      "coding_index": null,
+      "agentic_index": null
+    }
   }
 }

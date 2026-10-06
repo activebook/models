@@ -60,6 +60,14 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3-vl-30b-a3b-thinking/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 9.5,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": true
   }
