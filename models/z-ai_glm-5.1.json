@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000014",
-    "completion": "0.0000044",
-    "input_cache_read": "0.00000026"
+    "prompt": "0.000000966",
+    "completion": "0.000003036",
+    "input_cache_read": "0.0000001794"
   },
   "top_provider": {
-    "context_length": 202752,
-    "max_completion_tokens": 131072,
+    "context_length": 200000,
+    "max_completion_tokens": 128000,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -75,15 +75,15 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1141,
-        "win_rate": 43.1,
-        "rank": 48
+        "elo": 1140,
+        "win_rate": 43.4,
+        "rank": 49
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1273,
-        "win_rate": 53.4,
+        "elo": 1272,
+        "win_rate": 53.3,
         "rank": 25
       },
       {
@@ -96,7 +96,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1275,
+        "elo": 1273,
         "win_rate": 55.6,
         "rank": 23
       },
@@ -119,7 +119,7 @@
         "category": "website",
         "elo": 1290,
         "win_rate": 55.1,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "agents",

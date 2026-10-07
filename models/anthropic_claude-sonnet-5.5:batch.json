@@ -56,10 +56,24 @@
     "design_arena": [
       {
         "arena": "models",
+        "category": "dataviz",
+        "elo": 1340,
+        "win_rate": 62,
+        "rank": 8
+      },
+      {
+        "arena": "models",
         "category": "uicomponent",
-        "elo": 1402,
-        "win_rate": 67,
-        "rank": 2
+        "elo": 1398,
+        "win_rate": 66.5,
+        "rank": 1
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1319,
+        "win_rate": 51.8,
+        "rank": 6
       }
     ],
     "artificial_analysis": {

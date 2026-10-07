@@ -1,0 +1,63 @@
+{
+  "id": "google/gemini-nano-banana-2.1",
+  "canonical_slug": "google/gemini-nano-banana-2.1-20261006",
+  "hugging_face_id": null,
+  "name": "Google: Nano Banana 2.1",
+  "created": 1791300825,
+  "description": "Nano Banana 2.1 (Gemini Nano Banana 2.1) is Google's image generation and editing model on the Flash tier, succeeding Nano Banana 2 and Nano Banana Pro. It improves product recontextualization,...",
+  "context_length": 65536,
+  "architecture": {
+    "modality": "text+image->text+image",
+    "input_modalities": [
+      "image",
+      "text"
+    ],
+    "output_modalities": [
+      "image",
+      "text"
+    ],
+    "tokenizer": "Gemini",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000015",
+    "completion": "0.0000075",
+    "image_output": "0.00003",
+    "web_search": "0.014"
+  },
+  "top_provider": {
+    "context_length": 65536,
+    "max_completion_tokens": 58982,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "seed",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-nano-banana-2.1-20261006/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "high",
+      "minimal"
+    ],
+    "default_effort": "minimal"
+  }
+}

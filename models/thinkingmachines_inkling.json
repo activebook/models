@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000095",
+    "prompt": "0.000001",
     "completion": "0.00000405",
-    "input_cache_read": "0.00000016"
+    "input_cache_read": "0.00000017"
   },
   "top_provider": {
     "context_length": 524288,
-    "max_completion_tokens": 262144,
+    "max_completion_tokens": 471859,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -67,58 +67,58 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1174,
-        "win_rate": 40.3,
-        "rank": 55
+        "elo": 1166,
+        "win_rate": 39.8,
+        "rank": 57
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1108,
-        "win_rate": 34.3,
-        "rank": 58
+        "elo": 1099,
+        "win_rate": 34,
+        "rank": 61
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1209,
-        "win_rate": 42.1,
+        "elo": 1208,
+        "win_rate": 42,
         "rank": 50
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1173,
-        "win_rate": 38.4,
-        "rank": 67
+        "elo": 1171,
+        "win_rate": 37.9,
+        "rank": 68
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1177,
-        "win_rate": 37.9,
+        "elo": 1173,
+        "win_rate": 37.7,
         "rank": 61
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1113,
-        "win_rate": 34.1,
+        "win_rate": 33.9,
         "rank": 56
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1205,
-        "win_rate": 41,
+        "elo": 1204,
+        "win_rate": 40.9,
         "rank": 53
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1228,
-        "win_rate": 44.2,
-        "rank": 48
+        "win_rate": 44.3,
+        "rank": 49
       }
     ],
     "artificial_analysis": {

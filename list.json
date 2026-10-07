@@ -616,6 +616,10 @@
     "file": "models/~google_gemini-flash-latest.json"
   },
   {
+    "name": "gemini-nano-banana-2.1",
+    "file": "models/google_gemini-nano-banana-2.1.json"
+  },
+  {
     "name": "gemini-pro-latest",
     "file": "models/~google_gemini-pro-latest.json"
   },
@@ -1874,6 +1878,10 @@
   {
     "name": "mistral-large-2512:batch",
     "file": "models/mistralai_mistral-large-2512:batch.json"
+  },
+  {
+    "name": "mistral-large-4-0",
+    "file": "models/mistralai_mistral-large-4-0.json"
   },
   {
     "name": "mistral-medium-3",
