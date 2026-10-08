@@ -62,7 +62,15 @@
     "details": "/api/v1/models/openai/gpt-6.1-sol-20260929/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1314,
+        "win_rate": 54.7,
+        "rank": 8
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 51.8,
       "coding_index": null,

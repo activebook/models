@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000007",
-    "completion": "0.000007",
-    "input_cache_read": "0.000000065"
+    "prompt": "0.000000049",
+    "completion": "0.00000339",
+    "input_cache_read": "0.000000048"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -66,8 +66,8 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1350,
-        "win_rate": 60.7,
+        "elo": 1351,
+        "win_rate": 60.8,
         "rank": 5
       },
       {
@@ -80,7 +80,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1314,
+        "elo": 1313,
         "win_rate": 54.9,
         "rank": 9
       },
@@ -89,35 +89,35 @@
         "category": "dataviz",
         "elo": 1269,
         "win_rate": 52.7,
-        "rank": 26
+        "rank": 25
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1325,
+        "elo": 1322,
         "win_rate": 52.9,
-        "rank": 9
+        "rank": 10
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1296,
         "win_rate": 57,
-        "rank": 7
+        "rank": 8
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1324,
-        "win_rate": 57.6,
+        "elo": 1325,
+        "win_rate": 57.7,
         "rank": 10
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1307,
+        "elo": 1305,
         "win_rate": 54.9,
-        "rank": 11
+        "rank": 12
       },
       {
         "arena": "agents",

@@ -112,6 +112,14 @@
     "file": "models/anthropic_claude-haiku-4.5:batch.json"
   },
   {
+    "name": "claude-haiku-5.5",
+    "file": "models/anthropic_claude-haiku-5.5.json"
+  },
+  {
+    "name": "claude-haiku-5.5:batch",
+    "file": "models/anthropic_claude-haiku-5.5:batch.json"
+  },
+  {
     "name": "claude-haiku-latest",
     "file": "models/~anthropic_claude-haiku-latest.json"
   },

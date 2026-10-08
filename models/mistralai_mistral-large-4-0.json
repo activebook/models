@@ -54,6 +54,31 @@
   "links": {
     "details": "/api/v1/models/mistralai/mistral-large-4-0-20261006/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1275,
+        "win_rate": 47.3,
+        "rank": 22
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1270,
+        "win_rate": 48,
+        "rank": 31
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1276,
+        "win_rate": 46.4,
+        "rank": 20
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

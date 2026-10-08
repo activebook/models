@@ -1,14 +1,10 @@
 {
-  "id": "~anthropic/claude-haiku-latest",
-  "canonical_slug": "~anthropic/claude-haiku-latest",
-  "alias_target": {
-    "name": "Anthropic: Claude Haiku 5.5",
-    "slug": "anthropic/claude-haiku-5.5"
-  },
+  "id": "anthropic/claude-haiku-5.5",
+  "canonical_slug": "anthropic/claude-haiku-5.5-20261007",
   "hugging_face_id": null,
-  "name": "Anthropic: Claude Haiku Latest",
-  "created": 1777318492,
-  "description": "This model always redirects to the latest model in the Claude Haiku family.",
+  "name": "Anthropic: Claude Haiku 5.5",
+  "created": 1791397883,
+  "description": "Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -20,7 +16,7 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Claude",
     "instruct_type": null
   },
   "pricing": {
@@ -44,7 +40,7 @@
   "top_provider": {
     "context_length": 1000000,
     "max_completion_tokens": 128000,
-    "is_moderated": false
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -65,7 +61,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~anthropic/claude-haiku-latest/endpoints"
+    "details": "/api/v1/models/anthropic/claude-haiku-5.5-20261007/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 43.4,
+      "coding_index": null,
+      "agentic_index": null
+    }
   },
   "reasoning": {
     "mandatory": false,

@@ -60,7 +60,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-10-21",
   "links": {
     "details": "/api/v1/models/qwen/qwen3.5-9b-20260310/endpoints"
   },
