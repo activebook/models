@@ -22,9 +22,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000001575",
-    "completion": "0.0000042",
-    "input_cache_read": "0.00000012"
+    "prompt": "0.000000135",
+    "completion": "0.000008",
+    "input_cache_read": "0.00000014"
   },
   "top_provider": {
     "context_length": 1048576,

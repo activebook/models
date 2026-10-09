@@ -1612,6 +1612,10 @@
     "file": "models/inclusionai_ling-3.0-flash-fin:free.json"
   },
   {
+    "name": "ling-3.0-flash-sante",
+    "file": "models/inclusionai_ling-3.0-flash-sante.json"
+  },
+  {
     "name": "ling-3.0-flash-sante:free",
     "file": "models/inclusionai_ling-3.0-flash-sante:free.json"
   },
@@ -2686,6 +2690,10 @@
   {
     "name": "step-3.7-flash",
     "file": "models/stepfun_step-3.7-flash.json"
+  },
+  {
+    "name": "step-5-preview",
+    "file": "models/stepfun_step-5-preview.json"
   },
   {
     "name": "switchyard",

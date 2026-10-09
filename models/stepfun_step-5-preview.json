@@ -1,15 +1,11 @@
 {
-  "id": "~moonshotai/kimi-latest",
-  "canonical_slug": "~moonshotai/kimi-latest",
-  "alias_target": {
-    "name": "MoonshotAI: Kimi K3",
-    "slug": "moonshotai/kimi-k3"
-  },
+  "id": "stepfun/step-5-preview",
+  "canonical_slug": "stepfun/step-5-preview-20261008",
   "hugging_face_id": null,
-  "name": "MoonshotAI: Kimi Latest",
-  "created": 1777318428,
-  "description": "This model always redirects to the latest model in the Kimi family.",
-  "context_length": 1048576,
+  "name": "StepFun: Step 5 Preview",
+  "created": 1791462849,
+  "description": "Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional...",
+  "context_length": 1000000,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -20,45 +16,38 @@
     "output_modalities": [
       "text"
     ],
-    "tokenizer": "Router",
+    "tokenizer": "Other",
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000001",
-    "completion": "0.000004",
-    "input_cache_read": "0.0000001"
+    "prompt": "0.000001",
+    "completion": "0.0000027",
+    "input_cache_read": "0.00000005"
   },
   "top_provider": {
-    "context_length": 1048576,
-    "max_completion_tokens": 943718,
+    "context_length": 1000000,
+    "max_completion_tokens": 64000,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "logprobs",
     "max_tokens",
-    "min_p",
-    "presence_penalty",
     "reasoning",
     "reasoning_effort",
-    "repetition_penalty",
     "response_format",
-    "seed",
     "stop",
     "structured_outputs",
     "temperature",
-    "tool_choice",
     "tools",
-    "top_k",
     "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
     "temperature": null,
-    "top_p": 0.95,
+    "top_p": null,
     "top_k": null,
     "frequency_penalty": null,
     "presence_penalty": null,
@@ -68,16 +57,15 @@
   "knowledge_cutoff": null,
   "expiration_date": null,
   "links": {
-    "details": "/api/v1/models/~moonshotai/kimi-latest/endpoints"
+    "details": "/api/v1/models/stepfun/step-5-preview-20261008/endpoints"
   },
   "reasoning": {
-    "mandatory": false,
-    "default_enabled": true,
+    "mandatory": true,
     "supported_efforts": [
-      "max",
       "high",
+      "medium",
       "low"
     ],
-    "default_effort": "max"
+    "default_effort": "medium"
   }
 }

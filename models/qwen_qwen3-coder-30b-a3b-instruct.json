@@ -32,7 +32,6 @@
     "logprobs",
     "max_tokens",
     "presence_penalty",
-    "repetition_penalty",
     "response_format",
     "seed",
     "stop",
@@ -56,16 +55,16 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1089,
+        "elo": 1086,
         "win_rate": 54.7,
-        "rank": 97
+        "rank": 98
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1051,
         "win_rate": 54.1,
-        "rank": 97
+        "rank": 98
       },
       {
         "arena": "models",
