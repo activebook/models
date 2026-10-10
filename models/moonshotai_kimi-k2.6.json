@@ -21,7 +21,7 @@
   "pricing": {
     "prompt": "0.000000465",
     "completion": "0.00000245",
-    "input_cache_read": "0.0000000975"
+    "input_cache_read": "0.0000000875"
   },
   "top_provider": {
     "context_length": 262144,
@@ -112,9 +112,9 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1154,
+        "elo": 1156,
         "win_rate": 49.4,
-        "rank": 25
+        "rank": 24
       },
       {
         "arena": "agents",
@@ -168,7 +168,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1173,
+        "elo": 1170,
         "win_rate": 47.5,
         "rank": 33
       },
@@ -203,7 +203,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1271,
+        "elo": 1269,
         "win_rate": 55.6,
         "rank": 29
       },

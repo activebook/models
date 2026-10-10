@@ -58,7 +58,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-10-21",
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2.5-20260422/endpoints"
   },
@@ -67,14 +67,14 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1220,
+        "elo": 1221,
         "win_rate": 50.8,
         "rank": 37
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1148,
+        "elo": 1146,
         "win_rate": 45,
         "rank": 46
       },
@@ -95,7 +95,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1252,
+        "elo": 1251,
         "win_rate": 52.5,
         "rank": 34
       },
@@ -118,7 +118,7 @@
         "category": "website",
         "elo": 1270,
         "win_rate": 53.8,
-        "rank": 30
+        "rank": 29
       }
     ],
     "artificial_analysis": {

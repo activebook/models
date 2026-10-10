@@ -65,23 +65,23 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1420,
-        "win_rate": 65.5,
+        "elo": 1450,
+        "win_rate": 69,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1393,
-        "win_rate": 65.6,
+        "elo": 1383,
+        "win_rate": 64.8,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1316,
-        "win_rate": 53.4,
-        "rank": 6
+        "elo": 1307,
+        "win_rate": 52.3,
+        "rank": 10
       }
     ],
     "artificial_analysis": {

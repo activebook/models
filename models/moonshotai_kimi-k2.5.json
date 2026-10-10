@@ -19,9 +19,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000045",
-    "completion": "0.00000225",
-    "input_cache_read": "0.00000007"
+    "prompt": "0.0000005",
+    "completion": "0.0000025",
+    "input_cache_read": "0.00000015"
   },
   "top_provider": {
     "context_length": 262144,
@@ -76,7 +76,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1112,
+        "elo": 1114,
         "win_rate": 54.5,
         "rank": 28
       },
@@ -99,7 +99,7 @@
         "category": "webapps",
         "elo": 1129,
         "win_rate": 51.6,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "models",
@@ -111,9 +111,9 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1174,
+        "elo": 1171,
         "win_rate": 46.4,
-        "rank": 32
+        "rank": 31
       },
       {
         "arena": "models",
@@ -155,7 +155,7 @@
         "category": "website",
         "elo": 1253,
         "win_rate": 55.2,
-        "rank": 38
+        "rank": 39
       }
     ],
     "artificial_analysis": {
