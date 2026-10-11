@@ -64,7 +64,29 @@
     "details": "/api/v1/models/anthropic/claude-haiku-5.5-20261007/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1290,
+        "win_rate": 51.1,
+        "rank": 19
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1312,
+        "win_rate": 53.7,
+        "rank": 14
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1278,
+        "win_rate": 50.1,
+        "rank": 23
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 43.4,
       "coding_index": null,

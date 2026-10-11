@@ -51,7 +51,15 @@
     "details": "/api/v1/models/upstage/solar-mini4-20260922/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1168,
+        "win_rate": 34.5,
+        "rank": 78
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 24.1,
       "coding_index": null,
