@@ -95,19 +95,19 @@
         "category": "3d",
         "elo": 1396,
         "win_rate": 67.7,
-        "rank": 3
+        "rank": 4
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1329,
+        "elo": 1324,
         "win_rate": 65,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1341,
+        "elo": 1340,
         "win_rate": 59.3,
         "rank": 6
       },
@@ -142,9 +142,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1318,
+        "elo": 1317,
         "win_rate": 56.3,
-        "rank": 5
+        "rank": 6
       }
     ],
     "artificial_analysis": {
