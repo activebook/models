@@ -55,7 +55,7 @@
         "category": "3d",
         "elo": 840,
         "win_rate": 30.5,
-        "rank": 121
+        "rank": 122
       },
       {
         "arena": "models",
@@ -69,7 +69,7 @@
         "category": "dataviz",
         "elo": 1036,
         "win_rate": 49.2,
-        "rank": 107
+        "rank": 108
       },
       {
         "arena": "models",
@@ -83,14 +83,14 @@
         "category": "uicomponent",
         "elo": 964,
         "win_rate": 45.4,
-        "rank": 112
+        "rank": 114
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1002,
+        "elo": 1000,
         "win_rate": 47.8,
-        "rank": 123
+        "rank": 124
       }
     ],
     "artificial_analysis": {

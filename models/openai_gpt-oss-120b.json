@@ -18,12 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000037",
-    "completion": "0.00000017"
+    "prompt": "0.00000015",
+    "completion": "0.0000006",
+    "input_cache_read": "0.000000075"
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 117964,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -66,9 +67,9 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 906,
+        "elo": 903,
         "win_rate": 29.4,
-        "rank": 115
+        "rank": 117
       },
       {
         "arena": "models",
@@ -82,7 +83,7 @@
         "category": "dataviz",
         "elo": 990,
         "win_rate": 43.6,
-        "rank": 113
+        "rank": 114
       },
       {
         "arena": "models",
@@ -96,14 +97,14 @@
         "category": "uicomponent",
         "elo": 930,
         "win_rate": 35.7,
-        "rank": 117
+        "rank": 119
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 972,
+        "elo": 970,
         "win_rate": 32.5,
-        "rank": 127
+        "rank": 129
       }
     ],
     "artificial_analysis": {
