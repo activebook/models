@@ -456,6 +456,10 @@
     "file": "models/baidu_ernie-4.5-vl-424b-a47b.json"
   },
   {
+    "name": "extract",
+    "file": "models/scaledown_extract.json"
+  },
+  {
     "name": "free",
     "file": "models/openrouter_free.json"
   },
@@ -618,6 +622,14 @@
   {
     "name": "gemini-3.8-flash:batch",
     "file": "models/google_gemini-3.8-flash:batch.json"
+  },
+  {
+    "name": "gemini-4-argon",
+    "file": "models/google_gemini-4-argon.json"
+  },
+  {
+    "name": "gemini-4-argon:batch",
+    "file": "models/google_gemini-4-argon:batch.json"
   },
   {
     "name": "gemini-flash-latest",
@@ -1580,6 +1592,10 @@
     "file": "models/liquid_lfm-2.5-2.6b:free.json"
   },
   {
+    "name": "lfm-2.5-24b-a2b",
+    "file": "models/liquid_lfm-2.5-24b-a2b.json"
+  },
+  {
     "name": "lfm2-8b-a1b",
     "file": "models/liquid_lfm2-8b-a1b.json"
   },
@@ -2240,8 +2256,16 @@
     "file": "models/unbiased_pareto-26.10-preview.json"
   },
   {
+    "name": "pareto-26.9",
+    "file": "models/unbiased_pareto-26.9.json"
+  },
+  {
     "name": "pareto-code",
     "file": "models/openrouter_pareto-code.json"
+  },
+  {
+    "name": "pareto-latest",
+    "file": "models/~unbiased_pareto-latest.json"
   },
   {
     "name": "perceptron-mk1",
@@ -2698,6 +2722,10 @@
   {
     "name": "step-5-preview",
     "file": "models/stepfun_step-5-preview.json"
+  },
+  {
+    "name": "summarize",
+    "file": "models/scaledown_summarize.json"
   },
   {
     "name": "switchyard",

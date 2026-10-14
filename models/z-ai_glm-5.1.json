@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000966",
-    "completion": "0.000003036",
-    "input_cache_read": "0.0000001794"
+    "prompt": "0.00000133",
+    "completion": "0.00000418",
+    "input_cache_read": "0.000000247"
   },
   "top_provider": {
-    "context_length": 200000,
-    "max_completion_tokens": 128000,
+    "context_length": 202745,
+    "max_completion_tokens": 131072,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -70,12 +70,12 @@
         "category": "3d",
         "elo": 1336,
         "win_rate": 62.6,
-        "rank": 9
+        "rank": 10
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1145,
+        "elo": 1146,
         "win_rate": 44.9,
         "rank": 45
       },
@@ -83,8 +83,8 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1271,
-        "win_rate": 53.2,
-        "rank": 27
+        "win_rate": 53.1,
+        "rank": 28
       },
       {
         "arena": "models",
@@ -96,15 +96,15 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1268,
-        "win_rate": 55.3,
-        "rank": 28
+        "elo": 1267,
+        "win_rate": 55.2,
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1218,
-        "win_rate": 55.6,
+        "win_rate": 55.5,
         "rank": 19
       },
       {
@@ -166,7 +166,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1168,
+        "elo": 1167,
         "win_rate": 53.2,
         "rank": 23
       },
@@ -180,7 +180,7 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1169,
+        "elo": 1170,
         "win_rate": 48.8,
         "rank": 14
       },
@@ -188,7 +188,7 @@
         "arena": "agents",
         "category": "mobileapps",
         "elo": 1158,
-        "win_rate": 50.6,
+        "win_rate": 50.5,
         "rank": 24
       },
       {

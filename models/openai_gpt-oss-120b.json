@@ -18,13 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000015",
-    "completion": "0.0000006",
-    "input_cache_read": "0.000000075"
+    "prompt": "0.000000037",
+    "completion": "0.00000017"
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 65536,
+    "max_completion_tokens": 117964,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -67,37 +66,37 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 903,
+        "elo": 902,
         "win_rate": 29.4,
         "rank": 117
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 967,
+        "elo": 966,
         "win_rate": 33.4,
-        "rank": 125
+        "rank": 126
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 990,
+        "elo": 989,
         "win_rate": 43.6,
-        "rank": 114
+        "rank": 115
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 997,
         "win_rate": 40.5,
-        "rank": 115
+        "rank": 116
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 930,
+        "elo": 929,
         "win_rate": 35.7,
-        "rank": 119
+        "rank": 120
       },
       {
         "arena": "models",

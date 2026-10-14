@@ -1,0 +1,42 @@
+{
+  "id": "scaledown/summarize",
+  "canonical_slug": "scaledown/summarize-20260928",
+  "hugging_face_id": null,
+  "name": "ScaleDown: Summarize",
+  "created": 1791893360,
+  "description": "Summarize is an abstractive summarization model from ScaleDown. It condenses long text and documents into a fluent, faithful rewrite rather than lifting sentences from the source, and is suited for...",
+  "context_length": 1000000,
+  "architecture": {
+    "modality": "text+image+file->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "file"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000004",
+    "completion": "0"
+  },
+  "top_provider": {
+    "context_length": 1000000,
+    "max_completion_tokens": 4000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "max_tokens"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/scaledown/summarize-20260928/endpoints"
+  }
+}

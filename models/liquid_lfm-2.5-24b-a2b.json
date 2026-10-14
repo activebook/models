@@ -1,0 +1,65 @@
+{
+  "id": "liquid/lfm-2.5-24b-a2b",
+  "canonical_slug": "liquid/lfm-2.5-24b-a2b-20261012",
+  "hugging_face_id": "LiquidAI/LFM2.5-24B-A2B",
+  "name": "LiquidAI: LFM2.5-24B-A2B",
+  "created": 1791912025,
+  "description": "LFM2.5-24B-A2B is a mixture-of-experts reasoning model from Liquid AI with 24B total and 2.45B active parameters. It always reasons before answering and is built for agents that call tools. Liquid...",
+  "context_length": 128000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000005",
+    "completion": "0.0000007",
+    "input_cache_read": "0.000000025"
+  },
+  "top_provider": {
+    "context_length": 128000,
+    "max_completion_tokens": 8192,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logprobs",
+    "max_completion_tokens",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_logprobs"
+  ],
+  "default_parameters": {
+    "temperature": 0.1,
+    "top_k": 50,
+    "repetition_penalty": 1.05
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/liquid/lfm-2.5-24b-a2b-20261012/endpoints"
+  },
+  "reasoning": {
+    "mandatory": true
+  }
+}
