@@ -31,7 +31,6 @@
     "frequency_penalty",
     "max_tokens",
     "response_format",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
@@ -60,14 +59,14 @@
         "category": "uicomponent",
         "elo": 1048,
         "win_rate": 54.1,
-        "rank": 101
+        "rank": 102
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1090,
+        "elo": 1089,
         "win_rate": 57.1,
-        "rank": 106
+        "rank": 107
       }
     ],
     "artificial_analysis": {

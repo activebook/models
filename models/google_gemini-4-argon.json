@@ -67,7 +67,43 @@
     "details": "/api/v1/models/google/gemini-4-argon-20261013/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1378,
+        "win_rate": 63.2,
+        "rank": 8
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1336,
+        "win_rate": 57.5,
+        "rank": 8
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1369,
+        "win_rate": 62,
+        "rank": 6
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1279,
+        "win_rate": 46.7,
+        "rank": 27
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1322,
+        "win_rate": 56.1,
+        "rank": 6
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 52.6,
       "coding_index": null,

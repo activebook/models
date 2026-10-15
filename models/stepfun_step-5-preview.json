@@ -59,6 +59,14 @@
   "links": {
     "details": "/api/v1/models/stepfun/step-5-preview-20261008/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 43.7,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [

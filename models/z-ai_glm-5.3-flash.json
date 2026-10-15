@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000015",
-    "completion": "0.0000005",
-    "input_cache_read": "0.00000003"
+    "prompt": "0.000000036",
+    "completion": "0.0000009",
+    "input_cache_read": "0.00000001125"
   },
   "top_provider": {
-    "context_length": 1048575,
-    "max_completion_tokens": 943717,
+    "context_length": 1048576,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -68,58 +68,58 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1318,
+        "elo": 1317,
         "win_rate": 56.3,
-        "rank": 15
+        "rank": 16
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1266,
-        "win_rate": 54.8,
+        "elo": 1268,
+        "win_rate": 54.9,
         "rank": 11
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1286,
+        "elo": 1285,
         "win_rate": 49.4,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1264,
-        "win_rate": 50.4,
-        "rank": 28
+        "elo": 1263,
+        "win_rate": 50.5,
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1286,
+        "elo": 1284,
         "win_rate": 47.3,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1288,
-        "win_rate": 57,
+        "elo": 1286,
+        "win_rate": 56.9,
         "rank": 10
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1321,
-        "win_rate": 55,
-        "rank": 12
+        "elo": 1320,
+        "win_rate": 54.9,
+        "rank": 13
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1275,
+        "elo": 1274,
         "win_rate": 48.5,
-        "rank": 25
+        "rank": 26
       }
     ],
     "artificial_analysis": {
