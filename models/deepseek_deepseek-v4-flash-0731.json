@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000016",
+    "prompt": "0.0000000154",
     "completion": "0.00000064",
-    "input_cache_read": "0.000000016"
+    "input_cache_read": "0.0000000154"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -87,7 +87,7 @@
         "category": "dataviz",
         "elo": 1182,
         "win_rate": 41.1,
-        "rank": 62
+        "rank": 63
       },
       {
         "arena": "models",
@@ -106,7 +106,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1237,
+        "elo": 1235,
         "win_rate": 46.8,
         "rank": 46
       },
@@ -130,7 +130,8 @@
     "supported_efforts": [
       "max",
       "high",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "high"
   }

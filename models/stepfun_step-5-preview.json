@@ -1,11 +1,11 @@
 {
   "id": "stepfun/step-5-preview",
   "canonical_slug": "stepfun/step-5-preview-20261008",
-  "hugging_face_id": null,
+  "hugging_face_id": "stepfun-ai/Step-5-Preview",
   "name": "StepFun: Step 5 Preview",
   "created": 1791462849,
   "description": "Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional...",
-  "context_length": 1000000,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -22,7 +22,7 @@
   "pricing": {
     "prompt": "0.000001",
     "completion": "0.0000027",
-    "input_cache_read": "0.00000005"
+    "input_cache_read": "0.0000001"
   },
   "top_provider": {
     "context_length": 1000000,
@@ -33,15 +33,22 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "logprobs",
     "max_tokens",
+    "min_p",
+    "presence_penalty",
     "reasoning",
     "reasoning_effort",
+    "repetition_penalty",
     "response_format",
+    "seed",
     "stop",
     "structured_outputs",
     "temperature",
+    "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],

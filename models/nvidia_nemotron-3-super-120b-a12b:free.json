@@ -68,7 +68,8 @@
     "supports_max_tokens": true,
     "supported_efforts": [
       "medium",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "medium"
   }

@@ -57,7 +57,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1131,
+        "elo": 1132,
         "win_rate": 38.9,
         "rank": 75
       },
@@ -71,7 +71,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1148,
+        "elo": 1149,
         "win_rate": 36.1,
         "rank": 84
       },
@@ -79,34 +79,34 @@
         "arena": "models",
         "category": "dataviz",
         "elo": 1142,
-        "win_rate": 37.4,
-        "rank": 83
+        "win_rate": 37.5,
+        "rank": 84
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1141,
-        "win_rate": 36.2,
+        "win_rate": 36.3,
         "rank": 78
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1069,
-        "win_rate": 32.5,
+        "win_rate": 32.4,
         "rank": 69
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1142,
+        "elo": 1139,
         "win_rate": 36.1,
-        "rank": 79
+        "rank": 80
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1145,
+        "elo": 1146,
         "win_rate": 35.1,
         "rank": 91
       }
@@ -123,7 +123,8 @@
     "supports_max_tokens": true,
     "supported_efforts": [
       "high",
-      "medium"
+      "medium",
+      "none"
     ],
     "default_effort": "high"
   }

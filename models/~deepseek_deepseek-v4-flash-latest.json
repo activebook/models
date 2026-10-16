@@ -22,9 +22,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000144",
-    "completion": "0.000000576",
-    "input_cache_read": "0.0000000108"
+    "prompt": "0.0000000154",
+    "completion": "0.00000064",
+    "input_cache_read": "0.0000000154"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -69,7 +69,8 @@
     "supported_efforts": [
       "max",
       "high",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "high"
   }

@@ -154,7 +154,8 @@
     "supported_efforts": [
       "max",
       "high",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "high"
   }

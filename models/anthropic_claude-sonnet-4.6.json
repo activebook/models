@@ -119,14 +119,14 @@
         "category": "codecategories",
         "elo": 1278,
         "win_rate": 59.4,
-        "rank": 23
+        "rank": 24
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1279,
         "win_rate": 58.2,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "models",
@@ -145,7 +145,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1273,
+        "elo": 1271,
         "win_rate": 58.3,
         "rank": 30
       },
@@ -169,7 +169,8 @@
       "max",
       "high",
       "medium",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "medium"
   }

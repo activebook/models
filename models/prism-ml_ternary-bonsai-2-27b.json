@@ -65,7 +65,8 @@
     "default_enabled": true,
     "supported_efforts": [
       "xhigh",
-      "medium"
+      "medium",
+      "none"
     ],
     "default_effort": "xhigh"
   }

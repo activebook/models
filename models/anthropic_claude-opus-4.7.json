@@ -69,7 +69,8 @@
       "xhigh",
       "high",
       "medium",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "high"
   }

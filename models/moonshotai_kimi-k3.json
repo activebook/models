@@ -20,9 +20,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000045",
-    "completion": "0.000015",
-    "input_cache_read": "0.00000028"
+    "prompt": "0.000000304",
+    "completion": "0.000011588",
+    "input_cache_read": "0.00000021"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -129,7 +129,7 @@
         "category": "3d",
         "elo": 1389,
         "win_rate": 67.3,
-        "rank": 7
+        "rank": 8
       },
       {
         "arena": "models",
@@ -169,7 +169,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1336,
+        "elo": 1337,
         "win_rate": 59.2,
         "rank": 4
       }
@@ -186,7 +186,8 @@
     "supported_efforts": [
       "max",
       "high",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "max"
   }

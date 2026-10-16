@@ -53,7 +53,8 @@
     "default_enabled": true,
     "supported_efforts": [
       "high",
-      "minimal"
+      "minimal",
+      "none"
     ],
     "default_effort": "minimal"
   }

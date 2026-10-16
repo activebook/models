@@ -98,7 +98,7 @@
         "category": "3d",
         "elo": 1274,
         "win_rate": 62.5,
-        "rank": 22
+        "rank": 23
       },
       {
         "arena": "models",
@@ -119,7 +119,7 @@
         "category": "dataviz",
         "elo": 1281,
         "win_rate": 58.7,
-        "rank": 19
+        "rank": 20
       },
       {
         "arena": "models",
@@ -138,9 +138,9 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1286,
+        "elo": 1284,
         "win_rate": 59.8,
-        "rank": 23
+        "rank": 24
       },
       {
         "arena": "models",
@@ -164,7 +164,8 @@
       "max",
       "high",
       "medium",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "high"
   }

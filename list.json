@@ -1980,6 +1980,14 @@
     "file": "models/allenai_molmo-2-8b.json"
   },
   {
+    "name": "moondream3-preview",
+    "file": "models/moondream_moondream3-preview.json"
+  },
+  {
+    "name": "moondream3.1-9b-a2b",
+    "file": "models/moondream_moondream3.1-9b-a2b.json"
+  },
+  {
     "name": "morph-v3-fast",
     "file": "models/morph_morph-v3-fast.json"
   },
@@ -2014,6 +2022,10 @@
   {
     "name": "muse-spark-1.3-contributor",
     "file": "models/meta_muse-spark-1.3-contributor.json"
+  },
+  {
+    "name": "muse-spark-open",
+    "file": "models/meta_muse-spark-open.json"
   },
   {
     "name": "muse-wonder",
@@ -2070,6 +2082,14 @@
   {
     "name": "nemotron-3.5-lightning:free",
     "file": "models/nvidia_nemotron-3.5-lightning:free.json"
+  },
+  {
+    "name": "nemotron-3.5-super-vl",
+    "file": "models/nvidia_nemotron-3.5-super-vl.json"
+  },
+  {
+    "name": "nemotron-3.5-super-vl:free",
+    "file": "models/nvidia_nemotron-3.5-super-vl:free.json"
   },
   {
     "name": "nemotron-nano-12b-v2-vl",

@@ -1,0 +1,53 @@
+{
+  "id": "moondream/moondream3.1-9b-a2b",
+  "canonical_slug": "moondream/moondream3.1-9b-a2b-20261013",
+  "hugging_face_id": "moondream/moondream3.1-9B-A2B",
+  "name": "Moondream: Moondream 3.1",
+  "created": 1792102373,
+  "description": "Moondream 3.1 is a vision-language model from Moondream, the successor to Moondream 3 Preview, with 9B total parameters and 2B active (mixture-of-experts). It handles visual question answering, captioning, OCR, and...",
+  "context_length": 32000,
+  "architecture": {
+    "modality": "text+image->text",
+    "input_modalities": [
+      "text",
+      "image"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000003",
+    "completion": "0.0000025"
+  },
+  "top_provider": {
+    "context_length": 32000,
+    "max_completion_tokens": 4096,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_completion_tokens",
+    "max_tokens",
+    "reasoning",
+    "temperature",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.2,
+    "top_p": 0.9
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/moondream/moondream3.1-9b-a2b-20261013/endpoints"
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false
+  }
+}

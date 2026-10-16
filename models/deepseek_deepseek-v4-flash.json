@@ -87,7 +87,7 @@
         "category": "dataviz",
         "elo": 1129,
         "win_rate": 40.7,
-        "rank": 88
+        "rank": 89
       },
       {
         "arena": "models",
@@ -106,7 +106,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1166,
+        "elo": 1164,
         "win_rate": 44.7,
         "rank": 71
       },
@@ -128,7 +128,8 @@
     "mandatory": false,
     "supported_efforts": [
       "xhigh",
-      "high"
+      "high",
+      "none"
     ],
     "default_effort": "high"
   }

@@ -48,6 +48,6 @@
     "details": "/api/v1/models/perplexity/sonar-deep-research/endpoints"
   },
   "reasoning": {
-    "mandatory": false
+    "mandatory": true
   }
 }

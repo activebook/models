@@ -78,7 +78,8 @@
     "supported_efforts": [
       "xhigh",
       "medium",
-      "low"
+      "low",
+      "none"
     ],
     "default_effort": "xhigh"
   }

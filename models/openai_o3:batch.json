@@ -62,7 +62,7 @@
         "category": "dataviz",
         "elo": 1200,
         "win_rate": 48.1,
-        "rank": 58
+        "rank": 59
       },
       {
         "arena": "models",
@@ -74,7 +74,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1018,
+        "elo": 1016,
         "win_rate": 53.3,
         "rank": 111
       },
@@ -93,6 +93,6 @@
     }
   },
   "reasoning": {
-    "mandatory": false
+    "mandatory": true
   }
 }

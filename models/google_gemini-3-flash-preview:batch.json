@@ -162,7 +162,8 @@
       "high",
       "medium",
       "low",
-      "minimal"
+      "minimal",
+      "none"
     ],
     "default_effort": "medium"
   }
