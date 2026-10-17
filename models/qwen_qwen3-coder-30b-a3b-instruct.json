@@ -31,6 +31,7 @@
     "frequency_penalty",
     "max_tokens",
     "response_format",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
@@ -66,7 +67,7 @@
         "category": "website",
         "elo": 1089,
         "win_rate": 57.1,
-        "rank": 107
+        "rank": 108
       }
     ],
     "artificial_analysis": {

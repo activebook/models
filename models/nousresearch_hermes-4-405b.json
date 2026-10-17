@@ -30,13 +30,16 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logprobs",
     "max_tokens",
     "presence_penalty",
     "reasoning",
     "repetition_penalty",
     "response_format",
+    "structured_outputs",
     "temperature",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {},

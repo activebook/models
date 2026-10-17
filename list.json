@@ -56,6 +56,10 @@
     "file": "models/openrouter_auto-beta.json"
   },
   {
+    "name": "beam-1.0-501b-a23b",
+    "file": "models/reflection_beam-1.0-501b-a23b.json"
+  },
+  {
     "name": "bodybuilder",
     "file": "models/openrouter_bodybuilder.json"
   },
@@ -706,6 +710,10 @@
   {
     "name": "gemma-4-31b-it:free",
     "file": "models/google_gemma-4-31b-it:free.json"
+  },
+  {
+    "name": "glimpse",
+    "file": "models/elorian_glimpse.json"
   },
   {
     "name": "glm-4-32b",
@@ -2564,6 +2572,10 @@
     "file": "models/qwen_qwen3.7-plus.json"
   },
   {
+    "name": "qwen3.7-plus:batch",
+    "file": "models/qwen_qwen3.7-plus:batch.json"
+  },
+  {
     "name": "qwen3.8-2.4t-a95b",
     "file": "models/qwen_qwen3.8-2.4t-a95b.json"
   },
@@ -2810,5 +2822,9 @@
   {
     "name": "wizardlm-2-8x22b",
     "file": "models/microsoft_wizardlm-2-8x22b.json"
+  },
+  {
+    "name": "xing4.0-29b-a4b:free",
+    "file": "models/xingchen-agi_xing4.0-29b-a4b:free.json"
   }
 ]

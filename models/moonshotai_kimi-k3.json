@@ -21,7 +21,7 @@
   },
   "pricing": {
     "prompt": "0.000000304",
-    "completion": "0.000011588",
+    "completion": "0.000011936",
     "input_cache_read": "0.00000021"
   },
   "top_provider": {
@@ -120,7 +120,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1285,
+        "elo": 1283,
         "win_rate": 59,
         "rank": 4
       },
@@ -134,16 +134,16 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1363,
+        "elo": 1362,
         "win_rate": 62.4,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1352,
+        "elo": 1350,
         "win_rate": 63.2,
-        "rank": 4
+        "rank": 5
       },
       {
         "arena": "models",
@@ -169,8 +169,8 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1337,
-        "win_rate": 59.2,
+        "elo": 1336,
+        "win_rate": 59.3,
         "rank": 4
       }
     ],

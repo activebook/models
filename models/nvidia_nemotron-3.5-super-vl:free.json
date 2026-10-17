@@ -49,7 +49,29 @@
     "details": "/api/v1/models/nvidia/nemotron-3.5-super-vl-20261015/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1160,
+        "win_rate": 33.1,
+        "rank": 79
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1117,
+        "win_rate": 29.8,
+        "rank": 88
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1175,
+        "win_rate": 35,
+        "rank": 77
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 26.5,
       "coding_index": null,
