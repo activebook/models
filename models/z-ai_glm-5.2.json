@@ -105,8 +105,8 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1156,
-        "win_rate": 48.1,
+        "elo": 1157,
+        "win_rate": 47.9,
         "rank": 25
       },
       {
@@ -114,12 +114,12 @@
         "category": "python-pptxslides",
         "elo": 1194,
         "win_rate": 48.7,
-        "rank": 16
+        "rank": 17
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1215,
+        "elo": 1219,
         "win_rate": 56,
         "rank": 14
       },
@@ -149,27 +149,27 @@
         "category": "dataviz",
         "elo": 1287,
         "win_rate": 52,
-        "rank": 16
+        "rank": 17
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1270,
         "win_rate": 49.5,
-        "rank": 25
+        "rank": 26
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1214,
+        "elo": 1215,
         "win_rate": 48.8,
         "rank": 22
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1295,
-        "win_rate": 55.3,
+        "elo": 1296,
+        "win_rate": 55.2,
         "rank": 20
       },
       {

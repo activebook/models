@@ -2,14 +2,14 @@
   "id": "~unbiased/pareto-latest",
   "canonical_slug": "~unbiased/pareto-latest",
   "alias_target": {
-    "name": "Pareto 26.9",
-    "slug": "unbiased/pareto-26.9"
+    "name": "Pareto 26.10",
+    "slug": "unbiased/pareto-26.10"
   },
   "hugging_face_id": null,
   "name": "Pareto Latest",
   "created": 1791933050,
   "description": "This model always redirects to the latest model in the Pareto family.",
-  "context_length": 262144,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [
@@ -23,19 +23,18 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000025",
-    "completion": "0.0000075",
-    "input_cache_read": "0.00000025"
+    "prompt": "0.0000008",
+    "completion": "0.0000032",
+    "input_cache_read": "0.00000003"
   },
   "top_provider": {
-    "context_length": 262144,
+    "context_length": 1048576,
     "max_completion_tokens": 131072,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
     "max_tokens",
-    "response_format",
     "temperature",
     "tool_choice",
     "tools",

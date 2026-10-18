@@ -404,6 +404,10 @@
     "file": "models/deepseek_deepseek-v4.1-flash.json"
   },
   {
+    "name": "deepseek-v4.1-flash-1017",
+    "file": "models/deepseek_deepseek-v4.1-flash-1017.json"
+  },
+  {
     "name": "deepseek-v4.1-flash:batch",
     "file": "models/deepseek_deepseek-v4.1-flash:batch.json"
   },
@@ -2278,6 +2282,10 @@
   {
     "name": "pareto",
     "file": "models/unbiased_pareto.json"
+  },
+  {
+    "name": "pareto-26.10",
+    "file": "models/unbiased_pareto-26.10.json"
   },
   {
     "name": "pareto-26.10-preview",
