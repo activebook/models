@@ -20,7 +20,7 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000304",
+    "prompt": "0.000000239",
     "completion": "0.000011936",
     "input_cache_read": "0.00000021"
   },
@@ -108,7 +108,7 @@
         "category": "mobileapps",
         "elo": 1264,
         "win_rate": 57,
-        "rank": 4
+        "rank": 5
       },
       {
         "arena": "agents",
@@ -120,15 +120,15 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1288,
-        "win_rate": 59,
+        "elo": 1292,
+        "win_rate": 59.1,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "3d",
         "elo": 1389,
-        "win_rate": 67.3,
+        "win_rate": 67.2,
         "rank": 8
       },
       {

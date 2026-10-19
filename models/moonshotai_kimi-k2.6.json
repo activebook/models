@@ -135,7 +135,7 @@
         "category": "mobileapps",
         "elo": 1155,
         "win_rate": 47.6,
-        "rank": 26
+        "rank": 27
       },
       {
         "arena": "agents",
@@ -149,7 +149,14 @@
         "category": "python-pptxslides",
         "elo": 1180,
         "win_rate": 42.1,
-        "rank": 18
+        "rank": 19
+      },
+      {
+        "arena": "agents",
+        "category": "spreadsheet",
+        "elo": 1276,
+        "win_rate": 54.8,
+        "rank": 2
       },
       {
         "arena": "agents",
@@ -203,7 +210,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1265,
+        "elo": 1267,
         "win_rate": 55.6,
         "rank": 33
       },

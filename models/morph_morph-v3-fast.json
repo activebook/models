@@ -5,7 +5,7 @@
   "name": "Morph: Morph V3 Fast",
   "created": 1751910002,
   "description": "Morph's fastest apply model for code edits. ~10,500 tokens/sec with 96% accuracy for rapid code transformations. The model requires the prompt to be in the following format: <instruction>{instruction}</instruction> <code>{initial_code}</code> <update>{edit_snippet}</update>...",
-  "context_length": 81920,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -22,15 +22,19 @@
     "completion": "0.0000012"
   },
   "top_provider": {
-    "context_length": 81920,
-    "max_completion_tokens": 38000,
+    "context_length": 262144,
+    "max_completion_tokens": 131072,
     "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "logprobs",
     "max_tokens",
+    "response_format",
     "stop",
-    "temperature"
+    "structured_outputs",
+    "temperature",
+    "top_logprobs"
   ],
   "default_parameters": {
     "temperature": null,

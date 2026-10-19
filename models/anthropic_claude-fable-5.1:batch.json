@@ -73,7 +73,7 @@
         "category": "mobileapps",
         "elo": 1265,
         "win_rate": 56.3,
-        "rank": 3
+        "rank": 4
       },
       {
         "arena": "agents",
@@ -85,7 +85,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1314,
+        "elo": 1316,
         "win_rate": 56.1,
         "rank": 1
       },
@@ -94,7 +94,7 @@
         "category": "3d",
         "elo": 1393,
         "win_rate": 67.7,
-        "rank": 6
+        "rank": 7
       },
       {
         "arena": "models",
@@ -106,7 +106,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1337,
+        "elo": 1336,
         "win_rate": 59.3,
         "rank": 7
       },
@@ -115,7 +115,7 @@
         "category": "dataviz",
         "elo": 1344,
         "win_rate": 61.8,
-        "rank": 6
+        "rank": 5
       },
       {
         "arena": "models",
@@ -134,7 +134,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1338,
+        "elo": 1340,
         "win_rate": 59.6,
         "rank": 8
       },
@@ -143,7 +143,7 @@
         "category": "website",
         "elo": 1314,
         "win_rate": 56.3,
-        "rank": 7
+        "rank": 8
       }
     ],
     "artificial_analysis": {
