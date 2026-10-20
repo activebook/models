@@ -1792,6 +1792,10 @@
     "file": "models/inception_mercury-2.5-preview.json"
   },
   {
+    "name": "mercury-3",
+    "file": "models/inception_mercury-3.json"
+  },
+  {
     "name": "mercury-coder",
     "file": "models/inception_mercury-coder.json"
   },
@@ -1866,6 +1870,10 @@
   {
     "name": "minimax-m3",
     "file": "models/minimax_minimax-m3.json"
+  },
+  {
+    "name": "minimax-m3.1-flash:free",
+    "file": "models/minimax_minimax-m3.1-flash:free.json"
   },
   {
     "name": "minimax-m3:batch",

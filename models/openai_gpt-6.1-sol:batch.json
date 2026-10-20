@@ -63,11 +63,18 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1204,
+        "win_rate": 48.4,
+        "rank": 17
+      },
+      {
         "arena": "models",
         "category": "3d",
-        "elo": 1458,
-        "win_rate": 70.2,
-        "rank": 3
+        "elo": 1462,
+        "win_rate": 70.9,
+        "rank": 2
       },
       {
         "arena": "models",
@@ -86,22 +93,22 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1386,
-        "win_rate": 63.2,
+        "elo": 1391,
+        "win_rate": 63.8,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1329,
-        "win_rate": 55.4,
-        "rank": 11
+        "elo": 1312,
+        "win_rate": 53.3,
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1322,
-        "win_rate": 55.9,
+        "elo": 1320,
+        "win_rate": 55.7,
         "rank": 6
       }
     ],

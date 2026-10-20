@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000001",
-    "completion": "0.000003",
-    "input_cache_read": "0.0000001"
+    "prompt": "0.0000003",
+    "completion": "0.000001",
+    "input_cache_read": "0.00000004"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -56,6 +56,17 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/reflection/beam-1.0-501b-a23b-20261016/endpoints"
+  },
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1232,
+        "win_rate": 43.8,
+        "rank": 42
+      }
+    ]
   },
   "reasoning": {
     "mandatory": true,
