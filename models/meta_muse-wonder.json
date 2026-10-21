@@ -57,17 +57,24 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "spreadsheet",
+        "elo": 1236,
+        "win_rate": 49.7,
+        "rank": 8
+      },
+      {
         "arena": "models",
         "category": "3d",
-        "elo": 1427,
-        "win_rate": 67.7,
+        "elo": 1425,
+        "win_rate": 67.5,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1370,
-        "win_rate": 62.8,
+        "win_rate": 62.9,
         "rank": 2
       },
       {
@@ -75,27 +82,27 @@
         "category": "dataviz",
         "elo": 1330,
         "win_rate": 61.4,
-        "rank": 10
+        "rank": 11
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1378,
-        "win_rate": 63,
+        "elo": 1379,
+        "win_rate": 63.2,
         "rank": 5
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1377,
-        "win_rate": 62.9,
+        "elo": 1371,
+        "win_rate": 61.7,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1361,
-        "win_rate": 62.3,
+        "win_rate": 62.4,
         "rank": 1
       }
     ]

@@ -20,12 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000001",
-    "completion": "0.00000015"
+    "prompt": "0.00000008",
+    "completion": "0.00000013",
+    "input_cache_read": "0.00000004"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 32768,
+    "context_length": 262144,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -60,7 +61,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-10-21",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen3.5-9b-20260310/endpoints"
   },

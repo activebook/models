@@ -21,13 +21,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000014",
-    "completion": "0.00000028",
-    "input_cache_read": "0.0000000028"
+    "prompt": "0.000000119",
+    "completion": "0.000000238",
+    "input_cache_read": "0.00000000255"
   },
   "top_provider": {
-    "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "context_length": 1050000,
+    "max_completion_tokens": 945000,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -58,7 +58,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-10-21",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2.5-20260422/endpoints"
   },
@@ -69,14 +69,14 @@
         "category": "3d",
         "elo": 1216,
         "win_rate": 50.8,
-        "rank": 42
+        "rank": 43
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1142,
-        "win_rate": 45.1,
-        "rank": 47
+        "elo": 1141,
+        "win_rate": 44.9,
+        "rank": 49
       },
       {
         "arena": "models",
@@ -90,34 +90,34 @@
         "category": "dataviz",
         "elo": 1249,
         "win_rate": 53.5,
-        "rank": 35
+        "rank": 36
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1248,
+        "elo": 1249,
         "win_rate": 52.6,
         "rank": 39
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1177,
+        "elo": 1178,
         "win_rate": 50.1,
         "rank": 35
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1258,
-        "win_rate": 53.7,
-        "rank": 40
+        "elo": 1257,
+        "win_rate": 53.8,
+        "rank": 41
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1266,
-        "win_rate": 53.5,
+        "win_rate": 53.6,
         "rank": 34
       }
     ],

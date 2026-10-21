@@ -54,7 +54,6 @@
     "reasoning",
     "response_format",
     "seed",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
@@ -68,7 +67,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2025-01-31",
-  "expiration_date": "2026-10-20",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-pro/endpoints"
   },
@@ -79,21 +78,21 @@
         "category": "3d",
         "elo": 1081,
         "win_rate": 50.6,
-        "rank": 94
+        "rank": 95
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1154,
+        "elo": 1152,
         "win_rate": 57.5,
-        "rank": 82
+        "rank": 83
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1221,
         "win_rate": 68.2,
-        "rank": 49
+        "rank": 50
       },
       {
         "arena": "models",
@@ -105,16 +104,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1141,
+        "elo": 1139,
         "win_rate": 57.5,
-        "rank": 80
+        "rank": 83
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1167,
         "win_rate": 58.4,
-        "rank": 81
+        "rank": 83
       }
     ],
     "artificial_analysis": {
