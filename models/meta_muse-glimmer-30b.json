@@ -61,7 +61,15 @@
     "details": "/api/v1/models/meta/muse-glimmer-30b-20260810/endpoints"
   },
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1164,
+        "win_rate": 35.6,
+        "rank": 72
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 17.5,
       "coding_index": 49,

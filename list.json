@@ -468,6 +468,10 @@
     "file": "models/scaledown_extract.json"
   },
   {
+    "name": "flint-v1.0:free",
+    "file": "models/recursive_flint-v1.0:free.json"
+  },
+  {
     "name": "free",
     "file": "models/openrouter_free.json"
   },
@@ -2633,11 +2637,11 @@
   },
   {
     "name": "reka-edge",
-    "file": "models/rekaai_reka-edge.json"
+    "file": "models/reka_reka-edge.json"
   },
   {
     "name": "reka-edge",
-    "file": "models/reka_reka-edge.json"
+    "file": "models/rekaai_reka-edge.json"
   },
   {
     "name": "reka-flash-3",

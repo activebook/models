@@ -105,9 +105,9 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1169,
+        "elo": 1163,
         "win_rate": 50.9,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "agents",
@@ -126,16 +126,16 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1067,
+        "elo": 1068,
         "win_rate": 35.6,
         "rank": 22
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1143,
+        "elo": 1142,
         "win_rate": 50.4,
-        "rank": 31
+        "rank": 32
       },
       {
         "arena": "agents",
@@ -149,14 +149,14 @@
         "category": "python-pptxslides",
         "elo": 1152,
         "win_rate": 43.3,
-        "rank": 23
+        "rank": 22
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1116,
+        "elo": 1117,
         "win_rate": 42.6,
-        "rank": 35
+        "rank": 36
       },
       {
         "arena": "models",
@@ -168,8 +168,8 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1254,
-        "win_rate": 58,
+        "elo": 1255,
+        "win_rate": 58.2,
         "rank": 16
       },
       {
@@ -196,8 +196,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1234,
-        "win_rate": 55.2,
+        "elo": 1235,
+        "win_rate": 55.1,
         "rank": 16
       },
       {
@@ -210,9 +210,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1257,
+        "elo": 1256,
         "win_rate": 52.2,
-        "rank": 40
+        "rank": 41
       }
     ],
     "artificial_analysis": {
