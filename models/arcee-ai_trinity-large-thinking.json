@@ -48,7 +48,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-10-26",
   "links": {
     "details": "/api/v1/models/arcee-ai/trinity-large-thinking/endpoints"
   },
@@ -94,14 +94,14 @@
         "category": "svg",
         "elo": 1017,
         "win_rate": 35.2,
-        "rank": 82
+        "rank": 83
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1045,
+        "elo": 1042,
         "win_rate": 32.6,
-        "rank": 106
+        "rank": 108
       },
       {
         "arena": "models",

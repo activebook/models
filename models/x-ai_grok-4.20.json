@@ -95,7 +95,7 @@
         "category": "htmlslides",
         "elo": 1180,
         "win_rate": 45.7,
-        "rank": 11
+        "rank": 3
       },
       {
         "arena": "agents",
@@ -151,21 +151,21 @@
         "category": "svg",
         "elo": 1165,
         "win_rate": 52.4,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1200,
+        "elo": 1197,
         "win_rate": 49,
-        "rank": 59
+        "rank": 60
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1229,
         "win_rate": 51.8,
-        "rank": 55
+        "rank": 54
       }
     ],
     "artificial_analysis": {

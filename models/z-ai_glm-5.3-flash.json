@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000171",
-    "completion": "0.000000121",
-    "input_cache_read": "0.0000000171"
+    "prompt": "0.0000000052",
+    "completion": "0.0000001985",
+    "input_cache_read": "0.0000000052"
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -68,56 +68,56 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1316,
-        "win_rate": 56.2,
+        "elo": 1315,
+        "win_rate": 56.1,
         "rank": 17
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1267,
-        "win_rate": 54.6,
-        "rank": 12
+        "elo": 1273,
+        "win_rate": 55.3,
+        "rank": 10
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1282,
+        "elo": 1281,
         "win_rate": 49.3,
         "rank": 22
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1262,
-        "win_rate": 50.4,
+        "elo": 1263,
+        "win_rate": 50.5,
         "rank": 31
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1278,
-        "win_rate": 47.1,
-        "rank": 25
+        "elo": 1277,
+        "win_rate": 47,
+        "rank": 24
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1285,
-        "win_rate": 56.7,
-        "rank": 11
+        "elo": 1283,
+        "win_rate": 56.6,
+        "rank": 12
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1316,
-        "win_rate": 54.6,
+        "elo": 1313,
+        "win_rate": 54.4,
         "rank": 14
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1272,
+        "elo": 1271,
         "win_rate": 48.4,
         "rank": 28
       }

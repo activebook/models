@@ -57,71 +57,78 @@
     "design_arena": [
       {
         "arena": "agents",
+        "category": "blender3d",
+        "elo": 1346,
+        "win_rate": 69.7,
+        "rank": 2
+      },
+      {
+        "arena": "agents",
         "category": "mobileapps",
-        "elo": 1308,
-        "win_rate": 62,
+        "elo": 1311,
+        "win_rate": 62.4,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1345,
-        "win_rate": 69.8,
+        "elo": 1385,
+        "win_rate": 69.9,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1317,
-        "win_rate": 60.7,
+        "elo": 1316,
+        "win_rate": 60.5,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1477,
-        "win_rate": 71.9,
+        "elo": 1476,
+        "win_rate": 72,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1390,
+        "elo": 1388,
         "win_rate": 63.8,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1397,
-        "win_rate": 64.7,
+        "elo": 1398,
+        "win_rate": 64.8,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1458,
-        "win_rate": 71.8,
+        "elo": 1456,
+        "win_rate": 71.7,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1331,
-        "win_rate": 52,
+        "elo": 1327,
+        "win_rate": 51.9,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1388,
-        "win_rate": 64.3,
+        "elo": 1382,
+        "win_rate": 63.7,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1336,
+        "elo": 1335,
         "win_rate": 57.6,
         "rank": 3
       }
