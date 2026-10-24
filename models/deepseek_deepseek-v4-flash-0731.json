@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000044",
-    "completion": "0.00000132",
-    "input_cache_read": "0.000000014"
+    "prompt": "0.00000004444",
+    "completion": "0.00000013332",
+    "input_cache_read": "0.000000001414"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -66,7 +66,7 @@
         "category": "3d",
         "elo": 1209,
         "win_rate": 48.7,
-        "rank": 45
+        "rank": 47
       },
       {
         "arena": "models",
@@ -80,7 +80,7 @@
         "category": "codecategories",
         "elo": 1230,
         "win_rate": 46.4,
-        "rank": 51
+        "rank": 50
       },
       {
         "arena": "models",
@@ -101,7 +101,7 @@
         "category": "svg",
         "elo": 1185,
         "win_rate": 45.1,
-        "rank": 31
+        "rank": 32
       },
       {
         "arena": "models",

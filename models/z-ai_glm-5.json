@@ -84,9 +84,9 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1061,
+        "elo": 1044,
         "win_rate": 45.1,
-        "rank": 18
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -135,7 +135,7 @@
         "category": "svg",
         "elo": 1169,
         "win_rate": 54.4,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "models",
@@ -149,7 +149,7 @@
         "category": "website",
         "elo": 1247,
         "win_rate": 55,
-        "rank": 47
+        "rank": 46
       }
     ],
     "artificial_analysis": {

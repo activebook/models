@@ -1528,6 +1528,10 @@
     "file": "models/moonshotai_kimi-k3.json"
   },
   {
+    "name": "kimi-k3.1-pro",
+    "file": "models/moonshotai_kimi-k3.1-pro.json"
+  },
+  {
     "name": "kimi-k3:batch",
     "file": "models/moonshotai_kimi-k3:batch.json"
   },

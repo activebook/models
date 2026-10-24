@@ -65,12 +65,12 @@
         "category": "website",
         "elo": 1195,
         "win_rate": 54.4,
-        "rank": 67
+        "rank": 65
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1060,
+        "elo": 1062,
         "win_rate": 49.1,
         "rank": 33
       },
@@ -149,7 +149,7 @@
         "category": "svg",
         "elo": 1139,
         "win_rate": 53.7,
-        "rank": 52
+        "rank": 53
       }
     ],
     "artificial_analysis": {

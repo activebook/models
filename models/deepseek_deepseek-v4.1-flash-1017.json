@@ -19,9 +19,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000003",
-    "completion": "0.0000012",
-    "input_cache_read": "0.000000006",
+    "prompt": "0.00000015",
+    "completion": "0.0000006",
+    "input_cache_read": "0.000000003",
     "overrides": [
       {
         "utc_days": [
@@ -146,56 +146,63 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1259,
+        "elo": 1268,
         "win_rate": 51.2,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1362,
-        "win_rate": 60.5,
+        "elo": 1351,
+        "win_rate": 42.7,
         "rank": 9
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1233,
-        "win_rate": 52.6,
+        "elo": 1223,
+        "win_rate": 50.8,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1330,
-        "win_rate": 58.2,
-        "rank": 8
+        "elo": 1297,
+        "win_rate": 48.8,
+        "rank": 16
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1301,
-        "win_rate": 54.2,
+        "elo": 1295,
+        "win_rate": 53.3,
         "rank": 14
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1351,
-        "win_rate": 60.6,
-        "rank": 8
+        "elo": 1298,
+        "win_rate": 47,
+        "rank": 19
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1238,
+        "win_rate": 51.2,
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1306,
-        "win_rate": 54.1,
+        "elo": 1310,
+        "win_rate": 54.6,
         "rank": 16
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1310,
+        "elo": 1309,
         "win_rate": 56,
         "rank": 11
       }
