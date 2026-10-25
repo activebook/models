@@ -68,23 +68,23 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1208,
+        "elo": 1187,
         "win_rate": 46.8,
-        "rank": 9
+        "rank": 8
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1293,
+        "elo": 1294,
         "win_rate": 61.5,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1187,
-        "win_rate": 49.6,
-        "rank": 12
+        "elo": 1191,
+        "win_rate": 50,
+        "rank": 11
       },
       {
         "arena": "agents",
@@ -110,8 +110,8 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1233,
-        "win_rate": 55.4,
+        "elo": 1230,
+        "win_rate": 55.3,
         "rank": 9
       },
       {
@@ -131,7 +131,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1277,
+        "elo": 1273,
         "win_rate": 52.3,
         "rank": 22
       },
@@ -145,9 +145,9 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1292,
+        "elo": 1291,
         "win_rate": 52.5,
-        "rank": 18
+        "rank": 19
       },
       {
         "arena": "models",
@@ -159,30 +159,30 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1296,
+        "elo": 1294,
         "win_rate": 53.9,
         "rank": 20
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1239,
-        "win_rate": 49,
-        "rank": 14
+        "elo": 1238,
+        "win_rate": 48.9,
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1293,
-        "win_rate": 53.5,
-        "rank": 21
+        "elo": 1290,
+        "win_rate": 53.3,
+        "rank": 23
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1288,
         "win_rate": 52.2,
-        "rank": 21
+        "rank": 22
       }
     ],
     "artificial_analysis": {

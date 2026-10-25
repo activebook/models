@@ -1608,6 +1608,10 @@
     "file": "models/liquid_lfm-2.5-1.2b-thinking:free.json"
   },
   {
+    "name": "lfm-2.5-2.6b",
+    "file": "models/liquid_lfm-2.5-2.6b.json"
+  },
+  {
     "name": "lfm-2.5-2.6b:free",
     "file": "models/liquid_lfm-2.5-2.6b:free.json"
   },

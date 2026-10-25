@@ -71,7 +71,7 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1180,
+        "elo": 1159,
         "win_rate": 55.4,
         "rank": 12
       },
@@ -113,9 +113,9 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1022,
+        "elo": 1014,
         "win_rate": 34.2,
-        "rank": 20
+        "rank": 21
       },
       {
         "arena": "agents",
@@ -143,7 +143,7 @@
         "category": "mobileapps",
         "elo": 1175,
         "win_rate": 50.8,
-        "rank": 24
+        "rank": 23
       },
       {
         "arena": "agents",
@@ -169,37 +169,37 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1245,
+        "elo": 1241,
         "win_rate": 55.8,
         "rank": 35
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1254,
-        "win_rate": 59,
+        "elo": 1253,
+        "win_rate": 58.8,
         "rank": 17
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1266,
+        "elo": 1265,
         "win_rate": 54,
-        "rank": 33
+        "rank": 34
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1236,
-        "win_rate": 52.9,
+        "elo": 1237,
+        "win_rate": 53,
         "rank": 41
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1265,
+        "elo": 1263,
         "win_rate": 52.6,
-        "rank": 31
+        "rank": 32
       },
       {
         "arena": "models",
@@ -211,8 +211,8 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1268,
-        "win_rate": 54.1,
+        "elo": 1267,
+        "win_rate": 54.2,
         "rank": 32
       },
       {
@@ -220,7 +220,7 @@
         "category": "website",
         "elo": 1267,
         "win_rate": 53.7,
-        "rank": 32
+        "rank": 33
       }
     ],
     "artificial_analysis": {
