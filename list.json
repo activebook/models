@@ -1212,6 +1212,22 @@
     "file": "models/openai_gpt-6.1-sol:batch.json"
   },
   {
+    "name": "gpt-6.1-terra",
+    "file": "models/openai_gpt-6.1-terra.json"
+  },
+  {
+    "name": "gpt-6.1-terra-pro",
+    "file": "models/openai_gpt-6.1-terra-pro.json"
+  },
+  {
+    "name": "gpt-6.1-terra-pro:batch",
+    "file": "models/openai_gpt-6.1-terra-pro:batch.json"
+  },
+  {
+    "name": "gpt-6.1-terra:batch",
+    "file": "models/openai_gpt-6.1-terra:batch.json"
+  },
+  {
     "name": "gpt-astra-latest",
     "file": "models/~openai_gpt-astra-latest.json"
   },

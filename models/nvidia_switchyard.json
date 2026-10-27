@@ -4,7 +4,7 @@
   "hugging_face_id": null,
   "name": "NVIDIA: Switchyard",
   "created": 1790025947,
-  "description": "Switchyard is an open-source model router that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most popular...",
+  "description": "Switchyard is an open-source model routing system that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text->text",

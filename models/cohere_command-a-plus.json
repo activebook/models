@@ -51,6 +51,14 @@
   "links": {
     "details": "/api/v1/models/cohere/command-a-plus-05-2026/endpoints"
   },
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 13.1,
+      "coding_index": 27.8,
+      "agentic_index": 1
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

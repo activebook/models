@@ -20,9 +20,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000675",
-    "completion": "0.000000225",
-    "input_cache_read": "0.0000000375"
+    "prompt": "0.0000000765",
+    "completion": "0.000000255",
+    "input_cache_read": "0.0000000425"
   },
   "top_provider": {
     "context_length": 262144,
@@ -35,6 +35,7 @@
     "include_reasoning",
     "logit_bias",
     "logprobs",
+    "max_completion_tokens",
     "max_tokens",
     "min_p",
     "presence_penalty",
