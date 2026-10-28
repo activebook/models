@@ -20,7 +20,7 @@
   "pricing": {
     "prompt": "0.0000000341",
     "completion": "0.000007",
-    "input_cache_read": "0.000000033"
+    "input_cache_read": "0.0000000331"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -71,14 +71,14 @@
         "arena": "agents",
         "category": "agenticgamedev",
         "elo": 1171,
-        "win_rate": 49.1,
+        "win_rate": 49.3,
         "rank": 9
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1180,
-        "win_rate": 52.9,
+        "elo": 1177,
+        "win_rate": 52.8,
         "rank": 17
       },
       {
@@ -126,7 +126,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1284,
+        "elo": 1283,
         "win_rate": 53,
         "rank": 22
       },
@@ -135,7 +135,7 @@
         "category": "asciiart",
         "elo": 1188,
         "win_rate": 46.2,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "models",
@@ -147,9 +147,9 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1285,
+        "elo": 1286,
         "win_rate": 52,
-        "rank": 18
+        "rank": 17
       },
       {
         "arena": "models",
@@ -161,8 +161,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1208,
-        "win_rate": 48.3,
+        "elo": 1209,
+        "win_rate": 48.2,
         "rank": 25
       },
       {

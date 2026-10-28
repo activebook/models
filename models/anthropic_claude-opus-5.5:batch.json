@@ -57,29 +57,29 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1273,
-        "win_rate": 58.7,
+        "elo": 1269,
+        "win_rate": 58.2,
         "rank": 4
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1304,
-        "win_rate": 61.8,
+        "elo": 1307,
+        "win_rate": 62.3,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1392,
+        "elo": 1395,
         "win_rate": 69.3,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1319,
-        "win_rate": 61.1,
+        "elo": 1320,
+        "win_rate": 61.3,
         "rank": 1
       },
       {
@@ -91,44 +91,51 @@
       },
       {
         "arena": "models",
+        "category": "asciiart",
+        "elo": 1351,
+        "win_rate": 65,
+        "rank": 2
+      },
+      {
+        "arena": "models",
         "category": "codecategories",
-        "elo": 1386,
+        "elo": 1385,
         "win_rate": 61.5,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1396,
+        "elo": 1397,
         "win_rate": 64.8,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1438,
-        "win_rate": 66.4,
+        "elo": 1437,
+        "win_rate": 66.2,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1322,
+        "elo": 1323,
         "win_rate": 52.2,
-        "rank": 2
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1377,
-        "win_rate": 63.5,
+        "elo": 1378,
+        "win_rate": 63.7,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1325,
-        "win_rate": 55.5,
+        "win_rate": 55.4,
         "rank": 5
       }
     ],

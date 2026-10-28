@@ -19,13 +19,12 @@
     "instruct_type": "gemma"
   },
   "pricing": {
-    "prompt": "0.00000004",
-    "completion": "0.00000005",
-    "input_cache_read": "0.00000002"
+    "prompt": "0.00000005",
+    "completion": "0.0000001"
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 117964,
+    "max_completion_tokens": 16384,
     "is_moderated": false
   },
   "per_request_limits": null,

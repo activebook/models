@@ -5,7 +5,7 @@
   "name": "inclusionAI: Ling 3.1 Flash",
   "created": 1790950024,
   "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
-  "context_length": 262144,
+  "context_length": 1000000,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -23,8 +23,8 @@
     "input_cache_read": "0.000000015"
   },
   "top_provider": {
-    "context_length": 262144,
-    "max_completion_tokens": 235929,
+    "context_length": 1000000,
+    "max_completion_tokens": 262144,
     "is_moderated": false
   },
   "per_request_limits": null,

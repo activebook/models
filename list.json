@@ -2816,6 +2816,10 @@
     "file": "models/prism-ml_ternary-bonsai-2-27b.json"
   },
   {
+    "name": "ternary-bonsai-2-9b",
+    "file": "models/prism-ml_ternary-bonsai-2-9b.json"
+  },
+  {
     "name": "tongyi-deepresearch-30b-a3b",
     "file": "models/alibaba_tongyi-deepresearch-30b-a3b.json"
   },
