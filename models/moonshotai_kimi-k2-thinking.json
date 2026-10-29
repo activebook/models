@@ -31,7 +31,6 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
-    "logprobs",
     "max_tokens",
     "presence_penalty",
     "reasoning",
@@ -44,7 +43,6 @@
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -72,8 +70,8 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 22,
-      "coding_index": null,
+      "intelligence_index": null,
+      "coding_index": 21,
       "agentic_index": null
     }
   },

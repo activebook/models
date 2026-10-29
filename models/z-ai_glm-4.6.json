@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000055",
-    "completion": "0.0000022",
-    "input_cache_read": "0.00000011"
+    "prompt": "0.0000005",
+    "completion": "0.000002",
+    "input_cache_read": "0.0000001"
   },
   "top_provider": {
-    "context_length": 204800,
+    "context_length": 202752,
     "max_completion_tokens": 131072,
     "is_moderated": false
   },
@@ -68,7 +68,7 @@
         "category": "androidnative",
         "elo": 1082,
         "win_rate": 52.6,
-        "rank": 32
+        "rank": 31
       },
       {
         "arena": "agents",
@@ -96,7 +96,7 @@
         "category": "3d",
         "elo": 1126,
         "win_rate": 54.2,
-        "rank": 80
+        "rank": 79
       },
       {
         "arena": "models",
@@ -142,7 +142,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 18.5,
+      "intelligence_index": null,
       "coding_index": 45.8,
       "agentic_index": null
     }

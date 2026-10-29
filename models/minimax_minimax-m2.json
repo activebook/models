@@ -28,22 +28,12 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
-    "logprobs",
     "max_tokens",
-    "presence_penalty",
     "reasoning",
-    "repetition_penalty",
-    "response_format",
-    "seed",
-    "stop",
-    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -108,12 +98,7 @@
         "win_rate": 48,
         "rank": 99
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": 18.6,
-      "coding_index": null,
-      "agentic_index": null
-    }
+    ]
   },
   "reasoning": {
     "mandatory": true

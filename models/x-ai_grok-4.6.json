@@ -76,14 +76,14 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1290,
-        "win_rate": 61.4,
+        "win_rate": 61.6,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1191,
-        "win_rate": 50,
+        "elo": 1151,
+        "win_rate": 49.8,
         "rank": 9
       },
       {
@@ -117,8 +117,8 @@
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1197,
-        "win_rate": 52.7,
+        "elo": 1199,
+        "win_rate": 53,
         "rank": 11
       },
       {
@@ -140,14 +140,14 @@
         "category": "asciiart",
         "elo": 1278,
         "win_rate": 58.3,
-        "rank": 7
+        "rank": 8
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1290,
         "win_rate": 52.5,
-        "rank": 19
+        "rank": 20
       },
       {
         "arena": "models",
@@ -167,14 +167,14 @@
         "arena": "models",
         "category": "svg",
         "elo": 1237,
-        "win_rate": 48.9,
+        "win_rate": 48.8,
         "rank": 18
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1289,
-        "win_rate": 53,
+        "elo": 1290,
+        "win_rate": 53.2,
         "rank": 24
       },
       {
@@ -186,7 +186,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 44.3,
+      "intelligence_index": null,
       "coding_index": 76.8,
       "agentic_index": 53
     }

@@ -18,12 +18,13 @@
     "instruct_type": "llama3"
   },
   "pricing": {
-    "prompt": "0.00000002",
-    "completion": "0.00000004"
+    "prompt": "0.00000005",
+    "completion": "0.00000008",
+    "input_cache_read": "0.000000025"
   },
   "top_provider": {
     "context_length": 131072,
-    "max_completion_tokens": 16384,
+    "max_completion_tokens": 117964,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -56,7 +57,7 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 6.9,
+      "intelligence_index": null,
       "coding_index": 5.4,
       "agentic_index": null
     }

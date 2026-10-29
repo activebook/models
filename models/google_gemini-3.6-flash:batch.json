@@ -71,7 +71,7 @@
         "category": "agenticgamedev",
         "elo": 1142,
         "win_rate": 47.4,
-        "rank": 14
+        "rank": 13
       },
       {
         "arena": "agents",
@@ -83,9 +83,9 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1176,
-        "win_rate": 53.4,
-        "rank": 12
+        "elo": 1134,
+        "win_rate": 53.6,
+        "rank": 11
       },
       {
         "arena": "agents",
@@ -110,6 +110,13 @@
       },
       {
         "arena": "agents",
+        "category": "pdf",
+        "elo": 1227,
+        "win_rate": 57.9,
+        "rank": 3
+      },
+      {
+        "arena": "agents",
         "category": "python-pptxslides",
         "elo": 1097,
         "win_rate": 39,
@@ -118,9 +125,9 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1082,
-        "win_rate": 45.6,
-        "rank": 18
+        "elo": 1075,
+        "win_rate": 44.8,
+        "rank": 19
       },
       {
         "arena": "agents",
@@ -133,7 +140,7 @@
         "arena": "models",
         "category": "3d",
         "elo": 1269,
-        "win_rate": 52.8,
+        "win_rate": 52.9,
         "rank": 26
       },
       {
@@ -146,23 +153,23 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1288,
+        "elo": 1289,
         "win_rate": 53.4,
         "rank": 21
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1290,
+        "elo": 1291,
         "win_rate": 52.4,
-        "rank": 16
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1262,
         "win_rate": 50.9,
-        "rank": 34
+        "rank": 33
       },
       {
         "arena": "models",
@@ -175,12 +182,12 @@
         "arena": "models",
         "category": "website",
         "elo": 1299,
-        "win_rate": 55.3,
+        "win_rate": 55.4,
         "rank": 16
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 34,
+      "intelligence_index": null,
       "coding_index": 69.2,
       "agentic_index": 29
     }

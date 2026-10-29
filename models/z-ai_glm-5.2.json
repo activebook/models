@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000000341",
+    "prompt": "0.000000006",
     "completion": "0.000007",
-    "input_cache_read": "0.0000000331"
+    "input_cache_read": "0.000000005"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -80,6 +80,13 @@
         "elo": 1177,
         "win_rate": 52.8,
         "rank": 17
+      },
+      {
+        "arena": "agents",
+        "category": "blender3d",
+        "elo": 963,
+        "win_rate": 34,
+        "rank": 22
       },
       {
         "arena": "agents",
@@ -161,9 +168,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1209,
-        "win_rate": 48.2,
-        "rank": 25
+        "elo": 1208,
+        "win_rate": 48.1,
+        "rank": 26
       },
       {
         "arena": "models",
@@ -181,7 +188,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 33.7,
+      "intelligence_index": null,
       "coding_index": 68.8,
       "agentic_index": 38.4
     }

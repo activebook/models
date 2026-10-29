@@ -63,7 +63,7 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1146,
+        "elo": 1144,
         "win_rate": 55.2,
         "rank": 25
       },
@@ -151,12 +151,7 @@
         "win_rate": 55,
         "rank": 46
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": 27.9,
-      "coding_index": null,
-      "agentic_index": null
-    }
+    ]
   },
   "reasoning": {
     "mandatory": false,

@@ -65,7 +65,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1192,
+        "elo": 1191,
         "win_rate": 49.9,
         "rank": 53
       },
@@ -95,7 +95,7 @@
         "category": "gamedev",
         "elo": 1208,
         "win_rate": 49.4,
-        "rank": 53
+        "rank": 52
       },
       {
         "arena": "models",
@@ -120,7 +120,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 22.8,
+      "intelligence_index": null,
       "coding_index": 52.6,
       "agentic_index": 15.3
     }

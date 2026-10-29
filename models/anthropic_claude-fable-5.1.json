@@ -102,12 +102,12 @@
         "category": "webapps",
         "elo": 1318,
         "win_rate": 56.1,
-        "rank": 2
+        "rank": 1
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1390,
+        "elo": 1391,
         "win_rate": 67.7,
         "rank": 7
       },
@@ -151,7 +151,7 @@
         "category": "uicomponent",
         "elo": 1333,
         "win_rate": 59.6,
-        "rank": 11
+        "rank": 12
       },
       {
         "arena": "models",
@@ -162,9 +162,9 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 53.4,
-      "coding_index": 81.6,
-      "agentic_index": 57.9
+      "intelligence_index": 49.7,
+      "coding_index": 80.7,
+      "agentic_index": 57.2
     }
   },
   "reasoning": {

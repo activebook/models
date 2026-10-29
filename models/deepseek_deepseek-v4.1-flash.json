@@ -19,13 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000014",
-    "completion": "0.00000042",
-    "input_cache_read": "0.0000000042"
+    "prompt": "0.000000045",
+    "completion": "0.0000005",
+    "input_cache_read": "0.000000006"
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -59,14 +59,6 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v4.1-flash-20260910/endpoints"
-  },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": 24.7,
-      "coding_index": null,
-      "agentic_index": null
-    }
   },
   "reasoning": {
     "mandatory": false,

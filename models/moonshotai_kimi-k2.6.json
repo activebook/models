@@ -107,7 +107,7 @@
         "category": "androidnative",
         "elo": 1160,
         "win_rate": 49.2,
-        "rank": 23
+        "rank": 22
       },
       {
         "arena": "agents",
@@ -198,7 +198,7 @@
         "category": "gamedev",
         "elo": 1249,
         "win_rate": 54.9,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "models",
@@ -223,7 +223,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 27,
+      "intelligence_index": null,
       "coding_index": 61.8,
       "agentic_index": 20.5
     }

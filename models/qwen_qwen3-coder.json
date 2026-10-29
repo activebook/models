@@ -31,7 +31,6 @@
   "supported_parameters": [
     "frequency_penalty",
     "logit_bias",
-    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -44,7 +43,6 @@
     "tool_choice",
     "tools",
     "top_k",
-    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {},
@@ -91,11 +89,6 @@
         "win_rate": 61.7,
         "rank": 92
       }
-    ],
-    "artificial_analysis": {
-      "intelligence_index": 11.9,
-      "coding_index": null,
-      "agentic_index": null
-    }
+    ]
   }
 }

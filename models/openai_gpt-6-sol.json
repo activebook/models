@@ -68,14 +68,6 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6-sol-20260922/endpoints"
   },
-  "benchmarks": {
-    "design_arena": [],
-    "artificial_analysis": {
-      "intelligence_index": 47.6,
-      "coding_index": null,
-      "agentic_index": null
-    }
-  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

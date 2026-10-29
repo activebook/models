@@ -2344,6 +2344,10 @@
     "file": "models/~unbiased_pareto-latest.json"
   },
   {
+    "name": "particle-1",
+    "file": "models/particle-ai_particle-1.json"
+  },
+  {
     "name": "perceptron-mk1",
     "file": "models/perceptron_perceptron-mk1.json"
   },
