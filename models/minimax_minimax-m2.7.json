@@ -101,7 +101,7 @@
         "arena": "models",
         "category": "svg",
         "elo": 1133,
-        "win_rate": 47.1,
+        "win_rate": 47,
         "rank": 58
       },
       {
@@ -109,14 +109,14 @@
         "category": "uicomponent",
         "elo": 1205,
         "win_rate": 48.5,
-        "rank": 58
+        "rank": 59
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1241,
         "win_rate": 51.3,
-        "rank": 48
+        "rank": 49
       }
     ],
     "artificial_analysis": {

@@ -1,7 +1,7 @@
 {
   "id": "mistralai/mistral-large-4-0",
   "canonical_slug": "mistralai/mistral-large-4-0-20261006",
-  "hugging_face_id": null,
+  "hugging_face_id": "mistralai/Mistral-Large-4-1T-A52B",
   "name": "Mistral: Mistral Large 4",
   "created": 1791294122,
   "description": "Mistral Large 4 is a frontier multimodal (text and image input) model from Mistral AI built for reasoning, coding, and agentic workloads. It offers a 1M-token context window with up...",
@@ -19,9 +19,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000136",
-    "completion": "0.00000418",
-    "input_cache_read": "0.00000014"
+    "prompt": "0.0000007",
+    "completion": "0.0000021",
+    "input_cache_read": "0.00000007"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -82,7 +82,7 @@
         "category": "dataviz",
         "elo": 1275,
         "win_rate": 51,
-        "rank": 25
+        "rank": 26
       },
       {
         "arena": "models",
@@ -96,14 +96,14 @@
         "category": "svg",
         "elo": 1231,
         "win_rate": 45.3,
-        "rank": 21
+        "rank": 20
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1269,
         "win_rate": 47.6,
-        "rank": 32
+        "rank": 31
       },
       {
         "arena": "models",
@@ -114,7 +114,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 25.3,
+      "intelligence_index": 26,
       "coding_index": null,
       "agentic_index": null
     }

@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000095526",
-    "completion": "0.00000191052",
-    "input_cache_read": "0.000000079605"
+    "prompt": "0.000000816234",
+    "completion": "0.000001632468",
+    "input_cache_read": "0.0000000680195"
   },
   "top_provider": {
     "context_length": 1024000,
@@ -110,7 +110,7 @@
         "category": "dataviz",
         "elo": 1203,
         "win_rate": 48.7,
-        "rank": 59
+        "rank": 58
       },
       {
         "arena": "models",

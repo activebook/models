@@ -33,7 +33,6 @@
     "max_tokens",
     "reasoning",
     "response_format",
-    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
@@ -94,7 +93,7 @@
         "category": "uicomponent",
         "elo": 1177,
         "win_rate": 59.5,
-        "rank": 66
+        "rank": 67
       },
       {
         "arena": "models",
