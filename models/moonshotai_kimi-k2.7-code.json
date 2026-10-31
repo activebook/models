@@ -19,8 +19,8 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000056",
-    "completion": "0.0000031",
+    "prompt": "0.0000006",
+    "completion": "0.0000035",
     "input_cache_read": "0.00000015"
   },
   "top_provider": {
@@ -65,19 +65,25 @@
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2.7-code-20260612/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1081,
+        "elo": 1078,
         "win_rate": 43,
         "rank": 22
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1136,
+        "elo": 1134,
         "win_rate": 46,
         "rank": 26
       },
@@ -119,7 +125,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1166,
+        "elo": 1164,
         "win_rate": 46.9,
         "rank": 29
       },
@@ -155,14 +161,14 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1219,
-        "win_rate": 46.8,
+        "win_rate": 46.7,
         "rank": 48
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1173,
-        "win_rate": 44.1,
+        "win_rate": 44,
         "rank": 42
       },
       {

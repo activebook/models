@@ -54,13 +54,19 @@
   "links": {
     "details": "/api/v1/models/mistralai/mistral-large-4-0-20261006/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1248,
-        "win_rate": 45,
+        "elo": 1249,
+        "win_rate": 45.1,
         "rank": 33
       },
       {
@@ -110,7 +116,7 @@
         "category": "website",
         "elo": 1256,
         "win_rate": 47.3,
-        "rank": 42
+        "rank": 41
       }
     ],
     "artificial_analysis": {

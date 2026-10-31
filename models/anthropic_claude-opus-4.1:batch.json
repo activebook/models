@@ -58,6 +58,7 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.1-opus-20250805/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {

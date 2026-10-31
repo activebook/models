@@ -62,6 +62,12 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.7-20251222/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {

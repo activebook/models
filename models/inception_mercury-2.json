@@ -54,12 +54,18 @@
   "links": {
     "details": "/api/v1/models/inception/mercury-2-20260304/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 976,
+        "elo": 975,
         "win_rate": 21.2,
         "rank": 117
       },
@@ -73,9 +79,9 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1018,
-        "win_rate": 21.1,
-        "rank": 126
+        "elo": 1019,
+        "win_rate": 21.2,
+        "rank": 125
       },
       {
         "arena": "models",
@@ -87,7 +93,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 980,
+        "elo": 979,
         "win_rate": 18.4,
         "rank": 126
       },
@@ -108,8 +114,8 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1035,
-        "win_rate": 22.1,
+        "elo": 1036,
+        "win_rate": 22.2,
         "rank": 127
       }
     ],

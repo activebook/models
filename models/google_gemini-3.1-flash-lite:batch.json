@@ -65,6 +65,7 @@
   "links": {
     "details": "/api/v1/models/google/gemini-3.1-flash-lite-20260507/endpoints"
   },
+  "endpoints": [],
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

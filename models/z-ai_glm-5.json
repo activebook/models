@@ -58,6 +58,12 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-5-20260211/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -149,7 +155,7 @@
         "category": "website",
         "elo": 1247,
         "win_rate": 55,
-        "rank": 46
+        "rank": 45
       }
     ]
   },

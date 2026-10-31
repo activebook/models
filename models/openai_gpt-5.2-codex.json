@@ -53,6 +53,12 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5.2-codex-20260114/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -60,7 +66,7 @@
         "category": "androidnative",
         "elo": 1176,
         "win_rate": 47.5,
-        "rank": 18
+        "rank": 17
       },
       {
         "arena": "agents",
@@ -86,7 +92,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1041,
+        "elo": 1039,
         "win_rate": 39.6,
         "rank": 42
       }

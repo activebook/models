@@ -58,6 +58,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-oss-20b/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {

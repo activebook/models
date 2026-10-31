@@ -64,6 +64,12 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3.8-27b-20260814/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {

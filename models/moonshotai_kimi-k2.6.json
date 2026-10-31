@@ -65,12 +65,18 @@
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2.6-20260420/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1091,
+        "elo": 1090,
         "win_rate": 47.5,
         "rank": 21
       },
@@ -205,7 +211,7 @@
         "category": "svg",
         "elo": 1178,
         "win_rate": 51.2,
-        "rank": 40
+        "rank": 39
       },
       {
         "arena": "models",

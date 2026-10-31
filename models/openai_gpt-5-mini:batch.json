@@ -57,6 +57,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5-mini-2025-08-07/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {

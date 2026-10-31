@@ -62,6 +62,12 @@
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-3-ultra-550b-a55b-20260604/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -81,7 +87,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1146,
+        "elo": 1145,
         "win_rate": 36,
         "rank": 90
       },
@@ -95,15 +101,15 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1140,
-        "win_rate": 36.1,
-        "rank": 79
+        "elo": 1139,
+        "win_rate": 36,
+        "rank": 80
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1067,
-        "win_rate": 32.2,
+        "elo": 1068,
+        "win_rate": 32.3,
         "rank": 75
       },
       {

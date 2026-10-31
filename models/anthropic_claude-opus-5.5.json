@@ -53,6 +53,12 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-opus-5.5-20260921/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -65,16 +71,16 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1308,
-        "win_rate": 62.5,
+        "elo": 1307,
+        "win_rate": 62.6,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1377,
-        "win_rate": 75.8,
-        "rank": 1
+        "elo": 1310,
+        "win_rate": 66.7,
+        "rank": 2
       },
       {
         "arena": "agents",
@@ -87,7 +93,7 @@
         "arena": "agents",
         "category": "webapps",
         "elo": 1310,
-        "win_rate": 61.2,
+        "win_rate": 61.4,
         "rank": 1
       },
       {
@@ -121,14 +127,14 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1433,
-        "win_rate": 63.7,
+        "elo": 1434,
+        "win_rate": 63.9,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1323,
+        "elo": 1322,
         "win_rate": 52.3,
         "rank": 3
       },
@@ -143,8 +149,8 @@
         "arena": "models",
         "category": "website",
         "elo": 1325,
-        "win_rate": 55,
-        "rank": 4
+        "win_rate": 55.1,
+        "rank": 5
       }
     ],
     "artificial_analysis": {

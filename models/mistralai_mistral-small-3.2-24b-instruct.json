@@ -56,6 +56,12 @@
   "links": {
     "details": "/api/v1/models/mistralai/mistral-small-3.2-24b-instruct-2506/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {

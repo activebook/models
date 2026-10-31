@@ -47,5 +47,11 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/meta-llama/llama-guard-4-12b/endpoints"
-  }
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ]
 }

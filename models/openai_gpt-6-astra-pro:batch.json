@@ -60,6 +60,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6-astra-pro-20260903/endpoints"
   },
+  "endpoints": [],
   "reasoning": {
     "mandatory": true,
     "default_enabled": true,

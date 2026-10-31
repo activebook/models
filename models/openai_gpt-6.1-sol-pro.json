@@ -68,6 +68,12 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6.1-sol-pro-20260929/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": true,
     "default_enabled": true,

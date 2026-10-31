@@ -48,6 +48,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-4.1-nano-2025-04-14/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {

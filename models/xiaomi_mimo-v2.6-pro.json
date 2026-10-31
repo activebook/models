@@ -61,12 +61,18 @@
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2.6-pro-20260921/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1280,
+        "elo": 1278,
         "win_rate": 58.3,
         "rank": 8
       },
@@ -81,7 +87,7 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1316,
-        "win_rate": 52.7,
+        "win_rate": 52.8,
         "rank": 11
       },
       {
@@ -96,27 +102,27 @@
         "category": "gamedev",
         "elo": 1315,
         "win_rate": 53.4,
-        "rank": 14
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1292,
-        "win_rate": 53.6,
-        "rank": 10
+        "elo": 1300,
+        "win_rate": 54.6,
+        "rank": 7
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1335,
-        "win_rate": 59,
+        "elo": 1334,
+        "win_rate": 58.6,
         "rank": 11
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1307,
-        "win_rate": 50.8,
+        "win_rate": 50.9,
         "rank": 13
       }
     ],

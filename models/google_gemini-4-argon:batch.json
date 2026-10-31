@@ -66,19 +66,20 @@
   "links": {
     "details": "/api/v1/models/google/gemini-4-argon-20261013/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1264,
+        "elo": 1262,
         "win_rate": 51.1,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1409,
+        "elo": 1411,
         "win_rate": 68.8,
         "rank": 1
       },
@@ -92,7 +93,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1371,
+        "elo": 1370,
         "win_rate": 50.3,
         "rank": 9
       },
@@ -100,7 +101,7 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1327,
-        "win_rate": 53.8,
+        "win_rate": 53.9,
         "rank": 9
       },
       {
@@ -114,14 +115,14 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1366,
-        "win_rate": 53.6,
+        "win_rate": 53.8,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1329,
-        "win_rate": 60.8,
+        "win_rate": 60.7,
         "rank": 1
       },
       {
@@ -135,7 +136,7 @@
         "arena": "models",
         "category": "website",
         "elo": 1315,
-        "win_rate": 55.3,
+        "win_rate": 55.4,
         "rank": 7
       }
     ],

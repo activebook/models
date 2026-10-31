@@ -57,28 +57,34 @@
   "links": {
     "details": "/api/v1/models/reflection/beam-1.0-501b-a23b-20261016/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1220,
-        "win_rate": 43.3,
+        "elo": 1224,
+        "win_rate": 43.9,
         "rank": 56
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1206,
-        "win_rate": 41.5,
+        "elo": 1205,
+        "win_rate": 41.9,
         "rank": 54
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1225,
-        "win_rate": 44,
-        "rank": 56
+        "elo": 1229,
+        "win_rate": 44.8,
+        "rank": 53
       }
     ]
   },

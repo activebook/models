@@ -60,6 +60,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6-astra-20260903/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {

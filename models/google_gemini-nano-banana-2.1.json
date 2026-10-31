@@ -51,6 +51,13 @@
   "links": {
     "details": "/api/v1/models/google/gemini-nano-banana-2.1-20261006/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses",
+    "/api/v1/images"
+  ],
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

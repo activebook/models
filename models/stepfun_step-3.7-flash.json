@@ -64,14 +64,20 @@
   "links": {
     "details": "/api/v1/models/stepfun/step-3.7-flash-20260528/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1127,
+        "elo": 1126,
         "win_rate": 39.9,
-        "rank": 80
+        "rank": 81
       },
       {
         "arena": "models",
@@ -97,15 +103,15 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1157,
-        "win_rate": 37.9,
+        "elo": 1156,
+        "win_rate": 37.8,
         "rank": 74
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1081,
-        "win_rate": 36.7,
+        "elo": 1080,
+        "win_rate": 36.6,
         "rank": 70
       },
       {

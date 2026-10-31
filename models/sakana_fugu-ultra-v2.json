@@ -62,6 +62,12 @@
   "links": {
     "details": "/api/v1/models/sakana/fugu-ultra-v2-20260911/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": true,
     "default_enabled": true,

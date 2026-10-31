@@ -61,27 +61,33 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3.7-max-20260520/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1112,
-        "win_rate": 46.3,
+        "elo": 1110,
+        "win_rate": 46.1,
         "rank": 20
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1154,
-        "win_rate": 48.1,
+        "elo": 1155,
+        "win_rate": 48.3,
         "rank": 24
       },
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1002,
-        "win_rate": 34.9,
+        "elo": 996,
+        "win_rate": 33.9,
         "rank": 21
       },
       {
@@ -101,16 +107,23 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1054,
-        "win_rate": 43.6,
+        "elo": 1055,
+        "win_rate": 43.4,
         "rank": 17
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1157,
-        "win_rate": 45.3,
+        "elo": 1156,
+        "win_rate": 45.1,
         "rank": 28
+      },
+      {
+        "arena": "agents",
+        "category": "pdf",
+        "elo": 1088,
+        "win_rate": 36,
+        "rank": 18
       },
       {
         "arena": "agents",
@@ -122,7 +135,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1198,
+        "elo": 1196,
         "win_rate": 48.8,
         "rank": 21
       },
@@ -152,7 +165,7 @@
         "category": "dataviz",
         "elo": 1276,
         "win_rate": 53,
-        "rank": 24
+        "rank": 25
       },
       {
         "arena": "models",

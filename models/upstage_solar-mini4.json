@@ -50,28 +50,34 @@
   "links": {
     "details": "/api/v1/models/upstage/solar-mini4-20260922/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
         "elo": 1080,
-        "win_rate": 22,
+        "win_rate": 22.2,
         "rank": 94
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1141,
-        "win_rate": 31.1,
-        "rank": 94
+        "elo": 1139,
+        "win_rate": 31,
+        "rank": 96
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1119,
-        "win_rate": 29.2,
-        "rank": 91
+        "elo": 1117,
+        "win_rate": 29,
+        "rank": 92
       },
       {
         "arena": "models",
@@ -83,8 +89,8 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1156,
-        "win_rate": 33.5,
+        "elo": 1154,
+        "win_rate": 33.3,
         "rank": 93
       }
     ]

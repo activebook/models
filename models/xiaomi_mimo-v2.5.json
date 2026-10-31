@@ -61,12 +61,18 @@
   "links": {
     "details": "/api/v1/models/xiaomi/mimo-v2.5-20260422/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1214,
+        "elo": 1213,
         "win_rate": 50.8,
         "rank": 44
       },
@@ -94,7 +100,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1250,
+        "elo": 1251,
         "win_rate": 52.6,
         "rank": 38
       },
@@ -102,8 +108,8 @@
         "arena": "models",
         "category": "svg",
         "elo": 1179,
-        "win_rate": 50.2,
-        "rank": 39
+        "win_rate": 50.1,
+        "rank": 38
       },
       {
         "arena": "models",

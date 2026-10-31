@@ -51,5 +51,11 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/qwen/qwen2.5-vl-72b-instruct/endpoints"
-  }
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ]
 }

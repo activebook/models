@@ -63,6 +63,7 @@
   "links": {
     "details": "/api/v1/models/google/gemini-3-flash-preview-20251217/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
@@ -117,7 +118,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1101,
+        "elo": 1099,
         "win_rate": 48.5,
         "rank": 37
       },

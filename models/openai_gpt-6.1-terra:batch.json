@@ -60,6 +60,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6.1-terra-20261026/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {

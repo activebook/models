@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000816234",
-    "completion": "0.000001632468",
-    "input_cache_read": "0.0000000680195"
+    "prompt": "0.0000016",
+    "completion": "0.0000032",
+    "input_cache_read": "0.000000135"
   },
   "top_provider": {
-    "context_length": 1024000,
-    "max_completion_tokens": 384000,
+    "context_length": 1048576,
+    "max_completion_tokens": 393216,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -61,6 +61,12 @@
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v4-pro-20260423/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {

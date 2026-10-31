@@ -43,5 +43,11 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/unbiased/pareto-26.9-20260917/endpoints"
-  }
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ]
 }

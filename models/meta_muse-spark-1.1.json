@@ -53,12 +53,18 @@
   "links": {
     "details": "/api/v1/models/meta/muse-spark-1.1-20260709/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1132,
+        "elo": 1131,
         "win_rate": 48.1,
         "rank": 12
       },
@@ -74,7 +80,7 @@
         "category": "blender3d",
         "elo": 1017,
         "win_rate": 36.3,
-        "rank": 20
+        "rank": 18
       },
       {
         "arena": "agents",
@@ -121,7 +127,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1198,
+        "elo": 1196,
         "win_rate": 49.2,
         "rank": 20
       },
@@ -135,16 +141,16 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1261,
-        "win_rate": 53.4,
+        "elo": 1264,
+        "win_rate": 53.6,
         "rank": 14
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1275,
+        "elo": 1274,
         "win_rate": 51.2,
-        "rank": 27
+        "rank": 28
       },
       {
         "arena": "models",
@@ -158,7 +164,7 @@
         "category": "gamedev",
         "elo": 1269,
         "win_rate": 48.1,
-        "rank": 25
+        "rank": 26
       },
       {
         "arena": "models",

@@ -67,6 +67,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6.1-terra-pro-20261026/endpoints"
   },
+  "endpoints": [],
   "reasoning": {
     "mandatory": true,
     "default_enabled": true,

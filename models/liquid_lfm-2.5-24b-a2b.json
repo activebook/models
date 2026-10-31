@@ -59,6 +59,12 @@
   "links": {
     "details": "/api/v1/models/liquid/lfm-2.5-24b-a2b-20261012/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": true
   }

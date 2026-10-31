@@ -20,12 +20,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000032",
-    "completion": "0.0000032"
+    "prompt": "0.00000045",
+    "completion": "0.0000027"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 81920,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -64,6 +64,12 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3.6-27b-20260422/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {

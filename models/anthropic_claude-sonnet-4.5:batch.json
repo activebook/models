@@ -70,6 +70,7 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.5-sonnet-20250929/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
@@ -145,7 +146,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1050,
+        "elo": 1048,
         "win_rate": 43.2,
         "rank": 40
       }

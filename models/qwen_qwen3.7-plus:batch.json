@@ -53,6 +53,7 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3.7-plus-20260602/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
@@ -74,27 +75,27 @@
         "category": "codecategories",
         "elo": 1267,
         "win_rate": 50.2,
-        "rank": 34
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1278,
-        "win_rate": 51.3,
+        "elo": 1277,
+        "win_rate": 51.1,
         "rank": 23
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1261,
-        "win_rate": 49.3,
+        "win_rate": 49.4,
         "rank": 35
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1205,
-        "win_rate": 46.6,
+        "elo": 1206,
+        "win_rate": 46.7,
         "rank": 27
       },
       {
@@ -107,9 +108,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1268,
+        "elo": 1267,
         "win_rate": 50.4,
-        "rank": 32
+        "rank": 34
       }
     ],
     "artificial_analysis": {

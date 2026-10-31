@@ -59,6 +59,12 @@
   "links": {
     "details": "/api/v1/models/deepseek/deepseek-v4-flash-20260731/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -66,7 +72,7 @@
         "category": "3d",
         "elo": 1205,
         "win_rate": 48.7,
-        "rank": 47
+        "rank": 48
       },
       {
         "arena": "models",

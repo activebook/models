@@ -60,21 +60,29 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6.1-sol-20260929/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "blender3d",
         "elo": 1312,
-        "win_rate": 70.9,
+        "win_rate": 71.1,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1241,
+        "elo": 1239,
         "win_rate": 53.9,
         "rank": 7
+      },
+      {
+        "arena": "agents",
+        "category": "pdf",
+        "elo": 1167,
+        "win_rate": 46.1,
+        "rank": 14
       },
       {
         "arena": "agents",
@@ -93,7 +101,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1437,
+        "elo": 1438,
         "win_rate": 58.4,
         "rank": 4
       },
@@ -101,7 +109,7 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1359,
-        "win_rate": 56.2,
+        "win_rate": 56.3,
         "rank": 3
       },
       {
@@ -109,20 +117,20 @@
         "category": "dataviz",
         "elo": 1289,
         "win_rate": 54.1,
-        "rank": 16
+        "rank": 17
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1412,
-        "win_rate": 59.6,
+        "elo": 1413,
+        "win_rate": 60,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1342,
-        "win_rate": 58.5,
+        "elo": 1343,
+        "win_rate": 58.6,
         "rank": 7
       },
       {

@@ -58,6 +58,12 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5.3-codex-20260224/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -91,7 +97,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1023,
+        "elo": 1021,
         "win_rate": 36.9,
         "rank": 43
       },

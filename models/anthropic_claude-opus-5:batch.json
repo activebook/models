@@ -52,28 +52,29 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-opus-5-20260723/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1209,
-        "win_rate": 53.1,
+        "elo": 1205,
+        "win_rate": 53,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1249,
-        "win_rate": 55.3,
+        "elo": 1250,
+        "win_rate": 55.5,
         "rank": 5
       },
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1172,
-        "win_rate": 58.8,
-        "rank": 8
+        "elo": 1184,
+        "win_rate": 60.2,
+        "rank": 7
       },
       {
         "arena": "agents",
@@ -99,15 +100,15 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1289,
-        "win_rate": 60,
-        "rank": 2
+        "elo": 1239,
+        "win_rate": 54.8,
+        "rank": 11
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
         "elo": 1218,
-        "win_rate": 53.9,
+        "win_rate": 54.1,
         "rank": 7
       },
       {
@@ -120,7 +121,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1257,
+        "elo": 1255,
         "win_rate": 54.4,
         "rank": 10
       },
@@ -155,8 +156,8 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1338,
-        "win_rate": 58.5,
+        "elo": 1340,
+        "win_rate": 58.6,
         "rank": 10
       },
       {
@@ -176,9 +177,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1309,
-        "win_rate": 56,
-        "rank": 10
+        "elo": 1308,
+        "win_rate": 55.9,
+        "rank": 12
       }
     ],
     "artificial_analysis": {

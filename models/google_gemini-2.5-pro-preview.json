@@ -67,6 +67,12 @@
   "links": {
     "details": "/api/v1/models/google/gemini-2.5-pro-preview-06-05/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": true
   }

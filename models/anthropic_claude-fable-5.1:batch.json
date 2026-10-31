@@ -52,6 +52,7 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-fable-5.1-20260831/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
@@ -80,7 +81,7 @@
         "category": "mobileapps",
         "elo": 1265,
         "win_rate": 56.3,
-        "rank": 5
+        "rank": 4
       },
       {
         "arena": "agents",
@@ -99,7 +100,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1300,
+        "elo": 1298,
         "win_rate": 54.9,
         "rank": 2
       },
@@ -143,7 +144,7 @@
         "category": "svg",
         "elo": 1296,
         "win_rate": 56.4,
-        "rank": 8
+        "rank": 9
       },
       {
         "arena": "models",

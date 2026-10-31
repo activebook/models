@@ -58,6 +58,12 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5.2-20251211/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -98,7 +104,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1076,
+        "elo": 1074,
         "win_rate": 45.5,
         "rank": 39
       },

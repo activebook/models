@@ -48,26 +48,32 @@
   "links": {
     "details": "/api/v1/models/nvidia/nemotron-3.5-super-vl-20261015/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1115,
-        "win_rate": 28.5,
-        "rank": 86
+        "elo": 1119,
+        "win_rate": 28.9,
+        "rank": 84
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1151,
-        "win_rate": 33.1,
+        "win_rate": 33.2,
         "rank": 86
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1107,
+        "elo": 1106,
         "win_rate": 29.4,
         "rank": 95
       },
@@ -81,9 +87,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1169,
+        "elo": 1168,
         "win_rate": 35.3,
-        "rank": 82
+        "rank": 83
       }
     ],
     "artificial_analysis": {

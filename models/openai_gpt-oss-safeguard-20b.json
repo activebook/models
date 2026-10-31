@@ -48,6 +48,12 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-oss-safeguard-20b/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": true
   }

@@ -75,6 +75,12 @@
   "links": {
     "details": "/api/v1/models/qwen/qwen3.7-flash-20260727/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

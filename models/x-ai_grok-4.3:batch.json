@@ -68,13 +68,14 @@
   "links": {
     "details": "/api/v1/models/x-ai/grok-4.3-20260430/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 958,
-        "win_rate": 28.9,
+        "elo": 957,
+        "win_rate": 28.8,
         "rank": 25
       },
       {
@@ -115,8 +116,8 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 742,
-        "win_rate": 11,
+        "elo": 776,
+        "win_rate": 12.6,
         "rank": 24
       },
       {
@@ -150,9 +151,9 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 949,
-        "win_rate": 26.1,
-        "rank": 11
+        "elo": 951,
+        "win_rate": 23.1,
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -178,14 +179,14 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1116,
+        "elo": 1114,
         "win_rate": 42.8,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1121,
+        "elo": 1122,
         "win_rate": 40.8,
         "rank": 82
       },
@@ -200,29 +201,29 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1185,
-        "win_rate": 43.6,
+        "win_rate": 43.5,
         "rank": 66
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1180,
-        "win_rate": 45,
+        "win_rate": 45.1,
         "rank": 67
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1171,
-        "win_rate": 42.8,
-        "rank": 67
+        "elo": 1170,
+        "win_rate": 42.7,
+        "rank": 68
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1078,
-        "win_rate": 36.8,
-        "rank": 72
+        "elo": 1079,
+        "win_rate": 36.9,
+        "rank": 71
       },
       {
         "arena": "models",

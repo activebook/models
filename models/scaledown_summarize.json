@@ -38,5 +38,11 @@
   "expiration_date": null,
   "links": {
     "details": "/api/v1/models/scaledown/summarize-20260928/endpoints"
-  }
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ]
 }

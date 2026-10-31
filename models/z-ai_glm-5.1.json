@@ -63,6 +63,12 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-5.1-20260406/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -82,9 +88,9 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1267,
+        "elo": 1266,
         "win_rate": 52.9,
-        "rank": 33
+        "rank": 34
       },
       {
         "arena": "models",
@@ -104,7 +110,7 @@
         "arena": "models",
         "category": "svg",
         "elo": 1216,
-        "win_rate": 55.3,
+        "win_rate": 55.4,
         "rank": 23
       },
       {
@@ -119,14 +125,14 @@
         "category": "website",
         "elo": 1290,
         "win_rate": 55.1,
-        "rank": 21
+        "rank": 20
       },
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1114,
+        "elo": 1111,
         "win_rate": 49.4,
-        "rank": 18
+        "rank": 19
       },
       {
         "arena": "agents",
@@ -215,7 +221,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1166,
+        "elo": 1164,
         "win_rate": 50.6,
         "rank": 28
       }

@@ -60,6 +60,12 @@
   "links": {
     "details": "/api/v1/models/prism-ml/ternary-bonsai-2-27b-20260918/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

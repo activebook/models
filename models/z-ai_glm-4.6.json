@@ -61,12 +61,18 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.6/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1082,
+        "elo": 1080,
         "win_rate": 52.6,
         "rank": 32
       },
@@ -96,7 +102,7 @@
         "category": "3d",
         "elo": 1126,
         "win_rate": 54.2,
-        "rank": 81
+        "rank": 80
       },
       {
         "arena": "models",

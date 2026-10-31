@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000008",
-    "completion": "0.0000036",
-    "input_cache_read": "0.000000076"
+    "prompt": "0.0000000699",
+    "completion": "0.0000014",
+    "input_cache_read": "0.0000000689"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -61,13 +61,19 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-5.3-20260816/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1328,
-        "win_rate": 59.2,
+        "elo": 1327,
+        "win_rate": 59.1,
         "rank": 16
       },
       {
@@ -80,8 +86,8 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1298,
-        "win_rate": 53.6,
+        "elo": 1297,
+        "win_rate": 53.5,
         "rank": 17
       },
       {
@@ -95,29 +101,29 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1305,
-        "win_rate": 52,
+        "win_rate": 51.9,
         "rank": 17
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1279,
-        "win_rate": 55.4,
-        "rank": 14
+        "elo": 1271,
+        "win_rate": 54,
+        "rank": 15
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1300,
-        "win_rate": 55.1,
-        "rank": 17
+        "elo": 1294,
+        "win_rate": 53.8,
+        "rank": 19
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1291,
-        "win_rate": 53.6,
-        "rank": 19
+        "elo": 1290,
+        "win_rate": 53.5,
+        "rank": 21
       },
       {
         "arena": "agents",

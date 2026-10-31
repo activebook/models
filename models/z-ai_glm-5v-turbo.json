@@ -55,12 +55,18 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-5v-turbo-20260401/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1052,
+        "elo": 1049,
         "win_rate": 42.6,
         "rank": 24
       },
@@ -144,16 +150,16 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1115,
+        "elo": 1113,
         "win_rate": 44.7,
         "rank": 35
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1205,
+        "elo": 1206,
         "win_rate": 52.3,
-        "rank": 48
+        "rank": 46
       },
       {
         "arena": "models",
@@ -166,7 +172,7 @@
         "arena": "models",
         "category": "codecategories",
         "elo": 1226,
-        "win_rate": 49.5,
+        "win_rate": 49.4,
         "rank": 55
       },
       {
@@ -179,15 +185,15 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1216,
-        "win_rate": 49.5,
+        "elo": 1217,
+        "win_rate": 49.6,
         "rank": 49
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1148,
-        "win_rate": 48.5,
+        "win_rate": 48.4,
         "rank": 49
       },
       {
@@ -201,8 +207,8 @@
         "arena": "models",
         "category": "website",
         "elo": 1229,
-        "win_rate": 48.8,
-        "rank": 53
+        "win_rate": 48.7,
+        "rank": 54
       }
     ]
   },

@@ -79,6 +79,12 @@
   "links": {
     "details": "/api/v1/models/tencent/hy3-20260706/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -100,7 +106,7 @@
         "category": "dataviz",
         "elo": 1125,
         "win_rate": 36.1,
-        "rank": 94
+        "rank": 95
       },
       {
         "arena": "models",

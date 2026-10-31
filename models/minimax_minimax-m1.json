@@ -53,6 +53,12 @@
   "links": {
     "details": "/api/v1/models/minimax/minimax-m1/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "reasoning": {
     "mandatory": false
   }

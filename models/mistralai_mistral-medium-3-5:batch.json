@@ -59,6 +59,7 @@
   "links": {
     "details": "/api/v1/models/mistralai/mistral-medium-3.5-20260430/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {

@@ -63,6 +63,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5.4-pro-20260305/endpoints"
   },
+  "endpoints": [],
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [

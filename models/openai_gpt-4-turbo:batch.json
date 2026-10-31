@@ -52,6 +52,7 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-4-turbo/endpoints"
   },
+  "endpoints": [],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {

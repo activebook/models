@@ -53,6 +53,12 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-5-turbo-20260315/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -72,7 +78,7 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1260,
+        "elo": 1259,
         "win_rate": 53.3,
         "rank": 37
       },
@@ -95,13 +101,13 @@
         "category": "svg",
         "elo": 1203,
         "win_rate": 54.1,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1257,
-        "win_rate": 54.8,
+        "win_rate": 54.7,
         "rank": 37
       },
       {

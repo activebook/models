@@ -47,5 +47,11 @@
   "expiration_date": "2026-11-02",
   "links": {
     "details": "/api/v1/models/nousresearch/hermes-3-llama-3.1-70b/endpoints"
-  }
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ]
 }

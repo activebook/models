@@ -50,12 +50,18 @@
   "links": {
     "details": "/api/v1/models/upstage/solar-pro4-20260810/endpoints"
   },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1095,
+        "elo": 1093,
         "win_rate": 30,
         "rank": 38
       },
