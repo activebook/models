@@ -74,7 +74,7 @@
         "category": "asciiart",
         "elo": 1187,
         "win_rate": 54.8,
-        "rank": 30
+        "rank": 31
       },
       {
         "arena": "models",
@@ -123,7 +123,7 @@
         "category": "androidnative",
         "elo": 1172,
         "win_rate": 65.5,
-        "rank": 19
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -137,12 +137,12 @@
         "category": "mobileapps",
         "elo": 1189,
         "win_rate": 60.7,
-        "rank": 21
+        "rank": 22
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1148,
+        "elo": 1146,
         "win_rate": 55.1,
         "rank": 30
       }

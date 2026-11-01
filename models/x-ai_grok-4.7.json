@@ -74,10 +74,17 @@
     "design_arena": [
       {
         "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1267,
+        "win_rate": 57.9,
+        "rank": 4
+      },
+      {
+        "arena": "agents",
         "category": "pdf",
-        "elo": 1217,
-        "win_rate": 56,
-        "rank": 12
+        "elo": 1165,
+        "win_rate": 48.4,
+        "rank": 17
       },
       {
         "arena": "models",
@@ -89,9 +96,9 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1268,
-        "win_rate": 47.7,
-        "rank": 32
+        "elo": 1270,
+        "win_rate": 47.9,
+        "rank": 31
       },
       {
         "arena": "models",
@@ -103,9 +110,9 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1317,
-        "win_rate": 53.2,
-        "rank": 14
+        "elo": 1321,
+        "win_rate": 53.3,
+        "rank": 12
       },
       {
         "arena": "models",

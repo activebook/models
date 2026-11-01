@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000054",
-    "completion": "0.00000198",
-    "input_cache_read": "0.000000099"
+    "prompt": "0.0000006",
+    "completion": "0.0000022",
+    "input_cache_read": "0.00000011"
   },
   "top_provider": {
-    "context_length": 204800,
+    "context_length": 202752,
     "max_completion_tokens": 131072,
     "is_moderated": false
   },
@@ -58,7 +58,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-12-31",
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.7-20251222/endpoints"
   },
@@ -75,7 +75,7 @@
         "category": "androidnative",
         "elo": 1108,
         "win_rate": 56.1,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "agents",
@@ -96,7 +96,7 @@
         "category": "mobileapps",
         "elo": 1105,
         "win_rate": 48.9,
-        "rank": 37
+        "rank": 38
       },
       {
         "arena": "models",
@@ -110,7 +110,7 @@
         "category": "asciiart",
         "elo": 1162,
         "win_rate": 48.2,
-        "rank": 35
+        "rank": 36
       },
       {
         "arena": "models",
