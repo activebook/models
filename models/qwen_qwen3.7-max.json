@@ -86,9 +86,9 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 977,
-        "win_rate": 32.4,
-        "rank": 22
+        "elo": 980,
+        "win_rate": 32.9,
+        "rank": 23
       },
       {
         "arena": "agents",
@@ -121,22 +121,22 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1097,
-        "win_rate": 36.7,
-        "rank": 20
+        "elo": 1118,
+        "win_rate": 40.5,
+        "rank": 22
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1147,
-        "win_rate": 47.5,
+        "elo": 1149,
+        "win_rate": 47.4,
         "rank": 19
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1196,
-        "win_rate": 48.8,
+        "elo": 1193,
+        "win_rate": 48.7,
         "rank": 20
       },
       {
@@ -178,7 +178,7 @@
         "arena": "models",
         "category": "svg",
         "elo": 1214,
-        "win_rate": 55.2,
+        "win_rate": 55.1,
         "rank": 24
       },
       {

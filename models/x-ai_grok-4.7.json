@@ -74,30 +74,37 @@
     "design_arena": [
       {
         "arena": "agents",
+        "category": "blender3d",
+        "elo": 1163,
+        "win_rate": 60,
+        "rank": 9
+      },
+      {
+        "arena": "agents",
         "category": "mobileapps",
-        "elo": 1267,
-        "win_rate": 57.9,
-        "rank": 4
+        "elo": 1273,
+        "win_rate": 58.7,
+        "rank": 3
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1165,
-        "win_rate": 48.4,
-        "rank": 17
+        "elo": 1156,
+        "win_rate": 46.1,
+        "rank": 18
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1268,
-        "win_rate": 47.8,
+        "elo": 1266,
+        "win_rate": 47.6,
         "rank": 26
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1270,
-        "win_rate": 47.9,
+        "elo": 1272,
+        "win_rate": 48,
         "rank": 31
       },
       {
@@ -110,8 +117,8 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1321,
-        "win_rate": 53.3,
+        "elo": 1322,
+        "win_rate": 53,
         "rank": 12
       },
       {

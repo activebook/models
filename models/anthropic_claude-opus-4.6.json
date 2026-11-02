@@ -81,9 +81,9 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1018,
-        "win_rate": 37.9,
-        "rank": 18
+        "elo": 1008,
+        "win_rate": 37.2,
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -102,23 +102,23 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1293,
-        "win_rate": 61.8,
+        "elo": 1296,
+        "win_rate": 62.5,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1248,
-        "win_rate": 75,
-        "rank": 9
+        "elo": 1214,
+        "win_rate": 68.2,
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1194,
-        "win_rate": 56.2,
-        "rank": 21
+        "elo": 1191,
+        "win_rate": 56.3,
+        "rank": 22
       },
       {
         "arena": "models",
