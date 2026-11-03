@@ -800,6 +800,10 @@
     "file": "models/z-ai_glm-5.3-flashx.json"
   },
   {
+    "name": "glm-5.3-flashx-legal",
+    "file": "models/z-ai_glm-5.3-flashx-legal.json"
+  },
+  {
     "name": "glm-5.3-prime",
     "file": "models/z-ai_glm-5.3-prime.json"
   },

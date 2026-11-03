@@ -111,7 +111,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1113,
+        "elo": 1111,
         "win_rate": 52.2,
         "rank": 62
       },
@@ -141,14 +141,14 @@
         "category": "mobileapps",
         "elo": 1137,
         "win_rate": 52.9,
-        "rank": 34
+        "rank": 35
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1046,
+        "elo": 1044,
         "win_rate": 43.2,
-        "rank": 40
+        "rank": 41
       }
     ],
     "artificial_analysis": {

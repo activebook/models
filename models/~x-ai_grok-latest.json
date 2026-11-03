@@ -26,21 +26,23 @@
   "pricing": {
     "prompt": "0.000002",
     "completion": "0.000006",
-    "web_search": "0.005",
+    "web_search": "0.01",
     "input_cache_read": "0.0000005",
+    "input_cache_write": "0",
     "overrides": [
       {
         "min_prompt_tokens": 200000,
         "prompt": "0.000004",
         "completion": "0.000012",
-        "input_cache_read": "0.000001"
+        "input_cache_read": "0.000001",
+        "input_cache_write": "0"
       }
     ]
   },
   "top_provider": {
     "context_length": 500000,
     "max_completion_tokens": 450000,
-    "is_moderated": false
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -51,10 +53,12 @@
     "reasoning_effort",
     "response_format",
     "seed",
+    "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],
