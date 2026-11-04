@@ -62,7 +62,9 @@
   "links": {
     "details": "/api/v1/models/z-ai/glm-5.3-flash-20260826/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -75,9 +77,9 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1273,
-        "win_rate": 55,
-        "rank": 11
+        "elo": 1275,
+        "win_rate": 55.2,
+        "rank": 9
       },
       {
         "arena": "models",
@@ -97,14 +99,14 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1275,
-        "win_rate": 46.8,
-        "rank": 25
+        "win_rate": 46.9,
+        "rank": 24
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1274,
-        "win_rate": 54.4,
+        "win_rate": 54.5,
         "rank": 14
       },
       {

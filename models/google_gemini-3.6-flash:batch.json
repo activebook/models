@@ -64,13 +64,15 @@
   "links": {
     "details": "/api/v1/models/google/gemini-3.6-flash-20260721/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1127,
+        "elo": 1125,
         "win_rate": 47.3,
         "rank": 15
       },
@@ -106,15 +108,15 @@
         "arena": "agents",
         "category": "mobileapps",
         "elo": 1196,
-        "win_rate": 49.9,
+        "win_rate": 49.7,
         "rank": 20
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1213,
-        "win_rate": 52.1,
-        "rank": 12
+        "elo": 1223,
+        "win_rate": 53.4,
+        "rank": 11
       },
       {
         "arena": "agents",
@@ -135,7 +137,7 @@
         "category": "webapps",
         "elo": 1181,
         "win_rate": 45.5,
-        "rank": 26
+        "rank": 27
       },
       {
         "arena": "models",
@@ -149,7 +151,7 @@
         "category": "asciiart",
         "elo": 1274,
         "win_rate": 56.7,
-        "rank": 10
+        "rank": 11
       },
       {
         "arena": "models",
@@ -163,7 +165,7 @@
         "category": "dataviz",
         "elo": 1291,
         "win_rate": 52.3,
-        "rank": 16
+        "rank": 15
       },
       {
         "arena": "models",
@@ -175,16 +177,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1294,
+        "elo": 1295,
         "win_rate": 53.9,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1298,
-        "win_rate": 54.3,
-        "rank": 16
+        "elo": 1297,
+        "win_rate": 54.2,
+        "rank": 17
       }
     ],
     "artificial_analysis": {

@@ -54,13 +54,15 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.6-sonnet-20260217/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1125,
+        "elo": 1123,
         "win_rate": 52.2,
         "rank": 17
       },
@@ -95,7 +97,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1175,
+        "elo": 1177,
         "win_rate": 57,
         "rank": 28
       },

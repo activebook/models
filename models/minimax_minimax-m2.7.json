@@ -56,7 +56,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-05",
   "links": {
     "details": "/api/v1/models/minimax/minimax-m2.7-20260318/endpoints"
   },
@@ -99,7 +99,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1208,
+        "elo": 1209,
         "win_rate": 49.3,
         "rank": 52
       },
@@ -122,7 +122,7 @@
         "category": "website",
         "elo": 1241,
         "win_rate": 51.3,
-        "rank": 48
+        "rank": 49
       }
     ],
     "artificial_analysis": {

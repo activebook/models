@@ -54,21 +54,23 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.6-opus-20260205/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1144,
-        "win_rate": 45.5,
+        "elo": 1143,
+        "win_rate": 45.3,
         "rank": 11
       },
       {
         "arena": "agents",
         "category": "androidnative",
         "elo": 1190,
-        "win_rate": 62,
+        "win_rate": 61.8,
         "rank": 15
       },
       {
@@ -76,7 +78,7 @@
         "category": "blender3d",
         "elo": 1008,
         "win_rate": 37.2,
-        "rank": 21
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -95,22 +97,22 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1269,
-        "win_rate": 58.7,
+        "elo": 1274,
+        "win_rate": 59.2,
         "rank": 5
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1222,
+        "elo": 1241,
         "win_rate": 69.6,
         "rank": 9
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1191,
-        "win_rate": 56.3,
+        "elo": 1193,
+        "win_rate": 56.1,
         "rank": 23
       },
       {

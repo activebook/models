@@ -21,7 +21,7 @@
   "pricing": {
     "prompt": "0.000000045",
     "completion": "0.0000005",
-    "input_cache_read": "0.000000006"
+    "input_cache_read": "0.000000018"
   },
   "top_provider": {
     "context_length": 1048576,

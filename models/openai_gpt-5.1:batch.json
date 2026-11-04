@@ -57,7 +57,9 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5.1-20251113/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -86,7 +88,7 @@
         "category": "dataviz",
         "elo": 1204,
         "win_rate": 58,
-        "rank": 57
+        "rank": 58
       },
       {
         "arena": "models",

@@ -154,8 +154,8 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1117,
-        "win_rate": 43.5,
+        "elo": 1130,
+        "win_rate": 44.9,
         "rank": 23
       },
       {
@@ -175,9 +175,9 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1069,
+        "elo": 1071,
         "win_rate": 42.3,
-        "rank": 21
+        "rank": 19
       },
       {
         "arena": "agents",
@@ -189,7 +189,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1241,
+        "elo": 1240,
         "win_rate": 55.8,
         "rank": 37
       },
@@ -212,7 +212,7 @@
         "category": "dataviz",
         "elo": 1239,
         "win_rate": 53.2,
-        "rank": 41
+        "rank": 42
       },
       {
         "arena": "models",

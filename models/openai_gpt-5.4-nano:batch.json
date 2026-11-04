@@ -57,7 +57,9 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5.4-nano-20260317/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {

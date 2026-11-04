@@ -74,6 +74,14 @@
     "/api/v1/messages",
     "/api/v1/responses"
   ],
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 44.1,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

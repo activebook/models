@@ -52,7 +52,9 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.5-opus-20251124/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -95,7 +97,7 @@
         "category": "svg",
         "elo": 1177,
         "win_rate": 58.7,
-        "rank": 41
+        "rank": 40
       },
       {
         "arena": "models",
@@ -135,7 +137,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1144,
+        "elo": 1146,
         "win_rate": 55.1,
         "rank": 31
       }

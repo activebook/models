@@ -152,7 +152,7 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1286,
+        "elo": 1288,
         "win_rate": 51.2,
         "rank": 6
       },
@@ -166,8 +166,8 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1244,
-        "win_rate": 51.5,
+        "elo": 1242,
+        "win_rate": 51.1,
         "rank": 20
       },
       {
@@ -194,8 +194,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1245,
-        "win_rate": 51.7,
+        "elo": 1247,
+        "win_rate": 51.9,
         "rank": 17
       },
       {
@@ -210,11 +210,11 @@
         "category": "website",
         "elo": 1297,
         "win_rate": 51.8,
-        "rank": 17
+        "rank": 16
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 28.5,
+      "intelligence_index": 28.6,
       "coding_index": null,
       "agentic_index": null
     }

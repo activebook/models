@@ -45,7 +45,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-05",
   "links": {
     "details": "/api/v1/models/minimax/minimax-m2.1/endpoints"
   },
@@ -76,7 +76,7 @@
         "category": "dataviz",
         "elo": 1206,
         "win_rate": 57,
-        "rank": 56
+        "rank": 57
       },
       {
         "arena": "models",

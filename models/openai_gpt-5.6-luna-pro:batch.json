@@ -65,7 +65,9 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-5.6-luna-pro-20260709/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

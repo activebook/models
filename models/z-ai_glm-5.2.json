@@ -125,9 +125,9 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1213,
-        "win_rate": 50,
-        "rank": 13
+        "elo": 1234,
+        "win_rate": 52.9,
+        "rank": 9
       },
       {
         "arena": "agents",
@@ -139,9 +139,9 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1207,
+        "elo": 1209,
         "win_rate": 55.8,
-        "rank": 18
+        "rank": 17
       },
       {
         "arena": "models",
@@ -181,8 +181,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1207,
-        "win_rate": 48.2,
+        "elo": 1208,
+        "win_rate": 48.3,
         "rank": 25
       },
       {

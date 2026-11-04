@@ -67,11 +67,13 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-6-luna-20260922/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 27.8,
+      "intelligence_index": 27.9,
       "coding_index": null,
       "agentic_index": null
     }

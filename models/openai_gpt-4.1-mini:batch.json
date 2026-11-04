@@ -48,7 +48,9 @@
   "links": {
     "details": "/api/v1/models/openai/gpt-4.1-mini-2025-04-14/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {

@@ -292,6 +292,10 @@
     "file": "models/cohere_command-r7b-12-2024.json"
   },
   {
+    "name": "crouton-alpha",
+    "file": "models/stealth_crouton-alpha.json"
+  },
+  {
     "name": "cydonia-24b-v4.1",
     "file": "models/thedrummer_cydonia-24b-v4.1.json"
   },
@@ -1368,8 +1372,16 @@
     "file": "models/x-ai_grok-4.6.json"
   },
   {
+    "name": "grok-4.6:batch",
+    "file": "models/x-ai_grok-4.6:batch.json"
+  },
+  {
     "name": "grok-4.7",
     "file": "models/x-ai_grok-4.7.json"
+  },
+  {
+    "name": "grok-4.7:batch",
+    "file": "models/x-ai_grok-4.7:batch.json"
   },
   {
     "name": "grok-build-0.1",
@@ -1446,6 +1458,10 @@
   {
     "name": "hy3:free",
     "file": "models/tencent_hy3:free.json"
+  },
+  {
+    "name": "hy4",
+    "file": "models/tencent_hy4.json"
   },
   {
     "name": "hy4-preview",

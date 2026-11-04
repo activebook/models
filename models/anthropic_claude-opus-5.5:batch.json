@@ -52,7 +52,9 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-opus-5.5-20260921/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
@@ -65,29 +67,29 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1359,
-        "win_rate": 74.4,
+        "elo": 1354,
+        "win_rate": 73.6,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1309,
-        "win_rate": 63,
+        "elo": 1307,
+        "win_rate": 62.7,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1334,
-        "win_rate": 70.1,
+        "elo": 1338,
+        "win_rate": 70.5,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1394,
-        "win_rate": 68.8,
+        "elo": 1398,
+        "win_rate": 69,
         "rank": 2
       },
       {
@@ -121,15 +123,15 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1394,
-        "win_rate": 64.4,
+        "elo": 1395,
+        "win_rate": 64.5,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1435,
-        "win_rate": 64,
+        "win_rate": 64.1,
         "rank": 1
       },
       {
@@ -142,8 +144,8 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1378,
-        "win_rate": 63.6,
+        "elo": 1377,
+        "win_rate": 63.3,
         "rank": 3
       },
       {
@@ -155,7 +157,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 58.4,
+      "intelligence_index": 59.1,
       "coding_index": null,
       "agentic_index": null
     }

@@ -43,7 +43,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-08",
   "links": {
     "details": "/api/v1/models/inception/mercury-3-20261019/endpoints"
   },
@@ -58,30 +58,30 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1228,
-        "win_rate": 45.3,
-        "rank": 53
+        "elo": 1229,
+        "win_rate": 45.4,
+        "rank": 52
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1203,
-        "win_rate": 44.7,
-        "rank": 59
+        "elo": 1207,
+        "win_rate": 45.2,
+        "rank": 56
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1219,
-        "win_rate": 44.7,
+        "elo": 1218,
+        "win_rate": 44.6,
         "rank": 48
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1178,
-        "win_rate": 43.2,
-        "rank": 40
+        "elo": 1177,
+        "win_rate": 43.1,
+        "rank": 41
       },
       {
         "arena": "models",
@@ -93,9 +93,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1229,
-        "win_rate": 45.5,
-        "rank": 55
+        "elo": 1230,
+        "win_rate": 45.6,
+        "rank": 54
       }
     ]
   },

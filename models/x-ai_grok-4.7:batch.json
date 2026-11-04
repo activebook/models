@@ -1,0 +1,153 @@
+{
+  "id": "x-ai/grok-4.7:batch",
+  "canonical_slug": "x-ai/grok-4.7-20260916",
+  "hugging_face_id": null,
+  "name": "SpaceXAI: Grok 4.7 (batch)",
+  "created": 1790007541,
+  "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
+  "context_length": 500000,
+  "architecture": {
+    "modality": "text+image+file->text",
+    "input_modalities": [
+      "text",
+      "image",
+      "file"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Grok",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000016",
+    "completion": "0.0000048",
+    "web_search": "0.005",
+    "input_cache_read": "0.0000004",
+    "overrides": [
+      {
+        "min_prompt_tokens": 200000,
+        "prompt": "0.0000032",
+        "completion": "0.0000096",
+        "input_cache_read": "0.0000008"
+      }
+    ]
+  },
+  "top_provider": {
+    "context_length": 500000,
+    "max_completion_tokens": 450000,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "logprobs",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "seed",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": 0.7,
+    "top_p": 0.95
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/x-ai/grok-4.7-20260916/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/batches"
+  ],
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "blender3d",
+        "elo": 1163,
+        "win_rate": 60,
+        "rank": 9
+      },
+      {
+        "arena": "agents",
+        "category": "mobileapps",
+        "elo": 1267,
+        "win_rate": 57.5,
+        "rank": 5
+      },
+      {
+        "arena": "agents",
+        "category": "pdf",
+        "elo": 1149,
+        "win_rate": 44,
+        "rank": 19
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1263,
+        "win_rate": 47.5,
+        "rank": 27
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1272,
+        "win_rate": 47.9,
+        "rank": 31
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1242,
+        "win_rate": 46.5,
+        "rank": 39
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1316,
+        "win_rate": 51.6,
+        "rank": 14
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1266,
+        "win_rate": 48,
+        "rank": 34
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1249,
+        "win_rate": 45.9,
+        "rank": 44
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 35.5,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
+  "reasoning": {
+    "mandatory": true,
+    "default_enabled": true,
+    "supported_efforts": [
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "high"
+  }
+}

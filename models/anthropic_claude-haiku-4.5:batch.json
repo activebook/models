@@ -60,7 +60,9 @@
   "links": {
     "details": "/api/v1/models/anthropic/claude-4.5-haiku-20251001/endpoints"
   },
-  "endpoints": [],
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {

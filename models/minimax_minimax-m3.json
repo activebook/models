@@ -97,8 +97,8 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1213,
-        "win_rate": 55.1,
+        "elo": 1220,
+        "win_rate": 56.1,
         "rank": 2
       },
       {
@@ -125,8 +125,8 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1282,
-        "win_rate": 62.4,
+        "elo": 1283,
+        "win_rate": 62.1,
         "rank": 4
       },
       {
@@ -139,9 +139,9 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1080,
-        "win_rate": 47.3,
-        "rank": 19
+        "elo": 1070,
+        "win_rate": 46.5,
+        "rank": 20
       },
       {
         "arena": "agents",
@@ -175,7 +175,7 @@
         "arena": "models",
         "category": "dataviz",
         "elo": 1234,
-        "win_rate": 51.1,
+        "win_rate": 51.2,
         "rank": 45
       },
       {
@@ -188,15 +188,15 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1157,
+        "elo": 1158,
         "win_rate": 44.7,
-        "rank": 46
+        "rank": 45
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1241,
-        "win_rate": 50.6,
+        "win_rate": 50.5,
         "rank": 44
       },
       {
@@ -208,7 +208,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 18.7,
+      "intelligence_index": 18.9,
       "coding_index": 58.6,
       "agentic_index": 29.5
     }
