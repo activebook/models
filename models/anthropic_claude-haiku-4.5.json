@@ -74,7 +74,7 @@
         "category": "3d",
         "elo": 1069,
         "win_rate": 41.1,
-        "rank": 102
+        "rank": 103
       },
       {
         "arena": "models",
@@ -116,7 +116,7 @@
         "category": "uicomponent",
         "elo": 1095,
         "win_rate": 42.6,
-        "rank": 98
+        "rank": 99
       },
       {
         "arena": "models",
@@ -127,7 +127,7 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": null,
+      "intelligence_index": 7.4,
       "coding_index": 43.9,
       "agentic_index": 8
     }

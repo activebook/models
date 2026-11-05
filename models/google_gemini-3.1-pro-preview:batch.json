@@ -79,8 +79,8 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1061,
-        "win_rate": 44,
+        "elo": 1059,
+        "win_rate": 43.9,
         "rank": 23
       },
       {
@@ -116,7 +116,7 @@
         "category": "androidnative",
         "elo": 1045,
         "win_rate": 41.3,
-        "rank": 36
+        "rank": 37
       },
       {
         "arena": "agents",
@@ -127,9 +127,16 @@
       },
       {
         "arena": "agents",
+        "category": "codetovideo",
+        "elo": 1154,
+        "win_rate": 47.8,
+        "rank": 12
+      },
+      {
+        "arena": "agents",
         "category": "fullstack",
-        "elo": 1068,
-        "win_rate": 40.8,
+        "elo": 1063,
+        "win_rate": 40.7,
         "rank": 32
       },
       {
@@ -156,9 +163,9 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1152,
-        "win_rate": 42.5,
-        "rank": 18
+        "elo": 1133,
+        "win_rate": 41.4,
+        "rank": 24
       },
       {
         "arena": "agents",
@@ -172,14 +179,14 @@
         "category": "python-pptxslides",
         "elo": 1109,
         "win_rate": 31.9,
-        "rank": 24
+        "rank": 25
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 990,
-        "win_rate": 30.8,
-        "rank": 26
+        "elo": 1006,
+        "win_rate": 32.1,
+        "rank": 27
       },
       {
         "arena": "agents",
@@ -193,14 +200,14 @@
         "category": "3d",
         "elo": 1231,
         "win_rate": 58.4,
-        "rank": 41
+        "rank": 42
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1267,
         "win_rate": 63.5,
-        "rank": 13
+        "rank": 14
       },
       {
         "arena": "models",
@@ -235,7 +242,7 @@
         "category": "uicomponent",
         "elo": 1275,
         "win_rate": 69.4,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "models",

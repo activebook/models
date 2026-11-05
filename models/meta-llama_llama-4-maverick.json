@@ -19,13 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000001875",
-    "completion": "0.0000006525",
-    "input_cache_read": "0.00000005"
+    "prompt": "0.00000035",
+    "completion": "0.000001",
+    "input_cache_read": "0.00000017"
   },
   "top_provider": {
-    "context_length": 128000,
-    "max_completion_tokens": 16384,
+    "context_length": 524288,
+    "max_completion_tokens": 32768,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -67,7 +67,7 @@
         "category": "3d",
         "elo": 898,
         "win_rate": 40.2,
-        "rank": 123
+        "rank": 124
       },
       {
         "arena": "models",
@@ -95,7 +95,7 @@
         "category": "uicomponent",
         "elo": 894,
         "win_rate": 40.8,
-        "rank": 132
+        "rank": 133
       },
       {
         "arena": "models",

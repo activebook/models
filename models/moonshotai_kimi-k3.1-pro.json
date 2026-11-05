@@ -1,7 +1,7 @@
 {
   "id": "moonshotai/kimi-k3.1-pro",
   "canonical_slug": "moonshotai/kimi-k3.1-pro-20261023",
-  "hugging_face_id": null,
+  "hugging_face_id": "moonshotai/Kimi-K3.1-Pro",
   "name": "MoonshotAI: Kimi K3.1 Pro",
   "created": 1792778188,
   "description": "Kimi K3.1 Pro is Moonshot AI's flagship open-weight multimodal reasoning model and a post-trained successor to Kimi K3, with a 1M-token context window. It is built for long-horizon coding, 3D...",
@@ -33,17 +33,22 @@
   "supported_parameters": [
     "frequency_penalty",
     "include_reasoning",
+    "logit_bias",
     "logprobs",
     "max_tokens",
+    "min_p",
     "presence_penalty",
     "reasoning",
     "reasoning_effort",
+    "repetition_penalty",
     "response_format",
+    "seed",
     "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
+    "top_k",
     "top_logprobs",
     "top_p"
   ],
@@ -66,72 +71,86 @@
     "design_arena": [
       {
         "arena": "agents",
+        "category": "androidnative",
+        "elo": 1139,
+        "win_rate": 40.6,
+        "rank": 27
+      },
+      {
+        "arena": "agents",
         "category": "mobileapps",
-        "elo": 1273,
-        "win_rate": 59.5,
+        "elo": 1277,
+        "win_rate": 59.8,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1248,
-        "win_rate": 57.1,
+        "elo": 1255,
+        "win_rate": 59.1,
         "rank": 8
       },
       {
         "arena": "agents",
+        "category": "python-pptxslides",
+        "elo": 1191,
+        "win_rate": 56.8,
+        "rank": 12
+      },
+      {
+        "arena": "agents",
         "category": "webapps",
-        "elo": 1324,
-        "win_rate": 62.8,
+        "elo": 1312,
+        "win_rate": 61.2,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1446,
-        "win_rate": 71.7,
+        "elo": 1450,
+        "win_rate": 72.1,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1286,
-        "win_rate": 57.5,
-        "rank": 6
+        "elo": 1299,
+        "win_rate": 58.9,
+        "rank": 5
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1355,
-        "win_rate": 61.2,
+        "elo": 1356,
+        "win_rate": 61.3,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1300,
-        "win_rate": 55.7,
-        "rank": 14
+        "elo": 1304,
+        "win_rate": 56.4,
+        "rank": 13
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1412,
-        "win_rate": 67.2,
+        "elo": 1413,
+        "win_rate": 67.3,
         "rank": 4
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1331,
-        "win_rate": 62.6,
-        "rank": 1
+        "elo": 1329,
+        "win_rate": 62.4,
+        "rank": 2
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1394,
-        "win_rate": 66.1,
+        "elo": 1395,
+        "win_rate": 66.2,
         "rank": 1
       },
       {

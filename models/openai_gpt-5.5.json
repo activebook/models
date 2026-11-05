@@ -112,16 +112,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1160,
+        "elo": 1162,
         "win_rate": 50.9,
         "rank": 22
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1089,
+        "elo": 1084,
         "win_rate": 43,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "agents",
@@ -156,7 +156,7 @@
         "category": "python-pptxslides",
         "elo": 1152,
         "win_rate": 43.3,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "agents",
@@ -170,7 +170,7 @@
         "category": "3d",
         "elo": 1195,
         "win_rate": 49.2,
-        "rank": 51
+        "rank": 52
       },
       {
         "arena": "models",
@@ -182,16 +182,16 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1258,
+        "elo": 1259,
         "win_rate": 52.9,
-        "rank": 39
+        "rank": 38
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1263,
+        "elo": 1262,
         "win_rate": 55.3,
-        "rank": 30
+        "rank": 31
       },
       {
         "arena": "models",
@@ -204,7 +204,7 @@
         "arena": "models",
         "category": "svg",
         "elo": 1230,
-        "win_rate": 54.7,
+        "win_rate": 54.8,
         "rank": 21
       },
       {
@@ -212,14 +212,14 @@
         "category": "uicomponent",
         "elo": 1255,
         "win_rate": 53.3,
-        "rank": 39
+        "rank": 40
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1255,
         "win_rate": 52.1,
-        "rank": 42
+        "rank": 41
       }
     ],
     "artificial_analysis": {
