@@ -3,8 +3,8 @@
   "canonical_slug": "openrouter/auto",
   "hugging_face_id": null,
   "name": "Auto Router",
-  "created": 1699401600,
-  "description": "Auto is OpenRouter\u2019s general-purpose router, now powered by [Jev Router](https://openrouter.ai/typesafe/jev-router). It replaces market-spend rankings with request-aware selection of both the model and reasoning effort, weighing task difficulty, measured benchmark results,...",
+  "created": 1793885889,
+  "description": "Auto is OpenRouter\u2019s flagship model router, built for general-purpose usage. It adapts to each request, choosing cost-optimal models and adjusting reasoning effort. It balances task difficulty, benchmark results, live prices,...",
   "context_length": 2000000,
   "architecture": {
     "modality": "text+image+file+audio+video->text+image",

@@ -128,16 +128,16 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 943,
-        "win_rate": 20.5,
-        "rank": 16
+        "elo": 937,
+        "win_rate": 20,
+        "rank": 17
       },
       {
         "arena": "agents",
         "category": "fullstack",
         "elo": 1001,
         "win_rate": 28,
-        "rank": 40
+        "rank": 41
       },
       {
         "arena": "agents",
@@ -150,7 +150,7 @@
         "arena": "agents",
         "category": "htmlslides",
         "elo": 905,
-        "win_rate": 28.4,
+        "win_rate": 28.6,
         "rank": 25
       },
       {
@@ -163,8 +163,8 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 919,
-        "win_rate": 18.9,
+        "elo": 935,
+        "win_rate": 20.4,
         "rank": 26
       },
       {
@@ -186,20 +186,20 @@
         "category": "spreadsheet",
         "elo": 957,
         "win_rate": 30.6,
-        "rank": 28
+        "rank": 29
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1113,
-        "win_rate": 42.7,
-        "rank": 35
+        "elo": 1109,
+        "win_rate": 42.6,
+        "rank": 36
       },
       {
         "arena": "models",
         "category": "3d",
         "elo": 1121,
-        "win_rate": 40.8,
+        "win_rate": 40.7,
         "rank": 84
       },
       {
@@ -226,9 +226,9 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1170,
+        "elo": 1171,
         "win_rate": 42.6,
-        "rank": 68
+        "rank": 67
       },
       {
         "arena": "models",
@@ -240,16 +240,16 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1188,
-        "win_rate": 44.9,
+        "elo": 1189,
+        "win_rate": 44.8,
         "rank": 66
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1195,
+        "elo": 1194,
         "win_rate": 44,
-        "rank": 65
+        "rank": 67
       }
     ],
     "artificial_analysis": {

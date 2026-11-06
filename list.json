@@ -56,6 +56,10 @@
     "file": "models/openrouter_auto-beta.json"
   },
   {
+    "name": "auto-code",
+    "file": "models/openrouter_auto-code.json"
+  },
+  {
     "name": "beam-1.0-501b-a23b",
     "file": "models/reflection_beam-1.0-501b-a23b.json"
   },
@@ -654,6 +658,14 @@
   {
     "name": "gemini-nano-banana-2.1",
     "file": "models/google_gemini-nano-banana-2.1.json"
+  },
+  {
+    "name": "gemini-omni-1.1-flash",
+    "file": "models/google_gemini-omni-1.1-flash.json"
+  },
+  {
+    "name": "gemini-omni-1.2-flash",
+    "file": "models/google_gemini-omni-1.2-flash.json"
   },
   {
     "name": "gemini-pro-latest",
@@ -1708,6 +1720,10 @@
     "file": "models/inclusionai_ling-3.0-flash:free.json"
   },
   {
+    "name": "ling-3.0-tiny",
+    "file": "models/inclusionai_ling-3.0-tiny.json"
+  },
+  {
     "name": "ling-3.0-tiny:free",
     "file": "models/inclusionai_ling-3.0-tiny:free.json"
   },
@@ -2689,11 +2705,11 @@
   },
   {
     "name": "reka-edge",
-    "file": "models/rekaai_reka-edge.json"
+    "file": "models/reka_reka-edge.json"
   },
   {
     "name": "reka-edge",
-    "file": "models/reka_reka-edge.json"
+    "file": "models/rekaai_reka-edge.json"
   },
   {
     "name": "reka-flash-3",

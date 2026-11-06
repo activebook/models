@@ -97,9 +97,9 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1236,
+        "elo": 1234,
         "win_rate": 60.5,
-        "rank": 12
+        "rank": 13
       },
       {
         "arena": "agents",
@@ -125,8 +125,8 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1250,
-        "win_rate": 56.9,
+        "elo": 1249,
+        "win_rate": 56.7,
         "rank": 9
       },
       {
@@ -139,16 +139,16 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1039,
-        "win_rate": 35,
-        "rank": 25
+        "elo": 1038,
+        "win_rate": 33.3,
+        "rank": 26
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1209,
+        "elo": 1207,
         "win_rate": 55.8,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "models",

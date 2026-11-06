@@ -97,16 +97,16 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1220,
-        "win_rate": 55.6,
-        "rank": 5
+        "elo": 1223,
+        "win_rate": 56.4,
+        "rank": 6
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1193,
-        "win_rate": 47.3,
-        "rank": 18
+        "elo": 1191,
+        "win_rate": 47.2,
+        "rank": 19
       },
       {
         "arena": "agents",
@@ -141,14 +141,14 @@
         "category": "spreadsheet",
         "elo": 1101,
         "win_rate": 48.4,
-        "rank": 18
+        "rank": 19
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1193,
-        "win_rate": 47.5,
-        "rank": 24
+        "elo": 1191,
+        "win_rate": 47.6,
+        "rank": 23
       },
       {
         "arena": "models",

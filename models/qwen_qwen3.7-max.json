@@ -93,9 +93,9 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1187,
-        "win_rate": 47.7,
-        "rank": 20
+        "elo": 1184,
+        "win_rate": 47.6,
+        "rank": 21
       },
       {
         "arena": "agents",
@@ -121,8 +121,8 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1147,
-        "win_rate": 44.9,
+        "elo": 1142,
+        "win_rate": 44.3,
         "rank": 21
       },
       {
@@ -137,14 +137,14 @@
         "category": "spreadsheet",
         "elo": 1059,
         "win_rate": 40.7,
-        "rank": 23
+        "rank": 24
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1195,
-        "win_rate": 48.7,
-        "rank": 21
+        "elo": 1192,
+        "win_rate": 48.6,
+        "rank": 22
       },
       {
         "arena": "models",
@@ -178,7 +178,7 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1265,
-        "win_rate": 52.6,
+        "win_rate": 52.7,
         "rank": 29
       },
       {
