@@ -55,7 +55,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-13",
   "links": {
     "details": "/api/v1/models/liquid/lfm-2.5-2.6b-20260811/endpoints"
   },

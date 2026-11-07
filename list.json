@@ -1668,6 +1668,14 @@
     "file": "models/liquid_lfm-2.5-24b-a2b.json"
   },
   {
+    "name": "lfm-3-1.7b",
+    "file": "models/liquid_lfm-3-1.7b.json"
+  },
+  {
+    "name": "lfm-3-1.7b:free",
+    "file": "models/liquid_lfm-3-1.7b:free.json"
+  },
+  {
     "name": "lfm2-8b-a1b",
     "file": "models/liquid_lfm2-8b-a1b.json"
   },
@@ -2674,6 +2682,10 @@
   {
     "name": "qwen3.8-27b",
     "file": "models/qwen_qwen3.8-27b.json"
+  },
+  {
+    "name": "qwen3.8-27b:batch",
+    "file": "models/qwen_qwen3.8-27b:batch.json"
   },
   {
     "name": "qwen3.8-27b:free",
