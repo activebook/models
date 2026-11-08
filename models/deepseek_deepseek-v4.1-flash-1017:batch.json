@@ -1,0 +1,144 @@
+{
+  "id": "deepseek/deepseek-v4.1-flash-1017:batch",
+  "canonical_slug": "deepseek/deepseek-v4.1-flash-20261017",
+  "hugging_face_id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "name": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch)",
+  "created": 1792225624,
+  "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name. V4.1 Flash is a sparse mixture-of-experts model...",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text+image->text",
+    "input_modalities": [
+      "text",
+      "image"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "DeepSeek",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000000011",
+    "completion": "0.0000002",
+    "input_cache_read": "0.000000002"
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 943718,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logit_bias",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "reasoning",
+    "reasoning_effort",
+    "repetition_penalty",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/deepseek/deepseek-v4.1-flash-20261017/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/batches"
+  ],
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "spreadsheet",
+        "elo": 1287,
+        "win_rate": 51.2,
+        "rank": 5
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1356,
+        "win_rate": 47.4,
+        "rank": 10
+      },
+      {
+        "arena": "models",
+        "category": "asciiart",
+        "elo": 1244,
+        "win_rate": 49.4,
+        "rank": 20
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1290,
+        "win_rate": 48.7,
+        "rank": 18
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1266,
+        "win_rate": 51,
+        "rank": 29
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1263,
+        "win_rate": 44.2,
+        "rank": 29
+      },
+      {
+        "arena": "models",
+        "category": "svg",
+        "elo": 1256,
+        "win_rate": 52.9,
+        "rank": 16
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1298,
+        "win_rate": 50.3,
+        "rank": 18
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1296,
+        "win_rate": 51.8,
+        "rank": 16
+      }
+    ],
+    "artificial_analysis": {
+      "intelligence_index": 28.6,
+      "coding_index": null,
+      "agentic_index": null
+    }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "max",
+      "high",
+      "low",
+      "none"
+    ],
+    "default_effort": "high"
+  }
+}

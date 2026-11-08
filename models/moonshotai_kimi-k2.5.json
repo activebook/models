@@ -19,13 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000005",
-    "completion": "0.0000025",
-    "input_cache_read": "0.00000015"
+    "prompt": "0.000000532",
+    "completion": "0.000003325",
+    "input_cache_read": "0.000000209"
   },
   "top_provider": {
-    "context_length": 262144,
-    "max_completion_tokens": 235929,
+    "context_length": 256000,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -60,7 +60,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-18",
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2.5-0127/endpoints"
   },
@@ -75,9 +75,9 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1114,
+        "elo": 1116,
         "win_rate": 57.8,
-        "rank": 31
+        "rank": 32
       },
       {
         "arena": "agents",

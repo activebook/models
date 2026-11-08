@@ -416,6 +416,10 @@
     "file": "models/deepseek_deepseek-v4.1-flash-1017.json"
   },
   {
+    "name": "deepseek-v4.1-flash-1017:batch",
+    "file": "models/deepseek_deepseek-v4.1-flash-1017:batch.json"
+  },
+  {
     "name": "deepseek-v4.1-flash:batch",
     "file": "models/deepseek_deepseek-v4.1-flash:batch.json"
   },
@@ -2088,8 +2092,16 @@
     "file": "models/morph_morph-v3-fast.json"
   },
   {
+    "name": "morph-v3-fast:batch",
+    "file": "models/morph_morph-v3-fast:batch.json"
+  },
+  {
     "name": "morph-v3-large",
     "file": "models/morph_morph-v3-large.json"
+  },
+  {
+    "name": "morph-v3-large:batch",
+    "file": "models/morph_morph-v3-large:batch.json"
   },
   {
     "name": "muse-glimmer-30b",
