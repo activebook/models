@@ -90,19 +90,19 @@
         "category": "codecategories",
         "elo": 1149,
         "win_rate": 54.6,
-        "rank": 90
+        "rank": 89
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1213,
+        "elo": 1211,
         "win_rate": 55.9,
-        "rank": 56
+        "rank": 55
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1135,
+        "elo": 1133,
         "win_rate": 50.5,
         "rank": 83
       },
@@ -116,9 +116,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1160,
+        "elo": 1158,
         "win_rate": 56.1,
-        "rank": 89
+        "rank": 91
       }
     ]
   },
