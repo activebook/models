@@ -104,6 +104,14 @@
     "file": "models/anthropic_claude-fable-5.1:batch.json"
   },
   {
+    "name": "claude-fable-5.2",
+    "file": "models/anthropic_claude-fable-5.2.json"
+  },
+  {
+    "name": "claude-fable-5.2:batch",
+    "file": "models/anthropic_claude-fable-5.2:batch.json"
+  },
+  {
     "name": "claude-fable-5:batch",
     "file": "models/anthropic_claude-fable-5:batch.json"
   },
@@ -1496,6 +1504,10 @@
     "file": "models/thinkingmachines_inkling.json"
   },
   {
+    "name": "inkling-2-small:free",
+    "file": "models/thinkingmachines_inkling-2-small:free.json"
+  },
+  {
     "name": "inkling-small",
     "file": "models/thinkingmachines_inkling-small.json"
   },
@@ -2104,6 +2116,10 @@
     "file": "models/morph_morph-v3-large:batch.json"
   },
   {
+    "name": "muse-ember",
+    "file": "models/meta_muse-ember.json"
+  },
+  {
     "name": "muse-glimmer-30b",
     "file": "models/meta_muse-glimmer-30b.json"
   },
@@ -2242,6 +2258,10 @@
   {
     "name": "nex-n2.5-pro:free",
     "file": "models/nex-agi_nex-n2.5-pro:free.json"
+  },
+  {
+    "name": "nex-n2.6",
+    "file": "models/nex-agi_nex-n2.6.json"
   },
   {
     "name": "north-mini-code:free",
@@ -2714,6 +2734,10 @@
   {
     "name": "qwen3.8-max-0902",
     "file": "models/qwen_qwen3.8-max-0902.json"
+  },
+  {
+    "name": "qwen3.8-max-0902:batch",
+    "file": "models/qwen_qwen3.8-max-0902:batch.json"
   },
   {
     "name": "qwen3.8-max-prime",

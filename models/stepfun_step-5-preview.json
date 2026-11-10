@@ -5,7 +5,7 @@
   "name": "StepFun: Step 5 Preview",
   "created": 1791462849,
   "description": "Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional...",
-  "context_length": 1048576,
+  "context_length": 1000000,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [

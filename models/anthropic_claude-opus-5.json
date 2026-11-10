@@ -64,15 +64,15 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1206,
-        "win_rate": 53.1,
+        "elo": 1203,
+        "win_rate": 53.3,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1255,
-        "win_rate": 56.3,
+        "elo": 1253,
+        "win_rate": 55.9,
         "rank": 8
       },
       {
@@ -85,16 +85,16 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1272,
-        "win_rate": 64.7,
+        "elo": 1268,
+        "win_rate": 64.3,
         "rank": 4
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1292,
-        "win_rate": 57.2,
-        "rank": 5
+        "elo": 1291,
+        "win_rate": 57,
+        "rank": 6
       },
       {
         "arena": "agents",
@@ -113,23 +113,23 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1249,
-        "win_rate": 59,
+        "elo": 1243,
+        "win_rate": 57.9,
         "rank": 8
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1220,
-        "win_rate": 54.2,
-        "rank": 6
+        "elo": 1209,
+        "win_rate": 52.9,
+        "rank": 9
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1316,
-        "win_rate": 62.1,
-        "rank": 3
+        "elo": 1270,
+        "win_rate": 54.7,
+        "rank": 9
       },
       {
         "arena": "agents",
@@ -142,7 +142,7 @@
         "arena": "models",
         "category": "3d",
         "elo": 1330,
-        "win_rate": 59.8,
+        "win_rate": 59.7,
         "rank": 13
       },
       {
@@ -150,7 +150,7 @@
         "category": "asciiart",
         "elo": 1358,
         "win_rate": 68.6,
-        "rank": 1
+        "rank": 2
       },
       {
         "arena": "models",
@@ -176,8 +176,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1307,
-        "win_rate": 58.2,
+        "elo": 1308,
+        "win_rate": 58.4,
         "rank": 5
       },
       {

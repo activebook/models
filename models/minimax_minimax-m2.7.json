@@ -5,7 +5,7 @@
   "name": "MiniMax: MiniMax M2.7",
   "created": 1773836697,
   "description": "MiniMax-M2.7 is a next-generation large language model designed for autonomous, real-world productivity and continuous improvement. Built to actively participate in its own evolution, M2.7 integrates advanced agentic capabilities through multi-agent...",
-  "context_length": 204800,
+  "context_length": 196608,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -29,21 +29,15 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
-    "frequency_penalty",
     "include_reasoning",
-    "logit_bias",
     "max_tokens",
-    "min_p",
-    "presence_penalty",
     "reasoning",
-    "repetition_penalty",
     "response_format",
     "seed",
     "stop",
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
     "top_p"
   ],
   "default_parameters": {
@@ -72,7 +66,7 @@
         "arena": "models",
         "category": "3d",
         "elo": 1187,
-        "win_rate": 49.8,
+        "win_rate": 49.9,
         "rank": 56
       },
       {
@@ -94,7 +88,7 @@
         "category": "dataviz",
         "elo": 1231,
         "win_rate": 52.3,
-        "rank": 45
+        "rank": 44
       },
       {
         "arena": "models",
@@ -106,7 +100,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1131,
+        "elo": 1132,
         "win_rate": 46.8,
         "rank": 59
       },

@@ -23,7 +23,7 @@
     "input_cache_read": "0.00000011"
   },
   "top_provider": {
-    "context_length": 202752,
+    "context_length": 204800,
     "max_completion_tokens": 131072,
     "is_moderated": false
   },
@@ -58,7 +58,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-12-31",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/z-ai/glm-4.7-20251222/endpoints"
   },
@@ -73,8 +73,8 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1110,
-        "win_rate": 56.1,
+        "elo": 1107,
+        "win_rate": 55.8,
         "rank": 34
       },
       {
@@ -82,7 +82,7 @@
         "category": "fullstack",
         "elo": 1034,
         "win_rate": 45.1,
-        "rank": 37
+        "rank": 38
       },
       {
         "arena": "agents",

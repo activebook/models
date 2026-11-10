@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000623",
-    "completion": "0.000001271",
-    "input_cache_read": "0.00000021"
+    "prompt": "0.000000573",
+    "completion": "0.000001169",
+    "input_cache_read": "0.000000194"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -72,16 +72,16 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1155,
-        "win_rate": 49.2,
-        "rank": 10
+        "elo": 1157,
+        "win_rate": 49.7,
+        "rank": 9
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1176,
+        "elo": 1178,
         "win_rate": 52.6,
-        "rank": 21
+        "rank": 22
       },
       {
         "arena": "agents",
@@ -95,7 +95,7 @@
         "category": "fullstack",
         "elo": 1225,
         "win_rate": 60.2,
-        "rank": 13
+        "rank": 14
       },
       {
         "arena": "agents",
@@ -121,23 +121,23 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1256,
-        "win_rate": 59.4,
-        "rank": 7
+        "elo": 1271,
+        "win_rate": 61.6,
+        "rank": 6
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1150,
-        "win_rate": 48.9,
-        "rank": 19
+        "elo": 1152,
+        "win_rate": 48.8,
+        "rank": 18
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1039,
+        "elo": 1052,
         "win_rate": 35.7,
-        "rank": 24
+        "rank": 26
       },
       {
         "arena": "agents",
@@ -171,7 +171,7 @@
         "arena": "models",
         "category": "dataviz",
         "elo": 1283,
-        "win_rate": 51.9,
+        "win_rate": 51.8,
         "rank": 17
       },
       {
