@@ -18,12 +18,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000014",
-    "completion": "0.0000044",
-    "input_cache_read": "0.00000026"
+    "prompt": "0.00000133",
+    "completion": "0.00000418",
+    "input_cache_read": "0.000000247"
   },
   "top_provider": {
-    "context_length": 202752,
+    "context_length": 202745,
     "max_completion_tokens": 131072,
     "is_moderated": false
   },
@@ -81,16 +81,16 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1141,
-        "win_rate": 44.7,
+        "elo": 1142,
+        "win_rate": 44.6,
         "rank": 49
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1264,
+        "elo": 1263,
         "win_rate": 52.8,
-        "rank": 33
+        "rank": 34
       },
       {
         "arena": "models",
@@ -102,23 +102,23 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1261,
+        "elo": 1259,
         "win_rate": 54.3,
         "rank": 29
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1214,
+        "elo": 1212,
         "win_rate": 55.1,
-        "rank": 24
+        "rank": 25
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1292,
         "win_rate": 54.9,
-        "rank": 21
+        "rank": 19
       },
       {
         "arena": "models",
@@ -172,7 +172,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1153,
+        "elo": 1147,
         "win_rate": 53,
         "rank": 25
       },
@@ -193,16 +193,16 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1159,
+        "elo": 1156,
         "win_rate": 49.8,
         "rank": 29
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1216,
-        "win_rate": 54.5,
-        "rank": 13
+        "elo": 1211,
+        "win_rate": 54.8,
+        "rank": 12
       },
       {
         "arena": "agents",

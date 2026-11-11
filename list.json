@@ -484,6 +484,14 @@
     "file": "models/baidu_ernie-4.5-vl-424b-a47b.json"
   },
   {
+    "name": "ernie-5.5-flash-preview",
+    "file": "models/baidu_ernie-5.5-flash-preview.json"
+  },
+  {
+    "name": "ernie-light-dt-1.0-intl",
+    "file": "models/baidu_ernie-light-dt-1.0-intl.json"
+  },
+  {
     "name": "extract",
     "file": "models/scaledown_extract.json"
   },
@@ -662,6 +670,14 @@
   {
     "name": "gemini-4-argon:batch",
     "file": "models/google_gemini-4-argon:batch.json"
+  },
+  {
+    "name": "gemini-4-carbon",
+    "file": "models/google_gemini-4-carbon.json"
+  },
+  {
+    "name": "gemini-4-carbon:batch",
+    "file": "models/google_gemini-4-carbon:batch.json"
   },
   {
     "name": "gemini-flash-latest",
@@ -1888,6 +1904,10 @@
     "file": "models/inception_mercury-coder.json"
   },
   {
+    "name": "midm-k-3.0-pro",
+    "file": "models/kt_midm-k-3.0-pro.json"
+  },
+  {
     "name": "mimo-v2-flash",
     "file": "models/xiaomi_mimo-v2-flash.json"
   },
@@ -2114,6 +2134,10 @@
   {
     "name": "morph-v3-large:batch",
     "file": "models/morph_morph-v3-large:batch.json"
+  },
+  {
+    "name": "motif-3",
+    "file": "models/motif-technologies_motif-3.json"
   },
   {
     "name": "muse-ember",

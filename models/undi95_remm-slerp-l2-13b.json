@@ -18,9 +18,9 @@
     "instruct_type": "alpaca"
   },
   "pricing": {
-    "prompt": "0.00000035",
-    "completion": "0.00000065",
-    "input_cache_read": "0.00000035"
+    "prompt": "0.0000003",
+    "completion": "0.0000005",
+    "input_cache_read": "0.0000002"
   },
   "top_provider": {
     "context_length": 6144,

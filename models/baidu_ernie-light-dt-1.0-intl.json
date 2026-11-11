@@ -1,0 +1,67 @@
+{
+  "id": "baidu/ernie-light-dt-1.0-intl",
+  "canonical_slug": "baidu/ernie-light-dt-1.0-intl-20261110",
+  "hugging_face_id": null,
+  "name": "Baidu: ERNIE-Light-DT-1.0",
+  "created": 1794331260,
+  "description": "ERNIE-Light-DT-1.0 is based on open-source GLM models and includes research findings from Baidu Search's Lightning large model. It features Baidu Sparse Attention (BSA), a unique sparse attention mechanism developed by...",
+  "context_length": 1024000,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000113",
+    "completion": "0.00000394",
+    "input_cache_read": "0.000000113"
+  },
+  "top_provider": {
+    "context_length": 1024000,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/baidu/ernie-light-dt-1.0-intl-20261110/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "max",
+      "high",
+      "low",
+      "none"
+    ],
+    "default_effort": "max"
+  }
+}

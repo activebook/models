@@ -1,0 +1,62 @@
+{
+  "id": "kt/midm-k-3.0-pro",
+  "canonical_slug": "kt/midm-k-3.0-pro",
+  "hugging_face_id": null,
+  "name": "KT: Mi:dm K 3.0 Pro",
+  "created": 1793897701,
+  "description": "Mi:dm K 3.0 Pro is a Mixture-of-Experts reasoning model from KT, with 120B total and 12B active parameters. It uses a hybrid architecture that mixes Mamba, MoE and attention layers.",
+  "context_length": 261795,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000002",
+    "completion": "0.0000008",
+    "input_cache_read": "0.00000004"
+  },
+  "top_provider": {
+    "context_length": 261795,
+    "max_completion_tokens": 235615,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logprobs",
+    "max_tokens",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "response_format",
+    "structured_outputs",
+    "temperature",
+    "top_k",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/kt/midm-k-3.0-pro/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
+  "reasoning": {
+    "mandatory": false
+  }
+}
