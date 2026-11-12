@@ -488,6 +488,10 @@
     "file": "models/baidu_ernie-5.5-flash-preview.json"
   },
   {
+    "name": "ernie-5.5-flash-preview:free",
+    "file": "models/baidu_ernie-5.5-flash-preview:free.json"
+  },
+  {
     "name": "ernie-light-dt-1.0-intl",
     "file": "models/baidu_ernie-light-dt-1.0-intl.json"
   },
@@ -1610,6 +1614,10 @@
   {
     "name": "kimi-k3.1-pro",
     "file": "models/moonshotai_kimi-k3.1-pro.json"
+  },
+  {
+    "name": "kimi-k3.1-pro:batch",
+    "file": "models/moonshotai_kimi-k3.1-pro:batch.json"
   },
   {
     "name": "kimi-k3:batch",

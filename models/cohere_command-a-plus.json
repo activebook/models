@@ -1,7 +1,7 @@
 {
   "id": "cohere/command-a-plus",
   "canonical_slug": "cohere/command-a-plus-05-2026",
-  "hugging_face_id": null,
+  "hugging_face_id": "CohereLabs/command-a-plus-05-2026-bf16",
   "name": "Cohere: Command A+",
   "created": 1790102896,
   "description": "Command A+ is Cohere's flagship model for enterprise agentic workflows. It accepts text and image inputs with a 192K context window, supports native tool calling with strict tool schemas, structured...",

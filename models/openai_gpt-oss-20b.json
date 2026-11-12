@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000003",
-    "completion": "0.00000013",
-    "input_cache_read": "0.00000003"
+    "prompt": "0.000000018",
+    "completion": "0.00000009",
+    "input_cache_read": "0.000000009"
   },
   "top_provider": {
     "context_length": 131072,
@@ -81,7 +81,7 @@
         "category": "website",
         "elo": 848,
         "win_rate": 27.9,
-        "rank": 144
+        "rank": 146
       }
     ],
     "artificial_analysis": {

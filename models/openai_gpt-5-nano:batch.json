@@ -53,7 +53,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": "2024-05-31",
-  "expiration_date": null,
+  "expiration_date": "2026-12-11",
   "links": {
     "details": "/api/v1/models/openai/gpt-5-nano-2025-08-07/endpoints"
   },
@@ -67,14 +67,14 @@
         "category": "3d",
         "elo": 951,
         "win_rate": 36.3,
-        "rank": 124
+        "rank": 126
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1079,
         "win_rate": 48,
-        "rank": 112
+        "rank": 113
       },
       {
         "arena": "models",
@@ -88,21 +88,21 @@
         "category": "gamedev",
         "elo": 1038,
         "win_rate": 46.5,
-        "rank": 117
+        "rank": 119
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1061,
+        "elo": 1059,
         "win_rate": 51.9,
-        "rank": 110
+        "rank": 112
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1097,
         "win_rate": 48.9,
-        "rank": 113
+        "rank": 115
       }
     ]
   },

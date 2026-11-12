@@ -31,6 +31,7 @@
   "per_request_limits": null,
   "supported_parameters": [
     "max_tokens",
+    "response_format",
     "temperature",
     "tool_choice",
     "tools",
@@ -39,8 +40,14 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-10-15",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/unbiased/pareto-26.10-preview-20260929/endpoints"
-  }
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ]
 }

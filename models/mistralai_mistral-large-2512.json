@@ -1,7 +1,7 @@
 {
   "id": "mistralai/mistral-large-2512",
   "canonical_slug": "mistralai/mistral-large-2512",
-  "hugging_face_id": "",
+  "hugging_face_id": "mistralai/Mistral-Large-3-675B-Instruct-2512",
   "name": "Mistral: Mistral Large 3 2512",
   "created": 1764624472,
   "description": "Mistral Large 3 2512 is Mistral\u2019s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license.",
@@ -65,9 +65,9 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1086,
+        "elo": 1084,
         "win_rate": 46.9,
-        "rank": 95
+        "rank": 97
       },
       {
         "arena": "models",
@@ -81,7 +81,7 @@
         "category": "codecategories",
         "elo": 1136,
         "win_rate": 47.6,
-        "rank": 95
+        "rank": 96
       },
       {
         "arena": "models",
@@ -95,12 +95,12 @@
         "category": "gamedev",
         "elo": 1074,
         "win_rate": 41.5,
-        "rank": 106
+        "rank": 108
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 987,
+        "elo": 984,
         "win_rate": 38,
         "rank": 93
       },
@@ -109,14 +109,14 @@
         "category": "uicomponent",
         "elo": 1095,
         "win_rate": 43,
-        "rank": 100
+        "rank": 101
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1158,
         "win_rate": 49.5,
-        "rank": 91
+        "rank": 92
       }
     ],
     "artificial_analysis": {

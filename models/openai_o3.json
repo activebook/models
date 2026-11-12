@@ -44,7 +44,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": "2024-06-30",
-  "expiration_date": null,
+  "expiration_date": "2026-12-11",
   "links": {
     "details": "/api/v1/models/openai/o3-2025-04-16/endpoints"
   },
@@ -61,7 +61,7 @@
         "category": "codecategories",
         "elo": 1014,
         "win_rate": 51.9,
-        "rank": 127
+        "rank": 128
       },
       {
         "arena": "models",
@@ -75,21 +75,21 @@
         "category": "gamedev",
         "elo": 1028,
         "win_rate": 56.9,
-        "rank": 120
+        "rank": 122
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1011,
+        "elo": 1009,
         "win_rate": 53.3,
-        "rank": 119
+        "rank": 122
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1032,
         "win_rate": 53.8,
-        "rank": 128
+        "rank": 130
       }
     ]
   },
