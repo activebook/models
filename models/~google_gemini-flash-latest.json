@@ -2,8 +2,8 @@
   "id": "~google/gemini-flash-latest",
   "canonical_slug": "~google/gemini-flash-latest",
   "alias_target": {
-    "name": "Google: Gemini 3.8 Flash",
-    "slug": "google/gemini-3.8-flash"
+    "name": "Google: Gemini 4 Hydrogen",
+    "slug": "google/gemini-4-hydrogen"
   },
   "hugging_face_id": null,
   "name": "Google: Gemini Flash Latest",
@@ -13,11 +13,11 @@
   "architecture": {
     "modality": "text+image+file+audio+video->text",
     "input_modalities": [
-      "text",
-      "image",
-      "video",
+      "audio",
       "file",
-      "audio"
+      "image",
+      "text",
+      "video"
     ],
     "output_modalities": [
       "text"
@@ -26,19 +26,19 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000075",
-    "completion": "0.00000375",
-    "image": "0.00000075",
-    "audio": "0.00000075",
+    "prompt": "0.0000015",
+    "completion": "0.0000075",
+    "image": "0.0000015",
+    "audio": "0.0000015",
     "input_audio_cache": "0.000000075",
     "web_search": "0.014",
-    "internal_reasoning": "0.00000375",
+    "internal_reasoning": "0.0000075",
     "input_cache_read": "0.000000075",
-    "input_cache_write": "0.0000000416666666666667"
+    "input_cache_write": "0.0000000833333333333333"
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 65536,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -56,7 +56,14 @@
     "tools",
     "top_p"
   ],
-  "default_parameters": {},
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
   "supported_voices": null,
   "knowledge_cutoff": null,
   "expiration_date": null,
@@ -71,8 +78,8 @@
   ],
   "reasoning": {
     "mandatory": true,
-    "default_enabled": true,
     "supported_efforts": [
+      "xhigh",
       "high",
       "medium",
       "low"

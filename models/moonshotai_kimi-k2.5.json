@@ -19,13 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000532",
-    "completion": "0.000003325",
-    "input_cache_read": "0.000000209"
+    "prompt": "0.0000005",
+    "completion": "0.0000025",
+    "input_cache_read": "0.00000015"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 65536,
+    "context_length": 262144,
+    "max_completion_tokens": 235929,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -60,7 +60,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-11-18",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/moonshotai/kimi-k2.5-0127/endpoints"
   },
@@ -75,7 +75,7 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1109,
+        "elo": 1105,
         "win_rate": 57.8,
         "rank": 33
       },
@@ -91,7 +91,7 @@
         "category": "godotgamedev",
         "elo": 1219,
         "win_rate": 59.8,
-        "rank": 14
+        "rank": 9
       },
       {
         "arena": "agents",
@@ -110,21 +110,21 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1190,
+        "elo": 1188,
         "win_rate": 53.1,
         "rank": 55
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1163,
+        "elo": 1160,
         "win_rate": 46.5,
-        "rank": 36
+        "rank": 37
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1229,
+        "elo": 1227,
         "win_rate": 54.1,
         "rank": 52
       },
@@ -138,7 +138,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1200,
+        "elo": 1197,
         "win_rate": 53.4,
         "rank": 58
       },
@@ -147,21 +147,21 @@
         "category": "svg",
         "elo": 1141,
         "win_rate": 48.4,
-        "rank": 55
+        "rank": 54
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1229,
         "win_rate": 53.6,
-        "rank": 52
+        "rank": 50
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1243,
         "win_rate": 55.2,
-        "rank": 50
+        "rank": 49
       }
     ],
     "artificial_analysis": {

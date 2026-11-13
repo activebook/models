@@ -1,10 +1,10 @@
 {
   "id": "thinkingmachines/inkling-2-small:free",
   "canonical_slug": "thinkingmachines/inkling-2-small-20261107",
-  "hugging_face_id": null,
+  "hugging_face_id": "thinkingmachines/Inkling-2-Small",
   "name": "Thinking Machines: Inkling 2 Small (free)",
   "created": 1794261847,
-  "description": "Inkling 2 Small is a multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second Inkling...",
+  "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second...",
   "context_length": 1048576,
   "architecture": {
     "modality": "text+image->text",

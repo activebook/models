@@ -684,6 +684,14 @@
     "file": "models/google_gemini-4-carbon:batch.json"
   },
   {
+    "name": "gemini-4-hydrogen",
+    "file": "models/google_gemini-4-hydrogen.json"
+  },
+  {
+    "name": "gemini-4-hydrogen:batch",
+    "file": "models/google_gemini-4-hydrogen:batch.json"
+  },
+  {
     "name": "gemini-flash-latest",
     "file": "models/~google_gemini-flash-latest.json"
   },
@@ -1522,6 +1530,10 @@
   {
     "name": "inkling",
     "file": "models/thinkingmachines_inkling.json"
+  },
+  {
+    "name": "inkling-2-small",
+    "file": "models/thinkingmachines_inkling-2-small.json"
   },
   {
     "name": "inkling-2-small:free",
@@ -2454,6 +2466,10 @@
   {
     "name": "particle-1",
     "file": "models/particle-ai_particle-1.json"
+  },
+  {
+    "name": "particle-1:free",
+    "file": "models/particle-ai_particle-1:free.json"
   },
   {
     "name": "perceptron-mk1",

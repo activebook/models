@@ -1,0 +1,82 @@
+{
+  "id": "google/gemini-4-hydrogen:batch",
+  "canonical_slug": "google/gemini-4-hydrogen-20261112",
+  "hugging_face_id": null,
+  "name": "Google: Gemini 4 Hydrogen (batch)",
+  "created": 1794506460,
+  "description": "Gemini 4 Hydrogen is the high-efficiency workhorse model of the Gemini 4 family from Google, built for high-throughput agentic workflows, coding and multi-model routing at lower cost and latency than...",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text+image+file+audio+video->text",
+    "input_modalities": [
+      "audio",
+      "file",
+      "image",
+      "text",
+      "video"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Gemini",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000075",
+    "completion": "0.00000375",
+    "image": "0.00000075",
+    "audio": "0.00000075",
+    "input_audio_cache": "0.0000000375",
+    "web_search": "0.014",
+    "internal_reasoning": "0.00000375",
+    "input_cache_read": "0.0000000375",
+    "input_cache_write": "0.0000000833333333333333"
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 943718,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "frequency_penalty": null,
+    "presence_penalty": null,
+    "repetition_penalty": null
+  },
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/google/gemini-4-hydrogen-20261112/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/batches"
+  ],
+  "reasoning": {
+    "mandatory": true,
+    "supported_efforts": [
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
+  }
+}

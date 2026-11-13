@@ -31,6 +31,8 @@
     "max_tokens",
     "stop",
     "temperature",
+    "tool_choice",
+    "tools",
     "top_k",
     "top_p"
   ],
