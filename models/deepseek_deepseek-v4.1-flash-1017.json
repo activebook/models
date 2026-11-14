@@ -19,94 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000015",
-    "completion": "0.0000006",
-    "input_cache_read": "0.000000003",
-    "overrides": [
-      {
-        "utc_days": [
-          "saturday",
-          "sunday"
-        ],
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003"
-      },
-      {
-        "utc_days": [
-          "monday",
-          "tuesday",
-          "wednesday",
-          "thursday",
-          "friday"
-        ],
-        "utc_start": 0,
-        "utc_end": 100,
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003"
-      },
-      {
-        "utc_days": [
-          "monday",
-          "tuesday",
-          "wednesday",
-          "thursday",
-          "friday"
-        ],
-        "utc_start": 100,
-        "utc_end": 400,
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.000000006"
-      },
-      {
-        "utc_days": [
-          "monday",
-          "tuesday",
-          "wednesday",
-          "thursday",
-          "friday"
-        ],
-        "utc_start": 400,
-        "utc_end": 600,
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003"
-      },
-      {
-        "utc_days": [
-          "monday",
-          "tuesday",
-          "wednesday",
-          "thursday",
-          "friday"
-        ],
-        "utc_start": 600,
-        "utc_end": 1000,
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.000000006"
-      },
-      {
-        "utc_days": [
-          "monday",
-          "tuesday",
-          "wednesday",
-          "thursday",
-          "friday"
-        ],
-        "utc_start": 1000,
-        "utc_end": 0,
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003"
-      }
-    ]
+    "prompt": "0.000000038",
+    "completion": "0.0000005",
+    "input_cache_read": "0.00000001"
   },
   "top_provider": {
     "context_length": 1048576,
-    "max_completion_tokens": 393216,
+    "max_completion_tokens": 943718,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -152,65 +71,65 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1292,
-        "win_rate": 51.2,
-        "rank": 4
+        "elo": 1263,
+        "win_rate": 48.4,
+        "rank": 8
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1347,
-        "win_rate": 47.3,
-        "rank": 12
+        "elo": 1341,
+        "win_rate": 47.1,
+        "rank": 13
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1235,
-        "win_rate": 47.9,
+        "elo": 1231,
+        "win_rate": 47.6,
         "rank": 20
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1287,
+        "elo": 1286,
         "win_rate": 48.2,
-        "rank": 19
+        "rank": 20
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1259,
-        "win_rate": 49.7,
-        "rank": 31
+        "elo": 1264,
+        "win_rate": 50.3,
+        "rank": 27
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1251,
-        "win_rate": 42.6,
+        "elo": 1250,
+        "win_rate": 42.7,
         "rank": 38
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1243,
-        "win_rate": 51.3,
+        "elo": 1246,
+        "win_rate": 51.6,
         "rank": 19
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1286,
-        "win_rate": 48.9,
-        "rank": 24
+        "elo": 1284,
+        "win_rate": 48.7,
+        "rank": 25
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1297,
-        "win_rate": 51.9,
-        "rank": 15
+        "elo": 1295,
+        "win_rate": 51.8,
+        "rank": 17
       }
     ],
     "artificial_analysis": {

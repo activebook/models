@@ -69,6 +69,38 @@
   "endpoints": [
     "/api/v1/batches"
   ],
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "agents",
+        "category": "pdf",
+        "elo": 1225,
+        "win_rate": 55.2,
+        "rank": 12
+      },
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1422,
+        "win_rate": 66.8,
+        "rank": 7
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1367,
+        "win_rate": 57.4,
+        "rank": 7
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1321,
+        "win_rate": 58.3,
+        "rank": 7
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": true,
     "supported_efforts": [
