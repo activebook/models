@@ -18,13 +18,12 @@
     "instruct_type": "deepseek-r1"
   },
   "pricing": {
-    "prompt": "0.0000005",
-    "completion": "0.00000215",
-    "input_cache_read": "0.00000035"
+    "prompt": "0.000000571",
+    "completion": "0.000002286"
   },
   "top_provider": {
-    "context_length": 163840,
-    "max_completion_tokens": 32768,
+    "context_length": 128000,
+    "max_completion_tokens": 32000,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -71,7 +70,7 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1090,
+        "elo": 1091,
         "win_rate": 53.3,
         "rank": 95
       },
@@ -80,7 +79,7 @@
         "category": "codecategories",
         "elo": 1128,
         "win_rate": 52.6,
-        "rank": 99
+        "rank": 100
       },
       {
         "arena": "models",
@@ -106,9 +105,9 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1093,
+        "elo": 1092,
         "win_rate": 54.9,
-        "rank": 100
+        "rank": 101
       },
       {
         "arena": "models",
