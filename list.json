@@ -2800,6 +2800,10 @@
     "file": "models/qwen_qwen3.8-omni-flash.json"
   },
   {
+    "name": "qwen4-max",
+    "file": "models/qwen_qwen4-max.json"
+  },
+  {
     "name": "qwq-32b",
     "file": "models/qwen_qwq-32b.json"
   },

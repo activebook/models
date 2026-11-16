@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000084",
-    "completion": "0.0000036",
-    "input_cache_read": "0.000000079"
+    "prompt": "0.0000000699",
+    "completion": "0.0000014",
+    "input_cache_read": "0.0000000689"
   },
   "top_provider": {
     "context_length": 1048576,
@@ -72,16 +72,16 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1295,
-        "win_rate": 55.8,
+        "elo": 1294,
+        "win_rate": 55.6,
         "rank": 20
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1199,
-        "win_rate": 45.9,
-        "rank": 24
+        "elo": 1193,
+        "win_rate": 45.1,
+        "rank": 27
       },
       {
         "arena": "models",
@@ -93,7 +93,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1252,
+        "elo": 1251,
         "win_rate": 50.8,
         "rank": 34
       },
@@ -107,8 +107,8 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1246,
-        "win_rate": 51.4,
+        "elo": 1245,
+        "win_rate": 51.2,
         "rank": 18
       },
       {
@@ -137,7 +137,7 @@
         "category": "mobileapps",
         "elo": 1184,
         "win_rate": 52.2,
-        "rank": 24
+        "rank": 25
       },
       {
         "arena": "agents",

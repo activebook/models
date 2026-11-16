@@ -20,13 +20,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000006",
-    "completion": "0.0000036",
-    "input_cache_read": "0.00000012"
+    "prompt": "0.00000045",
+    "completion": "0.000003",
+    "input_cache_read": "0.00000022"
   },
   "top_provider": {
-    "context_length": 256000,
-    "max_completion_tokens": 64000,
+    "context_length": 262144,
+    "max_completion_tokens": 81920,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -90,7 +90,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1172,
+        "elo": 1171,
         "win_rate": 53.2,
         "rank": 69
       },
@@ -104,7 +104,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1129,
+        "elo": 1128,
         "win_rate": 56.1,
         "rank": 58
       },

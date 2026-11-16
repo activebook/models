@@ -99,12 +99,12 @@
         "category": "mobileapps",
         "elo": 1085,
         "win_rate": 46.8,
-        "rank": 44
+        "rank": 45
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1062,
+        "elo": 1063,
         "win_rate": 45.5,
         "rank": 42
       },
@@ -127,7 +127,7 @@
         "category": "dataviz",
         "elo": 1202,
         "win_rate": 56.1,
-        "rank": 58
+        "rank": 57
       },
       {
         "arena": "models",
@@ -153,7 +153,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1128,
+        "elo": 1127,
         "win_rate": 53.7,
         "rank": 60
       }
