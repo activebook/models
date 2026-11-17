@@ -1516,6 +1516,10 @@
     "file": "models/tencent_hy4.json"
   },
   {
+    "name": "hy4-flash",
+    "file": "models/tencent_hy4-flash.json"
+  },
+  {
     "name": "hy4-preview",
     "file": "models/tencent_hy4-preview.json"
   },
