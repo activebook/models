@@ -55,7 +55,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2027-01-31",
   "links": {
     "details": "/api/v1/models/mistralai/mistral-medium-3.5-20260430/endpoints"
   },
@@ -70,7 +70,17 @@
     "artificial_analysis": {
       "intelligence_index": 4.6,
       "coding_index": 46.9,
-      "agentic_index": 7
+      "agentic_index": 7,
+      "finance_and_accounting_index": 11.1,
+      "strategy_and_ops_index": 9.4,
+      "legal_index": 9.7,
+      "healthcare_and_medical_index": 10.7,
+      "engineering_index": 12.2,
+      "economics_index": 11.6,
+      "cyber_index": null,
+      "openness_index": 33.3,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

@@ -49,7 +49,7 @@
   },
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-19",
   "links": {
     "details": "/api/v1/models/thinkingmachines/inkling-2-small-20261107/endpoints"
   },
@@ -64,7 +64,17 @@
     "artificial_analysis": {
       "intelligence_index": 30.6,
       "coding_index": null,
-      "agentic_index": null
+      "agentic_index": null,
+      "finance_and_accounting_index": 44.3,
+      "strategy_and_ops_index": 43.5,
+      "legal_index": 41.6,
+      "healthcare_and_medical_index": 40.8,
+      "engineering_index": 38.9,
+      "economics_index": 43.4,
+      "cyber_index": null,
+      "openness_index": 38.9,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

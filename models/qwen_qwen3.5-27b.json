@@ -20,12 +20,12 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000026",
-    "completion": "0.0000026"
+    "prompt": "0.0000003",
+    "completion": "0.0000024"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 81920,
+    "max_completion_tokens": 65536,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -70,6 +70,24 @@
     "/api/v1/messages",
     "/api/v1/responses"
   ],
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 38.9,
+      "multilingual_index": 0.868,
+      "decision_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

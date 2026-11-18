@@ -76,7 +76,7 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1085,
+        "elo": 1088,
         "win_rate": 47.5,
         "rank": 21
       },
@@ -111,35 +111,35 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1151,
+        "elo": 1152,
         "win_rate": 49.2,
         "rank": 28
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1130,
+        "elo": 1128,
         "win_rate": 49.4,
         "rank": 28
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1090,
+        "elo": 1092,
         "win_rate": 46.8,
         "rank": 28
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1081,
+        "elo": 1082,
         "win_rate": 52.3,
         "rank": 13
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1147,
+        "elo": 1146,
         "win_rate": 47.6,
         "rank": 34
       },
@@ -183,7 +183,7 @@
         "category": "asciiart",
         "elo": 1140,
         "win_rate": 46.1,
-        "rank": 43
+        "rank": 44
       },
       {
         "arena": "models",
@@ -202,16 +202,16 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1239,
+        "elo": 1238,
         "win_rate": 54.8,
         "rank": 43
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1170,
+        "elo": 1171,
         "win_rate": 51.2,
-        "rank": 43
+        "rank": 42
       },
       {
         "arena": "models",
@@ -231,7 +231,17 @@
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 61.8,
-      "agentic_index": 20.5
+      "agentic_index": 20.5,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 33.3,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

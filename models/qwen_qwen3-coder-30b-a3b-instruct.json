@@ -28,8 +28,11 @@
   },
   "per_request_limits": null,
   "supported_parameters": [
+    "frequency_penalty",
     "max_tokens",
+    "response_format",
     "stop",
+    "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
@@ -61,7 +64,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1035,
+        "elo": 1034,
         "win_rate": 54.1,
         "rank": 116
       },
@@ -70,8 +73,23 @@
         "category": "website",
         "elo": 1078,
         "win_rate": 57.1,
-        "rank": 118
+        "rank": 119
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 44.4,
+      "multilingual_index": null,
+      "decision_index": null
+    }
   }
 }

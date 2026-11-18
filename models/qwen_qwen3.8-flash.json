@@ -61,6 +61,24 @@
     "/api/v1/messages",
     "/api/v1/responses"
   ],
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 28.6,
+      "coding_index": 73.1,
+      "agentic_index": 53.6,
+      "finance_and_accounting_index": 39,
+      "strategy_and_ops_index": 44.5,
+      "legal_index": 35.1,
+      "healthcare_and_medical_index": 36.4,
+      "engineering_index": 33,
+      "economics_index": 36.1,
+      "cyber_index": null,
+      "openness_index": 38.9,
+      "multilingual_index": null,
+      "decision_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

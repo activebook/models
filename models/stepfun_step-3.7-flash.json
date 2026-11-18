@@ -75,44 +75,44 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1123,
-        "win_rate": 43.3,
-        "rank": 30
+        "elo": 1164,
+        "win_rate": 47.5,
+        "rank": 26
       },
       {
         "arena": "models",
         "category": "3d",
         "elo": 1108,
         "win_rate": 39.6,
-        "rank": 90
+        "rank": 91
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1131,
+        "elo": 1132,
         "win_rate": 44.3,
-        "rank": 49
+        "rank": 48
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1168,
-        "win_rate": 41.7,
-        "rank": 74
+        "win_rate": 41.8,
+        "rank": 75
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1172,
         "win_rate": 43.3,
-        "rank": 69
+        "rank": 70
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1143,
-        "win_rate": 37.1,
-        "rank": 79
+        "elo": 1142,
+        "win_rate": 37.2,
+        "rank": 80
       },
       {
         "arena": "models",
@@ -125,7 +125,7 @@
         "arena": "models",
         "category": "uicomponent",
         "elo": 1165,
-        "win_rate": 41.3,
+        "win_rate": 41.4,
         "rank": 75
       },
       {
@@ -139,7 +139,17 @@
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 39.6,
-      "agentic_index": null
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 38.9,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

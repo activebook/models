@@ -61,6 +61,24 @@
   "endpoints": [
     "/api/v1/batches"
   ],
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": 40.8,
+      "openness_index": 44.4,
+      "multilingual_index": null,
+      "decision_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": true,

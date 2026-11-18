@@ -62,7 +62,7 @@
         "category": "3d",
         "elo": 1193,
         "win_rate": 58.5,
-        "rank": 51
+        "rank": 52
       },
       {
         "arena": "models",
@@ -76,28 +76,28 @@
         "category": "codecategories",
         "elo": 1230,
         "win_rate": 59.5,
-        "rank": 50
+        "rank": 51
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1239,
+        "elo": 1240,
         "win_rate": 58.5,
         "rank": 38
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1218,
+        "elo": 1217,
         "win_rate": 59.3,
-        "rank": 49
+        "rank": 48
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1170,
         "win_rate": 58.7,
-        "rank": 42
+        "rank": 43
       },
       {
         "arena": "models",
@@ -109,39 +109,54 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1238,
+        "elo": 1237,
         "win_rate": 59.7,
-        "rank": 51
+        "rank": 52
       },
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1162,
+        "elo": 1163,
         "win_rate": 65.5,
         "rank": 24
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1130,
+        "elo": 1129,
         "win_rate": 60.1,
         "rank": 27
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1180,
+        "elo": 1179,
         "win_rate": 60.7,
         "rank": 26
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1140,
+        "elo": 1139,
         "win_rate": 55.1,
         "rank": 33
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 11.1,
+      "multilingual_index": 0.913,
+      "decision_index": null
+    }
   },
   "reasoning": {
     "mandatory": false

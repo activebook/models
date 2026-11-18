@@ -65,7 +65,7 @@
         "category": "codecategories",
         "elo": 778,
         "win_rate": 26.6,
-        "rank": 146
+        "rank": 147
       },
       {
         "arena": "models",
@@ -77,7 +77,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 762,
+        "elo": 761,
         "win_rate": 27.4,
         "rank": 146
       },
@@ -93,13 +93,23 @@
         "category": "website",
         "elo": 741,
         "win_rate": 22.7,
-        "rank": 152
+        "rank": 153
       }
     ],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 8.2,
-      "agentic_index": 0.5
+      "agentic_index": 0.5,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 27.8,
+      "multilingual_index": 0.741,
+      "decision_index": null
     }
   }
 }

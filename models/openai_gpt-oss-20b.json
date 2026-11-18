@@ -18,9 +18,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000003",
-    "completion": "0.00000013",
-    "input_cache_read": "0.00000003"
+    "prompt": "0.000000018",
+    "completion": "0.00000009",
+    "input_cache_read": "0.000000009"
   },
   "top_provider": {
     "context_length": 131072,
@@ -81,13 +81,23 @@
         "category": "website",
         "elo": 843,
         "win_rate": 27.9,
-        "rank": 148
+        "rank": 149
       }
     ],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 20.7,
-      "agentic_index": 1.2
+      "agentic_index": 1.2,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 38.9,
+      "multilingual_index": 0.752,
+      "decision_index": null
     }
   },
   "reasoning": {

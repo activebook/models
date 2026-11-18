@@ -20,7 +20,7 @@
   },
   "pricing": {
     "prompt": "0.00000008",
-    "completion": "0.00000035",
+    "completion": "0.00000045",
     "input_cache_read": "0.00000004"
   },
   "top_provider": {
@@ -70,7 +70,17 @@
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 10.1,
-      "agentic_index": 0.1
+      "agentic_index": 0.1,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 50,
+      "multilingual_index": 0.764,
+      "decision_index": null
     }
   }
 }

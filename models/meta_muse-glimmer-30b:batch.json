@@ -66,45 +66,62 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "pdf",
+        "elo": 1118,
+        "win_rate": 39.3,
+        "rank": 34
+      },
+      {
         "arena": "models",
         "category": "3d",
-        "elo": 1074,
-        "win_rate": 25.7,
-        "rank": 101
+        "elo": 1068,
+        "win_rate": 25.4,
+        "rank": 102
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1159,
+        "elo": 1158,
         "win_rate": 35.5,
-        "rank": 81
+        "rank": 83
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1109,
-        "win_rate": 29.7,
+        "win_rate": 29.8,
         "rank": 96
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1197,
-        "win_rate": 39.9,
-        "rank": 63
+        "elo": 1201,
+        "win_rate": 40.6,
+        "rank": 61
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1184,
-        "win_rate": 39,
-        "rank": 74
+        "win_rate": 39.1,
+        "rank": 75
       }
     ],
     "artificial_analysis": {
       "intelligence_index": 6.3,
       "coding_index": 49,
-      "agentic_index": 8.5
+      "agentic_index": 8.5,
+      "finance_and_accounting_index": 10,
+      "strategy_and_ops_index": 9.6,
+      "legal_index": 12.5,
+      "healthcare_and_medical_index": null,
+      "engineering_index": 15.4,
+      "economics_index": 12.2,
+      "cyber_index": null,
+      "openness_index": 44.4,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

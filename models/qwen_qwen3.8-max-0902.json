@@ -67,7 +67,17 @@
     "artificial_analysis": {
       "intelligence_index": 33.7,
       "coding_index": 76.2,
-      "agentic_index": 56
+      "agentic_index": 56,
+      "finance_and_accounting_index": 45,
+      "strategy_and_ops_index": 47.3,
+      "legal_index": 41,
+      "healthcare_and_medical_index": 40.8,
+      "engineering_index": 39.3,
+      "economics_index": 42.5,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

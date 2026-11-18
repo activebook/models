@@ -22,7 +22,7 @@
   "pricing": {
     "prompt": "0.0000003",
     "completion": "0.0000009",
-    "input_cache_read": "0.000000055"
+    "input_cache_read": "0.00000005"
   },
   "top_provider": {
     "context_length": 131072,
@@ -63,6 +63,24 @@
     "/api/v1/messages",
     "/api/v1/responses"
   ],
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": 0.806,
+      "decision_index": null
+    }
+  },
   "reasoning": {
     "mandatory": false
   }

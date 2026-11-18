@@ -77,23 +77,23 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1299,
-        "win_rate": 63.9,
-        "rank": 4
+        "elo": 1288,
+        "win_rate": 63.3,
+        "rank": 5
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1292,
-        "win_rate": 62,
+        "elo": 1291,
+        "win_rate": 62.4,
         "rank": 4
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1323,
-        "win_rate": 67.7,
-        "rank": 2
+        "elo": 1316,
+        "win_rate": 66.2,
+        "rank": 3
       },
       {
         "arena": "agents",
@@ -105,50 +105,60 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1425,
-        "win_rate": 68.7,
+        "elo": 1423,
+        "win_rate": 68.5,
         "rank": 6
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1341,
-        "win_rate": 59,
-        "rank": 9
+        "elo": 1340,
+        "win_rate": 58.9,
+        "rank": 10
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1332,
-        "win_rate": 57.5,
+        "elo": 1331,
+        "win_rate": 57.4,
         "rank": 12
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1402,
-        "win_rate": 69.6,
+        "elo": 1398,
+        "win_rate": 68.9,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1347,
-        "win_rate": 59.8,
+        "elo": 1341,
+        "win_rate": 58.9,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1311,
-        "win_rate": 55.5,
+        "elo": 1310,
+        "win_rate": 55.4,
         "rank": 10
       }
     ],
     "artificial_analysis": {
       "intelligence_index": 60,
       "coding_index": null,
-      "agentic_index": null
+      "agentic_index": null,
+      "finance_and_accounting_index": 62.6,
+      "strategy_and_ops_index": 60.9,
+      "legal_index": 62,
+      "healthcare_and_medical_index": 56.8,
+      "engineering_index": 65.3,
+      "economics_index": 59.6,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

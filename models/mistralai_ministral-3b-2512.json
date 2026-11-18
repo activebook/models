@@ -66,14 +66,14 @@
         "category": "3d",
         "elo": 942,
         "win_rate": 35.9,
-        "rank": 128
+        "rank": 129
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 998,
         "win_rate": 37.3,
-        "rank": 130
+        "rank": 131
       },
       {
         "arena": "models",
@@ -87,13 +87,23 @@
         "category": "website",
         "elo": 1018,
         "win_rate": 38.2,
-        "rank": 133
+        "rank": 134
       }
     ],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 4.8,
-      "agentic_index": 0.8
+      "agentic_index": 0.8,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 38.9,
+      "multilingual_index": 0.567,
+      "decision_index": null
     }
   }
 }

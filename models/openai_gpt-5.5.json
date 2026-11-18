@@ -77,8 +77,8 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1122,
-        "win_rate": 52.3,
+        "elo": 1125,
+        "win_rate": 52.2,
         "rank": 15
       },
       {
@@ -119,30 +119,30 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1063,
+        "elo": 1062,
         "win_rate": 43,
         "rank": 34
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1142,
+        "elo": 1145,
         "win_rate": 52.3,
-        "rank": 22
+        "rank": 18
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 963,
+        "elo": 965,
         "win_rate": 35.6,
         "rank": 24
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1134,
+        "elo": 1133,
         "win_rate": 50.4,
-        "rank": 36
+        "rank": 37
       },
       {
         "arena": "agents",
@@ -161,7 +161,7 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1098,
+        "elo": 1097,
         "win_rate": 42.6,
         "rank": 39
       },
@@ -170,12 +170,12 @@
         "category": "3d",
         "elo": 1175,
         "win_rate": 48.8,
-        "rank": 59
+        "rank": 60
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1234,
+        "elo": 1235,
         "win_rate": 57.2,
         "rank": 21
       },
@@ -196,7 +196,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1281,
+        "elo": 1280,
         "win_rate": 56.1,
         "rank": 23
       },
@@ -219,13 +219,23 @@
         "category": "website",
         "elo": 1247,
         "win_rate": 52.2,
-        "rank": 46
+        "rank": 45
       }
     ],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": 74.9,
-      "agentic_index": 36.4
+      "agentic_index": 36.4,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

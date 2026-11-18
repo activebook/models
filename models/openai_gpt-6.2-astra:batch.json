@@ -1,0 +1,96 @@
+{
+  "id": "openai/gpt-6.2-astra:batch",
+  "canonical_slug": "openai/gpt-6.2-astra-20261117",
+  "hugging_face_id": null,
+  "name": "OpenAI: GPT-6.2 Astra (batch)",
+  "created": 1794938423,
+  "description": "GPT-6.2 Astra is the flagship model in the GPT-6.2 series from OpenAI, built for the hardest projects. It is suited for real-world engineering, professional work and scientific research, with stronger...",
+  "context_length": 1050000,
+  "architecture": {
+    "modality": "text+image+file->text",
+    "input_modalities": [
+      "file",
+      "image",
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "GPT",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.000004",
+    "completion": "0.00002",
+    "web_search": "0.01",
+    "input_cache_read": "0.0000002",
+    "input_cache_write": "0.000005",
+    "overrides": [
+      {
+        "min_prompt_tokens": 272000,
+        "prompt": "0.000008",
+        "completion": "0.00003",
+        "input_cache_read": "0.0000004",
+        "input_cache_write": "0.00001"
+      }
+    ]
+  },
+  "top_provider": {
+    "context_length": 1050000,
+    "max_completion_tokens": 128000,
+    "is_moderated": true
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "include_reasoning",
+    "max_tokens",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "seed",
+    "structured_outputs",
+    "tool_choice",
+    "tools",
+    "verbosity"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/openai/gpt-6.2-astra-20261117/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/batches"
+  ],
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 62.1,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": 60.9,
+      "strategy_and_ops_index": 63.3,
+      "legal_index": 58.7,
+      "healthcare_and_medical_index": 57,
+      "engineering_index": 66.6,
+      "economics_index": 61.1,
+      "cyber_index": 40.8,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
+    }
+  },
+  "reasoning": {
+    "mandatory": true,
+    "default_enabled": true,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high",
+      "medium",
+      "low"
+    ],
+    "default_effort": "medium"
+  }
+}

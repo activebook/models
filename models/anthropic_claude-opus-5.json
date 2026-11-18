@@ -64,7 +64,7 @@
       {
         "arena": "agents",
         "category": "agenticgamedev",
-        "elo": 1200,
+        "elo": 1203,
         "win_rate": 53.3,
         "rank": 3
       },
@@ -72,7 +72,7 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1245,
-        "win_rate": 55.5,
+        "win_rate": 55.8,
         "rank": 8
       },
       {
@@ -85,21 +85,21 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1260,
-        "win_rate": 62.8,
-        "rank": 7
+        "elo": 1257,
+        "win_rate": 62.6,
+        "rank": 6
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1281,
+        "elo": 1280,
         "win_rate": 57.3,
         "rank": 7
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1250,
+        "elo": 1252,
         "win_rate": 54.6,
         "rank": 3
       },
@@ -113,14 +113,14 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1246,
-        "win_rate": 58.4,
+        "elo": 1251,
+        "win_rate": 58.5,
         "rank": 10
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1225,
+        "elo": 1224,
         "win_rate": 50.8,
         "rank": 8
       },
@@ -142,7 +142,7 @@
         "arena": "models",
         "category": "3d",
         "elo": 1322,
-        "win_rate": 59.9,
+        "win_rate": 59.8,
         "rank": 15
       },
       {
@@ -155,8 +155,8 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1316,
-        "win_rate": 57.4,
+        "elo": 1315,
+        "win_rate": 57.3,
         "rank": 13
       },
       {
@@ -177,7 +177,7 @@
         "arena": "models",
         "category": "svg",
         "elo": 1305,
-        "win_rate": 58.5,
+        "win_rate": 58.4,
         "rank": 7
       },
       {
@@ -198,7 +198,17 @@
     "artificial_analysis": {
       "intelligence_index": 44.2,
       "coding_index": 78,
-      "agentic_index": 56.5
+      "agentic_index": 56.5,
+      "finance_and_accounting_index": 49.7,
+      "strategy_and_ops_index": 53.7,
+      "legal_index": 50.9,
+      "healthcare_and_medical_index": 47.1,
+      "engineering_index": 51.3,
+      "economics_index": 50.4,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

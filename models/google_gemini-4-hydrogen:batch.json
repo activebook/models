@@ -74,57 +74,67 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1211,
-        "win_rate": 54.9,
-        "rank": 16
+        "elo": 1250,
+        "win_rate": 57.1,
+        "rank": 11
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1412,
-        "win_rate": 67.1,
+        "elo": 1414,
+        "win_rate": 67.3,
         "rank": 7
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1473,
-        "win_rate": 75.5,
+        "elo": 1457,
+        "win_rate": 74.1,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1341,
-        "win_rate": 58.1,
-        "rank": 10
-      },
-      {
-        "arena": "models",
-        "category": "gamedev",
-        "elo": 1353,
-        "win_rate": 54.4,
+        "elo": 1342,
+        "win_rate": 58.3,
         "rank": 9
       },
       {
         "arena": "models",
+        "category": "gamedev",
+        "elo": 1351,
+        "win_rate": 54.5,
+        "rank": 10
+      },
+      {
+        "arena": "models",
         "category": "uicomponent",
-        "elo": 1339,
-        "win_rate": 55.1,
-        "rank": 11
+        "elo": 1340,
+        "win_rate": 54.9,
+        "rank": 9
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1331,
-        "win_rate": 59.2,
+        "elo": 1334,
+        "win_rate": 59.5,
         "rank": 5
       }
     ],
     "artificial_analysis": {
       "intelligence_index": 53.9,
       "coding_index": null,
-      "agentic_index": null
+      "agentic_index": null,
+      "finance_and_accounting_index": 58.1,
+      "strategy_and_ops_index": 57.7,
+      "legal_index": 56.7,
+      "healthcare_and_medical_index": 53.3,
+      "engineering_index": 60.1,
+      "economics_index": 55,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

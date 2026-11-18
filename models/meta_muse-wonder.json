@@ -66,57 +66,57 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1111,
+        "elo": 1122,
         "win_rate": 35.9,
-        "rank": 11
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1217,
+        "elo": 1216,
         "win_rate": 55.5,
-        "rank": 11
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1126,
+        "elo": 1127,
         "win_rate": 14.1,
         "rank": 7
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1257,
-        "win_rate": 54.5,
-        "rank": 7
+        "elo": 1262,
+        "win_rate": 54.6,
+        "rank": 6
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1224,
-        "win_rate": 55.4,
-        "rank": 13
+        "elo": 1226,
+        "win_rate": 56,
+        "rank": 16
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
         "elo": 1033,
-        "win_rate": 14.7,
+        "win_rate": 14.8,
         "rank": 30
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
         "elo": 1232,
-        "win_rate": 43.4,
+        "win_rate": 43.2,
         "rank": 12
       },
       {
         "arena": "models",
         "category": "3d",
         "elo": 1432,
-        "win_rate": 60.7,
+        "win_rate": 60.8,
         "rank": 4
       },
       {
@@ -129,22 +129,22 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1285,
+        "elo": 1282,
         "win_rate": 53.9,
-        "rank": 15
+        "rank": 16
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1414,
+        "elo": 1412,
         "win_rate": 62,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1364,
-        "win_rate": 61.5,
+        "elo": 1360,
+        "win_rate": 61.1,
         "rank": 5
       },
       {
@@ -158,7 +158,17 @@
     "artificial_analysis": {
       "intelligence_index": 43.6,
       "coding_index": null,
-      "agentic_index": null
+      "agentic_index": null,
+      "finance_and_accounting_index": 51.1,
+      "strategy_and_ops_index": 54.5,
+      "legal_index": 46.9,
+      "healthcare_and_medical_index": 48.7,
+      "engineering_index": 49.6,
+      "economics_index": 49.5,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
     }
   },
   "reasoning": {

@@ -64,15 +64,30 @@
         "category": "codecategories",
         "elo": 1086,
         "win_rate": 48.5,
-        "rank": 113
+        "rank": 114
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1098,
         "win_rate": 48.3,
-        "rank": 115
+        "rank": 116
       }
-    ]
+    ],
+    "artificial_analysis": {
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 27.8,
+      "multilingual_index": 0.808,
+      "decision_index": null
+    }
   }
 }
