@@ -5,7 +5,7 @@
   "name": "Xiaomi: MiMo-V2.5-Pro",
   "created": 1776874273,
   "description": "MiMo-V2.5-Pro is Xiaomi\u2019s flagship model, delivering strong performance in general agentic capabilities, complex software engineering, and long-horizon tasks, with top rankings on benchmarks such as ClawEval, GDPVal, and SWE-bench Pro....",
-  "context_length": 1024000,
+  "context_length": 262144,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.000000435",
-    "completion": "0.00000087",
-    "input_cache_read": "0.0000000036"
+    "prompt": "0.00000048",
+    "completion": "0.0000018",
+    "input_cache_read": "0.000000096"
   },
   "top_provider": {
-    "context_length": 1024000,
-    "max_completion_tokens": 131072,
+    "context_length": 262144,
+    "max_completion_tokens": 235929,
     "is_moderated": false
   },
   "per_request_limits": null,
@@ -66,64 +66,64 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1233,
-        "win_rate": 54.1,
+        "elo": 1226,
+        "win_rate": 54,
         "rank": 39
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1141,
-        "win_rate": 46.8,
+        "elo": 1143,
+        "win_rate": 47.2,
         "rank": 43
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1261,
+        "elo": 1257,
         "win_rate": 52.3,
-        "rank": 36
+        "rank": 37
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1257,
+        "elo": 1256,
         "win_rate": 51,
-        "rank": 32
+        "rank": 34
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1265,
+        "elo": 1259,
         "win_rate": 54.2,
-        "rank": 28
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1184,
+        "elo": 1180,
         "win_rate": 48.8,
         "rank": 37
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1242,
+        "elo": 1241,
         "win_rate": 51.2,
-        "rank": 47
+        "rank": 49
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1261,
+        "elo": 1259,
         "win_rate": 51.3,
-        "rank": 34
+        "rank": 35
       }
     ],
     "artificial_analysis": {
       "intelligence_index": null,
-      "coding_index": 60.2,
-      "agentic_index": 21.3,
+      "coding_index": null,
+      "agentic_index": null,
       "finance_and_accounting_index": null,
       "strategy_and_ops_index": null,
       "legal_index": null,

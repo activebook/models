@@ -1,7 +1,7 @@
 {
   "id": "tencent/hy4-flash",
   "canonical_slug": "tencent/hy4-flash-20261116",
-  "hugging_face_id": null,
+  "hugging_face_id": "tencent/Hy4-flash",
   "name": "Tencent: Hy4 flash",
   "created": 1794838706,
   "description": "Hy4 flash is a cost-efficient variant of [Hy4](https://openrouter.ai/tencent/hy4) from Tencent, served with roughly a quarter of the flagship's parameter count for lower latency and cost. It targets code assistance, agent...",
@@ -59,30 +59,37 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1234,
-        "win_rate": 47.4,
-        "rank": 37
+        "elo": 1224,
+        "win_rate": 46.5,
+        "rank": 41
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1232,
-        "win_rate": 45.2,
+        "elo": 1230,
+        "win_rate": 45.1,
         "rank": 50
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1216,
-        "win_rate": 43.6,
-        "rank": 49
+        "elo": 1212,
+        "win_rate": 43.7,
+        "rank": 50
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1270,
+        "win_rate": 48.1,
+        "rank": 33
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1230,
-        "win_rate": 44.7,
-        "rank": 56
+        "elo": 1228,
+        "win_rate": 44.6,
+        "rank": 57
       }
     ]
   },

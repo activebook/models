@@ -79,7 +79,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1002,
+        "elo": 999,
         "win_rate": 42.3,
         "rank": 41
       },
@@ -100,56 +100,56 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1108,
+        "elo": 1101,
         "win_rate": 54.2,
-        "rank": 90
+        "rank": 91
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1154,
+        "elo": 1150,
         "win_rate": 54.3,
-        "rank": 87
+        "rank": 89
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1158,
+        "elo": 1156,
         "win_rate": 52.6,
-        "rank": 78
+        "rank": 80
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1139,
+        "elo": 1133,
         "win_rate": 54.8,
-        "rank": 81
+        "rank": 82
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1098,
+        "elo": 1094,
         "win_rate": 52.1,
         "rank": 68
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1136,
+        "elo": 1134,
         "win_rate": 52.5,
-        "rank": 88
+        "rank": 90
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1165,
+        "elo": 1163,
         "win_rate": 54.3,
-        "rank": 86
+        "rank": 87
       }
     ],
     "artificial_analysis": {
       "intelligence_index": null,
-      "coding_index": 45.8,
+      "coding_index": null,
       "agentic_index": null,
       "finance_and_accounting_index": null,
       "strategy_and_ops_index": null,

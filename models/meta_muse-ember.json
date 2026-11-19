@@ -63,7 +63,50 @@
     "/api/v1/responses"
   ],
   "benchmarks": {
-    "design_arena": [],
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "3d",
+        "elo": 1363,
+        "win_rate": 61.6,
+        "rank": 11
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1342,
+        "win_rate": 60.7,
+        "rank": 8
+      },
+      {
+        "arena": "models",
+        "category": "dataviz",
+        "elo": 1315,
+        "win_rate": 60.1,
+        "rank": 12
+      },
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1325,
+        "win_rate": 59.5,
+        "rank": 13
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1308,
+        "win_rate": 55.8,
+        "rank": 16
+      },
+      {
+        "arena": "models",
+        "category": "website",
+        "elo": 1327,
+        "win_rate": 59.5,
+        "rank": 6
+      }
+    ],
     "artificial_analysis": {
       "intelligence_index": 36,
       "coding_index": null,

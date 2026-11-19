@@ -692,6 +692,14 @@
     "file": "models/google_gemini-4-hydrogen:batch.json"
   },
   {
+    "name": "gemini-4-neon",
+    "file": "models/google_gemini-4-neon.json"
+  },
+  {
+    "name": "gemini-4-neon:batch",
+    "file": "models/google_gemini-4-neon:batch.json"
+  },
+  {
     "name": "gemini-flash-latest",
     "file": "models/~google_gemini-flash-latest.json"
   },
@@ -2845,11 +2853,11 @@
   },
   {
     "name": "reka-edge",
-    "file": "models/reka_reka-edge.json"
+    "file": "models/rekaai_reka-edge.json"
   },
   {
     "name": "reka-edge",
-    "file": "models/rekaai_reka-edge.json"
+    "file": "models/reka_reka-edge.json"
   },
   {
     "name": "reka-flash-3",

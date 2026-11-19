@@ -76,7 +76,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1185,
+        "elo": 1183,
         "win_rate": 64.3,
         "rank": 17
       },
@@ -97,71 +97,71 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1170,
+        "elo": 1168,
         "win_rate": 56.9,
         "rank": 30
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1214,
+        "elo": 1207,
         "win_rate": 57.5,
-        "rank": 47
+        "rank": 48
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1219,
+        "elo": 1218,
         "win_rate": 60.1,
-        "rank": 22
+        "rank": 23
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1264,
+        "elo": 1261,
         "win_rate": 59.4,
         "rank": 31
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1275,
+        "elo": 1273,
         "win_rate": 58.3,
-        "rank": 23
+        "rank": 25
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1247,
+        "elo": 1242,
         "win_rate": 58.8,
-        "rank": 41
+        "rank": 42
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1186,
+        "elo": 1182,
         "win_rate": 58.7,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1260,
+        "elo": 1259,
         "win_rate": 58.3,
-        "rank": 37
+        "rank": 40
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1276,
+        "elo": 1274,
         "win_rate": 60,
-        "rank": 25
+        "rank": 26
       }
     ],
     "artificial_analysis": {
       "intelligence_index": null,
-      "coding_index": 63,
-      "agentic_index": 31.8,
+      "coding_index": null,
+      "agentic_index": null,
       "finance_and_accounting_index": null,
       "strategy_and_ops_index": null,
       "legal_index": null,
