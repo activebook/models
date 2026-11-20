@@ -2,9 +2,9 @@
   "id": "x-ai/grok-4.3:batch",
   "canonical_slug": "x-ai/grok-4.3-20260430",
   "hugging_face_id": null,
-  "name": "SpaceXAI: Grok 4.3 (batch)",
+  "name": "SpaceXSI: Grok 4.3 (batch)",
   "created": 1777591821,
-  "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
+  "description": "Grok 4.3 is a reasoning model from SpaceXSI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
   "context_length": 1000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -111,7 +111,7 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 956,
+        "elo": 955,
         "win_rate": 23,
         "rank": 43
       },
@@ -125,44 +125,44 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 881,
-        "win_rate": 17.6,
-        "rank": 26
+        "elo": 878,
+        "win_rate": 17.5,
+        "rank": 27
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 978,
-        "win_rate": 28,
-        "rank": 43
+        "elo": 975,
+        "win_rate": 27.9,
+        "rank": 44
       },
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 933,
-        "win_rate": 24.1,
+        "elo": 931,
+        "win_rate": 23.9,
         "rank": 36
       },
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 909,
-        "win_rate": 28.6,
+        "elo": 913,
+        "win_rate": 28.7,
         "rank": 25
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1050,
-        "win_rate": 32.9,
+        "elo": 1046,
+        "win_rate": 32.8,
         "rank": 50
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 945,
-        "win_rate": 20.6,
-        "rank": 41
+        "elo": 946,
+        "win_rate": 21.1,
+        "rank": 45
       },
       {
         "arena": "agents",
@@ -181,35 +181,35 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 923,
-        "win_rate": 29,
+        "elo": 917,
+        "win_rate": 27.7,
         "rank": 32
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1103,
+        "elo": 1101,
         "win_rate": 42.5,
-        "rank": 38
+        "rank": 37
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1097,
+        "elo": 1092,
         "win_rate": 40.6,
-        "rank": 93
+        "rank": 94
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1108,
         "win_rate": 42,
-        "rank": 59
+        "rank": 58
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1170,
+        "elo": 1169,
         "win_rate": 43.4,
         "rank": 72
       },
@@ -218,35 +218,35 @@
         "category": "dataviz",
         "elo": 1175,
         "win_rate": 45,
-        "rank": 69
+        "rank": 70
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1154,
-        "win_rate": 42.4,
-        "rank": 74
+        "elo": 1150,
+        "win_rate": 42.3,
+        "rank": 76
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1065,
-        "win_rate": 36.4,
-        "rank": 77
+        "win_rate": 36.5,
+        "rank": 78
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1182,
+        "elo": 1179,
         "win_rate": 45.1,
         "rank": 72
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1183,
+        "elo": 1181,
         "win_rate": 43.9,
-        "rank": 74
+        "rank": 75
       }
     ]
   },

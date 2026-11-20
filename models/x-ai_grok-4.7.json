@@ -2,9 +2,9 @@
   "id": "x-ai/grok-4.7",
   "canonical_slug": "x-ai/grok-4.7-20260916",
   "hugging_face_id": null,
-  "name": "SpaceXAI: Grok 4.7",
+  "name": "SpaceXSI: Grok 4.7",
   "created": 1790007541,
-  "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
+  "description": "Grok 4.7 is SpaceXSI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
   "context_length": 500000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -84,79 +84,79 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1107,
-        "win_rate": 41.8,
-        "rank": 24
+        "elo": 1106,
+        "win_rate": 41.7,
+        "rank": 25
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1244,
+        "elo": 1240,
         "win_rate": 53.8,
-        "rank": 11
+        "rank": 10
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1193,
-        "win_rate": 50.8,
+        "elo": 1189,
+        "win_rate": 50.5,
         "rank": 22
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1420,
-        "win_rate": 74.3,
+        "elo": 1413,
+        "win_rate": 73.9,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1244,
-        "win_rate": 46.9,
-        "rank": 29
+        "elo": 1240,
+        "win_rate": 47.1,
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1260,
-        "win_rate": 47.3,
-        "rank": 33
+        "win_rate": 47.4,
+        "rank": 32
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1222,
         "win_rate": 44.5,
-        "rank": 49
+        "rank": 50
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1297,
-        "win_rate": 50.3,
-        "rank": 20
+        "elo": 1295,
+        "win_rate": 50.4,
+        "rank": 21
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1265,
-        "win_rate": 50.5,
-        "rank": 18
+        "elo": 1261,
+        "win_rate": 50,
+        "rank": 19
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1274,
-        "win_rate": 49.7,
+        "elo": 1273,
+        "win_rate": 49.9,
         "rank": 31
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1241,
-        "win_rate": 45.6,
-        "rank": 49
+        "elo": 1240,
+        "win_rate": 45.7,
+        "rank": 50
       }
     ],
     "artificial_analysis": {

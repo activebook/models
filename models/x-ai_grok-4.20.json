@@ -2,9 +2,9 @@
   "id": "x-ai/grok-4.20",
   "canonical_slug": "x-ai/grok-4.20-20260309",
   "hugging_face_id": "",
-  "name": "SpaceXAI: Grok 4.20",
+  "name": "SpaceXSI: Grok 4.20",
   "created": 1774979019,
-  "description": "Grok 4.20 is a reasoning model from SpaceXAI with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering...",
+  "description": "Grok 4.20 is a reasoning model from SpaceXSI with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering...",
   "context_length": 2000000,
   "architecture": {
     "modality": "text+image+file->text",
@@ -78,16 +78,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1036,
+        "elo": 1035,
         "win_rate": 35,
-        "rank": 40
+        "rank": 39
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1024,
+        "elo": 1021,
         "win_rate": 41.1,
-        "rank": 37
+        "rank": 38
       },
       {
         "arena": "agents",
@@ -106,23 +106,23 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1081,
+        "elo": 1077,
         "win_rate": 45.4,
         "rank": 48
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1122,
+        "elo": 1120,
         "win_rate": 49.7,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1166,
+        "elo": 1161,
         "win_rate": 52.3,
-        "rank": 63
+        "rank": 65
       },
       {
         "arena": "models",
@@ -134,44 +134,44 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1205,
+        "elo": 1204,
         "win_rate": 52,
-        "rank": 63
+        "rank": 64
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1212,
+        "elo": 1213,
         "win_rate": 52,
-        "rank": 56
+        "rank": 57
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1175,
+        "elo": 1172,
         "win_rate": 50.4,
-        "rank": 67
-      },
-      {
-        "arena": "models",
-        "category": "svg",
-        "elo": 1149,
-        "win_rate": 52.4,
-        "rank": 48
-      },
-      {
-        "arena": "models",
-        "category": "uicomponent",
-        "elo": 1188,
-        "win_rate": 49.4,
         "rank": 68
       },
       {
         "arena": "models",
+        "category": "svg",
+        "elo": 1148,
+        "win_rate": 52.4,
+        "rank": 49
+      },
+      {
+        "arena": "models",
+        "category": "uicomponent",
+        "elo": 1185,
+        "win_rate": 49.4,
+        "rank": 69
+      },
+      {
+        "arena": "models",
         "category": "website",
-        "elo": 1218,
+        "elo": 1217,
         "win_rate": 52.1,
-        "rank": 62
+        "rank": 63
       }
     ],
     "artificial_analysis": {

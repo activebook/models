@@ -2544,6 +2544,10 @@
     "file": "models/mistralai_pixtral-large-2411.json"
   },
   {
+    "name": "pixtral-large-2502",
+    "file": "models/mistralai_pixtral-large-2502.json"
+  },
+  {
     "name": "qianfan-ocr-fast",
     "file": "models/baidu_qianfan-ocr-fast.json"
   },
@@ -2853,11 +2857,11 @@
   },
   {
     "name": "reka-edge",
-    "file": "models/rekaai_reka-edge.json"
+    "file": "models/reka_reka-edge.json"
   },
   {
     "name": "reka-edge",
-    "file": "models/reka_reka-edge.json"
+    "file": "models/rekaai_reka-edge.json"
   },
   {
     "name": "reka-flash-3",

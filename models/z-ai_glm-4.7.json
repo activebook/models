@@ -73,16 +73,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1098,
+        "elo": 1096,
         "win_rate": 55.8,
         "rank": 34
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1020,
+        "elo": 1017,
         "win_rate": 45.1,
-        "rank": 39
+        "rank": 40
       },
       {
         "arena": "agents",
@@ -94,28 +94,28 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1096,
+        "elo": 1093,
         "win_rate": 48.9,
         "rank": 42
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1163,
+        "elo": 1158,
         "win_rate": 54.3,
-        "rank": 65
+        "rank": 66
       },
       {
         "arena": "models",
         "category": "asciiart",
         "elo": 1148,
         "win_rate": 48.2,
-        "rank": 41
+        "rank": 40
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1201,
+        "elo": 1200,
         "win_rate": 54.8,
         "rank": 65
       },
@@ -124,35 +124,35 @@
         "category": "dataviz",
         "elo": 1191,
         "win_rate": 51.2,
-        "rank": 65
+        "rank": 66
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1171,
+        "elo": 1168,
         "win_rate": 55.2,
-        "rank": 68
+        "rank": 69
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1128,
+        "elo": 1127,
         "win_rate": 54.3,
-        "rank": 58
+        "rank": 59
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1186,
+        "elo": 1184,
         "win_rate": 51.1,
         "rank": 70
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1214,
+        "elo": 1213,
         "win_rate": 55.3,
-        "rank": 63
+        "rank": 64
       }
     ],
     "artificial_analysis": {

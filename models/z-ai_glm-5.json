@@ -69,16 +69,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1136,
+        "elo": 1135,
         "win_rate": 55,
         "rank": 30
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1093,
+        "elo": 1090,
         "win_rate": 51.7,
-        "rank": 30
+        "rank": 31
       },
       {
         "arena": "agents",
@@ -90,23 +90,23 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1046,
+        "elo": 1050,
         "win_rate": 45.1,
         "rank": 20
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1127,
+        "elo": 1124,
         "win_rate": 51.7,
-        "rank": 39
+        "rank": 40
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1202,
+        "elo": 1197,
         "win_rate": 56.3,
-        "rank": 50
+        "rank": 51
       },
       {
         "arena": "models",
@@ -118,42 +118,42 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1231,
+        "elo": 1230,
         "win_rate": 55.5,
         "rank": 48
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1223,
+        "elo": 1224,
         "win_rate": 53,
-        "rank": 48
+        "rank": 49
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1217,
+        "elo": 1214,
         "win_rate": 57.4,
-        "rank": 47
+        "rank": 48
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1153,
+        "elo": 1152,
         "win_rate": 54.4,
-        "rank": 47
+        "rank": 48
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1217,
+        "elo": 1215,
         "win_rate": 53.6,
-        "rank": 58
+        "rank": 59
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1236,
+        "elo": 1235,
         "win_rate": 55,
         "rank": 53
       }
