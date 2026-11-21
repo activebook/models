@@ -20,9 +20,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000009",
-    "completion": "0.0000003",
-    "input_cache_read": "0.00000005"
+    "prompt": "0.0000000675",
+    "completion": "0.000000225",
+    "input_cache_read": "0.0000000375"
   },
   "top_provider": {
     "context_length": 262144,
@@ -75,12 +75,12 @@
       "intelligence_index": null,
       "coding_index": null,
       "agentic_index": null,
-      "finance_and_accounting_index": null,
-      "strategy_and_ops_index": null,
-      "legal_index": null,
+      "finance_and_accounting_index": 7.1,
+      "strategy_and_ops_index": 5.3,
+      "legal_index": 6.9,
       "healthcare_and_medical_index": null,
       "engineering_index": null,
-      "economics_index": null,
+      "economics_index": 8.2,
       "cyber_index": null,
       "openness_index": 38.9,
       "multilingual_index": null,

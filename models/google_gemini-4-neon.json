@@ -70,22 +70,29 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1500,
-        "win_rate": 76.5,
+        "elo": 1489,
+        "win_rate": 75.8,
+        "rank": 2
+      },
+      {
+        "arena": "models",
+        "category": "codecategories",
+        "elo": 1392,
+        "win_rate": 65.5,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1399,
-        "win_rate": 65.9,
+        "elo": 1397,
+        "win_rate": 64.7,
         "rank": 3
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1359,
-        "win_rate": 59.6,
+        "win_rate": 58.9,
         "rank": 5
       },
       {

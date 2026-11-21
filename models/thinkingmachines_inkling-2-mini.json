@@ -1,0 +1,98 @@
+{
+  "id": "thinkingmachines/inkling-2-mini",
+  "canonical_slug": "thinkingmachines/inkling-2-mini-20261120",
+  "hugging_face_id": "thinkingmachines/Inkling-2-Mini",
+  "name": "Thinking Machines: Inkling 2 Mini",
+  "created": 1795227585,
+  "description": "Inkling 2 Mini is an open-weight multimodal looped transformer from Thinking Machines Lab, with 3.4B active parameters out of 26.4B total (MoE). Its middle layers run three times with shared...",
+  "context_length": 1048576,
+  "architecture": {
+    "modality": "text+image->text",
+    "input_modalities": [
+      "text",
+      "image"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.0000001",
+    "completion": "0.0000004",
+    "input_cache_read": "0.00000002"
+  },
+  "top_provider": {
+    "context_length": 1048576,
+    "max_completion_tokens": 65536,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logprobs",
+    "max_completion_tokens",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "reasoning",
+    "reasoning_effort",
+    "repetition_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_logprobs",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/thinkingmachines/inkling-2-mini-20261120/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
+  "benchmarks": {
+    "design_arena": [],
+    "artificial_analysis": {
+      "intelligence_index": 20.1,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": 35.3,
+      "strategy_and_ops_index": 35.2,
+      "legal_index": 31,
+      "healthcare_and_medical_index": null,
+      "engineering_index": 27.6,
+      "economics_index": 33,
+      "cyber_index": null,
+      "openness_index": null,
+      "multilingual_index": null,
+      "decision_index": null
+    }
+  },
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true,
+    "supported_efforts": [
+      "max",
+      "high",
+      "medium",
+      "low",
+      "minimal",
+      "none"
+    ],
+    "default_effort": "high"
+  }
+}

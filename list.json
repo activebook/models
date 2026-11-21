@@ -312,6 +312,10 @@
     "file": "models/thedrummer_cydonia-24b-v4.1.json"
   },
   {
+    "name": "daisyrose-27b",
+    "file": "models/radixark_daisyrose-27b.json"
+  },
+  {
     "name": "deepseek-chat",
     "file": "models/deepseek_deepseek-chat.json"
   },
@@ -1574,6 +1578,10 @@
   {
     "name": "inkling",
     "file": "models/thinkingmachines_inkling.json"
+  },
+  {
+    "name": "inkling-2-mini",
+    "file": "models/thinkingmachines_inkling-2-mini.json"
   },
   {
     "name": "inkling-2-small",
@@ -2857,11 +2865,11 @@
   },
   {
     "name": "reka-edge",
-    "file": "models/reka_reka-edge.json"
+    "file": "models/rekaai_reka-edge.json"
   },
   {
     "name": "reka-edge",
-    "file": "models/rekaai_reka-edge.json"
+    "file": "models/reka_reka-edge.json"
   },
   {
     "name": "reka-flash-3",

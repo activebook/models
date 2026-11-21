@@ -18,13 +18,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000015",
-    "completion": "0.0000006"
+    "prompt": "0.00000007",
+    "completion": "0.00000028"
   },
   "top_provider": {
     "context_length": 262144,
     "max_completion_tokens": 235929,
-    "is_moderated": true
+    "is_moderated": false
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -59,7 +59,7 @@
         "category": "dataviz",
         "elo": 1085,
         "win_rate": 54.7,
-        "rank": 109
+        "rank": 108
       },
       {
         "arena": "models",

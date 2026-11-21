@@ -75,55 +75,55 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1180,
-        "win_rate": 61.2,
+        "win_rate": 61.1,
         "rank": 18
       },
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 934,
-        "win_rate": 33.2,
+        "elo": 930,
+        "win_rate": 32.5,
         "rank": 23
       },
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1120,
+        "elo": 1119,
         "win_rate": 43.4,
         "rank": 20
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1187,
+        "elo": 1193,
         "win_rate": 59,
         "rank": 17
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1194,
-        "win_rate": 56.8,
-        "rank": 22
+        "elo": 1196,
+        "win_rate": 56.9,
+        "rank": 23
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1181,
-        "win_rate": 51.7,
+        "elo": 1191,
+        "win_rate": 52.3,
         "rank": 24
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 982,
+        "elo": 983,
         "win_rate": 22.3,
         "rank": 30
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1181,
+        "elo": 1177,
         "win_rate": 55.5,
         "rank": 26
       },
@@ -132,26 +132,26 @@
         "category": "3d",
         "elo": 1241,
         "win_rate": 62.5,
-        "rank": 29
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1238,
+        "elo": 1240,
         "win_rate": 61.9,
-        "rank": 18
+        "rank": 19
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1272,
+        "elo": 1271,
         "win_rate": 61.2,
-        "rank": 26
+        "rank": 28
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1275,
+        "elo": 1274,
         "win_rate": 58.7,
         "rank": 24
       },

@@ -84,64 +84,64 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1106,
-        "win_rate": 41.7,
-        "rank": 25
+        "elo": 1109,
+        "win_rate": 42.2,
+        "rank": 24
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1240,
-        "win_rate": 53.8,
+        "elo": 1245,
+        "win_rate": 53.5,
         "rank": 10
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1189,
+        "elo": 1190,
         "win_rate": 50.5,
-        "rank": 22
+        "rank": 25
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1413,
-        "win_rate": 73.9,
+        "elo": 1415,
+        "win_rate": 74.1,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1240,
-        "win_rate": 47.1,
-        "rank": 30
+        "elo": 1242,
+        "win_rate": 47.2,
+        "rank": 29
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1260,
+        "elo": 1259,
         "win_rate": 47.4,
-        "rank": 32
+        "rank": 34
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1222,
-        "win_rate": 44.5,
-        "rank": 50
+        "elo": 1219,
+        "win_rate": 44,
+        "rank": 51
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1295,
-        "win_rate": 50.4,
+        "elo": 1294,
+        "win_rate": 50.3,
         "rank": 21
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1261,
-        "win_rate": 50,
+        "elo": 1259,
+        "win_rate": 49.8,
         "rank": 19
       },
       {
@@ -154,9 +154,9 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1240,
+        "elo": 1241,
         "win_rate": 45.7,
-        "rank": 50
+        "rank": 49
       }
     ],
     "artificial_analysis": {

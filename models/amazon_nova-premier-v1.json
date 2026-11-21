@@ -55,15 +55,7 @@
     "/api/v1/responses"
   ],
   "benchmarks": {
-    "design_arena": [
-      {
-        "arena": "models",
-        "category": "website",
-        "elo": 823,
-        "win_rate": 26.2,
-        "rank": 152
-      }
-    ],
+    "design_arena": [],
     "artificial_analysis": {
       "intelligence_index": null,
       "coding_index": null,
