@@ -65,32 +65,39 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "pdf",
+        "elo": 1062,
+        "win_rate": 35,
+        "rank": 43
+      },
+      {
         "arena": "models",
         "category": "3d",
-        "elo": 1489,
-        "win_rate": 75.8,
+        "elo": 1491,
+        "win_rate": 76,
         "rank": 2
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1392,
-        "win_rate": 65.5,
-        "rank": 1
+        "elo": 1391,
+        "win_rate": 65.4,
+        "rank": 2
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1397,
+        "elo": 1394,
         "win_rate": 64.7,
-        "rank": 3
+        "rank": 5
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1359,
-        "win_rate": 58.9,
-        "rank": 5
+        "elo": 1349,
+        "win_rate": 58,
+        "rank": 7
       },
       {
         "arena": "models",

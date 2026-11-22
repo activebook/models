@@ -78,16 +78,16 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1036,
+        "elo": 1035,
         "win_rate": 35,
         "rank": 39
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1027,
+        "elo": 1029,
         "win_rate": 41.1,
-        "rank": 38
+        "rank": 39
       },
       {
         "arena": "agents",
@@ -106,50 +106,50 @@
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1080,
+        "elo": 1082,
         "win_rate": 45.4,
-        "rank": 49
+        "rank": 50
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1116,
+        "elo": 1112,
         "win_rate": 49.7,
         "rank": 34
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1161,
+        "elo": 1160,
         "win_rate": 52.3,
         "rank": 65
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1160,
+        "elo": 1161,
         "win_rate": 48.3,
         "rank": 36
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1203,
+        "elo": 1202,
         "win_rate": 52,
         "rank": 65
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1211,
+        "elo": 1212,
         "win_rate": 52,
         "rank": 57
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1171,
-        "win_rate": 50.4,
+        "elo": 1164,
+        "win_rate": 50.3,
         "rank": 68
       },
       {
@@ -162,14 +162,14 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1185,
+        "elo": 1184,
         "win_rate": 49.4,
         "rank": 69
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1217,
+        "elo": 1216,
         "win_rate": 52.1,
         "rank": 63
       }
