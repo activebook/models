@@ -61,11 +61,18 @@
   "benchmarks": {
     "design_arena": [
       {
+        "arena": "agents",
+        "category": "pdf",
+        "elo": 1147,
+        "win_rate": 45,
+        "rank": 37
+      },
+      {
         "arena": "models",
         "category": "3d",
         "elo": 1162,
         "win_rate": 49.7,
-        "rank": 63
+        "rank": 64
       },
       {
         "arena": "models",
@@ -84,7 +91,7 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1227,
+        "elo": 1226,
         "win_rate": 52.3,
         "rank": 47
       },
@@ -98,7 +105,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1118,
+        "elo": 1117,
         "win_rate": 46.4,
         "rank": 63
       },
@@ -106,8 +113,8 @@
         "arena": "models",
         "category": "uicomponent",
         "elo": 1195,
-        "win_rate": 48.6,
-        "rank": 66
+        "win_rate": 48.5,
+        "rank": 65
       },
       {
         "arena": "models",

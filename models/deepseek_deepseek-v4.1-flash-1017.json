@@ -19,9 +19,9 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.00000015",
-    "completion": "0.0000006",
-    "input_cache_read": "0.000000003",
+    "prompt": "0.0000003",
+    "completion": "0.0000012",
+    "input_cache_read": "0.000000006",
     "overrides": [
       {
         "utc_days": [
@@ -152,7 +152,7 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1263,
+        "elo": 1264,
         "win_rate": 47.8,
         "rank": 9
       },
@@ -180,16 +180,16 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1269,
-        "win_rate": 51.7,
-        "rank": 30
+        "elo": 1276,
+        "win_rate": 52.7,
+        "rank": 24
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1239,
         "win_rate": 43.4,
-        "rank": 35
+        "rank": 34
       },
       {
         "arena": "models",
@@ -201,15 +201,15 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1271,
-        "win_rate": 47.6,
-        "rank": 32
+        "elo": 1272,
+        "win_rate": 47.8,
+        "rank": 31
       },
       {
         "arena": "models",
         "category": "website",
         "elo": 1289,
-        "win_rate": 51.7,
+        "win_rate": 51.6,
         "rank": 21
       }
     ],

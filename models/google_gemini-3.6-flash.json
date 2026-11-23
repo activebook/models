@@ -91,16 +91,16 @@
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1045,
-        "win_rate": 44.5,
+        "elo": 1041,
+        "win_rate": 44.1,
         "rank": 16
       },
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1109,
+        "elo": 1091,
         "win_rate": 41.8,
-        "rank": 24
+        "rank": 23
       },
       {
         "arena": "agents",
@@ -112,29 +112,29 @@
       {
         "arena": "agents",
         "category": "htmlslides",
-        "elo": 1049,
+        "elo": 1050,
         "win_rate": 42,
         "rank": 19
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1189,
-        "win_rate": 49.4,
+        "elo": 1190,
+        "win_rate": 49.5,
         "rank": 26
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1151,
-        "win_rate": 44.2,
-        "rank": 31
+        "elo": 1153,
+        "win_rate": 44.1,
+        "rank": 33
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
         "elo": 1105,
-        "win_rate": 39.2,
+        "win_rate": 39.3,
         "rank": 26
       },
       {
@@ -155,15 +155,15 @@
         "arena": "models",
         "category": "3d",
         "elo": 1237,
-        "win_rate": 52.2,
+        "win_rate": 52.3,
         "rank": 31
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1266,
-        "win_rate": 56.1,
-        "rank": 11
+        "elo": 1260,
+        "win_rate": 55.2,
+        "rank": 13
       },
       {
         "arena": "models",
@@ -183,7 +183,7 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1236,
-        "win_rate": 50.5,
+        "win_rate": 50.4,
         "rank": 38
       },
       {
