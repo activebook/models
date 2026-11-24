@@ -5,7 +5,7 @@
   "name": "StepFun: Step 3.7 Flash",
   "created": 1779985069,
   "description": "Step 3.7 Flash is StepFun's latest high-efficiency multimodal Mixture-of-Experts model. It pairs a 196B-parameter language backbone with a vision encoder for native image and video understanding, activating roughly 11B parameters...",
-  "context_length": 262144,
+  "context_length": 256000,
   "architecture": {
     "modality": "text+image+video->text",
     "input_modalities": [
@@ -35,18 +35,14 @@
     "include_reasoning",
     "logprobs",
     "max_tokens",
-    "presence_penalty",
     "reasoning",
     "reasoning_effort",
-    "repetition_penalty",
     "response_format",
-    "seed",
     "stop",
     "structured_outputs",
     "temperature",
     "tool_choice",
     "tools",
-    "top_k",
     "top_logprobs",
     "top_p"
   ],
@@ -75,14 +71,14 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1112,
-        "win_rate": 40.9,
-        "rank": 42
+        "elo": 1114,
+        "win_rate": 40.5,
+        "rank": 43
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1096,
+        "elo": 1093,
         "win_rate": 39.5,
         "rank": 92
       },
@@ -90,50 +86,50 @@
         "arena": "models",
         "category": "asciiart",
         "elo": 1134,
-        "win_rate": 44.3,
-        "rank": 51
+        "win_rate": 44.1,
+        "rank": 50
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1161,
-        "win_rate": 41.6,
-        "rank": 77
+        "elo": 1220,
+        "win_rate": 41.5,
+        "rank": 76
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1169,
-        "win_rate": 43.1,
+        "elo": 1168,
+        "win_rate": 43,
         "rank": 73
       },
       {
         "arena": "models",
         "category": "gamedev",
         "elo": 1124,
-        "win_rate": 36.8,
+        "win_rate": 36.7,
         "rank": 84
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1068,
+        "elo": 1125,
         "win_rate": 36.1,
-        "rank": 76
+        "rank": 74
       },
       {
         "arena": "models",
         "category": "uicomponent",
         "elo": 1159,
-        "win_rate": 41.1,
+        "win_rate": 41.2,
         "rank": 78
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1181,
+        "elo": 1234,
         "win_rate": 43.6,
-        "rank": 76
+        "rank": 75
       }
     ],
     "artificial_analysis": {

@@ -5,7 +5,7 @@
   "name": "Thinking Machines: Inkling",
   "created": 1784325956,
   "description": "Inkling is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 41B active parameters out of 975B total. It is designed for general-purpose reasoning, coding, agentic and tool-use systems,...",
-  "context_length": 524288,
+  "context_length": 1048576,
   "architecture": {
     "modality": "text+image+audio->text",
     "input_modalities": [
@@ -72,51 +72,51 @@
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1163,
+        "elo": 1162,
         "win_rate": 48.6,
         "rank": 29
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1126,
-        "win_rate": 39.2,
+        "elo": 1123,
+        "win_rate": 39.1,
         "rank": 80
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1082,
-        "win_rate": 34.3,
-        "rank": 68
+        "elo": 1094,
+        "win_rate": 35.5,
+        "rank": 66
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1186,
-        "win_rate": 41.7,
-        "rank": 70
+        "elo": 1245,
+        "win_rate": 41.6,
+        "rank": 68
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1158,
-        "win_rate": 38.3,
+        "elo": 1156,
+        "win_rate": 38.1,
         "rank": 80
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1134,
-        "win_rate": 37.1,
+        "elo": 1135,
+        "win_rate": 37.2,
         "rank": 80
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1094,
+        "elo": 1150,
         "win_rate": 34.1,
-        "rank": 68
+        "rank": 67
       },
       {
         "arena": "models",
@@ -128,8 +128,8 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1211,
-        "win_rate": 44.3,
+        "elo": 1263,
+        "win_rate": 44.2,
         "rank": 65
       }
     ],
