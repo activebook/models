@@ -70,9 +70,9 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1205,
-        "win_rate": 51.2,
-        "rank": 20
+        "elo": 1187,
+        "win_rate": 48.9,
+        "rank": 24
       },
       {
         "arena": "models",
@@ -84,7 +84,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1267,
+        "elo": 1268,
         "win_rate": 54.8,
         "rank": 11
       },
@@ -93,14 +93,14 @@
         "category": "codecategories",
         "elo": 1320,
         "win_rate": 48.4,
-        "rank": 31
+        "rank": 30
       },
       {
         "arena": "models",
         "category": "dataviz",
         "elo": 1253,
-        "win_rate": 50,
-        "rank": 36
+        "win_rate": 49.9,
+        "rank": 37
       },
       {
         "arena": "models",
@@ -112,7 +112,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1322,
+        "elo": 1321,
         "win_rate": 54.8,
         "rank": 17
       },
@@ -132,14 +132,14 @@
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 27.8,
+      "intelligence_index": 27.7,
       "coding_index": null,
       "agentic_index": null,
       "finance_and_accounting_index": 38.8,
       "strategy_and_ops_index": 44.5,
       "legal_index": 34.8,
       "healthcare_and_medical_index": 36.6,
-      "engineering_index": 34.5,
+      "engineering_index": 34.4,
       "economics_index": 35.3,
       "cyber_index": 49.9,
       "openness_index": 44.4,

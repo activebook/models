@@ -1,0 +1,73 @@
+{
+  "id": "upstage/solar-pro-4-contributor",
+  "canonical_slug": "upstage/solar-pro-4-contributor-20261125",
+  "hugging_face_id": null,
+  "name": "Upstage: Solar Pro 4 Contributor",
+  "created": 1795562304,
+  "description": "Solar Pro 4 Contributor is the same Solar Pro 4 model from Upstage, offered at a lower rate in exchange for allowing Upstage to use interaction data to improve its...",
+  "context_length": 524288,
+  "architecture": {
+    "modality": "text->text",
+    "input_modalities": [
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000009",
+    "completion": "0.00000036",
+    "input_cache_read": "0.000000018"
+  },
+  "top_provider": {
+    "context_length": 524288,
+    "max_completion_tokens": 131072,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "max_tokens",
+    "parallel_tool_calls",
+    "presence_penalty",
+    "reasoning",
+    "reasoning_effort",
+    "response_format",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/upstage/solar-pro-4-contributor-20261125/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": false,
+    "supported_efforts": [
+      "max",
+      "xhigh",
+      "high",
+      "medium",
+      "low",
+      "minimal",
+      "none"
+    ],
+    "default_effort": "medium"
+  }
+}

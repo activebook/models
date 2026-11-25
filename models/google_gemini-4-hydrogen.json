@@ -77,83 +77,83 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1313,
-        "win_rate": 68.8,
-        "rank": 3
+        "elo": 1311,
+        "win_rate": 69.2,
+        "rank": 4
       },
       {
         "arena": "agents",
         "category": "mobileapps",
-        "elo": 1270,
-        "win_rate": 57,
-        "rank": 6
+        "elo": 1275,
+        "win_rate": 57.5,
+        "rank": 5
       },
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1248,
-        "win_rate": 58.7,
-        "rank": 11
+        "elo": 1262,
+        "win_rate": 60.8,
+        "rank": 7
       },
       {
         "arena": "models",
         "category": "3d",
         "elo": 1397,
-        "win_rate": 66,
+        "win_rate": 65.9,
         "rank": 8
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1454,
+        "elo": 1453,
         "win_rate": 73,
         "rank": 1
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1389,
-        "win_rate": 56,
+        "elo": 1388,
+        "win_rate": 55.8,
         "rank": 12
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1288,
+        "elo": 1289,
         "win_rate": 55,
-        "rank": 17
+        "rank": 18
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1341,
-        "win_rate": 52.3,
-        "rank": 11
+        "elo": 1338,
+        "win_rate": 52.1,
+        "rank": 12
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1331,
-        "win_rate": 53.3,
+        "elo": 1329,
+        "win_rate": 53,
         "rank": 12
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1378,
-        "win_rate": 58.7,
-        "rank": 7
+        "elo": 1376,
+        "win_rate": 58.5,
+        "rank": 8
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 53.9,
+      "intelligence_index": 54.1,
       "coding_index": null,
       "agentic_index": null,
       "finance_and_accounting_index": 58.1,
       "strategy_and_ops_index": 57.7,
       "legal_index": 56.7,
       "healthcare_and_medical_index": 53.3,
-      "engineering_index": 60.1,
+      "engineering_index": 60.2,
       "economics_index": 55,
       "cyber_index": null,
       "openness_index": null,

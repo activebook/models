@@ -34,6 +34,7 @@
     "frequency_penalty",
     "include_reasoning",
     "logit_bias",
+    "logprobs",
     "max_tokens",
     "min_p",
     "presence_penalty",
@@ -45,6 +46,7 @@
     "tool_choice",
     "tools",
     "top_k",
+    "top_logprobs",
     "top_p"
   ],
   "default_parameters": {
@@ -79,9 +81,9 @@
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1123,
+        "elo": 1122,
         "win_rate": 39.1,
-        "rank": 80
+        "rank": 81
       },
       {
         "arena": "models",
@@ -100,22 +102,22 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1156,
-        "win_rate": 38.1,
-        "rank": 80
+        "elo": 1154,
+        "win_rate": 37.9,
+        "rank": 82
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1135,
-        "win_rate": 37.2,
+        "elo": 1134,
+        "win_rate": 37.1,
         "rank": 80
       },
       {
         "arena": "models",
         "category": "svg",
         "elo": 1150,
-        "win_rate": 34.1,
+        "win_rate": 34,
         "rank": 67
       },
       {

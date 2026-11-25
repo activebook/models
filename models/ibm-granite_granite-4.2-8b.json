@@ -69,14 +69,14 @@
   "benchmarks": {
     "design_arena": [],
     "artificial_analysis": {
-      "intelligence_index": 5.1,
+      "intelligence_index": null,
       "coding_index": null,
       "agentic_index": null,
       "finance_and_accounting_index": 14.8,
       "strategy_and_ops_index": 6.9,
       "legal_index": 14.6,
       "healthcare_and_medical_index": null,
-      "engineering_index": 14.6,
+      "engineering_index": null,
       "economics_index": 14.6,
       "cyber_index": null,
       "openness_index": 72.2,

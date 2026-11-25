@@ -40,7 +40,7 @@
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": null,
+  "expiration_date": "2026-11-25",
   "links": {
     "details": "/api/v1/models/unbiased/pareto-26.9-20260917/endpoints"
   },

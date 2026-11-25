@@ -85,9 +85,9 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1091,
-        "win_rate": 40.6,
-        "rank": 25
+        "elo": 1082,
+        "win_rate": 39.5,
+        "rank": 26
       },
       {
         "arena": "agents",
@@ -113,43 +113,43 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1136,
-        "win_rate": 42.3,
-        "rank": 41
+        "elo": 1131,
+        "win_rate": 41.7,
+        "rank": 40
       },
       {
         "arena": "agents",
         "category": "python-pptxslides",
-        "elo": 1156,
-        "win_rate": 48.2,
+        "elo": 1157,
+        "win_rate": 48.3,
         "rank": 19
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1030,
-        "win_rate": 44.8,
-        "rank": 23
+        "elo": 1026,
+        "win_rate": 44.3,
+        "rank": 25
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1189,
-        "win_rate": 49.9,
+        "elo": 1190,
+        "win_rate": 49.8,
         "rank": 21
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1268,
+        "elo": 1269,
         "win_rate": 51.7,
         "rank": 25
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1272,
-        "win_rate": 54.8,
+        "elo": 1274,
+        "win_rate": 55,
         "rank": 10
       },
       {
@@ -176,14 +176,14 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1320,
-        "win_rate": 54,
+        "elo": 1319,
+        "win_rate": 53.9,
         "rank": 18
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1290,
+        "elo": 1291,
         "win_rate": 52,
         "rank": 22
       },

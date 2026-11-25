@@ -2008,6 +2008,10 @@
     "file": "models/xiaomi_mimo-v2.6-flash.json"
   },
   {
+    "name": "mimo-v2.6-flash-mopd",
+    "file": "models/xiaomi_mimo-v2.6-flash-mopd.json"
+  },
+  {
     "name": "mimo-v2.6-pro",
     "file": "models/xiaomi_mimo-v2.6-pro.json"
   },
@@ -2952,12 +2956,20 @@
     "file": "models/thedrummer_skyfall-36b-v2.json"
   },
   {
+    "name": "solar-mini-4-5",
+    "file": "models/upstage_solar-mini-4-5.json"
+  },
+  {
     "name": "solar-mini4",
     "file": "models/upstage_solar-mini4.json"
   },
   {
     "name": "solar-pro-3",
     "file": "models/upstage_solar-pro-3.json"
+  },
+  {
+    "name": "solar-pro-4-contributor",
+    "file": "models/upstage_solar-pro-4-contributor.json"
   },
   {
     "name": "solar-pro4",
