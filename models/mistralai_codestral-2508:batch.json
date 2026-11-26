@@ -52,49 +52,52 @@
   "links": {
     "details": "/api/v1/models/mistralai/codestral-2508/endpoints"
   },
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1007,
+        "elo": 1049,
         "win_rate": 38.5,
-        "rank": 127
+        "rank": 132
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1017,
+        "elo": 1011,
         "win_rate": 41.1,
-        "rank": 115
+        "rank": 124
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 968,
+        "elo": 940,
         "win_rate": 36.3,
-        "rank": 129
+        "rank": 137
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1012,
+        "elo": 1001,
         "win_rate": 46.7,
-        "rank": 115
+        "rank": 125
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1011,
+        "elo": 1053,
         "win_rate": 37.8,
-        "rank": 131
+        "rank": 136
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1017,
+        "elo": 985,
         "win_rate": 45.4,
-        "rank": 110
+        "rank": 122
       }
     ]
   }

@@ -9,7 +9,7 @@
   "name": "Pareto Latest",
   "created": 1791933050,
   "description": "This model always redirects to the latest model in the Pareto family.",
-  "context_length": 1048576,
+  "context_length": 262144,
   "architecture": {
     "modality": "text+image->text",
     "input_modalities": [
@@ -23,27 +23,20 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000008",
-    "completion": "0.0000032",
-    "input_cache_read": "0.00000003"
+    "prompt": "-1",
+    "completion": "-1"
   },
   "top_provider": {
-    "context_length": 1048576,
-    "max_completion_tokens": 131072,
+    "context_length": null,
+    "max_completion_tokens": null,
     "is_moderated": false
   },
   "per_request_limits": null,
-  "supported_parameters": [
-    "max_tokens",
-    "temperature",
-    "tool_choice",
-    "tools",
-    "top_p"
-  ],
+  "supported_parameters": [],
   "default_parameters": {},
   "supported_voices": null,
   "knowledge_cutoff": null,
-  "expiration_date": "2026-11-25",
+  "expiration_date": null,
   "links": {
     "details": "/api/v1/models/~unbiased/pareto-latest/endpoints"
   },

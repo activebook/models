@@ -1,7 +1,7 @@
 {
   "id": "mistralai/mistral-large-2512:batch",
   "canonical_slug": "mistralai/mistral-large-2512",
-  "hugging_face_id": "",
+  "hugging_face_id": "mistralai/Mistral-Large-3-675B-Instruct-2512",
   "name": "Mistral: Mistral Large 3 2512 (batch)",
   "created": 1764624472,
   "description": "Mistral Large 3 2512 is Mistral\u2019s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license.",
@@ -54,69 +54,82 @@
   "links": {
     "details": "/api/v1/models/mistralai/mistral-large-2512/endpoints"
   },
+  "endpoints": [
+    "/api/v1/batches"
+  ],
   "benchmarks": {
     "design_arena": [
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1096,
+        "elo": 1064,
         "win_rate": 46.9,
-        "rank": 89
+        "rank": 101
       },
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1066,
-        "win_rate": 40.3,
-        "rank": 66
+        "elo": 1053,
+        "win_rate": 40.1,
+        "rank": 73
       },
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1140,
+        "elo": 1183,
         "win_rate": 47.6,
-        "rank": 94
+        "rank": 99
       },
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1136,
+        "elo": 1130,
         "win_rate": 45.7,
-        "rank": 88
+        "rank": 94
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1080,
+        "elo": 1052,
         "win_rate": 41.5,
-        "rank": 106
+        "rank": 114
       },
       {
         "arena": "models",
         "category": "svg",
-        "elo": 991,
+        "elo": 1033,
         "win_rate": 38,
-        "rank": 87
-      },
-      {
-        "arena": "models",
-        "category": "uicomponent",
-        "elo": 1097,
-        "win_rate": 43,
         "rank": 95
       },
       {
         "arena": "models",
+        "category": "uicomponent",
+        "elo": 1085,
+        "win_rate": 42.9,
+        "rank": 106
+      },
+      {
+        "arena": "models",
         "category": "website",
-        "elo": 1162,
+        "elo": 1202,
         "win_rate": 49.5,
-        "rank": 86
+        "rank": 96
       }
     ],
     "artificial_analysis": {
-      "intelligence_index": 9.3,
-      "coding_index": 20.1,
-      "agentic_index": 1
+      "intelligence_index": null,
+      "coding_index": null,
+      "agentic_index": null,
+      "finance_and_accounting_index": null,
+      "strategy_and_ops_index": null,
+      "legal_index": null,
+      "healthcare_and_medical_index": null,
+      "engineering_index": null,
+      "economics_index": null,
+      "cyber_index": null,
+      "openness_index": 38.9,
+      "multilingual_index": 0.803,
+      "decision_index": null
     }
   }
 }
