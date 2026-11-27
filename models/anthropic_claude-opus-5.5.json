@@ -65,28 +65,28 @@
         "arena": "agents",
         "category": "androidnative",
         "elo": 1401,
-        "win_rate": 75.6,
+        "win_rate": 75.7,
         "rank": 1
       },
       {
         "arena": "agents",
         "category": "blender3d",
-        "elo": 1220,
+        "elo": 1219,
         "win_rate": 57.3,
         "rank": 4
       },
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1331,
-        "win_rate": 73.5,
+        "elo": 1332,
+        "win_rate": 73.3,
         "rank": 2
       },
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1453,
-        "win_rate": 70.2,
+        "elo": 1454,
+        "win_rate": 70,
         "rank": 2
       },
       {
@@ -99,22 +99,22 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1303,
+        "elo": 1304,
         "win_rate": 66.8,
         "rank": 3
       },
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1289,
+        "elo": 1293,
         "win_rate": 53.1,
         "rank": 6
       },
       {
         "arena": "agents",
         "category": "webapps",
-        "elo": 1306,
-        "win_rate": 62.3,
+        "elo": 1308,
+        "win_rate": 62.4,
         "rank": 3
       },
       {
@@ -149,7 +149,7 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1438,
-        "win_rate": 66.7,
+        "win_rate": 66.8,
         "rank": 2
       },
       {
@@ -157,20 +157,20 @@
         "category": "svg",
         "elo": 1370,
         "win_rate": 54.3,
-        "rank": 5
+        "rank": 4
       },
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1366,
-        "win_rate": 62.4,
-        "rank": 5
+        "elo": 1367,
+        "win_rate": 62.6,
+        "rank": 3
       },
       {
         "arena": "models",
         "category": "website",
-        "elo": 1375,
-        "win_rate": 55.7,
+        "elo": 1376,
+        "win_rate": 55.8,
         "rank": 8
       }
     ],

@@ -56,6 +56,17 @@
     "/api/v1/messages",
     "/api/v1/responses"
   ],
+  "benchmarks": {
+    "design_arena": [
+      {
+        "arena": "models",
+        "category": "gamedev",
+        "elo": 1116,
+        "win_rate": 31.7,
+        "rank": 87
+      }
+    ]
+  },
   "reasoning": {
     "mandatory": false,
     "default_enabled": false,

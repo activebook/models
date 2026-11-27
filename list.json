@@ -1848,6 +1848,10 @@
     "file": "models/inclusionai_ling-3.2-flash:free.json"
   },
   {
+    "name": "lingsante-3.1-air-vl",
+    "file": "models/inclusionai_lingsante-3.1-air-vl.json"
+  },
+  {
     "name": "llama-3-70b-instruct",
     "file": "models/meta-llama_llama-3-70b-instruct.json"
   },

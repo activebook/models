@@ -19,14 +19,13 @@
     "instruct_type": null
   },
   "pricing": {
-    "prompt": "0.0000005",
-    "completion": "0.0000025",
-    "input_cache_read": "0.00000015"
+    "prompt": "0.0000006",
+    "completion": "0.000003"
   },
   "top_provider": {
     "context_length": 262144,
-    "max_completion_tokens": 235929,
-    "is_moderated": false
+    "max_completion_tokens": 131072,
+    "is_moderated": true
   },
   "per_request_limits": null,
   "supported_parameters": [
@@ -76,7 +75,7 @@
       {
         "arena": "agents",
         "category": "fullstack",
-        "elo": 1159,
+        "elo": 1160,
         "win_rate": 54.4,
         "rank": 33
       },
@@ -111,7 +110,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1152,
+        "elo": 1153,
         "win_rate": 46.5,
         "rank": 40
       },
@@ -139,9 +138,9 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1190,
+        "elo": 1189,
         "win_rate": 48.4,
-        "rank": 55
+        "rank": 57
       },
       {
         "arena": "models",
@@ -153,7 +152,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1289,
+        "elo": 1290,
         "win_rate": 55.3,
         "rank": 51
       }

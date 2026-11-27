@@ -5,7 +5,7 @@
   "name": "Z.ai: GLM 4.6",
   "created": 1759235576,
   "description": "Compared with GLM-4.5, this generation brings several key improvements: Longer context window: The context window has been expanded from 128K to 200K tokens, enabling the model to handle more complex...",
-  "context_length": 204800,
+  "context_length": 202752,
   "architecture": {
     "modality": "text->text",
     "input_modalities": [
@@ -72,7 +72,7 @@
       {
         "arena": "agents",
         "category": "androidnative",
-        "elo": 1071,
+        "elo": 1072,
         "win_rate": 52.8,
         "rank": 37
       },
@@ -102,14 +102,14 @@
         "category": "3d",
         "elo": 1093,
         "win_rate": 54.2,
-        "rank": 90
+        "rank": 92
       },
       {
         "arena": "models",
         "category": "codecategories",
         "elo": 1207,
         "win_rate": 54.3,
-        "rank": 87
+        "rank": 86
       },
       {
         "arena": "models",
@@ -128,7 +128,7 @@
       {
         "arena": "models",
         "category": "svg",
-        "elo": 1149,
+        "elo": 1148,
         "win_rate": 52.1,
         "rank": 68
       },
@@ -142,7 +142,7 @@
       {
         "arena": "models",
         "category": "website",
-        "elo": 1214,
+        "elo": 1215,
         "win_rate": 54.3,
         "rank": 87
       }

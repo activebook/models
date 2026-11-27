@@ -1,0 +1,68 @@
+{
+  "id": "inclusionai/lingsante-3.1-air-vl",
+  "canonical_slug": "inclusionai/lingsante-3.1-air-vl-20261126",
+  "hugging_face_id": "inclusionAI/LingSante-3.1-air-VL",
+  "name": "inclusionAI: LingSante 3.1 Air VL",
+  "created": 1795705284,
+  "description": "LingSante 3.1 Air VL is inclusionAI's medical vision-language model, a 124B total / 5.5B active MoE. It takes text and up to 16 images (scans, skin and meal photos, lab...",
+  "context_length": 131072,
+  "architecture": {
+    "modality": "text+image->text",
+    "input_modalities": [
+      "text",
+      "image"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "tokenizer": "Other",
+    "instruct_type": null
+  },
+  "pricing": {
+    "prompt": "0.00000006",
+    "completion": "0.00000018",
+    "input_cache_read": "0.000000012"
+  },
+  "top_provider": {
+    "context_length": 131072,
+    "max_completion_tokens": 32768,
+    "is_moderated": false
+  },
+  "per_request_limits": null,
+  "supported_parameters": [
+    "frequency_penalty",
+    "include_reasoning",
+    "logit_bias",
+    "max_tokens",
+    "min_p",
+    "presence_penalty",
+    "reasoning",
+    "repetition_penalty",
+    "response_format",
+    "seed",
+    "stop",
+    "structured_outputs",
+    "temperature",
+    "tool_choice",
+    "tools",
+    "top_k",
+    "top_p"
+  ],
+  "default_parameters": {},
+  "supported_voices": null,
+  "knowledge_cutoff": null,
+  "expiration_date": null,
+  "links": {
+    "details": "/api/v1/models/inclusionai/lingsante-3.1-air-vl-20261126/endpoints"
+  },
+  "endpoints": [
+    "/api/v1/chat/completions",
+    "/api/v1/completions",
+    "/api/v1/messages",
+    "/api/v1/responses"
+  ],
+  "reasoning": {
+    "mandatory": false,
+    "default_enabled": true
+  }
+}

@@ -64,9 +64,9 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1129,
-        "win_rate": 43.1,
-        "rank": 39
+        "elo": 1117,
+        "win_rate": 41.5,
+        "rank": 42
       },
       {
         "arena": "models",
@@ -85,9 +85,9 @@
       {
         "arena": "models",
         "category": "codecategories",
-        "elo": 1304,
+        "elo": 1303,
         "win_rate": 53.2,
-        "rank": 44
+        "rank": 45
       },
       {
         "arena": "models",
@@ -99,7 +99,7 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1221,
+        "elo": 1220,
         "win_rate": 52.1,
         "rank": 46
       },
@@ -122,7 +122,7 @@
         "category": "website",
         "elo": 1302,
         "win_rate": 52.7,
-        "rank": 44
+        "rank": 45
       }
     ]
   },
