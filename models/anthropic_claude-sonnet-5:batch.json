@@ -81,7 +81,7 @@
       {
         "arena": "agents",
         "category": "codetovideo",
-        "elo": 1093,
+        "elo": 1094,
         "win_rate": 42,
         "rank": 25
       },
@@ -95,7 +95,7 @@
       {
         "arena": "agents",
         "category": "godotgamedev",
-        "elo": 1189,
+        "elo": 1190,
         "win_rate": 53.5,
         "rank": 14
       },
@@ -116,8 +116,8 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1217,
-        "win_rate": 54.3,
+        "elo": 1216,
+        "win_rate": 54,
         "rank": 17
       },
       {
@@ -130,8 +130,8 @@
       {
         "arena": "agents",
         "category": "spreadsheet",
-        "elo": 1039,
-        "win_rate": 26.2,
+        "elo": 1038,
+        "win_rate": 26.1,
         "rank": 22
       },
       {
@@ -151,7 +151,7 @@
       {
         "arena": "models",
         "category": "asciiart",
-        "elo": 1192,
+        "elo": 1193,
         "win_rate": 50.6,
         "rank": 28
       },
@@ -172,9 +172,9 @@
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1257,
-        "win_rate": 51.6,
-        "rank": 27
+        "elo": 1256,
+        "win_rate": 51.5,
+        "rank": 28
       },
       {
         "arena": "models",
@@ -186,7 +186,7 @@
       {
         "arena": "models",
         "category": "uicomponent",
-        "elo": 1260,
+        "elo": 1261,
         "win_rate": 53.4,
         "rank": 37
       },

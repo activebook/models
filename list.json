@@ -1844,6 +1844,10 @@
     "file": "models/inclusionai_ling-3.1-flash.json"
   },
   {
+    "name": "ling-3.2-flash",
+    "file": "models/inclusionai_ling-3.2-flash.json"
+  },
+  {
     "name": "ling-3.2-flash:free",
     "file": "models/inclusionai_ling-3.2-flash:free.json"
   },

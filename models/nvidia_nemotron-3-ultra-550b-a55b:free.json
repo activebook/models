@@ -63,16 +63,16 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1105,
-        "win_rate": 35.5,
-        "rank": 44
+        "elo": 1114,
+        "win_rate": 36.5,
+        "rank": 43
       },
       {
         "arena": "models",
         "category": "3d",
         "elo": 1094,
         "win_rate": 37.8,
-        "rank": 91
+        "rank": 90
       },
       {
         "arena": "models",
@@ -99,7 +99,7 @@
         "arena": "models",
         "category": "gamedev",
         "elo": 1108,
-        "win_rate": 35.3,
+        "win_rate": 35.2,
         "rank": 92
       },
       {

@@ -70,15 +70,15 @@
       {
         "arena": "agents",
         "category": "pdf",
-        "elo": 1174,
+        "elo": 1175,
         "win_rate": 47.7,
         "rank": 28
       },
       {
         "arena": "models",
         "category": "3d",
-        "elo": 1243,
-        "win_rate": 46.5,
+        "elo": 1244,
+        "win_rate": 46.7,
         "rank": 28
       },
       {
@@ -91,14 +91,14 @@
       {
         "arena": "models",
         "category": "dataviz",
-        "elo": 1223,
-        "win_rate": 44.5,
-        "rank": 51
+        "elo": 1226,
+        "win_rate": 44.7,
+        "rank": 49
       },
       {
         "arena": "models",
         "category": "gamedev",
-        "elo": 1244,
+        "elo": 1245,
         "win_rate": 47.2,
         "rank": 32
       },
@@ -107,7 +107,7 @@
         "category": "uicomponent",
         "elo": 1192,
         "win_rate": 39,
-        "rank": 68
+        "rank": 67
       },
       {
         "arena": "models",

@@ -53,10 +53,13 @@
     "/api/v1/responses"
   ],
   "reasoning": {
-    "mandatory": true,
+    "mandatory": false,
     "default_enabled": true,
     "supported_efforts": [
-      "high"
+      "high",
+      "medium",
+      "low",
+      "none"
     ],
     "default_effort": "high"
   }
